@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202254",
+    "title": "Letter 254",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 254",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 254",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Pelagius</em>, <em>bishop of the Syrian Laodicea.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "May the Lord grant me once again in person to behold your true piety and to supply in actual intercourse all that is wanting in my letter. I am behindhand in beginning to write and must needs make many excuses. But we have with us the well beloved and reverend brother Sanctissimus, the presbyter. He will tell you everything, both our news and the news of the West. You will be cheered by what you hear; but when he tells you of the troubles in which we are involved he will perhaps add some distress and anxiety to that which already besets your kindly soul. Yet it is not to no purpose that affliction should be felt by you, able as you are to move the Lord. Your anxiety will turn to our gain, and I know that we shall receive succour from God as long as we have the aid of your prayers. Pray, too, with me for release from my anxieties, and ask for some increase in my bodily strength; then the Lord will prosper me on my way to the fulfilment of my desires and to a sight of your excellency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202254.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202254.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信254",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致\\Person{佩拉纠}}，\\Emph{叙利亚\\Place{劳狄刻雅}的主教。}",
+    "p0004": "愿主再赏我亲自得见你的真正虔诚，并在实际交往中补充我信中所欠缺的一切。我迟迟动笔，必须诸多推诿。但我们有亲爱的可敬的弟兄\\Person{桑克提西默斯}司铎在。他将告诉你一切，包括我们的消息和西方的消息。你听到后会感到振奋；但当他告诉你我们所陷入的困境时，或许会增添一些痛苦和忧虑，困扰你仁慈的灵魂。然而，你受此考验并非没有意义，因为你能感动主。你的忧虑将转化为我们的益处，我知道，只要有你祈祷的援助，我们必从天主获得扶助。也请与我一同祈祷，使我摆脱焦虑，并增加我体力的些许力量；然后主必使我旅途顺利，实现愿望，并见到阁下。"
+  }
+}

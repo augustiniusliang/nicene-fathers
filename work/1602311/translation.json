@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602311",
+    "title": "The Harmony of the Gospels, Book III",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book III, Chapter 11",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book III",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 11. Of the Consistency of Matthew's Version with that of Mark in the Account of the Potion Offered Him to Drink, Which is Introduced Before the Narrative of His Crucifixion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "38. Matthew then proceeds in these terms: <quote>And they came unto a place called Golgotha; that is to say, a place of a skull.</quote> So far as the place is concerned, they are most unmistakeably at one. The same Matthew next adds, <quote>and they gave Him wine to drink, mingled with gall; and when He had tasted thereof, He would not drink.</quote> This is given by Mark as follows: <quote>And they gave Him to drink wine mingled with myrrh; and He received it not.</quote> Here we may understand Matthew to have conveyed the same sense as Mark, when he speaks of the wine being <quote>mingled with gall.</quote> For the gall is mentioned with a view to express the bitterness of the potion. And wine mingled with myrrh is remarkable for its bitterness. The fact may also be that gall and myrrh together made the wine exceedingly bitter. Again, when Mark says that <quote>He received it not,</quote> we understand the phrase to denote that He did not receive it so as actually to drink it. He did taste it, however, as Matthew certifies. Thus Mark's words, <quote>He received it not,</quote> convey the same meaning as Matthew's version, <quote>He would not drink.</quote> The former, however, has said nothing about His tasting the potion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602311.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602311.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐，第三卷}",
+    "p0002": "第十一章 关于\\Person{玛窦}的记载与\\Person{马尔谷}的记载在给祂饮用的饮料一事上的一致性——该叙述是在祂被钉十字架的叙事之前引入的",
+    "p0003": "38. \\Person{玛窦}接着这样说：\\BibleQuote{他们来到了一个名叫\\Place{哥耳哥达}的地方，即\\InnerQuote{髑髅}的地方。} 就地点而言，他们显然是一致的。同一\\Person{玛窦}接着又说：\\BibleQuote{他们拿苦胆调和的酒给祂喝；祂只尝了尝，便不愿意喝。} \\Person{马尔谷}的记载如下：\\BibleQuote{他们将没药调和的酒给祂喝，祂却没有接受。} 在此，我们可以理解，当\\Person{玛窦}说酒是\\Quote{苦胆调和}时，他表达了与\\Person{马尔谷}相同的含义。因为提到苦胆是为了强调饮料的苦味。而没药调和的酒以其苦味著称。事实上，也可能是苦胆和没药一起使酒变得极其苦涩。此外，当\\Person{马尔谷}说\\Quote{祂没有接受}时，我们理解这句话的意思是祂没有接受以致实际喝下。然而，祂确实尝了，正如\\Person{玛窦}所证实的。因此，\\Person{马尔谷}的话\\Quote{祂没有接受}表达了与\\Person{玛窦}的版本\\Quote{祂不愿意喝}相同的含义。但前者（\\Person{马尔谷}）却没有提及祂尝了这饮料。"
+  }
+}

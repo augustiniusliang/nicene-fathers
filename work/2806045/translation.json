@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2806045",
+    "title": "From Letter 45",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 45",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Letter 45",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>(For 373.)</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Let us all take up our sacrifices, observing distribution to the poor, and enter into the holy place, as it is written; 'whither also our forerunner Jesus is entered for us, having obtained eternal redemption. '...(<em>From the same:</em>)...And this is a great proof that, whereas we were strangers, we are called friends; from being formerly aliens, we have become fellow citizens with the saints, and are called children of the Jerusalem which is above, whereof that which Solomon built was a type. For if Moses made all things according to the pattern showed him in the mount, it is clear that the service performed in the tabernacle was a type of the heavenly mysteries, whereto the Lord, desirous that we should enter, prepared for us the new and abiding way. And as all the old things were a type of the new, so the festival that now is, is a type of the joy which is above, to which coming with psalms and spiritual songs, let us begin the fasts.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by R. Payne-Smith. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806045.htm>.",
+    "metadata": {
+      "srctrans": "Translated by R. Payne-Smith.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806045.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信四十五",
+    "p0002": "\\Emph{（公元373年）}",
+    "p0003": "让我们都拿起我们的祭献，留意分施给穷人，并进入圣所，如经上所载：\\BibleQuote{为了我们作前驱的耶稣已为我们进入了，获得了永远的救赎。} ...（\\Emph{同上：}）...并且这是一个伟大的证据，我们本来是外人，如今却被称为朋友；从前是外方人，如今却成了与圣人们同国的公民，并被称为那在上的\\Place{耶路撒冷}的儿女，这耶路撒冷，正是\\Person{撒罗满}所建的\\OriginalTerm{预像}{type}。因为如果\\Person{梅瑟}是按照在山上所指示的样式制造一切，那么，在帐幕内所行的敬礼显然就是天上\\OriginalTerm{奥秘}{mysteries}的预像，主愿意我们进入那里，就为我们预备了一条新的、永存的道路。并且正如一切旧的事物都是新事物的预像，现今的庆节也是天上喜乐的预像，我们应以圣咏和灵歌，进入这喜乐，让我们开始斋戒吧。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "291104",
+    "title": "Letter 4",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Gregory of Nyssa) > Letter 4",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 4",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>BY ST. GREGORY OF NYSSA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Cynegius</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have a law that bids us <quote>rejoice with them that rejoice, and weep with them that weep</quote>: but of these commandments it often seems that it is in our power to put only one into practice. For there is a great scarcity in the world of <quote>them that rejoice,</quote> so that it is not easy to find with whom we may share our blessings, but there are plenty who are in the opposite case. I write thus much by way of preface, because of the sad tragedy which some spiteful power has been playing among people of long-standing nobility. A young man of good family, Synesius by name, not unconnected with myself, in the full flush of youth, who has scarcely begun to live yet, is in great dangers, from which God alone has power to rescue him, and next to God, you, who are entrusted with the decisions of all questions of life and death. An involuntary mishap has taken place. Indeed, what mishap is voluntary? And now those who have made up this suit against him, carrying with it the penalty of death, have turned his mishap into matter of accusation. However, I will try by private letters to soften their resentment and incline them to pity; but I beseech your kindliness to side with justice and with us, that your benevolence may prevail over the wretched plight of the youth, hunting up any and every device by which the young man may be placed out of the reach of danger, having conquered the spiteful power which assails him by the help of your alliance. I have said all that I want in brief; but to go into details, in order that my endeavour may be successful, would be to say what I have no business to say, nor you to hear from me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by H.C. Ogle. From Nicene and Post-Nicene Fathers, Second Series, Vol. 5. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/291104.htm>.",
+    "metadata": {
+      "srctrans": "Translated by H.C. Ogle.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/291104.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四封信",
+    "p0002": "\\Signature{圣额我略·尼撒}",
+    "p0003": "\\Emph{致齐尼吉乌斯}",
+    "p0004": "我们有一条诫命，要我们\\Quote{与喜乐的人同乐，与哀哭的人同哭}；但这两条诫命中，往往似乎只能实践一条。因为世上\\Quote{喜乐的人}极为稀少，不易找到我们能与之分享福乐的人；而处境相反的人却很多。我写这些话作为前言，是因为某种恶毒的力量在长久以来的贵族家庭中上演了一幕悲惨的悲剧。一位名叫西内西乌斯的青年，出身良家，与我自己也有关系，正值青春年华，几乎尚未开始生活，却身陷巨大的危险之中，只有天主有能力拯救他，其次便是您，您掌管着一切生死问题的判决。发生了一件非自愿的不幸——确实，有什么不幸是自愿的呢？而那些对他提出诉讼、要求处以死刑的人，现在已将他的不幸变成了指控的材料。然而，我将尝试通过私人信件来缓和他们的愤怒，使他们倾向怜悯；但我恳求您的仁慈与正义和我们站在一起，使您的善心能胜过那青年的悲惨处境，想尽一切办法，使这年轻人借着您的帮助，战胜攻击他的恶毒力量，脱离危险。我已简要地说了我所要说的；但若详细陈述——为了使我的努力得以成功——那将是我所不该说、也不该由您听我说的话。"
+  }
+}

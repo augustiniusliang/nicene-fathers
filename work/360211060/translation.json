@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360211060",
+    "title": "Book XI, Letter 60",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 60",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 60",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Theodebert, King of the Franks</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Theodebert, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "One who receives with willing mind and embraces in the bosom of his heart words of fatherly admonition declares himself without doubt to be one who would be an amender of faults. On which account the absolute promise of your Excellence assures us sufficiently. For we hold in place of a pledge the words of one who is good for payment. Therefore let your Excellency vouchsafe, adhering to the commands of our God, to give zealous attention to the assembling of a synod, that every corporal vice in priests, and simoniacal heresy, which was the first to arise in Churches from iniquitous ambition, may under threat of the censure of your power be removed by the definition of a council, and be cut off by the roots; lest, if gold is loved in your parts more than God, He who now remains tranquil while His precepts are despised be felt hereafter to be wrathful in vengeance. And indeed, because we say all this for your own behoof, we therefore cease not to press you again and again, that we may be able, even by importunity, to do good to our most excellent and most sweet sons. For it will be in all respects of advantage to your kingdom, if what is done in those parts against God be corrected by the emendation of your Excellency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, what good service your Excellency did to our most reverend brother and fellow bishop Augustine on his progress to the nation of the Angli we have learned from the report of certain monks who returned to us from him. Rendering you the greatest thanks for this, we beg you to bestow your benefits abundantly on the monks, the bearers of these presents, whom we have sent to our said brother, to the end that, while under your patronage, they find no difficulties in your parts, but accomplish easily with the help of Christ the journey they have undertaken, you may reap your richer fruit of reward before the eyes of our God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211060.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211060.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷十一，书函六十",
+    "p0002": "\\Emph{致法兰克王泰奥德贝尔特}。",
+    "p0003": "格列高利致泰奥德贝尔特等。",
+    "p0004": "凡以乐意之心接受父爱的劝言，并将其拥抱在心怀中的，无疑表明自己是愿意改正过错的人。正因如此，陛下绝对的许诺已足以使我们安心。因为我们视一个能守信之人的言语为担保。所以，请陛下惠赐，坚守我们天主的诫命，殷勤关注召集一次主教会议，以使司铎中所有形体的恶习及买卖圣职异端——这异端最早是因邪恶的野心而在教会中兴起的——能因陛下权力的谴责之威胁，通过会议的决议而被铲除，并被连根拔起；否则，若在你们的地区，金子比天主更受爱戴，那么那位现在因祂的戒律被藐视而保持安静的天主，日后必会在复仇中被感受到愤怒。事实上，因为我们说这一切都是为了你们自身的利益，所以我们不断地再三敦促你们，以求能甚至通过恳切请求，为我们最卓越、最亲爱的儿子们谋福利。因为如果那些地区违反天主的事能因陛下的改正而得到纠正，这将完全有益于你们的王国。",
+    "p0005": "此外，关于陛下在我们最可敬的兄弟及同为主教的奥斯定往盎格鲁民族途中给予的善意服务，我们从某些从奥斯定那里返回我们这里的隐修士的报告中得知。为此我们向陛下致以最大的感谢，并请求您慷慨地将恩惠施予这些信件的携带者——隐修士们，我们已派遣他们前往我们的上述兄弟处，为的是在他们的旅程中，当他们在您庇护下，在你们的地区不遇困难，而是依靠基督的帮助轻易完成所负行程时，您可以在我们天主面前收获更丰厚的赏报果实。"
+  }
+}

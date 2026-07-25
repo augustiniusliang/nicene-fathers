@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201020",
+    "title": "Book I, Letter 20",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 20",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Honoratus, Deacon of Salona.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Honoratus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Having read the contradictory letters which you and your bishop have addressed to us against each other, we grieve that there is so little charity between you. Nevertheless we enjoin you to continue in the administration of your office, and, if the cause of offense between you can, under the power of grace, be settled on the spot, we believe it will be greatly to the advantage of your souls. But in case the discord between you has so set you in arms against each other that you have no will to allay the swelling of your offense, come without delay to be heard before us, and let your bishop send to us on his own behalf such person as he may choose, furnished with instructions; that, after minutely considering the whole case, we may settle what may appear fit between the parties. But we would have you know that we shall make strict enquiry of you on all points, as to whether the ornaments , either those of your own church, or such as have been collected from various churches, are being now kept with all care and fidelity. For, if any of them shall be found to have been lost through negligence or through any person's dishonesty, you will be involved in the guilt of this, being, in virtue of your office of Archdeacon, peculiarly responsible for the custody of the said church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201020.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201020.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第二十封信",
+    "p0002": "\\Emph{致\\Place{萨洛纳}的执事\\Person{奥诺拉图斯}}。",
+    "p0003": "\\Person{格里高利}致\\Person{奥诺拉图斯}等。",
+    "p0004": "我们读了您与您的主教彼此寄给我们的互相矛盾的信函，对你们之间如此缺乏爱德感到痛心。尽管如此，我们仍命令您继续履行您的职务；如果你们之间的纷争能在恩宠的能力下就地解决，我们相信这将对你们的灵魂大为有益。但若你们之间的不和已使您武装起来彼此对抗，以至您无意平息你们的不和之膨胀，那么就请毫不迟延地前来听取我们的裁决，并让您的主教为自己选派一位他中意的人，携带指示前来；这样，在仔细审查整个案件后，我们将裁定双方认为合适的事。但我们要让您知道，我们将就所有细节严格询问您，关于圣器——无论是您自己教堂的，还是从各教堂收集来的——是否正被以一切谨慎和忠诚保管。因为，若发现其中任何一件因疏忽或任何人的不诚实而丢失，您将因此罪责受牵连，因为您身为总执事，对该教堂的保管负有特别责任。"
+  }
+}

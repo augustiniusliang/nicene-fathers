@@ -1,0 +1,63 @@
+{
+  "source": {
+    "source_id": "360213034",
+    "title": "Book XIII, Letter 34",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 34",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 34",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Pantaleo, Notary.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Pantaleo, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Your Experience remembers what and what kind of oath you took over the most sacred body of the blessed apostle Peter. Whence also we committed to you without fear the charge of enquiry in the patrimony of the Syracusan district. It is, then, incumbent on you to have your own good faith and the fear of the same blessed apostle Peter ever before your eyes, and so to act that neither with men in this present life nor with Almighty God in the last judgment you may be open to blame. Now from the report of Salerius our <em>chartularius</em> we have learned that you have found the <em>modius</em> in which the husbandmen (<em>coloni</em>) of the Church have been compelled to give their grain to be one of twenty-five <em>sextarii</em> . This we altogether execrated, and were sorry you had been late in making it a subject of enquiry. We rejoice, therefore, at your telling us that you have broken the said <em>modius</em> and made a just one. But, inasmuch as the aforesaid <em>chartularius</em> has taken care to mention also what has already been collected under your Experience by the fraudulent dealings of the farmers (<em>conductores</em>) from two territories, therefore, even as with a view to the future, we rejoice that you have acted zealously in breaking the unjust <em>modius</em>, so also we think of sins in the past; lest, if what the farmers have fraudulently taken away from the peasants (<em>rusticis</em>) accrues to us, we should be implicated in their sins. And accordingly we desire your Experience, with all faithfulness, with all integrity— having regard to the fear of Almighty God, and recalling to mind the strictness of the blessed apostle Peter— to make a list throughout each several estate (<em>massam</em>) of poor and indigent husbandmen, and with the money found to have been got by fraud to procure cows, sheep, and swine, and distribute them among the several poor husbandmen. And this we desire you to do with the advice of the most reverend lord bishop John , and Adrian our <em>chartularius</em> and <em>rector</em> . If, moreover, it should be necessary for the sake of consultation, our son also the lord Julian should be called in, so that no one else may know, but all be kept quite secret. Do you therefore consult among yourselves whether this same assistance should be given to the said poor husbandmen in money or in kind. But, whatever be the common fund, first, as I have said, make a list, and afterwards take pains to distribute to each according to the degree of his poverty. For I, as the teacher of the Gentiles testifies, have all and abound; nor do I seek money, but reward {{NOTE:note1}} . So act therefore that in the day of judgment you may show me fruit of your labour from the service that has been committed to your Experience. If you do this purely, faithfully, and strenuously, you will both receive it back here in your children, and hereafter wilt have plenary retribution in the scrutiny of the Eternal Judge.",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Philippians 4"
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213034.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213034.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第三十四封信",
+    "p0002": "\\Emph{致书记官潘塔莱奥。}",
+    "p0003": "额我略致潘塔莱奥等。",
+    "p0004": "\\OriginalTerm{阁下}{Your Experience}还记得，您在真福宗徒伯多禄至圣遗体上发了什么样的誓愿。因此，我们也毫不犹豫地将叙拉古地区教产调查的重任托付给您。那么，您有责任常将您的忠信和对同一位真福宗徒伯多禄的敬畏摆在眼前，行事如此，既在今生在人前，又在最后审判时在天主全能者面前，都不致受责。现在，我们从我们的\\Emph{文书官}萨莱里乌斯的报告中得知，您发现迫使教会的佃农 (\\Emph{coloni}) 缴纳谷物的\\Emph{莫底乌斯}，竟有二十五\\Emph{塞克斯塔留斯}之巨。我们对此深恶痛绝，并遗憾您发现此事过迟。因此，我们欣喜地得知您已摧毁了那个不公的\\Emph{莫底乌斯}，并设立了公义的度量。然而，既然上述\\Emph{文书官}也提到了在您阁下任内，承包人 (\\Emph{conductores}) 已通过欺诈从两个地区收取了若干粮谷，因此，正如我们为未来而欣喜于您热心摧毁不义之\\Emph{莫底乌斯}，我们也思虑过去的罪愆，唯恐若承包人从农夫手中骗取之物归于我们，我们便牵连在他们的罪中。因此，我们希望您的阁下，以全然的忠诚，全然的正直——敬畏全能的天主，并牢记真福宗徒伯多禄的严格——在每一田庄 (\\Emph{massam}) 中列出贫苦困乏的佃农名单，并用查明确系诈骗所得的钱款购买牛羊猪只，分给各贫苦佃农。我们愿意您与最可敬的主教若望阁下、我们的\\Emph{文书官}兼\\Emph{主管}阿德里安商议此事。此外，若为商议起见，也应请我们的儿子尤利安阁下参加，以便不使他人知晓，一切严守秘密。因此，请你们商议，是应以金钱还是以实物救助这些贫苦佃农。但无论共同基金如何，首先，如我所说，列出名单，然后按各人贫困程度尽力分配。因为，如外邦人的导师所证，我样样都有，且富足有余；我并非求金钱，而是求赏报。\\EditorialNote{参阅斐理伯书 4。}所以，你们行事，以便在审判之日，能从我托付给您阁下职务的劳苦中，向我显示成果。若你们纯洁、忠实、奋力地做这事，你们不仅在现世从子女身上得回报，将来在永恒审判者的审查中，也将获得圆满的酬报。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206032",
+    "title": "Book VI, Letter 32",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Fortunatus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Fortunatus, Bishop of Neapolis (<em>Naples</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have written before now to your Fraternity that, if any [slaves] by the inspiration of God, desire to come from Jewish superstition to the Christian faith, their masters have no liberty to sell them, but that from the time of their declaring their wish they have a full claim to freedom. But since, so far as we have learned, they [i.e. Jewish masters], weighing with nice discrimination neither our wish nor the ordinances of the law, think that they are not bound by this condition in the case of pagan slaves, your Fraternity ought to attend to such cases, and, if any one of their slaves, whether he be a Jew or a pagan, should wish to become a Christian, after his wish has been openly declared, let not any one of the Jews, under cover of any device or argument whatever, have power to sell him; but let him who desires to be converted to the Christian faith be in all ways supported by you in his claim to freedom. Lest, however, those who have to lose slaves of this kind should consider that their interests are unreasonably prejudiced, it is fitting that with careful consideration you should observe this rule—that if pagans when they have been brought out of foreign parts for the sake of traffic should chance to flee to the Church, and say that they wish to become Christians, or even outside the Church should announce this wish, then, till the end of three months during which a buyer to sell them to may be sought for, they [the Jewish owners] may receive their price; that is to say, from a Christian buyer. But if after the aforesaid three months any one of such slaves should declare his wish and desire to become a Christian, let not either any one afterwards dare to buy him, or his master, under colour of any occasion whatever, dare to sell him; but let him unreservedly attain to the benefit of freedom; since he (i.e. the master) is in such case understood to have acquired him not for sale but for his own service. Let, then, your Fraternity so vigilantly observe all these things that neither the supplication of any nor respect of persons may avail to inveigle you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206032.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206032.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷·第三十二封信",
+    "p0002": "\\Emph{致\\Person{福图纳图斯}主教}",
+    "p0003": "\\Person{格列高利}致\\Place{拿坡里}主教\\Person{福图纳图斯}。",
+    "p0004": "我们此前已致信贤弟：倘若有奴隶因天主的感召，愿意从犹太迷信皈依基督信仰，其主人不得将其出售；自他们表明意愿之时起，他们便完全有权获得自由。然而，据我们所知，他们（即犹太主人）既不体贴我们的意愿，也不考虑法律的规定，认为在外教奴隶的情况下他们不受此条件约束。因此，贤弟应关注此类情况，若其奴隶中有人——无论是犹太人或外教人——愿意成为基督徒，在其意愿公开表明之后，任何犹太人不得以任何手段或理由为掩饰有权将其出售；凡愿皈依基督信仰者，你应全力支持其获得自由之权利。不过，唯恐那些因此失去奴隶的人认为其利益受到了不合理的损害，你应审慎留意遵守如下规则：倘若外教人因贸易之故从外邦带来，偶然逃至教会，声称愿意成为基督徒，甚或在教会外宣布此意愿，那么，在三个月期限内（在此期间可为他们寻找买主出售），他们（即犹太主人）可以收取其价格，亦即从基督徒买主处收取。但若在上述三个月之后，此类奴隶中有人宣布其意愿并渴望成为基督徒，则此后任何人不得再购买他，其主人也不得以任何借口出售他；应让他毫无保留地获得自由之益；因为在此情况下，他（即主人）被视为是为自己服役而获得他，并非为了出售。因此，务请贤弟如此警醒地遵守这一切，使任何人的恳求或情面都不能引诱你偏离。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707094",
+    "title": "Letter 94",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 94",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 94",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Protogenes</em> <em>The Præfect.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The loving-kindness of the Lord has already given you an opportunity of carrying out your good intentions. He has given you a greater opportunity now, that your excellency may the more easily champion the cause of the truth that is assailed, bring lies to nought, and give the churches the calm for which they so intensely long. Your excellency has already learned from many other sources how great is the surge by which the churches in the East are overwhelmed, but you will acquire more accurate information concerning it from the very religious bishops who, on account of it, have undertaken their long journey in the winter, relying, next after the Grace of God, on the providence of your authority. Disperse for us, then, O Christian man, the storm, change the moonless night into clear sunshine, and bridle the tongues set wagging against us. We by God's grace are ever fighting for the apostolic decrees, and we preserve undefiled the faith laid down at Nicæa, and style impious all who dare to violate its dogmas. In evidence of the truth of what I say may be cited my catechumens, those who are from time to time baptized by me, and the hearers of my discourses in the churches. If they mean to accuse me in accordance with the law, they must convict me in my presence, not slander me in my absence. In this manner your excellency, when giving judgment in other cases, is wont to deliver your sentences, perceiving on which side lies the right from the pleadings both of the prosecution and of the defence.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707094.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707094.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九十四封信",
+    "p0002": "\\Emph{致\\Person{普罗托革内斯}} \\Emph{\\OriginalTerm{总督}{Præfect}}",
+    "p0003": "主的慈爱已给你机会实现你的善愿。如今他给了你更大的机会，使你阁下能更容易地维护受攻击的真理，消灭谎言，并使教会获得它们所热切渴望的安宁。阁下已从许多其他来源得知东方教会遭受的巨浪有多么汹涌，但你将从那些非常虔诚的主教们那里获得更准确的消息——他们因此而在冬季长途跋涉，依靠天主的恩宠之后，也依赖你权威的眷顾。那么，基督徒啊，为我们驱散风暴，将无月之夜变为晴朗的阳光，并勒住那些妄加非议我们的舌头。我们靠天主的恩宠始终为宗徒的谕令而战，并保持\\Place{尼西亚}所确立的信德纯洁无损，称所有胆敢违反其教义的人为不敬虔者。作为我所说之话的真实性证据，可以引用我的慕道者、那些不时由我施洗的人，以及在教会中听我讲道的人。如果他们想依法控告我，就必须当面定我的罪，而不是在背后诽谤我。阁下在其他案件审判时正是如此，从控辩双方的陈述中判断哪一方有理，然后宣判。"
+  }
+}

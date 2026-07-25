@@ -1,0 +1,53 @@
+{
+  "source": {
+    "source_id": "0103424",
+    "title": "Against Heresies (Book IV, Chapter 24)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book IV, Chapter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book IV, Chapter 24)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Wherefore also Paul, since he was the apostle of the Gentiles, says, <quote>I laboured more than they all.</quote> {{BIBLE:1co 15:10}} For the instruction of the former, [viz., the Jews,] was an easy task, because they could allege proofs from the Scriptures, and because they, who were in the habit of hearing Moses and the prophets, did also readily receive the First-begotten of the dead, and the Prince of the life of God, — Him who, by the spreading forth of hands, did destroy Amalek, and vivify man from the wound of the serpent, by means of faith which was [exercised] towards Him. As I have pointed out in the preceding book, the apostle did, in the first place, instruct the Gentiles to depart from the superstition of idols, and to worship one God, the Creator of heaven and earth, and the Framer of the whole creation; and that His Son was His Word, by whom He founded all things; and that He, in the last times, was made a man among men; that He reformed the human race, but destroyed and conquered the enemy of man, and gave to His handiwork victory against the adversary. But although they who were of the circumcision still did not obey the words of God, for they were despisers, yet they were previously instructed not to commit adultery, nor fornication, nor theft, nor fraud; and that whatsoever things are done to our neighbours' prejudice, were evil, and detested by God. Wherefore also they did readily agree to abstain from these things, because they had been thus instructed.",
+        "scripture": [
+          "1co 15:10"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. But they were bound to teach the Gentiles also this very thing, that works of such a nature were wicked, prejudicial, and useless, and destructive to those who engaged in them. Wherefore he who had received the apostolate to the Gentiles, did labour more than those who preached the Son of God among them of the circumcision. For they were assisted by the Scriptures, which the Lord confirmed and fulfilled, in coming such as He had been announced; but here, [in the case of the Gentiles,] there was a certain foreign erudition, and a new doctrine [to be received, namely], that the gods of the nations not only were no gods at all, but even the idols of demons; and that there is one God, who is <quote>above all principality, and dominion, and power, and every name which is named;</quote> {{BIBLE:eph 1:21}} and that His Word, invisible by nature, was made palpable and visible among men, and did descend <quote>to death, even the death of the cross;</quote> {{BIBLE:phi 2:8}} also, that they who believe in Him shall be incorruptible and not subject to suffering, and shall receive the kingdom of heaven. These things, too, were preached to the Gentiles by word, without [the aid of] the Scriptures: wherefore, also, they who preached among the Gentiles underwent greater labour. But, on the other hand, the faith of the Gentiles is proved to be of a more noble description, since they followed the word of God without the instruction [derived] from the [sacred] writings (<em>sine instructione literarum</em>).",
+        "scripture": [
+          "eph 1:21",
+          "phi 2:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103424.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103424.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥异端}（第四卷，第24章）",
+    "p0002": "因此，\\Person{保禄}既是外邦人的宗徒，就说：\\Quote{我比他们众人更劳苦。} \\BibleRef{格前 15:10} 对前者的教导[即犹太人]是容易的，因为他们可以从圣经中引证，并且他们素常听\\Person{梅瑟}和先知，也很容易接受死者中的首生者和天主生命之元首——祂藉着伸开双手消灭了\\Place{阿玛肋克}，并藉着对祂的信德使被蛇咬伤的人活过来。正如我在前卷中所指出的，宗徒首先教导外邦人离开偶像的迷信，去崇拜唯一的天主，即天地万物的创造者、整个受造界的塑造者；并教导祂的圣子就是祂的圣言，藉祂创造了万有；祂在末世成为人中人，革新了人类，摧毁并征服了人类的仇敌，赐予祂手中的工程战胜敌对者的胜利。虽然受割损的人仍然不顺从天主的话，因为他们是藐视者，但他们先前受过教导：不可奸淫、不可行淫乱、不可偷窃、不可欺诈；凡损害邻人的事都是邪恶的，为天主所憎恶。因此他们也乐意戒除这些事，因为他们受过这样的教导。",
+    "p0003": "但他们也必须教导外邦人同样的事：即这类行为是邪恶的、有害的、无益的，并对行这些事的人具有破坏性。因此，那领受了向外邦人的宗徒职务的人，比那些在受割损的人中宣讲天主之子的人更为劳苦。因为前者有圣经的帮助，主来临时既应验又成全了圣经所预言的；但是在这里，[就外邦人而言]，却有某种陌生的学识和一种新的教义[要接受，即]：万民的神祇不仅根本不是神，甚至还是魔鬼的偶像；并且只有一位天主，祂是\\BibleQuote{超越一切率领者、掌权者、能力者、宰制者，以及一切可称呼的名号} \\BibleRef{弗 1:21}；祂的圣言，本性不可见，却在人中间成为可触摸、可见的，并且下降\\BibleQuote{致死，且死在十字架上} \\BibleRef{斐 2:8}；此外，凡信祂的人将是不朽的、不受苦难的，并将承受天国。这些事也是藉言语传给了外邦人，没有[圣经]的帮助；因此，在外邦人中宣讲的人经历了更重的劳苦。但另一方面，外邦人的信德被证明更为高贵，因为他们没有来自[圣经]的教导而遵循了天主的话\\OriginalTerm{没有文字的教导}{sine instructione literarum}。"
+  }
+}

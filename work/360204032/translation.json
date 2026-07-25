@@ -1,0 +1,79 @@
+{
+  "source": {
+    "source_id": "360204032",
+    "title": "Book IV, Letter 32",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Narses the Patrician.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Narses, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Your most sweet Charity has said much to me in your letters in praise of my good deeds, to all which I briefly reply, <em>Call me not Noemi, that is beautiful; but call me Mara, that is bitter; for I am full of bitterness</em> {{BIBLE:rut 1:20}} .",
+        "scripture": [
+          "rut 1:20"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But as to the cause of the presbyters , which is pending with my brother and fellow bishop, the most reverend Patriarch John, we have, as I think, for our adversary the very man whom you assert to be desirous of observing the canons. Further, I declare to your Charity that I am prepared, with the help of Almighty God, to prosecute this same cause with all my power and influence. And, should I see that in it the canons of the Apostolic See are not observed, Almighty God will give unto me what I may do against the contemners of the same.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "As to what your Charity has written to me, asking me to give thanks for you to my son the chief physician and ex-præfect Theodorus, I have done so, and have by no means ceased to commend you as much as I could. Further, I beg you to pardon me for replying to your letters with brevity; for I am pressed by such great tribulations that it is not allowed me either to read or to speak much by letter. This only I say to you, <em>For the voice of groaning I have forgotten to eat my bread</em> {{BIBLE:psa 101:5}} . All that are with you I beg you to salute in my name. Give my salutations to the lady Dominica, whose letter I have not answered, because, though she is Latin, she wrote to me in Greek.",
+        "scripture": [
+          "psa 101:5"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204032.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204032.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷，第三十二封信",
+    "p0002": "\\Emph{致贵族\\Person{纳尔塞斯}}",
+    "p0003": "\\Person{额我略}致\\Person{纳尔塞斯}等。",
+    "p0004": "您极甘甜的爱德在信中对我的善行说了许多赞美之词，对此我简答如下：\\Emph{\\BibleQuote{不要叫我\\Person{纳敖米}，即美丽的；要叫我\\Person{玛辣}，即苦涩的；因为我充满苦楚}}（\\BibleRef{卢 1:20}）。",
+    "p0005": "但是关于那些与我的兄弟和同为主教、最可敬的宗主教\\Person{若望}悬而未决的司铎的案件，我认为，我们所面对的敌人正是你所断言渴望遵守法典的那个人。此外，我向您的爱德声明，我准备在全能天主的助佑下，尽我一切能力和影响来推进同一案件。并且，如果我看到其中宗座的法典未得到遵守，全能的天主将赐予我所能做的以对抗那些藐视法典之人。",
+    "p0006": "至于您的爱德写信给我，要求我为您向我的儿子、首席医生兼前总督\\Person{德敖多禄}表示感谢，我已经这样做了，并且从未停止尽可能的称赞您。此外，我恳请您原谅我简短回信；因为我被如此巨大的困苦所压，以至于不允许我读很多或写很多信。我只对您说这些：\\Emph{\\BibleQuote{因叹息的声音，我忘记了吃我的面包}}（\\BibleRef{咏 101:5}）。所有与您在一起的人，我恳请您以我的名义问候。请代我问候\\Person{多米尼加}夫人，我没有回复她的信，因为她虽是拉丁人，却用希腊文写信给我。"
+  }
+}

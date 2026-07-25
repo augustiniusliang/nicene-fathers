@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360210024",
+    "title": "Book X, Letter 24",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 24",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Fortunatus, Bishop of Neapolis (Naples).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Fortunatus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "When your Fraternity pays too little attention to the monasteries that are under you, you both lay yourself open to reproof, and make us sorry for your laxity. Now it has come to our ears that one Mauricius, who lately became a monk in the monastery of Barbacianus, has fled from the same monastery, taking other monks with him. In this case the hastiness of the aforesaid Barbacianus inculpates him exceedingly in our sight, in that he rashly tonsured a secular person without even previous probation. Did we not write to you that you should prove him first, and then, if he were fit, should make him abbot? Even now, then, look well after him whom you chose. For you are delinquent in his delinquency, if he has begun so to demean himself as to show himself unfit to have the government of brethren.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Further, let your Fraternity more strictly interdict all monasteries from venturing by any means to tonsure those whom they may have received for monastic profession before they have completed two years in monastic life. But in this space of time let their life and manners be carefully proved, lest any one of them should either not be content with what he had desired or not keep firm to what he had chosen. For, it being a serious matter that untried men should be associated under obedience to any master, how much more serious is it that any who have not been proved should be attached to the service of God?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, if a soldier should wish to become a monk, let no one for any cause whatever presume to receive him without our consent, or before it has been reported to us. If this rule is not diligently observed, know that all the guilt of those that are under you redounds on yourself, seeing that you prove yourself by the very facts of the case to be too little anxious about them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210024.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210024.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十卷·第二十四书",
+    "p0002": "\\Emph{致\\Person{福尔图纳图斯}\\Place{尼阿波利斯}（那不勒斯）主教。}",
+    "p0003": "\\Person{格里高利}致\\Person{福尔图纳图斯}等。",
+    "p0004": "当您的弟兄团对您管辖下的隐修院关注不足时，您既使自己受责备，又让我们为您的松懈感到遗憾。如今我们听闻，一位名叫\\Person{毛里基乌斯}的人，近日在\\Place{巴尔巴奇亚努斯隐修院}成为隐修士，现已带领其他隐修士逃离该院。此事中，上述\\Person{巴尔巴奇亚努斯}的轻率在我们看来使他极其有罪，因为他竟未经事先考验就鲁莽地为一位世俗者剃发。我们不是曾写信给您，要您先考验他，若合适，再任命他为院长吗？即使现在，也要好好看管您所选的人。因为如果他已经开始如此行为，以至于显明自己不适合管理弟兄，那么您就因他的过失而有过失。",
+    "p0005": "此外，请您的弟兄团更严格地禁止所有隐修院，在领受者于隐修生活中完成两年之前，绝不可为那些可能为隐修誓愿而领受的人剃发。但在这段时间内，应仔细考验他们的生活和品行，以免其中任何人要么不满足于自己所渴望的，要么不坚守自己所选择的。因为未经考验的人服从任何长上已是严重之事，更何况未经考验者应被奉献于天主的服务，那又该何等严重呢？",
+    "p0006": "再者，若有士兵愿意成为隐修士，任何人在任何情况下都不得未经我们的同意或未向我们报告之前擅自接纳他。若不切实遵守此规，要知道所有属下的罪责都归于您自己，因为事实本身显明您对他们过于疏于关心。"
+  }
+}

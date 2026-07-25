@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360202022",
+    "title": "Book II, Letter 22",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 22",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 22",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To all the Bishops of Illyricum.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all the bishops, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It both affords us joy for your carefulness, and makes your Fraternity safe in your own ordination, if the order of ancient custom is maintained. Since, then, we have learned from the letters which you have sent to us through the presbyter Maximianus and the deacon Andreas that the consent of all of you and the will of the most serene Prince have concurred in the person of our brother and fellow bishop John, we feel great exultation that, under God's direction, such a one has been advanced to the office of priesthood as the judgment of all has approved as worthy. Wherefore, in accordance with your request, we confirm our aforesaid brother and fellow bishop by the authority of our assent in the order of priesthood wherein he has been constituted, and declare our ratification of his consecration by sending him the pallium. And since, according to custom, we have committed to him vicariate jurisdiction in our stead, we must of necessity take the precaution of exhorting your Fraternity that you in no wise hesitate to obey him in matters pertaining to ecclesiastical order and the right course of discipline, or in other things not precluded by canonical decrees; that the soundness of your judgment in electing him may be declared by the obedience which you show.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202022.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202022.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二卷，第二十二封信",
+    "p0002": "\\Emph{致伊利里库姆所有主教。}",
+    "p0003": "额我略致所有主教等。",
+    "p0004": "若维护古代惯例的秩序，便既为我们因你们的谨慎而喜乐，也使你们的兄弟情谊在自身的祝圣中稳妥。既然我们通过你们派遣的司铎\\Person{马克西米安}和执事\\Person{安德肋}所呈的信函得知，你们全体的一致同意和最宁静的君主的意愿，已集中于我们的兄弟和同为主教的\\Person{若望}身上，我们感到极大的欢欣，因为在天主的指引下，这样一个被众人判断为称职的人被晋升到了司祭的职位。因此，依照你们的请求，我们以我们同意之权威，确认我们上述的兄弟和同为主教的\\Person{若望}在他已被祝圣的司祭职中，并因授予他披肩而宣布我们认可他的祝圣。又因我们按惯例已将代牧职权交托给他，我们必须告诫你们的兄弟情谊，务须毫不迟疑地在属于教会秩序和正确纪律之事上，以及其它不被教规所禁止的事情上服从他；这样，你们选举他的正确判断便因你们所显示的服从而得以显明。"
+  }
+}

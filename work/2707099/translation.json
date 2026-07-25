@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707099",
+    "title": "Letter 99",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 99",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 99",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Claudianus the Antigrapharius.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Although you have not yet met me, I think that your excellency is aware of the open calumnies that have been published against me, for you have often heard me preaching in church, when I have proclaimed the Lord Jesus, and have pointed out the properties alike of the Godhead and of the manhood; for we do not divide one Son into two, but, worshipping the Only-begotten, point out the distinction between flesh and Godhead. This, indeed, is I think confessed even by the Arians, who do not call the flesh Godhead, nor address the Godhead as flesh. Holy Scripture clearly teaches us both natures. Nevertheless, though I have ever thus spoken, certain men are uttering lying words against me. But I rely on my conscience and have as witness to my teaching Him who looks into the hearts. So, as the prophet says, I regard the contrivances of calumny as <quote>a spider's web.</quote> I await the great judgment which needs no words, but makes manifest what in the meanwhile is unknown.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I send this by the very religious bishops, thinking it worth while to salute your excellency by them and to remind you of your promise. For attacked as I am I do not cease to go a-hunting, for I know that even the sacred apostles in the midst of the assaults made upon them did not cease to ply the net of the spirit.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707099.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707099.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九十九封信",
+    "p0002": "\\Emph{致\\Person{克劳迪亚努斯}\\OriginalTerm{书记员}{Antigrapharius}。}",
+    "p0003": "虽然你尚未见过我，但我认为阁下知道那些公开散布的诽谤，因为你常听到我在教会中讲道，那时我宣扬主耶稣，并指出神性与人性的各自特性；因为我们并不将一位圣子分为两位，而是朝拜独生子，同时指明肉身与神性的区别。我认为，连亚略派也承认这一点，他们既不称肉身是神性，也不将神性呼作肉身。圣经清楚地教导我们两种本性。然而，尽管我向来如此宣讲，仍有人用谎言攻击我。但我依靠我的良心，并请鉴察人心者作我教导的见证。所以，如同先知所言，我把诽谤的阴谋视为\\Quote{蜘蛛网}。我等待那无需言语的伟大审判，它要显明那隐匿未显的事。",
+    "p0004": "我通过这几位极虔诚的主教寄出此信，认为值得借此问候阁下，并提醒你你的诺言。因为尽管我遭受攻击，我仍不停捕鱼，因为我知道神圣的宗徒们在遭受攻击时，也不停撒下圣神的网。"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "source": {
+    "source_id": "1102100",
+    "title": "Letter 100 (A.D. 409)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 100",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 100 (A.D. 409)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Donatus His Noble and Deservedly Honourable Lord, and Eminently Praiseworthy Son, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. I would indeed that the African Church were not placed in such trying circumstances as to need the aid of any earthly power. But since, as the apostle says, <quote>there is no power but of God,</quote> {{BIBLE:rom 13:1}} it is unquestionable that, when by you the sincere sons of your Catholic Mother help is given to her, our help is in the name of the Lord, <quote>who made heaven and earth.</quote> For oh, noble and deservedly honourable lord, and eminently praiseworthy son, who does not perceive that in the midst of so great calamities no small consolation has been bestowed upon us by God, in that you, such a man, and so devoted to the name of Christ, have been raised to the dignity of proconsul, so that power allied with your goodwill may restrain the enemies of the Church from their wicked and sacrilegious attempts? In fact, there is only one thing of which we are much afraid in your administration of justice, viz., lest perchance, seeing that every injury done by impious and ungrateful men against the Christian society is a more serious and heinous crime than if it had been done against others, you should on this ground consider that it ought to be punished with a severity corresponding to the enormity of the crime, and not with the moderation which is suitable to Christian forbearance. We beseech you, in the name of Jesus Christ, not to act in this manner. For we do not seek to revenge ourselves in this world; nor ought the things which we suffer to reduce us to such distress of mind as to leave no room in our memory for the precepts in regard to this which we have received from Him for whose truth and in whose name we suffer; we <quote>love our enemies,</quote> and we <quote>pray for them.</quote> {{BIBLE:mat 5:44}} It is not their death, but their deliverance from error, that we seek to accomplish by the help of the terror of judges and of laws, whereby they may be preserved from falling under the penalty of eternal judgment; we do not wish either to see the exercise of discipline towards them neglected, or, on the other hand, to see them subjected to the severer punishments which they deserve. Do you, therefore, check their sins in such a way, that the sinners may be spared to repent of their sins.",
+        "scripture": [
+          "rom 13:1",
+          "mat 5:44"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. We beg you, therefore, when you are pronouncing judgment in cases affecting the Church, how wicked soever the injuries may be which you shall ascertain to have been attempted or inflicted on the Church, to forget that you have the power of capital punishment, and not to forget our request. Nor let it appear to you an unimportant matter and beneath your notice, my most beloved and honoured son, that we ask you to spare the lives of the men on whose behalf we ask God to grant them repentance. For even granting that we ought never to deviate from a fixed purpose of overcoming evil with good, let your own wisdom take this also into consideration, that no person beyond those who belong to the Church is at pains to bring before you cases pertaining to her interests. If, therefore, your opinion be, that death must be the punishment of men convicted of these crimes, you will deter us from endeavouring to bring anything of this kind before your tribunal; and this being discovered, they will proceed with more unrestrained boldness to accomplish speedily our destruction, when upon us is imposed and enjoined the necessity of choosing rather to suffer death at their hands, than to bring them to death by accusing them at your bar. Disdain not, I beseech you, to accept this suggestion, petition, and entreaty from me. For I do not think that you are unmindful that I might have great boldness in addressing you, even were I not a bishop, and even though your rank were much above what you now hold. Meanwhile, let the Donatist heretics learn at once through the edict of your Excellency that the laws passed against their error, which they suppose and boastfully declare to be repealed, are still in force, although even when they know this they may not be able to refrain in the least degree from injuring us. You will, however, most effectively help us to secure the fruit of our labours and dangers, if you take care that the imperial laws for the restraining of their sect, which is full of conceit and of impious pride, be so used that they may not appear either to themselves or to others to be suffering hardship in any form for the sake of truth and righteousness; but suffer them, when this is requested at your hands, to be convinced and instructed by incontrovertible proofs of things which are most certain, in public proceedings in the presence of your Excellency or of inferior judges, in order that those who are arrested by your command may themselves incline their stubborn will to the better part, and may read these things profitably to others of their party. For the pains bestowed are burdensome rather than really useful, when men are only compelled, not persuaded by instruction, to forsake a great evil and lay hold upon a great benefit.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102100.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102100.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信一百（主历409年）",
+    "p0002": "\\Emph{\\Person{奥思定}谨向尊贵而备受敬仰的主、卓绝可赞的儿子\\Person{多纳图}，在主内致候。}",
+    "p0003": "1. 我实愿\\Place{非洲教会}不必处于这般艰难的境遇，以致需要任何尘世权势的援助。然而，正如宗徒所说：\\BibleQuote{没有权柄不是从天主来的}，\\BibleRef{罗 13:1}，这是无可置疑的：当您——您那天主教慈母的真诚儿女——给予她援助时，我们的救助是在于主的名，\\BibleQuote{祂创造了天地}。啊，尊贵而备受敬仰的主、卓绝可赞的儿子，谁不察觉，在此浩劫之中，天主赐予我们的安慰实非微小，因为您这样一位如此热心于基督之名的人，被擢升至\\OriginalTerm{总督}{proconsul}之尊位，以便权柄与您的善意结合，能遏制教会的仇敌陷于邪恶亵圣的图谋？事实上，对于您执行正义，我们深为担忧的只有一件事：即深恐您因见不虔诚且忘恩负义之徒加于基督徒团体的每桩伤害，都比加于他人者更为严重邪恶，便据此认为当以与罪行之重大相称的严厉加以惩治，而非以适合基督徒忍耐的温和处之。我们因耶稣基督之名恳求您，不要如此行事。因为我们并不求在此世报复；我们所受的苦难，也不应使我们忧愁至极，以致心中毫无余地存记我们从祂所领受的有关此事之诫命——我们正为祂的真理、因祂的名而受苦；我们\\BibleQuote{爱我们的仇敌}，并\\BibleQuote{为他们祈祷}。\\BibleRef{玛 5:44} 我们借法官与法律之威吓以求达成的，并非置他们于死地，乃是救他们脱离错谬，藉此可保全他们不致陷于永罚；我们既不愿见到对他们疏于管教，亦不愿见到他们遭受应得的严刑。因此，请您如此遏制他们的罪过，好使罪人得以存留，俾能悔改己罪。",
+    "p0004": "2. 因此，我们恳求您，在审理有关教会案件而宣判之时，无论您查证到教会遭受或意欲遭受的伤害何等邪恶，都请忘记您拥有处以极刑之权，而勿忘我们的恳求。我最亲爱尊崇的儿子，我们请您饶恕那些我们为其祈求天主施予悔改之恩者的性命，此事切勿以为无足轻重而不屑垂顾。即使我们永不该偏离以善胜恶的坚定决心，也请您的智慧斟酌此事：除属于教会者外，无任何人会费心将有关她利益之案件呈于您前。因此，您若认为犯有此等罪行之人必处以死刑，则您将阻止我们竭诚将此类事项诉诸您的法庭；此事一旦泄露，他们将更为肆无忌惮地迅速完成对我们的毁灭，而我们则被迫并受命宁可死于其手，也不愿因在您庭前指控他们而使其致死。我恳求您，万勿轻弃我的此项建议、请求与哀恳。因为我并不认为您不记得，我即便未为主教，且您的品级远高于现时，我亦可有极大胆量向您进言。与此同时，请借您阁下的谕令，让这些\\OriginalTerm{多纳图派}{Donatist}异端者立刻知晓，那些针对其谬误而通过、他们以为并夸耀宣布已废除的法律，依然有效，纵使他们得知后仍无法丝毫停止加害我们。然而，您若能留意使帝国为遏制其充满自负与不虔骄傲之教派而颁的法律，得以如此运用，以致他们自己或他人均不觉得是因真理与正义而遭受任何形式的苦难；而是当他们向您请求时，允其于阁下或下级法官面前，通过公开程序，以无可辩驳的确凿事实，说服并教导他们，使那些由您下令逮捕之人，甘心移其顽固意志于更善之途，并能有裨益地向其同党宣读这些事理。因为若仅以强制而非劝导训诲，使人弃绝大恶而把握大善，所受的辛劳便较为累赘，而非真有实益。"
+  }
+}

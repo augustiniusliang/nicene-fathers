@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "050637",
+    "title": "Epistle 37",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 37",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 37",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Caldonius, Herculanus, and Others, About the Excommunication of Felicissimus.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— Felicissimus, Together with His Companions in Sedition, is to Be Restrained from the Communion of All.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Cyprian to Caldonius and Herculanus, his colleagues, also to Rogatianus and Numidicus, his fellow presbyters, greeting. I have been greatly grieved, dearest brethren, at the receipt of your letter, that although I have always proposed to myself and wished to keep all our brotherhood safe, and to preserve the flock unharmed, as charity requires, you tell me now that Felicissimus has been attempting many things with wickedness and craft; so that, besides his old frauds and plundering, of which I had formerly known a good deal, he has now, moreover, tried to divide with the bishop a portion of the people; that is, to separate the sheep from the shepherd, and sons from their parents, and to scatter the members of Christ. And although I sent you as my substitutes to discharge the necessities of our brethren, with funds, and if any, moreover, wished to exercise their crafts, to assist their wishes with such an addition as might be sufficient, and at the same time also to take note of their ages and conditions and deserts,— that I also, upon whom falls the charge of knowing all of them thoroughly, might promote any that were worthy and humble and meek to the offices of the ecclesiastical administration—he has interfered, and directed that no one should be relieved, and that those things which I had desired should not be ascertained by careful examination; he has also threatened our brethren, who had first approached to be relieved, with a wicked exercise of power, and with a violent dread that those who desired to obey me should not communicate with him in death.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. And since, after all these things, neither moved by the honour of my station, nor shaken by your authority and presence, but of his own impulse, disturbing the peace of the brethren he has rushed forth with many more, and asserted himself as a leader of a faction and chief of a sedition with a hasty madness— in which respect, indeed, I congratulate several of the brethren that they have withdrawn from this boldness, and have rather chosen to consent with you, so that they may remain with the Church, their mother, and receive their stipends from the bishop who dispenses them, which, indeed, I know for certain, that others also will peaceably do, and will quickly withdraw from their rash error—in the meantime, since Felicissimus has threatened that they should not communicate with him in death who had obeyed us, that is, who communicated with us, let him receive the sentence which he first of all declared, that he may know that he is excommunicated by us; inasmuch as he adds to his frauds and rapines, which we have known by the clearest truth, the crime also of adultery, which our brethren, grave men, have declared that they have discovered, and have asseverated that they will prove; all which things we shall then judicially examine, when, with the Lord's permission, we shall assemble in one place with many of our colleagues. But Augendus also, who, considering neither his bishop nor his Church, has equally associated himself with him in this conspiracy and faction, if he should further persevere with him, let him bear the sentence which that factious and impetuous man has provoked on himself. Moreover, whoever shall ally himself with his conspiracy and faction, let him know that he shall not communicate in the Church with us, since of his own accord he has preferred to be separated from the Church. Read this letter of mine to our brethren, and also transmit it to Carthage to the clergy, the names being added of those who have joined themselves with Felicissimus. I bid you, beloved brethren, ever heartily farewell; and remember me. Farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050637.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050637.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第三十七封书函}",
+    "p0002": "致\\Person{卡尔多尼乌斯}、\\Person{赫尔库拉努斯}及其他人士：关于绝罚\\Person{费利奇西穆斯}",
+    "p0003": "论点——\\Person{费利奇西穆斯}及其叛乱同伙应被禁止参与全体共融。",
+    "p0004": "1. \\Person{西彼廉}致\\Person{卡尔多尼乌斯}与\\Person{赫尔库拉努斯}，他的同僚，也致\\Person{罗加提亚努斯}与\\Person{努米迪库斯}，他的司铎同伴，问安。最亲爱的弟兄们，收到你们的来信，我深感痛心，因为我一直对自己期望并希望保全所有弟兄的安全，并按照爱德的要求保持羊群不受伤害，而你们现在告诉我，\\Person{费利奇西穆斯}以邪恶和诡计图谋了许多事；以致除了他旧日的欺诈和掠夺（我先前已颇为了解）之外，他现在甚至还试图分裂主教与一部分人群；也就是将羊群与牧人分离，将儿子与父母分离，并分散基督的肢体。尽管我派遣你们作为我的代表，用资金去处理我们弟兄们的急需，并且若有任何人还希望操练其手艺，也要用足够的增额协助他们的愿望，同时还要记录他们的年龄、状况和功过——好让我，这个负有完全认识他们所有人职责的人，可以将那些配得、谦卑和温良的人擢升到教会管理的职务中——他却横加干涉，命令不得周济任何人，并且我原本希望经过仔细查考才能确定的事，也不得查明；他还以邪恶的权势和暴力的恐吓威胁我们那些首先前来接受救济的弟兄，说那些愿意听从我的人，在死亡中不得与他共融。",
+    "p0005": "2. 既然在这一切之后，他既没有被我的职位之尊所感动，也没有被你们的权威和在场而动摇，反而出于自己的冲动，扰乱弟兄们的平安，带着更多人冲了出来，以急躁的疯狂自命为党派的领袖和叛乱的魁首——在这方面，我确实为几位弟兄感到庆幸，他们已远离这种狂妄，宁愿与你们一致，以便能留在他们的母亲教会内，并从施予的主教那里领取他们的俸禄；我确切知道，其他人也将和平地这样做，并会很快从他们鲁莽的错误中退出——与此同时，既然\\Person{费利奇西穆斯}威胁说，那些听从我们的人，即那些与我们共融的人，在死亡中不得与他共融，就让他领受他首先宣布的判决吧，好让他知道自己已被我们绝罚；因为他除了以最清楚的事实所知道的欺诈和掠夺之外，还加上了奸淫的罪行，这是我们那些庄重的弟兄们所宣称他们已经发现并断言将要证明的；这一切我们将在以后，在主的许可下，与许多同僚聚集一处时，进行司法审理。但是\\Person{奥根都斯}，他既不顾他的主教也不顾他的教会，同样在这阴谋和叛乱中与他联合，如果他进一步与他坚持，就让他承担那好斗和暴躁的人所惹来的判决。此外，凡与他的阴谋和叛乱联合的人，要知道他不得在教会中与我们共融，因为他已自愿选择与教会分离。请将我这封信读给我们的弟兄们听，并转交至迦太基的圣职人员，附上那些与\\Person{费利奇西穆斯}联合者的名字。亲爱的弟兄们，我祝愿你们永远在主内衷心安康，并请记念我。别了。"
+  }
+}

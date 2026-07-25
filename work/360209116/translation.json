@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360209116",
+    "title": "Book IX, Letter 116",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 116",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 116",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Theoderic and Theodebert, Kings of the Franks.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Theoderic, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It is the chief good in kings to cultivate justice, and to preserve to every man his rights, and not to suffer subjects to have done to them what there is power to do, but what is equitable. Our trust that you both love and altogether aim at this invites us to indicate to your Excellency things that call for amendment, that so we may be able by our letters both to succour the oppressed and to acquire reward for you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now they say that our brother and fellow bishop Ursicinus, bishop of the city of Taurini (<em>Turin</em>), suffers very serious prejudice in his parishes that are within the limits of your kingdom, in such sort that, contrary to ecclesiastical observance, contrary to priestly gravity, and contrary to the definitions of the sacred canons, no crime of his requiring it, another has not feared to be ordained bishop there. And, it being thought not enough unless unlawfulness were added to unlawfulness, even the property of his church, as is said, has been taken away. If the truth is so, it being exceedingly intolerable that one should be oppressed by force whom guilt has not harmed, we beg of you, addressing you in the first place with a greeting of paternal charity, that what out of reverence for the Church and regard to equity your Excellency might of your own accord bestow, you would study to grant all the more kindly on our intercession, and would cause justice to be observed towards him in all respects according to the trust we have in the goodness of your equity; and that, having ascertained the truth, you would order what has been unlawfully done to be corrected, and the property that has been wrongfully taken from him to be equitably restored to him. Nor should the fact of his church being detained for the present by his enemies be at all to his disadvantage: but this ought to move more and more the disposition of your Christianity to succour him, that, being consoled by the gifts of your bounty, he may not feel the loss arising from the captivity which he has endured. For the good, then, of your soul let this our exhortation find place with you, that to your own reward you may lift up again his dejection with the outstretched hand of justice, to the end that from your observance of equity towards priests you may ever flourish through their prayers before the eyes of God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209116.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209116.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷九，第一一六函",
+    "p0002": "\\Emph{致\\Person{狄奥多里克}与\\Person{狄奥德伯特}，法兰克人的国王。}",
+    "p0003": "\\Person{额我略}致\\Person{狄奥多里克}等。",
+    "p0004": "国王的首要之善在于培养正义，维护每个人的权利，不让臣民遭受被强权所迫之事，而是合乎公平之事。我们确信您既热爱且完全追求这一点，因此邀请我们向尊座指出需要修正之事，以便我们能用信件援助受压迫者，并为您获得赏报。",
+    "p0005": "现在他们说，我们的兄弟与同僚主教，\\Place{都灵}城的主教\\Person{乌尔西奇努斯}，在他的堂区内（这些堂区位于你们王国的境内）遭受非常严重的损害，以致于，违反教会礼仪，违反司铎的庄重，违反神圣教规的规定，在没有需要这样做的罪行的情况下，竟有另一人不怕在那里被祝圣为主教。而且，似乎以为仅违法还不够，除非在违法之上再加违法，据称，他教会的财产也被夺走了。如果事实如此，那么，一个人因没有罪行伤害他而遭受武力压迫，这是极其不能容忍的。我们恳请你们，首先以父爱般的爱德向你们致意，请求你们：凡是出于对教会的尊敬和对公平的重视，尊座本可自愿赐予的，请你们因我们的代祷而更加仁厚地赐予，并按照我们对您公平的良善的信赖，务必在他的一切方面秉持正义；并且，在查明真相后，请命令纠正非法之事，并将从他那里不当夺走的财产公平地归还于他。而且，不应因他的教会目前被敌人扣留而对他不利；反而，这应更加激发您基督徒的心意去援助他，使他因受到您慷慨恩赐的安慰，不至于感到他所忍受的囚禁造成的损失。因此，为了您灵魂的益处，愿我们的劝诫在您那里得到接纳，以便您能为了自己的赏报，用伸出的正义之手重新振作他的沮丧，从而因您对司铎们秉持公平，您将因他们的祈祷在天主眼前永远昌盛。"
+  }
+}

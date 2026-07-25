@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3202285",
+    "title": "Letter 285",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 285",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 285",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Without Address.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The hearer of this letter is one on whom rests the care of our Church and the management of its property— our beloved son.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Deign to grant him freedom of speech on those points that are referred to your holiness, and attention to the expression of his own views; so shall our Church at length recover herself, and henceforth be released from this many-headed Hydra.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Our property is our poverty; so much so that we are ever in search of one to relieve us of it; for the expenses of the Church property amount to more than any profit that she derives from it.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202285.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202285.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第285号书信",
+    "p0002": "\\Person{圣巴西略凯撒勒雅}",
+    "p0003": "无收信人称呼。",
+    "p0004": "这封信的收信人，就是那位肩负我们教会的照料及其财产管理之责的人——我亲爱的儿子。",
+    "p0005": "请恩准他在向尊者您呈报的事项上享有言论自由，并聆听他表述自己的见解；这样，我们的教会终将恢复元气，从此摆脱这多头海蛇的纠缠。",
+    "p0006": "我们的财产就是我们的贫穷；以至于我们一直在寻找一个能把我们从这重担中解脱出来的人；因为教会财产的开支超过了它所带来的任何收益。"
+  }
+}

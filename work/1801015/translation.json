@@ -1,0 +1,96 @@
+{
+  "source": {
+    "source_id": "1801015",
+    "title": "Exposition on Psalm 15",
+    "breadcrumbs": "Home > Fathers of the Church > Expositions on the Psalms (Augustine) > Psalm 15",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Exposition on Psalm 15",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "A psalm of David himself.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. Touching this title there is no question. <quote>O Lord who shall sojourn in Your tabernacle?</quote> {{BIBLE:psa 14:1}} . Although tabernacle be sometimes used even for an everlasting habitation: yet when tabernacle is taken in its proper meaning, it is a thing of war. Hence soldiers are called tent-fellows, as having their tents together. This sense is assisted by the words, <quote>Who shall sojourn?</quote> For we war with the devil for a time, and then we need a tabernacle wherein we may refresh ourselves. Which specially points out the faith of the temporal Dispensation, which was wrought for us in time through the Incarnation of the Lord. <quote>And who shall rest in Your holy mountain?</quote> Here perhaps he signifies at once the eternal habitation itself, {{BIBLE:2co 5:1}} that we should understand by <quote>mountain</quote> the supereminence of the love of Christ in life eternal.",
+        "scripture": [
+          "psa 14:1",
+          "2co 5:1"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. <quote>He who walks without stain, and works righteousness</quote> {{BIBLE:psa 14:2}} . Here he has laid down the proposition; in what follows he sets it forth in detail.",
+        "scripture": [
+          "psa 14:2"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "3. <quote>Who speaks the truth in his heart.</quote> For some have truth on their lips, and not in their heart. As if one should deceitfully point out a road, knowing that there were robbers there, and should say, If you go this way, you will be safe from robbers; and it should turn out that in fact there were no robbers found there: he has spoken the truth, but not in his heart. For he supposed it to be otherwise, and spoke the truth in ignorance. Therefore it is not enough to speak the truth, unless it be so also in heart. <quote>Who has practised no deceit in his tongue</quote> {{BIBLE:psa 14:3}} . Deceit is practised with the tongue, when one thing is professed with the mouth, another concealed in the breast. <quote>Nor done evil to his neighbour.</quote> It is well known that by <quote>neighbour,</quote> every man should be understood. <quote>And has not entertained slander against his neighbour,</quote> that is, has not readily or rashly given credence to an accuser.",
+        "scripture": [
+          "psa 14:3"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "4. <quote>The malicious one has been brought to nought in his sight</quote> {{BIBLE:psa 14:4}} . This is perfection, that the malicious one have no force against a man; and that this be <quote>in his sight;</quote> that is, that he know most surely that the malicious is not, save when the mind turns itself away from the eternal and immutable form of her own Creator to the form of the creature, which was made out of nothing. <quote>But those that fear the Lord, He glorifies:</quote> the Lord Himself, that is. Now <quote>the fear of the Lord is the beginning of wisdom.</quote> As then the things above belong to the perfect, so what he is now going to say belongs to beginners.",
+        "scripture": [
+          "psa 14:4"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "5. <quote>Who swears unto his neighbour, and deceives him not.</quote> <quote>Who has not given his money upon usury, and has not taken rewards against the innocent</quote> {{BIBLE:psa 14:5}} . These are no great things: but he who is not able to do even this, much less able is he to speak the truth in his heart, and to practise no deceit in his tongue, but as the truth is in the heart, so to profess and have it in his mouth, <quote>yea, yea; nay, nay;</quote> {{BIBLE:mat 5:37}} and to do no evil to his neighbour, that is, to any man; and to entertain no slander against his neighbour: all which are the virtues of the perfect, in whose sight the malicious one has been brought to nought. Yet he concludes even these lesser things thus, <quote>Whoso does these things shall not be moved for ever:</quote> that is, he shall attain unto those greater things, wherein is great and unshaken stability. For even the very tenses are, perhaps not without cause, so varied, as that in the conclusion above the past tense should be used, but in this the future. For there it was said, <quote>The malicious one has been brought to nought in his sight:</quote> but here, <quote>shall not be moved for ever.</quote>",
+        "scripture": [
+          "psa 14:5",
+          "mat 5:37"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by an anonymous scholar. From Nicene and Post-Nicene Fathers, First Series, Vol. 8. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1801015.htm>.",
+    "metadata": {
+      "srctrans": "Translated by an anonymous scholar.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1801015.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "对圣咏第十五篇的释义",
+    "p0002": "达味自己的圣咏。",
+    "p0003": "1. 关于这个标题，没有疑问。\\BibleQuote{主，谁能住在祢的帐幕里？}\\BibleRef{咏 14:1}。虽然\\Quote{帐幕}有时也用来指永恒的居所，但当\\Quote{帐幕}按本义理解时，它是战争之物。因此，士兵被称为\\Quote{同帐者}，因为他们一起支搭帐幕。这种含义由\\BibleQuote{谁将寄居？}这句话得到加强。因为我们暂时与魔鬼作战，那时我们需要一个帐幕，在其中我们可以得到休憩。这特别指出了暂时性救恩计划的信仰，这计划是通过主的降生成人为我们在时间内完成的。\\BibleQuote{谁能住在祢的圣山上？}这里他或许立即指永恒的居所本身，\\BibleRef{格后 5:1}，我们应当理解\\Quote{山}意指在永生中基督之爱的至高无上。",
+    "p0004": "2. \\BibleQuote{行为无瑕，实行正义的人}\\BibleRef{咏 14:2}。这里他提出了命题；接下来他详细阐述。",
+    "p0005": "3. \\BibleQuote{他心中说实话的人}。因为有些人口中有真理，心中却没有。好比有人欺骗性地指路，明知那里有强盗，却说：如果你走这条路，就不会遇到强盗；结果发现那里实际上没有强盗：他讲了真话，但不是出于真心。因为他以为情况相反，在无知中说了真话。因此，光说真话是不够的，除非心中也是如此。\\BibleQuote{他舌头上没有行欺诈的人}\\BibleRef{咏 14:3}。当人口里说一套，心里藏另一套时，就是用舌头行欺诈。\\BibleQuote{没有加害邻人}。众所周知，\\Quote{邻人}应理解为每一个人。\\BibleQuote{也没有接受对邻人的毁谤}，即不轻易或轻率地相信控诉者。",
+    "p0006": "4. \\BibleQuote{恶人在他眼中已被消灭}\\BibleRef{咏 14:4}。这就是成全，即恶人对人毫无力量；并且这\\Quote{在他眼中}，意思是他确切知道，恶之所以存在，只是因为心灵背离了自己造物主永恒不变的形式，转向从无中被造的受造物的形式。\\BibleQuote{但他荣耀那些敬畏主的人：}就是主自己。现在，\\BibleQuote{敬畏主是智慧的开端。}因此，正如上述之事属于成全者，那么他接下来要说的属于初学者。",
+    "p0007": "5. \\BibleQuote{他向邻人起誓，并不欺骗他。}\\BibleQuote{他没有放债取利，也没有受贿反对无辜者}\\BibleRef{咏 14:5}。这些不是大事：但连这些都不能做到的人，更不用说在心中说实话、舌头上没有行欺诈，而是如何心里有真理，口里也承认并持有，\\BibleQuote{是就说是，非就说非；}\\BibleRef{玛 5:37}，并且不加害邻人，即不加害任何人；也不接受对邻人的毁谤：所有这些都属于成全者的德性，在他们眼中恶人已被消灭。然而，他连这些较小的事也这样总结：\\BibleQuote{行这些事的人，将永远不会动摇。}也就是说，他将达到那些更大的事，其中有着伟大而不可动摇的稳定。因为甚至时态的变化也不是没有原因的，以致于在上述结论中用了过去时，而这里用了将来时。因为那里曾说：\\Quote{恶人在他眼中已被消灭}，而这里说：\\Quote{将永远不会动摇。}"
+  }
+}

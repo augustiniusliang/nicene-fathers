@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360213005",
+    "title": "Book XIII, Letter 5",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 5",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 5",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Etherius, Bishop of Lugdunum (Lyons)</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Etherius, Bishop.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although what we say is very distressing to us, and fraternal compassion rather moves us to weep than allows us to lay down anything concerning the things we have heard of, yet solicitude for the government undertaken by us pricks our heart with an urgent spur to see with great care to the good of churches, and to arrange what should be done before their interests might possibly suffer irretrievably. It has come, then, to our ears from the report of certain persons that an affection of the head has so befallen a certain bishop that it is a matter of groaning and weeping to hear of what he is wont to do under alienation of mind. Lest, therefore, while the shepherd is sick, the flock should be exposed to be torn by the teeth of the lyer-in-wait (which God forbid), or the interests of the Church itself should suffer irretrievably, it is necessary for us to treat the case with cautious provision. And so, since during the life of a bishop, whom unavoidable infirmity and not crime withdraws from his office, no reason allows another to be ordained in his place except on his resignation , let him, if he is accustomed to have intervals of sanity, himself make petition, declaring that he is no longer equal to this ministry owing to subversion of his intellectual faculties by infirmity, and let him request that another be ordained in his place. Which being done, let another who may be worthy be solemnly consecrated bishop in his place, by the election of all; yet so that, as long as life shall retain the said bishop in this world, his due expenses be supplied to him by the same Church. If, however, he at no time recovers the faculties of a sound mind, a trustworthy person of approved life must be chosen, who may be fit for the government of the Church, take thought for the benefit of souls, restrain the unquiet under the bond of discipline, take care of ecclesiastical property, and exhibit himself in all respects ripe and efficient. And also, should he survive the bishop who is now sick, he should be consecrated in his place.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But as to ordinations of presbyters or deacons, or of any other order, if cause requires any to be made in that Church, know that this is to be reserved to your Fraternity, to the end that, it being in your diocese, you may enquire concerning the life, manners, and conduct of him who is chosen to such office. And if you should be satisfied, and there is nothing in him liable to the censure of canonical strictness, let him attain to his destined order not otherwise than through ordination by you. Let your Fraternity then, so proceed, and so order these things with vigilant provision, that the Church of God may no longer suffer from any neglect, and that you may warn your fellow priests, not only by word but also by example, to have a care laudably for venerable places.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213005.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213005.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第五封信",
+    "p0002": "\\Emph{致\\Person{埃泰里乌斯}，\\Place{里昂}主教}.",
+    "p0003": "\\Person{额我略}致\\Person{埃泰里乌斯}主教。",
+    "p0004": "虽然我们所说的话令我们深感痛苦，而兄弟般的同情更令我们哀哭，不容我们对所闻之事妄下论断；然而，我们对所承担治理职责的关怀，以急迫的鞭策刺动我们的心，促使我们以极大的审慎关注教会的利益，并在其可能遭受不可挽回的损失之前，妥善安排应行之事。因此，我们从某些人的报告中得知，一位主教的头部遭受病患，其精神错乱时所行之事，闻之令人悲叹哭泣。为此，为避免牧人生病时，羊群遭受潜伏者獠牙的撕裂（愿天主禁止），或教会自身利益遭受不可挽回的损失，我们必须以谨慎的措施处理此事。所以，既然一位主教在世时，除非他自愿辞职，否则因不可避免的疾病而非罪行使他不能履职时，没有理由在他不辞职的情况下另立他人；那么，若他常有清醒的间歇，应自行提出声明，宣告因疾病导致理智受损，已不再胜任这一职务，并请求另立他人接替。如此行后，由全体选举，将另一位堪当之人隆重祝圣为主教接替其位；但在此前提下，只要这位主教仍在世，其应有之费用应由同一教会供给。然而，若他从未恢复健全心智，则须选立一位经核准、生活堪受称许的可靠之人，堪当管理教会，照顾灵魂的益处，以纪律的约束抑制不安分者，照管教会财产，并在各方面显出成熟与能干。并且，若他能在现任患病主教去世后仍存留，则应在他去世后祝圣为其接替者。",
+    "p0005": "您的兄弟之职应知此事保留给您的兄弟之职，因该教会隶属您的兄弟之职的教区，以便您的兄弟之职能查考被选之人的生命、品行与操守。若您的兄弟之职满意，且其身上无违教规之严苛之处，则他必须经由您的兄弟之职的祝圣才能获得其命定之品秩。因此，请您的兄弟之职以警觉的审慎行事并如此安排，使天主的教会不再因任何疏忽而受损，并且您的兄弟之职不仅以言语，更以榜样警告您的兄弟之职的同僚司铎，当勤劳照管神圣场所。"
+  }
+}

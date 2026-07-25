@@ -1,0 +1,55 @@
+{
+  "source": {
+    "source_id": "0103410",
+    "title": "Against Heresies (Book IV, Chapter 10)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book IV, Chapter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book IV, Chapter 10)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Wherefore also John does appropriately relate that the Lord said to the Jews: <quote>You search the Scriptures, in which you think you have eternal life; these are they which testify of me. And you are not willing to come unto Me, that you may have life.</quote> {{BIBLE:joh 5:39}} How therefore did the Scriptures testify of Him, unless they were from one and the same Father, instructing men beforehand as to the advent of His Son, and foretelling the salvation brought in by Him? <quote>For if you had believed Moses, you would also have believed Me; for he wrote of Me;</quote> {{BIBLE:joh 5:46}} [saying this,] no doubt, because the Son of God is implanted everywhere throughout his writings: at one time, indeed, speaking with Abraham, when about to eat with him; at another time with Noah, giving to him the dimensions [of the ark]; at another; inquiring after Adam; at another, bringing down judgment upon the Sodomites; and again, when He becomes visible, and directs Jacob on his journey, and speaks with Moses from the bush. {{BIBLE:exo 3:4}} And it would be endless to recount [the occasions] upon which the Son of God is shown forth by Moses. Of the day of His passion, too, he was not ignorant; but foretold Him, after a figurative manner, by the name given to the passover; and at that very festival, which had been proclaimed such a long time previously by Moses, did our Lord suffer, thus fulfilling the passover. And he did not describe the day only, but the place also, and the time of day at which the sufferings ceased, and the sign of the setting of the sun, saying: <quote>You may not sacrifice the passover within any other of your cities which the Lord God gives you; but in the place which the Lord your God shall choose that His name be called on there, you shall sacrifice the passover at even, towards the setting of the sun.</quote> {{BIBLE:deu 16:5}}",
+        "scripture": [
+          "joh 5:39",
+          "joh 5:46",
+          "exo 3:4",
+          "deu 16:5"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. And already he had also declared His advent, saying, <quote>There shall not fail a chief in Judah, nor a leader from his loins, until He come for whom it is laid up, and He is the hope of the nations; binding His foal to the vine, and His ass's colt to the creeping ivy. He shall wash His stole in wine, and His upper garment in the blood of the grape; His eyes shall be more joyous than wine, and His teeth whiter than milk.</quote> For, let those who have the reputation of investigating everything, inquire at what time a prince and leader failed out of Judah, and who is the hope of the nations, who also is the vine, what was the ass's colt [referred to as] His, what the clothing, and what the eyes, what the teeth, and what the wine, and thus let them investigate every one of the points mentioned; and they shall find that there was none other announced than our Lord, Christ Jesus. Wherefore Moses, when chiding the ingratitude of the people, said, <quote>You infatuated people, and unwise, do you thus requite the Lord?</quote> {{BIBLE:deu 32:6}} And again, he indicates that He who from the beginning founded and created them, the Word, who also redeems and vivifies us in the last times, is shown as hanging on the tree, and they will not believe in Him. For he says, <quote>And your life shall be hanging before your eyes, and you will not believe your life.</quote> And again, <quote>Has not this same one your Father owned you, and made you, and created you?</quote>",
+        "scripture": [
+          "deu 32:6"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103410.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103410.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳异端}（第四卷，第十章）",
+    "p0002": "1. 因此，若望也恰当地记述了主对犹太人说：\\BibleQuote{你们查考圣经，因为你们以为其中有永生；正是这些为我作证。你们却不愿意到我这里来，为获得生命。}\\BibleRef{若 5:39} 那么，\\WorkTitle{圣经}如何为祂作证呢？除非它们来自同一个圣父，预先教导人有关祂圣子的来临，并预言由祂带来的救恩。\\BibleQuote{如果你们相信梅瑟，你们也必会相信我，因为他曾论及我写了。}\\BibleRef{若 5:46} 这无疑是因为天主圣子处处贯穿于他的著作中。的确，有时祂与亚巴郎说话，正要与他一同进食；有时与诺厄说话，将方舟的尺寸赐给他；有时查问亚当；有时对索多玛人降下审判；又有一次，祂显现出来，指引雅各伯的旅程，并从荆棘丛中与梅瑟说话。\\BibleRef{出 3:4} 若要一一数算梅瑟所显示的天主圣子的事例，那是说不尽的。关于祂受难的日期，梅瑟也并非不知道；相反，他以象征的方式，通过逾越节的名称预言了祂；我们的主正是在那同一节日——梅瑟在很久以前就预定了的节日——受难，从而应验了逾越节。他不仅描述了那日子，还有那地点，以及苦难结束时的时辰和日落的现象，说：\\BibleQuote{你不可在你任何城里——那上主你的天主赐给你的城中——随便献逾越节祭；只应在上主你的天主所选定、为立祂名的地方，你才能在傍晚、日落时献逾越节祭。}\\BibleRef{申 16:5}",
+    "p0003": "2. 并且梅瑟早已预告了祂的来临，说：\\BibleQuote{犹大的权杖不会失去，领袖不会从他的腰间消失，直到那应得的人来到，祂是万民的期望；祂将驴驹拴在葡萄树上，将母驴的驹子拴在蔓延的常春藤上。祂在酒中洗涤外袍，在葡萄血中洗涤衣裳；祂的眼睛比酒更欢愉，祂的牙齿比奶更洁白。}\\BibleRef{创 49:10} 因为，让那些以研究一切闻名的人去查考，何时犹大失去了王子和领袖？谁是万民的期望？葡萄树是谁？那属于祂的驴驹是什么？衣服、眼睛、牙齿、酒各指什么？让他们逐一查考这些要点，他们就会发现所预告的正是我们的主基督耶稣，而非别人。因此，梅瑟在斥责百姓的忘恩负义时，说：\\BibleQuote{愚昧无知的人民，你们就这样报上主吗？}\\BibleRef{申 32:6} 他又指出，那位从起初就建立并创造他们的圣言，也在末期救赎并赐予我们生命者，被展示为挂在树上，他们却不相信祂。因为他（梅瑟）说：\\BibleQuote{你的性命必悬在你眼前，你却不信你的性命。}\\BibleRef{申 28:66} 又说：\\BibleQuote{这同一一位，难道不是你的父亲拥有你、造了你、创造了你吗？}\\BibleRef{申 32:6}"
+  }
+}

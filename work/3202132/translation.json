@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202132",
+    "title": "Letter 132",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 132",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 132",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Abramius, bishop of Batnæ</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Ever since the autumn I have been quite ignorant of the whereabouts of your reverence; for I kept hearing uncertain rumours, some saying that you were stopping at Samosata, and some in the country, while others maintained that they had seen you at Batnæ. This is the reason of my not writing frequently. Now, on hearing that you are staying at Antioch, in the house of the honourable Count Saturninus, I have been glad to give this letter to our beloved and reverend brother Sanctissimus, our fellow presbyter, by whom I salute you, and exhort you, whereever you be, to remember firstly God, and secondly myself, whom you determined from the beginning to love and to reckon among your most intimate friends.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202132.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202132.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一三二封信",
+    "p0002": "\\Emph{\\Person{巴西略} \\Place{凯撒勒雅}}",
+    "p0003": "\\Emph{致\\Person{阿布拉米乌斯}，\\Place{巴特奈}主教}",
+    "p0004": "自从秋天以来，我对尊驾的行踪一直一无所知；因为我不断听到不确定的传闻，有人说您在\\Place{萨摩撒塔}停留，有人说您在乡下，而另一些人则声称曾在\\Place{巴特奈}见过您。这就是我不常写信的原因。现在，听说您下榻于\\Place{安提约基雅}，在可敬的\\Person{撒杜尔尼诺}伯爵府上，我很高兴把这封信交给我们所敬爱和尊敬的弟兄\\Person{桑克提西摩斯}，我们的同作司铎，由他问候您，并劝勉您，无论身在何处，首先要纪念天主，其次要纪念我——您从一开始就决心爱戴并以之作为最亲密朋友之一的人。"
+  }
+}

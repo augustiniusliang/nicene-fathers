@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202246",
+    "title": "Letter 246",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 246",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 246",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To the Nicopolitans.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am filled with distress at seeing evil on the high road to success, while you, my reverend friends, are faint and failing under continuous calamity. But when again I bethink me of the mighty hand of God, and reflect that He knows how to raise up them that are broken down, to love the just, to crush the proud and to put down the mighty from their seats, then again my heart grows lighter by hope, and I know that through your prayers the calm that the Lord will show us will come soon. Only grow not weary in prayer, but in the present emergency strive to give to all a plain example by deed of whatever you teach by word.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202246.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202246.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二百四十六封书信",
+    "p0002": "\\Emph{圣巴西略}",
+    "p0003": "致尼科波利坦人。",
+    "p0004": "我看见恶势力在成功的大道上一往无前，而你们，我尊敬的各位朋友，却在连续不断的灾祸中疲弱衰竭，内心充满悲痛。但当我再次想到天主的全能之手，想到祂知道如何扶起跌倒的人，如何爱慕正义者、粉碎骄傲者、并从高位上推下有权势者时，我的心又因希望而轻松起来，并且我知道，藉着你们的祈祷，主将要赐予我们的平安很快就会来临。只要你们在祈祷中不厌倦，并在当前的紧急情况下，努力以实际行动为你们口中所教导的一切立下明显的榜样。"
+  }
+}

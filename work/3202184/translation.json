@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202184",
+    "title": "Letter 184",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 184",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 184",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eustathius, bishop of Himmeria</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Orphanhood is, I know, very dismal, and entails a great deal of work, because it deprives us of those who are set over us. Whence I conclude that you do not write to me, because you are depressed at what has happened to you, and at the same time are now very much occupied in visiting the folds of Christ, because they are attacked on every side by foes. But every grief finds consolation in communication with sympathising friends. Do then, I beg you, as often as you can, write to me. You will both refresh yourself by speaking to me, and you will comfort me by letting me hear from you. I shall endeavour to do the same to you, as often as my work lets me. Pray yourself, and entreat all the brotherhood earnestly to importune the Lord, to grant us one day release from the present distress.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202184.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202184.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一八四封信}",
+    "p0002": "\\Person{凯撒勒雅的圣巴西略}",
+    "p0003": "致\\Place{希默里亚}主教\\Person{欧斯塔修斯}。",
+    "p0004": "我知道，孤寂令人非常凄苦，且带来许多劳苦，因为它使我们失去了那些管理我们的人。因此我推断，你之所以不写信给我，是因为你对你所遭遇的事感到沮丧，同时你现在正忙于巡视基督的羊群，因为羊群四面受敌。然而，每一种忧伤都能在与同情者的交流中找到安慰。那么，我恳求你，尽可能多地写信给我。你同我说话，会使你自己得到振作，而我也因收到你的信得到安慰。我将在我的工作允许下，尽力同样待你。你自己要祈祷，并恳切地求全体弟兄向主恳求，求祂赐我们有一天能从目前的困苦中解脱。"
+  }
+}

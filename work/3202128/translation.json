@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "3202128",
+    "title": "Letter 128",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 128",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 128",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eusebius, bishop of Samosata</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Hitherto I have been unable to give any adequate and practical proof of my earnest desire to pacify the Churches of the Lord. But in my heart I affirm that I have so great a longing, that I would gladly give up even my life, if thereby the flame of hatred, kindled by the evil one, could be put out. If it was not for the sake of this longing for peace that I consented to come to Colonia, may my life be unblessed by peace. The peace I seek is the true peace, left us by the Lord Himself; and what I have asked that I may have for my assurance belongs to one who desires nothing but the true peace, although some perversely interpret the truth into another sense. Let them use their tongues as they will, but assuredly they will one day be sorry for their words.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Now I beseech your holiness to remember the original propositions, and not to be led away by receiving answers that do not fit the questions, nor yet to give practical weight to the quibbles of men who, without any power of argument, very cleverly pervert the truth, from their own ideas alone. I set out propositions which were perfectly simple, clear and easy to remember; do we decline to receive into communion those who refuse to accept the Nicene Creed? Do we refuse to have part or lot with those who have the hardihood to assert that the Holy Ghost is a creature? He, however, instead of answering my questions word for word, has concocted the statement which you have sent me:— and this not from simplemindedness, as might be imagined, nor yet from his inability to see the consequences. What he reckons is that, by repudiating my proposition, he will expose his true character to the people; while, if he agrees to it, he will depart from that <em>via media</em> which has hitherto seemed to him preferable to any other position. Let him not try to beguile me, nor, with the rest, deceive your intelligence. Let him send a concise answer to my question, whether he accepts or repudiates communion with the enemies of the faith. If you get him to do this and send me such a distinct answer as I pray for, I own myself in error in all that has gone before; I take all the blame upon myself; then ask from me a proof of humility. But, if nothing of the kind come to pass, pardon me, most God-beloved father, in my inability to approach God's altar with hypocrisy. Were it not for this dread, why should I separate myself from Euippius, so learned a man, so advanced in age, and bound to me by so many ties of affection? If, however, in this case I acted rightly, it would, I am sure, be absurd to appear united with those who maintain the same views as Euippius, through the mediation of these amiable and charming persons.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. Not that I think it is absolutely our duty to cut ourselves off from those who do not receive the faith, but rather to have regard to them in accordance with the old law of love, and to write to them with one consent, giving them all exhortation with pity, and to propose to them the faith of the fathers, and invite them to union. If we succeed we should be united in communion with them; if we fail we must be content with one another and purge our conduct of this uncertain spirit, restoring the evangelical and simple conversation followed by those who accepted the Word from the beginning. <quote>They,</quote> it is said, <quote>were of one heart and of one soul.</quote> {{BIBLE:act 4:32}} If they obey you, this will be best; if not, recognise the real authors of the war, and, for the future do not write me any more letters about reconciliation.",
+        "scripture": [
+          "act 4:32"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202128.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202128.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第128封信",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致\\Place{萨莫萨塔}主教\\Person{欧瑟伯}。}",
+    "p0004": "1. 迄今为止，我一直未能以实际行动充分证明我热切渴望使主的各教会得享平安。但我在心里肯定，我有如此强烈的渴望，以至于我乐意甚至舍弃自己的生命，只要由此能扑灭由恶者点燃的仇恨火焰。若我不是为了这寻求平安的渴望而同意来到\\Place{科洛尼亚}，愿我的生命不蒙平安之福。我所寻求的平安是真正的平安，是主亲自留给我们的；我所请求并得以确认的保证，属于那除了真平安之外一无所求的人，虽然有些人曲解真理为另一种意义。任凭他们随意使用舌头，但可以肯定，他们终有一天会为自己的话后悔。",
+    "p0005": "2. 现在我恳求你的圣德记住最初的提案，不要被那些答非所问的回答所误导，也不要给予那些毫无辩论能力却非常巧妙地根据自己的想法曲解真理的人以实际重视。我提出了一些非常简单、清晰且易于记住的提案：我们是否拒绝与那些不肯接受\\OriginalTerm{尼西亚信经}{Nicene Creed}的人共融？我们是否拒绝与那些胆敢宣称圣神是受造物的人有分？然而，他并没有逐字回答我的问题，而是编造了你寄给我的声明——这并非出于愚钝（如可能想象的那样），也不是因为他无法看到后果。他以为，通过驳斥我的提案，他将向人们暴露自己的真面目；而如果他同意，他将偏离那条迄今为止在他看来比任何其他立场都更可取的\\OriginalTerm{中间道路}{via media}。愿他不要试图欺骗我，也不要与其他人一起欺骗你的智慧。愿他就我的问题给出一个简洁的回答，即他是否接受还是拒绝与信仰的敌人共融。如果你能使他这样做，并给我一个我所祈求的明确答复，我承认自己在之前所有事情上都错了；我将一切责任归咎于自己；然后向我求一个谦卑的证明。但如果没有这样的事发生，请原谅我，最敬爱天主的父，我无法以虚伪接近天主的祭台。若不是因为这敬畏，我为何要与\\Person{欧依丕乌斯}分离，他是如此博学，如此年迈，又被那么多情感纽带与我相连？然而，如果在这种情况下我做得对，我相信，通过那些和蔼可亲的人的中介，与那些持有与\\Person{欧依丕乌斯}相同观点的人联合，将是荒谬的。",
+    "p0006": "3. 我不是认为我们有绝对的责任与那些不接受信仰的人断绝关系，而是要按照爱的古老法律照顾他们，并一致写信给他们，以怜悯给予他们一切劝诫，并向他们提出父辈的信仰，邀请他们合一。如果我们成功，就应该与他们共融；如果我们失败，就必须满足于彼此，并摒弃这种不确定的精神，恢复那些从起初就接受圣言的人所遵循的福音和简朴的交往。据说，\\BibleQuote{他们，}据说，\\BibleQuote{都是一心一意。}\\BibleRef{宗 4:32} 如果他们听从你，这是最好的；如果不听从，就要认清战争的真正制造者，今后不要再给我写任何关于和解的信。"
+  }
+}

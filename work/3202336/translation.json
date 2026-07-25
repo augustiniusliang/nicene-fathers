@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3202336",
+    "title": "Letter 336",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 336",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 336",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Libanius to Basilius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. After some little time a young Cappadocian has reached me. One gain to me is that he is a Cappadocian. But this Cappadocian is one of the first rank. This is another gain. Further, he brings me a letter from the admirable Basil. This is the greatest gain of all. You think that I have forgotten you. I had great respect for you in your youth. I saw you vying with old men in self-restraint, and this in a city teeming with pleasures. I saw you already in possession of considerable learning. Then you thought that you ought also to see Athens, and you persuaded Celsus to accompany you. Happy Celsus, to be dear to you! Then you returned, and lived at home, and I said to myself, What, I wonder, is Basil about now? To what occupation has he betaken himself? Is he following the ancient orators, and practising in the courts? Or is he turning the sons of fortunate fathers into orators? Then there came those who reported to me that you were adopting a course of life better than any of these, and were, rather, bethinking you how you might win the friendship of God than heaps of gold, I blessed both you and the Cappadocians; you, for making this your aim; them, for being able to point to so noble a fellow-countryman.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I am aware that the Firmus, whom you mention, has continually won everywhere; hence his great power as a speaker. But with all the eulogies that have been bestowed on him, I am not aware that he has ever received such praise as I have heard of in your letter. For what a credit it is to him, that it should be you who declare that his reputation is inferior to none!",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Apparently, you have dispatched this young man to me before seeing Firminus; had you done so, your letters would not have failed to mention him. What is Firminus now doing or intending to do? Is he still anxious to be married? Or is all that over now? Are the claims of the senate heavy on him? Is he obliged to stay where he is? Is there any hope of his taking to study again? Let him send me an answer, and I trust it may be satisfactory. If it be a distressing one, at least it will relieve him from seeing me at his door. And if Firminus had been now at Athens, what would your senators have done? Would they have sent the Salaminia after him? You see that it is only by your fellow-countrymen that I am wronged. Yet I shall never cease to love and praise the Cappadocians. I should like them to be better disposed to me, but, if they continue to act as they do, I shall bear it. Firminus was four months with me, and was not a day idle. You will know how much he has acquired, and perhaps will not complain. As to his being able to come here again, what ally can I call in? If your senators are right-minded, as men of education ought to be, they will honour me in the second case, since they grieved me in the first.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202336.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202336.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第336封信",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅）}}",
+    "p0003": "\\Person{利巴尼乌斯}致\\Person{巴西略}。",
+    "p0004": "1. 过了一些时候，一位年轻的卡帕多细亚人到了我这里。一个收获是，他是卡帕多细亚人。但这位卡帕多细亚人乃是出身名门。这是另一收获。此外，他带来了可敬的\\Person{巴西略}的一封信。这是最大的收获。你以为我已忘了你。我曾在你的青年时代非常敬重你。我看见你以克己自律与长者争胜，而这是在充满享乐的城市中。我看见你已拥有相当的学问。那时你认为也应去看看雅典，于是你说服了\\Person{凯尔苏斯}陪伴你。有福的\\Person{凯尔苏斯}，竟能蒙你眷爱！然后你返回，住在家里，我对自己说：不知\\Person{巴西略}现在在做什么？他投身于什么工作？是追随古代的演说家，在法庭中操练吗？还是把有福之人的子弟培养成演说家？后来有人来报告我，说你在采纳一种比这一切更好的生活方式，你更多思虑如何赢得天主的友谊，而非成堆的黄金。我祝福了你和卡帕多细亚人：祝福你，因你以此为目标；祝福他们，因他们能以如此高尚的同乡为荣。",
+    "p0005": "2. 我知道你所提到的\\Person{菲尔穆斯}，到处都始终获胜；因此他是一位大有能力的演说家。但在他所受的一切颂扬中，我不知道曾有像我在你信中所听到的那样高的赞美。因为由你宣称他的名声不亚于任何人，这是何等的光荣啊！",
+    "p0006": "看来你是在见到\\Person{菲尔米努斯}之前，就把这位年轻人打发到我这里来了；你若是先见了他，你的信不会不提到他。\\Person{菲尔米努斯}现在做什么，或打算做什么？他仍急于结婚吗？还是那一切现在都已过去？元老院的职责对他沉重吗？他是否必须留在原地？他还有希望重新投入学业吗？让他给我一个答复，我希望是满意的答复。如果答复令人沮丧，至少可以免去他看见我登门拜访。如果\\Person{菲尔米努斯}现在正在雅典，你们的元老们会做什么？他们会派出萨拉米尼亚号去追他吗？你看，只有你的同乡们亏待了我。然而我绝不会停止爱护和称赞卡帕多细亚人。我希望他们对我更好一些，但如果他们继续如此行事，我也将忍受。\\Person{菲尔米努斯}和我在一起四个月，没有一日懈怠。你将知道他学到了多少，或许不会抱怨。至于他能否再来这里，我能求助于什么盟友？如果你们的元老们如受过教育的人所应有的那样明理，他们会在第二次情形中尊敬我，因为他们在第一次情形中使我伤心。"
+  }
+}

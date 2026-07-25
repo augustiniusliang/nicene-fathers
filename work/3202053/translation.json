@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "3202053",
+    "title": "Letter 53",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 53",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 53",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Chorepiscopi</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. My soul is deeply pained at the enormity of the matter on which I write, if for this only, that it has caused general suspicion and talk. But so far it has seemed to me incredible. I hope then that what I am writing about it may be taken by the guilty as medicine, by the innocent as a warning, by the indifferent, in which class I trust none of you may be found, as a testimony. And what is it of which I speak? There is a report that some of you take money from candidates for ordination, and excuse it on grounds of religion. This is indeed worse. If any one does evil under the guise of good he deserves double punishment; because he not only does what is in itself not good, but, so to say, makes good an accomplice in the commission of sin. If the allegation be true, let it be so no more. Let a better state of things begin. To the recipient of the bribe it must be said, as was said by the Apostles to him who was willing to give money to buy the fellowship of the Holy Ghost, Your money perish with you. {{BIBLE:act 8:20}} It is a lighter sin to wish in ignorance to buy, than it is to sell, the gift of God. A sale it was; and if you sell what you received as a free gift you will be deprived of the boon, as though you were yourself sold to Satan. You are obtruding the traffic of the huckster into spiritual things and into the Church where we are entrusted with the body and blood of Christ. These things must not be. And I will mention wherein lies an ingenious contrivance. They think that there is no sin because they take the money not before but after the ordination; but to take is to take at whatever time.",
+        "scripture": [
+          "act 8:20"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I exhort you, then, abandon this gain, or, I would rather say, this approach to Hell. Do not, by defiling your hands with such bribes, render yourselves unfit to celebrate holy mysteries. But forgive me. I began by discrediting; and now I am threatening as though I were convinced. If, after this letter of mine, any one do anything of the kind, he will depart from the altars here and will seek a place where he is able to buy and to sell God's gift. We and the Churches of God have no such custom. One word more, and I have done. These things come of covetousness. Now covetousness is the root of all evil and is called idolatry. Do not then price idols above Christ for the sake of a little money. Do not imitate Judas and once more betray for a bribe Him who was crucified for us. For alike the lands and the hands of all that make such gain shall be called Aceldama.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202053.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202053.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信五十三}",
+    "p0002": "\\Person{圣巴西略，凯撒勒雅}",
+    "p0003": "\\Emph{致乡村主教}",
+    "p0004": "1. 我所写之事极为重大，单就此事已引起众人猜疑与议论，为此我心深感痛楚。但迄今为止，我仍觉难以置信。因此，我愿所写之事为有罪者成为良药，为无辜者成为警诫，为漠不关心者——我相信你们中无人属此类——成为见证。我所说的是何事？有报告称，你们中有人从晋秩候选人手中收受金钱，并以宗教为借口加以掩饰。这实是更糟。若有人假借善行作恶，他应受双倍惩罚：因为他不仅行不善之事，而且，可谓使善成了罪的同谋。若此事属实，愿它不再发生。愿更好的局面开始。对受贿者，必须如宗徒对那愿以金钱购买圣神恩赐之人所说：\\BibleQuote{你的银子与你一同丧亡！}（\\BibleRef{宗 8:20}）无知而想购买天主的恩赐，其罪轻于出售。出售确是事实；若你出售白白领受的恩赐，你将失去这恩惠，如同自己被卖给撒殚一般。你将小贩的交易带入了属灵之事，带入了我们受托保管基督体血的教会。这些事绝不可行。我还要指出其中一种巧妙的诡计：有人以为因不是在晋秩之前而是在之后收钱，所以不算犯罪；但无论何时，收受就是收受。",
+    "p0005": "2. 因此，我劝告你们：舍弃这种收益，或更确切地说，舍弃这通往地狱之路。不要因以这类贿赂玷污双手，而使自己不配举行神圣奥迹。但请宽恕我：我起初以不信为由，如今却如确信般发出威胁。若在我这封信之后，仍有人行此类事，他必远离此处的祭台，去寻找一个他能买卖天主恩赐的地方。我们与天主的众教会并无这种习俗。再说一句，我便结束：这些事源于贪财。贪财是万恶之根，且被称为偶像崇拜。因此，不要为了一点金钱而将偶像置于基督之上。不要效法犹达斯，再次为贿赂出卖那为我们被钉十字架者。因为所有如此获利之人的田地和双手，都将被称为血田。"
+  }
+}

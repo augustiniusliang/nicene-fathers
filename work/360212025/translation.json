@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360212025",
+    "title": "Book XII, Letter 25",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XII, Letter 25",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XII, Letter 25",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Romanus, Guardian (Defensorem</em>) .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Romanus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It is well known to your Experience that Peter, whom we have made a guardian (<em>defensorem</em>), is sprung from the estate belonging to our Church which is called Vitelas. And so, since we ought to show kindness towards him in such a way that nevertheless the Church may suffer no disadvantage, we command you by this order to charge him strictly not to presume, under any pretext or excuse, to marry his children anywhere but in that estate to which they are bound by law and their condition . In this matter, too, it is necessary for your Experience to be very careful, and to threaten them, so that on no occasion whatever they may go out of the property to which by their birth they are subjected. For, if any one of them (as we do not believe will be the case) should presume to depart from it, he may be assured that our assent will never be given to any of them dwelling or being married outside the estate on which they were born, but that also their land should be superscribed . And then know that you will run no slight risk, if through your negligence any of them should attempt to do any of the things which we forbid.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360212025.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360212025.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十二卷，第二十五封书信",
+    "p0002": "\\Emph{致\\Person{罗马努斯}，卫护者（\\OriginalTerm{卫护者}{Defensorem}）}。",
+    "p0003": "\\Person{格列高利}致\\Person{罗马努斯}等。",
+    "p0004": "众所周知于您的阁下，我们已任命\\Person{彼得}为卫护者（\\OriginalTerm{卫护者}{defensorem}），他出身于属于我们教会的名为\\Place{维特拉}的庄园。因此，既然我们应当善待他，但又不使教会蒙受损失，我们命令您以此谕令严格告诫他，不得以任何借口或托辞，试图让其子女在合法身份所属的庄园之外结婚。在此事上，您的阁下也须非常谨慎，并警告他们，无论如何不得离开他们因出生而隶属的产业。因为，若他们中有人（我们认为不会发生）胆敢离开它，他可确信，我们绝不会同意他们中任何人在其出生的庄园之外居住或结婚，而且他们的土地也应当被登记。那么请注意，如果因您的疏忽，他们中有人试图做我们所禁止的任何事情，您将承担不小的风险。"
+  }
+}

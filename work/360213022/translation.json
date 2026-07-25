@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360213022",
+    "title": "Book XIII, Letter 22",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 22",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 22",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Rusticiana, Patrician Lady.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Rusticiana, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As often as any one comes to us from the royal city, we take care to enquire of your bodily health; but, my sins being the cause, I always hear what I am sorry to hear, since, frail and weak as you already are, it is reported that the pains of gout still grow upon you. But I pray the Almighty Lord that whatever befalls your body may be ordered to the health of your soul, and that temporal scourges may prepare for you eternal rest, and that through the pains which have an end He may grant you joys without end. As for me, I live in such a state of groaning and in the midst of such occupations that it irks me to have arrived at these days which now I spend, and my only consolation is the expectation of death. Wherefore I beg you to pray for me, to the end that I may be soon released from this prison of the flesh, so as to be no longer tormented by such great pains.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, I have to inform you that a certain person has come here, Beator by name, who gives himself out as <em>comes privatarum</em> , and is doing many things against all, but principally against your Excellency's people, or those of your most noble granddaughters, as though he were making enquiry into matters of public import. And we indeed will not permit him to act wrongfully, but neither can we stand in the way of public interests. Do you therefore treat as you can with the most pious princes, that they may countermand any wrongful proceeding on his part. For neither is the public interest served by any kind of turmoil, nor does he appear to reclaim anything of great amount. I beg that my most sweet son the lord Strategius be greeted in my behalf, whom may Almighty God nourish for Himself and for you, and ever comfort you by His own grace and by the young lord's life. Further, what should I write to you concerning your return hither, knowing as you do how much I desire it? But, when I look to the obligations of the business that detains you, I am in despair; and so I implore the Creator of all that, wherever you are, and wherever you may be, He would protect you by the extension of His right hand, and preserve you from all evil.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213022.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213022.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第二十二封信",
+    "p0002": "\\Emph{致贵妇\\Person{鲁斯蒂齐亚纳}。}",
+    "p0003": "\\Person{额我略}致\\Person{鲁斯蒂齐亚纳}等。",
+    "p0004": "每当有人从皇城来到我们这里，我们总是留心询问您的身体健康；但由于我的罪过之故，我听到的总是令我难过的事，因为您本就虚弱多病，据说痛风之苦仍在加重。但我恳求全能之主，愿您身体所遭遇的一切都能有益于您灵魂的健康，愿暂时的鞭笞为您预备永恒的安息，愿祂通过有终结的痛苦赐予您无终结的喜乐。至于我，我生活在如此呻吟和繁忙之中，以至于我厌恶自己活到了现在所度过的这些日子，我唯一的安慰就是期待死亡。因此，我恳求您为我祈祷，使我早日脱离这血肉的牢笼，不再受如此巨大的痛苦折磨。",
+    "p0005": "此外，我必须告知您，有一个名叫\\Person{贝亚托尔}的人来到这里，他自称是\\OriginalTerm{私产官}{comes privatarum}，并且正在做许多反对众人的事，但主要是反对您尊贵之人和您最尊贵的孙女们所属之人，仿佛是在调查公共事务。我们固然不会允许他行事不公，但也不能阻碍公共利益。因此，请您尽可能与最虔诚的君主们交涉，使他们能制止他的任何非法行为。因为任何混乱都无益于公共利益，而且他似乎也追讨不到什么大数目的东西。我恳求代我问候我最亲爱的儿子\\Person{斯特拉特吉乌斯}大人，愿全能的天主为了祂自己和为了您而养育他，并常以祂的恩宠和这位年轻大人的生命来安慰您。此外，关于您返回此地的事，我该写些什么呢？您知道我是多么渴望此事。但当我看到羁绊您的事务时，我又感到绝望；因此我恳求万有的创造者，无论您身在何处，也无论您将来身处何处，愿祂伸出右手保护您，并保全您脱离一切凶恶。"
+  }
+}

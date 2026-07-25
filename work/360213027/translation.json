@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360213027",
+    "title": "Book XIII, Letter 27",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 27",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 27",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Anthemius, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Anthemius, Subdeacon of Campania.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As often as we hear things of our brethren and fellow bishops that show them to be to blame and cause us sadness, necessity compels us in no slight degree to take thought for their amendment. Seeing, then, that it has been reported to us that the bishops of Campania are so negligent that, unmindful of the dignity and character of their office, neither towards their Churches nor towards their sons do they show the care of paternal vigilance, nor concern themselves about monasteries, nor bestow their protection on the oppressed and the poor, we therefore enjoin you and hereby give you authority to call them together, and strictly admonish them in virtue of our mandate, that they be not any longer idle, but so evince their priestly zeal and solicitude, and be so vigilant in what it becomes them justly and according unto God to do, that no murmur concerning them may exasperate us any more. If, however, you should find any one of them to be negligent after this being done, send him to us without allowing any excuse, that by regular exercise of discipline they may be made to feel how serious a matter it is to refuse to be corrected in things that are reprehensible and exceedingly to be condemned.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213027.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213027.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第27封信",
+    "p0002": "\\Emph{致副助祭安特弥。}",
+    "p0003": "额我略致坎帕尼亚副助祭安特弥。",
+    "p0004": "凡我们屡次听闻有关我们的弟兄和同主教们的事，显示他们应受责备并令我们悲伤，需要迫使我们不能不稍加考虑他们的改正。既然有人向我们报告，坎帕尼亚的主教们如此疏忽，以致忘记他们职务的尊严与品格，既不向他们的教会，也不向他们的儿子们显示父爱般的警觉照顾，也不关心隐修院，也不保护受压迫者和穷人，因此我们命令你，并特此授权你召集他们，并严格以我们的名义劝告他们，不可再怠惰，而要表现出他们的司铎热忱和关怀，并警觉地做他们应当公正且合乎天主所做的事，以便不再有任何关于他们的怨言激怒我们。然而，如果你发现他们中任何人在此事之后仍然疏忽，则不得容许任何借口，将他送到我们这里来，以便通过惯常的纪律处分，使他们感受到拒绝改正那些应受责备且极其应受谴责的事情是多么严重。"
+  }
+}

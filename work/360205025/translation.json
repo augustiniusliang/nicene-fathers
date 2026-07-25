@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360205025",
+    "title": "Book V, Letter 25",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book V, Letter 25",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book V, Letter 25",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Severus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Severus, Bishop of Ficulum.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The report that has been sent to us has informed us of the death of the bishop John. Wherefore we solemnly delegate to your Fraternity the work of the visitation of the bereaved Church: which work it becomes you so to execute that no one may presume to interfere with respect to the promotions of the clergy, the revenues, ornaments, ministrations, or whatever else belongs to the patrimony of the same Church. <em>According to custom</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360205025.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360205025.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五卷，第二十五封信",
+    "p0002": "\\Emph{致\\Person{塞维鲁}，主教。}",
+    "p0003": "\\Person{额我略}致\\Person{塞维鲁}，\\Place{菲库卢姆}主教。",
+    "p0004": "送交我们的报告告知我们\\Person{若望}主教的去世。因此，我们郑重委托您的兄弟情谊担任丧主之教会的视察工作：这工作您应如此执行，以致无人敢干涉有关圣职人员的晋升、收入、饰物、服务，或属于同一教会产业的一切其他事项。\\Emph{依惯例}。"
+  }
+}

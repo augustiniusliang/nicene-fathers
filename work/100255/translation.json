@@ -1,0 +1,94 @@
+{
+  "source": {
+    "source_id": "100255",
+    "title": "The Diatessaron (Section 55)",
+    "breadcrumbs": "Home > Fathers of the Church > The Diatessaron (Tatian) > Section 55",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Diatessaron (Section 55)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1 {{BIBLE:mat 28:16}} But the eleven disciples went into Galilee, to the mountain where Jesus had 2 appointed them. {{BIBLE:mat 28:17}} And when they saw him, they worshipped him: but there were of 3 them who doubted. {{BIBLE:mar 16:14}} And while they sat there he appeared to them again, and upbraided <em>them</em> for their lack of faith and the hardness of their hearts, those that saw him when he was risen, and believed not.",
+        "scripture": [
+          "mat 28:16",
+          "mat 28:17",
+          "mar 16:14"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "4 [Arabic, p. 209] {{BIBLE:mat 28:18}} Then said Jesus unto them, I have been given all authority in heaven 5 and earth; and as my Father has sent me, so I also send you. Go now into 6 all the world, and preach my gospel in all the creation; {{BIBLE:mat 28:19}} and teach all the peoples, and 7 baptize them in the name of the Father and the Son and the Holy Spirit; {{BIBLE:mat 28:20}} and teach them to keep all whatsoever I commanded you: and lo, I am with you all the days, unto 8 the end of the world. {{BIBLE:mar 16:16}} For whosoever believes and is baptized shall be saved; but 9 whosoever believes not shall be rejected. {{BIBLE:mar 16:17}} And the signs which shall attend those that believe in me are these: that they shall cast out devils in my name; and they 10 shall speak with new tongues; {{BIBLE:mar 16:18}} and they shall take <em>up</em> serpents, and if they drink deadly poison, it shall not injure them; and they shall lay their hands on the diseased, 11 and they shall be healed. {{BIBLE:luk 24:49}} But you, abide in the city of Jerusalem, until ye be clothed with power from on high.",
+        "scripture": [
+          "mat 28:18",
+          "mat 28:19",
+          "mat 28:20",
+          "mar 16:16",
+          "mar 16:17",
+          "mar 16:18",
+          "luk 24:49"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "12 And our Lord Jesus, after speaking to them, took them out to Bethany: and he 13 lifted up his hands, and blessed them. And while he blessed them, he was separated from them, and ascended into heaven, and sat down at the right hand of God. 14, 15 {{BIBLE:luk 24:52}} And they worshipped him, and returned to Jerusalem with great joy: {{BIBLE:luk 24:53}} and at all times they were in the temple, praising and blessing God. Amen.",
+        "scripture": [
+          "luk 24:52",
+          "luk 24:53"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "16 {{BIBLE:mar 16:20}} And from thence they went forth, and preached in every place; and our Lord helped them, and confirmed their sayings by the signs which they did.",
+        "scripture": [
+          "mar 16:20"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "17 {{BIBLE:joh 21:25}} And here are also many other things which Jesus did, which if they were written every one of them, not even the world, according to my opinion, would contain the books which should be written.",
+        "scripture": [
+          "joh 21:25"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Hope W. Hogg. From Ante-Nicene Fathers, Vol. 9. Edited by Allan Menzies. (Buffalo, NY: Christian Literature Publishing Co., 1896.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/100255.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Hope W. Hogg.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 9.",
+      "srced": "Edited by Allan Menzies.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1896.",
+      "srcurl": "<http://www.newadvent.org/fathers/100255.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{四福音合参（第55节）}",
+    "p0002": "1 \\BibleRef{玛 28:16} 但是那十一位门徒去了加里肋亚，到耶稣所指定的那座山上。2 \\BibleRef{玛 28:17} 他们看见祂，就朝拜了祂；但是有些人心中疑惑。3 \\BibleRef{谷 16:14} 当他们坐在那里时，祂又向他们显现，并责备\\Emph{他们}不信和心硬，因为他们看见了祂复活后，仍不相信。",
+    "p0003": "4 [阿拉伯语，第209页] \\Quote{\\BibleRef{玛 28:18} 那时耶稣对他们说：天上地下的一切权柄都已赐给了我；5 就如父派遣了我，我也派遣你们。现在你们往普天下去，向一切受造物宣讲我的福音；\\BibleRef{玛 28:19} 使所有民族成为门徒，7 因父、子及圣神之名给他们授洗；\\BibleRef{玛 28:20} 教导他们遵守我所吩咐你们的一切。看，我常与你们同在，直到世界的终结。8 \\BibleRef{谷 16:16} 信而受洗的，必要得救；但不信的，必被定罪。9 \\BibleRef{谷 16:17} 信我的人必有这些记号：因我的名驱逐魔鬼，10 说新语言；\\BibleRef{谷 16:18} 并能\\Emph{拿起}蛇，若喝了致命的毒药，也决不受害；按手在病人身上，他们就必痊愈。11 \\BibleRef{路 24:49} 但是你们，要留在耶路撒冷城里，直到你们领受自高天而来的权能。}",
+    "p0004": "12 我们的主耶稣对他们说完话后，就带他们出去，到了伯达尼；13 祂举起手来，祝福了他们。当祂祝福他们时，就离开了他们，被提升天，坐在天主的右边。14, 15 \\BibleRef{路 24:52} 他们朝拜了祂，满心欢喜地返回了耶路撒冷；\\BibleRef{路 24:53} 时常在圣殿里赞美颂扬天主。阿们。",
+    "p0005": "16 \\BibleRef{谷 16:20} 他们从那里出发，到处宣讲；主与他们合作，并以所行的神迹证实了他们所传的道。",
+    "p0006": "17 \\BibleRef{若 21:25} 此外，耶稣所行的事还有许多，若是一一写出来，我想，所写的书，就是世界也容纳不下。"
+  }
+}

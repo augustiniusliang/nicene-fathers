@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "050632",
+    "title": "Epistle 32",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To the Clergy and People, About the Ordination of Aurelius as a Reader.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— Cyprian Tells the Clergy and People that Aurelius the Confessor Has Been Ordained a Reader by Him, and Commends, by the Way, the Constancy of His Virtue and His Mind, Whereby He Was Even Deserving of a Higher Degree in the Church.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Cyprian to the elders and deacons, and to the whole people, greeting. In ordinations of the clergy, beloved brethren, we usually consult you beforehand, and weigh the character and deserts of individuals, with the general advice. But human testimonies must not be waited for when the divine approval precedes. Aurelius, our brother, an illustrious youth, already approved by the Lord, and dear to God, in years still very young, but, in the praise of virtue and of faith, advanced; inferior in the natural abilities of his age, but superior in the honour <em>he has merited</em>,— has contended here in a double conflict, having twice confessed and twice been glorious in the victory of his confession, both when he conquered in the course and was banished, and when at length he fought in a severer conflict, he was triumphant and victorious in the battle of suffering. As often as the adversary wished to call forth the servants of God, so often this prompt and brave soldier both fought and conquered. It had been a slight matter, previously to have engaged under the eyes of a few when he was banished; he deserved also in the forum to engage with a more illustrious virtue so that, after overcoming the magistrates, he might also triumph over the proconsul, and, after exile, might vanquish tortures also. Nor can I discover what I ought to speak most of in him—the glory of his wounds or the modesty of his character; that he is distinguished by the honour of his virtue, or praiseworthy for the admirableness of his modesty. He is both so excellent in dignity and so lowly in humility, that it seems that he is divinely reserved as one who should be an example to the rest for ecclesiastical discipline, of the way in which the servants of God should in confession conquer by their courage, and, after confession, be conspicuous for their character.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Such a one, to be estimated not by his years but by his deserts, merited higher degrees of clerical ordination and larger increase. But, in the meantime, I judged it well, that he should begin with the office of reading; because nothing is more suitable for the voice which has confessed the Lord in a glorious utterance, than to sound Him forth in the solemn repetition of the divine lessons; than, after the sublime words which spoke out the witness of Christ, to read the Gospel of Christ whence martyrs are made; to come to the desk after the scaffold; there to have been conspicuous to the multitude of the Gentiles, here to be beheld by the brethren; there to have been heard with the wonder of the surrounding people, here to be heard with the joy of the brotherhood. Know, then, most beloved brethren, that this man has been ordained by me and by my colleagues who were then present. I know that you will both gladly welcome these tidings, and that you desire that as many such as possible may be ordained in our church. And since joy is always hasty, and gladness can bear no delay, he reads on the Lord's day, in the meantime, for me; that is, he has made a beginning of peace, by solemnly entering on his office of a reader. Do you frequently be urgent in supplications, and assist my prayers by yours, that the Lord's mercy favouring us may soon restore both the priest safe to his people, and the martyr for a reader with the priest. I bid you, beloved brethren in God the Father, and in Jesus Christ, ever heartily farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050632.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050632.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十二封书信",
+    "p0002": "\\Emph{致圣职人员和民众：关于\\Person{奥勒留}被任命为读经员}",
+    "p0003": "\\Emph{论题：\\Person{西彼廉}告知圣职人员和民众，他已任命宣信者\\Person{奥勒留}为读经员，并顺便赞扬他品德与心志的恒毅，这使他甚至配得教会中更高的品级。}",
+    "p0004": "1. \\Person{西彼廉}致诸位长老与执事，并全体民众，安好。亲爱的弟兄们，在圣职人员的任命中，我们通常事先与你们商议，并以共同的意见衡量个别人的品格与功绩。然而，当主的认可先于人的见证时，就不必等待人的见证。我们的兄弟\\Person{奥勒留}，一位杰出的青年，已获主认可并为天主所爱，年纪虽轻，但在德行与信德上却已成熟；他在本性的能力上逊于年龄，但在\\Emph{他所应得的}尊荣上卓越——他在这里进行过双重的战斗，两次宣认，两次在宣认的胜利中光荣，既在赛程中征服并被流放，又最终在更激烈的战斗中奋战，在受苦的争战中得胜凯旋。每当仇敌想召出天主的仆役时，这位敏捷勇敢的兵士便一面战斗，一面征服。此前，当他被流放时，在少数人面前作战尚且是小事一桩；他更配得在法庭上以更显赫的德行作战，以至在征服长官之后，也战胜了总督，并在流放之后，接着克服了酷刑。我无法发现应更多称道他身上的什么——他伤口的荣耀，还是他品格的谦逊；他是因德行的尊荣而杰出，还是因谦逊的可敬而值得赞扬。他既在尊严上如此卓越，又在谦卑中如此卑微，以至于他似乎是被天主特意保留，作为其余人学习教会纪律的榜样，即天主的仆人们应如何在宣认中以勇气获胜，并在宣认之后以其品格引人注目。",
+    "p0005": "2. 这样一个人，不应按年龄而应按功绩来判断，他配得圣职任命中更高的品级与更大的提升。但在此期间，我认为他应从读经的职务开始；因为对于一个以光荣的言语宣认过主的人来说，最适合莫过于以庄严重复神圣读经来宣扬他；莫过于在宣告基督见证的高超话语之后，诵读那产生殉道者的基督福音；莫过于在离开刑台后到读经台前；莫过于在那里曾为外邦人群所瞩目，在这里则为弟兄们所看见；莫过于在那里曾使周围民众惊叹地聆听，在这里则使兄弟团体喜悦地听闻。那么，最亲爱的弟兄们，要知道此人已由我和当时在场的同事们一起任命。我知道你们会欣然接受这个消息，并渴望我们教会中能有尽可能多这样的人被任命。而且，因为喜乐总是急切的，欢愉不能忍受迟延，他目前就在主日为我诵读；也就是说，他以庄严开始他的读经职务，开启了和平的序幕。请你们恒常地恳切祈祷，并用你们的祈祷协助我的祈祷，使主的仁慈眷顾我们，早日将司铎平安地还给民众，并将殉道者作为读经员与司铎一同赐还。亲爱的在圣父天主及耶稣基督内的弟兄们，我衷心祝你们常常安好。"
+  }
+}

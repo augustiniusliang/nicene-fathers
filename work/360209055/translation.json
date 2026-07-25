@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360209055",
+    "title": "Book IX, Letter 55",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 55",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 55",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Fantinus, Guardian (Defensorem), of Panormus (Palermo).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Fantinus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "A little time ago we wrote to Victor, our brother and fellow bishop, that— inasmuch as certain of the Jews have complained in a petition presented to us that synagogues with their guest-chambers, situated in the city of Panormus, had by him been unreasonably taken possession of— he should keep aloof from their congregation until it could be ascertained whether this thing had been justly done, lest perchance injury should appear to have been alleged by them of their own mere will. And indeed, having regard to his priestly office, we could not easily believe that our aforesaid brother had done anything unsuitably. But, since we find from the report of Salarius, our notary, who was afterwards there, that there had been no reasonable cause for taking possession of those synagogues, and that they had been unadvisedly and rashly consecrated, we therefore enjoin your Experience, since what has been once consecrated cannot any more be restored to the Jews, that it be your care to see that our aforesaid brother and fellow bishop pay the price at which our sons, the glorious Venantius the Patrician, and Urbicus the Abbot, may value the synagogues themselves with the guest-chambers that are under them or annexed to their walls, and the gardens thereto adjoining; that so what he has caused to be taken possession of may belong to the Church, and they may in no way be oppressed, or suffer any injustice. Moreover, let books or ornaments that have been abstracted be in like manner sought for. And, if any have been manifestly taken away, we desire them also to be restored without any ambiguity. For, as there ought to be no licence for them, as we have ourselves already written, to do anything in their synagogues beyond what is decreed by law, so neither damage nor any cost ought to be brought upon them contrary to justice and equity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209055.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209055.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，书信五十五",
+    "p0002": "致\\Person{凡蒂诺}，\\Place{帕诺尔穆斯}（\\Place{巴勒莫}）的守护者（\\OriginalTerm{守护者}{Defensorem}）。",
+    "p0003": "\\Person{额我略}致\\Person{凡蒂诺}等。",
+    "p0004": "不久前我们写信给我们的兄弟和同为主教的\\Person{维克托}，即——因某些犹太人提交给我们的请愿书中抱怨说，位于\\Place{帕诺尔穆斯}的会堂及其客房被他无理占据——他应远离他们的集会，直到查明此事是否公正地执行，以免无辜者似乎因他们自己的意愿而受到伤害。的确，考虑到他的司铎职务，我们很难相信我们上述兄弟曾做出任何不当之事。但是，由于我们从随后在场的我们公证人\\Person{萨拉里乌斯}的报告中发现，占据那些会堂没有合理理由，而且它们是被轻率且鲁莽地祝圣的，因此我们命令您的经验，既然一旦祝圣就不能再归还给犹太人，您应负责确保我们上述兄弟和同为主教支付我们的儿子，光荣的贵族\\Person{韦南提乌斯}和院长\\Person{乌尔比库斯}所估价的会堂本身及其下方或紧邻墙壁的客房，以及相邻花园的价格；这样他所占据的就可归属教会，而他们（犹太人）绝不会受压迫或遭受任何不公。此外，被拿走的书籍或装饰物也应同样查找。如果任何物品被明显带走，我们同样希望它们毫无歧义地归还。因为，正如我们已写过的，他们在自己的会堂内不得有任何超出法律规定的许可，同样，也不应使他们遭受违背正义与公平的损失或任何费用。"
+  }
+}

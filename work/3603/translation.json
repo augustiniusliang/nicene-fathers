@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "3603",
+    "title": "Sermons of St. Leo the Great",
+    "breadcrumbs": "Home > Fathers of the Church > Sermons of St. Leo the Great",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Sermons of St. Leo the Great",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Sermon 1\nSermon 2\nSermon 3\nSermon 9\nSermon 10\nSermon 12\nSermon 16\nSermon 17\nSermon 19\nSermon 21\nSermon 22\nSermon 23\nSermon 24\nSermon 26\nSermon 27\nSermon 28\nSermon 31\nSermon 33\nSermon 34\nSermon 36\nSermon 39\nSermon 40\nSermon 42\nSermon 46\nSermon 49\nSermon 51\nSermon 54\nSermon 55\nSermon 58\nSermon 59\nSermon 62\nSermon 63\nSermon 67\nSermon 68\nSermon 71\nSermon 72\nSermon 73\nSermon 74\nSermon 75\nSermon 77\nSermon 78\nSermon 82\nSermon 84\nSermon 85\nSermon 88\nSermon 90\nSermon 91\nSermon 95",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3603.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3603.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{圣大良讲道集}",
+    "p0002": "讲道1\\newline{}讲道2\\newline{}讲道3\\newline{}讲道9\\newline{}讲道10\\newline{}讲道12\\newline{}讲道16\\newline{}讲道17\\newline{}讲道19\\newline{}讲道21\\newline{}讲道22\\newline{}讲道23\\newline{}讲道24\\newline{}讲道26\\newline{}讲道27\\newline{}讲道28\\newline{}讲道31\\newline{}讲道33\\newline{}讲道34\\newline{}讲道36\\newline{}讲道39\\newline{}讲道40\\newline{}讲道42\\newline{}讲道46\\newline{}讲道49\\newline{}讲道51\\newline{}讲道54\\newline{}讲道55\\newline{}讲道58\\newline{}讲道59\\newline{}讲道62\\newline{}讲道63\\newline{}讲道67\\newline{}讲道68\\newline{}讲道71\\newline{}讲道72\\newline{}讲道73\\newline{}讲道74\\newline{}讲道75\\newline{}讲道77\\newline{}讲道78\\newline{}讲道82\\newline{}讲道84\\newline{}讲道85\\newline{}讲道88\\newline{}讲道90\\newline{}讲道91\\newline{}讲道95"
+  }
+}

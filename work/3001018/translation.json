@@ -1,0 +1,69 @@
+{
+  "source": {
+    "source_id": "3001018",
+    "title": "Letter 18",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 18",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Letter XVIII. To Pope Damasus.",
+        "scripture": [],
+        "style": "c30",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{BIBLE:joh 12:41}} that it was Christ and not the Father whom the prophet saw.</quote> And again, <quote>The word seraphim means either 'glow' or 'beginning of speech,' and the two seraphim thus stand for the Old and New Testaments. 'Did not our heart burn within us,' said the disciples, 'while he opened to us the Scriptures?' {{BIBLE:luk 24:32}} Moreover, the Old Testament is written in Hebrew, and this unquestionably was man's original language.</quote> Jerome then speaks of the unity of the sacred books. <quote>Whatever,</quote> he asserts, <quote>we read in the Old Testament we find also in the Gospel; and what we read in the Gospel is deduced from the Old Testament. There is no discord between them, no disagreement. In both Testaments the Trinity is preached.</quote>",
+        "scripture": [
+          "joh 12:41",
+          "luk 24:32"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The letter is noticeable for the evidence it affords of the thoroughness of Jerome's studies. Not only does he cite the several Greek versions of Isaiah in support of his argument, but he also reverts to the Hebrew original. So far as the West was concerned he may be said to have discovered this anew. Even educated men like Augustine had ceased to look beyond the LXX., and were more or less aghast at the boldness with which Jerome rejected its time-honored but inaccurate renderings.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The letter also shows that independence of judgment which always marked Jerome's work. At the time when he wrote it he was much under the sway of Origen. But great as was his admiration for the master, he was not afraid to discard his exegesis when, as in the case of the seraphim, he believed it to be erroneous.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001018.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001018.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十八封信",
+    "p0002": "第十八封信。致教宗\\Person{达玛稣}。",
+    "p0003": "\\Quote{见：\\BibleRef{若 12:41}，先知所见的是基督，而非圣父。}他又说：\\Quote{\\OriginalTerm{色辣芬}{seraphim}一词或意为\\InnerQuote{灼热}，或意为\\InnerQuote{言语的开端}；两只色辣芬因而代表\\WorkTitle{旧约}和\\WorkTitle{新约}。\\InnerQuote{我们的心不是火热吗？}门徒说，\\InnerQuote{当他给我们讲解圣经的时候？}见：\\BibleRef{路 24:32} 况且，\\WorkTitle{旧约}是用希伯来文写成的，这无疑是人类的原始语言。}\\Person{热罗尼莫}随后谈论圣书的统一性。\\Quote{无论什么，}他断言，\\Quote{我们在\\WorkTitle{旧约}中所读的，也在福音中找到；我们在福音中所读的，都出自\\WorkTitle{旧约}。两者之间没有不和谐，没有分歧。在两个约中，都宣讲天主圣三。}",
+    "p0004": "这封信因其提供的证据而引人注目，这些证据展示了\\Person{热罗尼莫}研究的彻底性。他不仅引用了几种希腊文\\BibleBook{依撒意亚}{}译本以支持自己的论点，而且还追溯到希伯来原文。就西方而言，可以说他重新发现了这一点。就连像\\Person{奥斯定}这样有学识的人也已不再关注\\WorkTitle{七十贤士译本}之外的东西，并且对\\Person{热罗尼莫}大胆拒绝其历时悠久却并不准确的译法多少感到惊愕。",
+    "p0005": "这封信也展示了那种一向标志\\Person{热罗尼莫}工作的判断独立性。在撰写此信时，他深受\\Person{奥力根}的影响。但是，尽管他对这位大师极为钦佩，当他认为其解经有误时——如在色辣芬的例子中——他并不害怕放弃它。"
+  }
+}

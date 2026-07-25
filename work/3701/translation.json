@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "3701",
+    "title": "Demonstrations",
+    "breadcrumbs": "Home > Fathers of the Church > Demonstrations (Aphrahat)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Demonstrations",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Demonstration I</strong> Of Faith\n<strong>Demonstration V</strong> Of Wars\n<strong>Demonstration VI</strong> Of Monks\n<strong>Demonstration VIII</strong> Of the Resurrection of the Dead\n<strong>Demonstration X</strong> Of Pastors\n<strong>Demonstration XVII</strong> Of Christ the Son of God\n<strong>Demonstration XXI</strong> Of Persecution\n<strong>Demonstration XXII</strong> Of Death and the Latter Times",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by John Gwynn. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1890.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3701.htm>.",
+    "metadata": {
+      "srctrans": "Translated by John Gwynn.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1890.",
+      "srcurl": "<http://www.newadvent.org/fathers/3701.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "论证集",
+    "p0002": "\\Emph{论证一} 论信德\\newline{}\\Emph{论证五} 论战争\\newline{}\\Emph{论证六} 论隐修士\\newline{}\\Emph{论证八} 论死者复活\\newline{}\\Emph{论证十} 论司牧\\newline{}\\Emph{论证十七} 论基督天主之子\\newline{}\\Emph{论证二十一} 论迫害\\newline{}\\Emph{论证二十二} 论死亡与末世"
+  }
+}

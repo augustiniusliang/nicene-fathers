@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202202",
+    "title": "Letter 202",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 202",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 202",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Amphilochius, bishop of Iconium</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Under other circumstances I should think it a special privilege to meet with your reverence, but above all now, when the business which brings us together is of such great importance. But so much of my illness as still clings to me is enough to prevent my stirring ever so short a distance. I tried to drive as far as the martyrs and had a relapse almost into my old state. You must therefore forgive me. If the matter can be put off for a few days, I will, by God's grace join you, and share your anxieties. If the business presses, do, by God's help, what has to be done; but reckon me as present with you and as participating in your worthy deeds. May you, by the grace of the Holy One, be preserved to God's Church, strong and joyous in the Lord, and praying for me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202202.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202202.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第202封",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "\\Emph{致\\Place{依科尼雍}主教\\Person{安菲洛基乌斯}。}",
+    "p0004": "若在其他情况下，我会认为与尊驾相会是一种特别的荣幸，但尤其如今，当我们聚首之事如此重要之时。然而，我仍残余的疾病足以阻止我哪怕移动极短的距离。我曾尝试驾车直到殉道者之处，却几乎复发了旧病。因此，务请宽恕我。若此事能推迟数日，我必赖天主的恩宠与您会合，分担您的忧虑。若事情紧迫，就靠天主的助佑完成必须做的事；但请把我看作与您同在，并参与您可敬的作为。愿您，藉圣者的恩宠，得蒙保存于天主的教会，在主内坚强喜乐，并为我祈祷。"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "source": {
+    "source_id": "3202024",
+    "title": "Letter 24",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 24",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Athanasius, father of Athanasius bishop of Ancyra</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "That one of the things hardest to achieve, if indeed it be not impossible, is to rise superior to calumny, I am myself fully persuaded, and so too, I presume, is your excellency. Yet not to give a handle by one's own conduct, either to inquisitive critics of society, or to mischief makers who lie in wait to catch us tripping, is not only possible, but is the special characteristic of all who order their lives wisely and according to the rule of true religion. And do not think me so simple and credulous as to accept depreciatory remarks from any one without due investigation. I bear in mind the admonition of the Spirit, <quote>You shall not receive a false report.</quote> But you, learned men, yourselves say that <quote>The seen is significant of the unseen.</quote> I therefore beg—(and pray do not take it ill if I seem to be speaking as though I were giving a lesson; for <quote>God has chosen the weak</quote> and <quote>despised things of the world,</quote> {{BIBLE:1co 1:27}} and often by their means brings about the salvation of such as are being saved); what I say and urge is this; that by word and deed we act with scrupulous attention to propriety, and, in accordance with the apostolic precept, <quote>give no offense in anything.</quote> {{BIBLE:2co 6:3}} The life of one who has toiled hard in the acquisition of knowledge, who has governed cities and states, and who is jealous of the high character of his forefathers, ought to be an example of high character itself. You ought not now to be exhibiting your disposition towards your children in word only, as you have long exhibited its ever since you became a father; you ought not only to show that natural affection which is shown by brutes, as you yourself have said, and as experience shows. You ought to make your love go further, and be a love all the more personal and voluntary in that you see your children worthy of a father's prayers. On this point I do not need to be convinced. The evidence of facts is enough. One thing, however, I will say for truth's sake, that it is not our brother Timotheus, the Chorepiscopus, who has brought me word of what is noised abroad. For neither by word of mouth nor by letter has he ever conveyed anything in the shape of slander, be it small or great. That I have heard something I do not deny, but it is not Timotheus who accuses you. Yet while I hear whatever I do, at least I will follow the example of Alexander, and will keep one ear clear for the accused.",
+        "scripture": [
+          "1co 1:27",
+          "2co 6:3"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202024.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202024.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二十四封信",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致\\Person{阿塔纳西}，\\Place{安基拉}主教\\Person{阿塔纳西}之父}",
+    "p0004": "即使并非不可能，最难实现的事情之一就是超然于毁谤之上，这一点我本人深信不疑，我想阁下也是如此。然而，不因自己的行为给社会的吹毛求疵者或伺机抓我们把柄的恶意中伤者留下把柄，不仅可能，而且是一切按照真正宗教准则智慧地安排生活者特有的品质。请不要以为我如此单纯轻信，以致不经适当调查就接受任何人的贬损之言。我牢记圣神的告诫：\\Quote{不可接受虚假的报告。}但你们这些博学之士自己说：\\Quote{可见之事表明不可见之事。}因此我恳请——（请勿见怪，我似乎像在教训人；因为\\BibleQuote{天主拣选了世上软弱的}和\\BibleQuote{世上卑贱的，}\\BibleRef{格前 1:27}常常藉此拯救那些得救的人）；我所说和所敦促的是：在言语和行为上严加注意合宜，并按照宗徒的训诫，\\BibleQuote{凡事都不叫人有妨碍。}\\BibleRef{格后 6:3}一个在获取知识上辛勤劳作、治理过城市和国家、并热切效法祖先崇高品格的人，其生活本身应当成为崇高品格的典范。你现在不应仅仅在言语上向你的子女表现你的慈爱，正如你从成为父亲以来长久表现的那样；你不仅应表现出禽兽也有的那种自然亲情，如你自己所说的，经验也证实了这一点。你应当使你的爱更进一步，成为一种更加个人化、更加自愿的爱，因为你看到你的子女配得上父亲的祈祷。在这一点上，我不需要被说服。事实的证据已经足够。不过，为了真理，我要说一件事：不是我们的兄弟\\Person{弟茂德}，那位\\OriginalTerm{乡村主教}{Chorepiscopus}将外面传闻的消息告诉了我。因为他无论是口传还是书信，从未传达过任何毁谤之言，无论大小。我确实听到了一些事，但并非弟茂德控告你。然而，无论我听到什么，我至少会效法\\Person{亚历山大}的榜样，为被告保留一只耳朵。"
+  }
+}

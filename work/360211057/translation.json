@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360211057",
+    "title": "Book XI, Letter 57",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 57",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 57",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Aregius, Bishop of Vapincum</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Aregius, Bishop of Gaul.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "There being in brotherly love one heart and one soul, as the mind rejoices in the prosperity of another, so is it afflicted in his adversity, since in both it is bound to be partaker by the law of charity. And so the greater sorrow had come upon us for your sadness, lest perchance the affliction of a prolonged grief might batter your heart with continual pain, and burden your life with groans. But, having received the letters of your Charity, we have been consoled with the joy we hoped for, and we give thanks to Almighty God, for that we now know that your equanimity is unimpaired, and that your mind has been restored to comfort. Nor indeed was it otherwise to be expected of you than that you would undoubtedly overcome with priestly patience whatever adversity there might be.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Further, we well recollect how the zeal of your Fraternity flamed up of old in uprooting simoniacal heresy. Wherefore we exhort that you give your earnest attention to this, and that, among other things that we wrote of, it be condemned by the strict definition of a council; that so, the bent of our desire being fulfilled by the help of your solicitude, you may both offer to Almighty God a most acceptable oblation in the correction of vices, and also show, for the edification of others, how the care of the pastoral office shines forth in you. Moreover our experience of your life, which we have known to be much superior to that of many, moves us to presume on great assistance from you in this matter. And so complete ye your kindness as under God you have begun, that the good which with a right aim has been begun in you may, by the help of God the Creator of all, be brought to completion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Furthermore, let your Fraternity bestow your accustomed charity on the monks whom we have sent to our most reverend brother and fellow bishop Augustine; and so endeavour to succour them for proceeding on their way, as well personally as through others as you can, that, while through your provision they have no difficulties or delays in your parts, both we may feel that our confidence in you was not in vain, and Almighty God may give you the recompense of His grace for the conversion of the souls on whose behalf they have been sent.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211057.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211057.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "Book XI, Letter 57",
+    "p0002": "\\Emph{致\\Person{阿雷吉乌斯}，\\Place{瓦平库姆}主教}。",
+    "p0003": "\\Person{额我略}致\\Place{高卢}主教\\Person{阿雷吉乌斯}。",
+    "p0004": "在兄弟之爱中既然一心一意，心灵因他人的顺遂而喜乐，也因他人的逆境而忧伤，因为按爱德之律，它必分担两者。因此，您的忧伤曾使我们格外悲伤，唯恐长久的悲痛之苦持续击打您的心，并以呻吟加重您的生命。但收到您爱德的来信后，我们得以所盼望的喜乐得安慰，并感谢全能的天主，因我们现在知道您的平静安然无恙，您的心已恢复安慰。确实，对您而言，我们本不期望别的情况，您必以司铎的忍耐战胜任何逆境。",
+    "p0005": "此外，我们清楚记得，您的兄弟之情往昔在铲除\\OriginalTerm{买卖圣职的异端}{simoniacal heresy}时曾如何炽燃。因此，我们恳切劝勉您对此认真留意，并且，在我们所写的其他事项中，应以公会议之严格定义予以谴责；如此，藉您关怀之助，我们的愿望得以实现，您即可在纠正恶习上向全能天主献上最中悦的祭献，并为他人的建树显示牧职之光辉在您身上彰显。此外，我们对您生活之体验，已知远超众人，促使我们在此事上预期您的大力协助。故此，请完成您的善举，如同您在天主内已开始的那样，以使您心中以正确目标开始的善行，藉万物造主天主的助佑，得以完满。",
+    "p0006": "再者，请您的兄弟之情将惯有的爱德施予我们派往我们最可敬的弟兄及同僚主教\\Person{奥古斯丁}处的隐修士们；并尽力帮助他们继续行程，无论是亲自还是藉他人，尽您所能，以致因您的供应，他们在您所辖地区无困难或耽搁，我们即可感到对您的信赖并非徒然，全能的天主也必将因他们被派往拯救之灵魂而赐予您恩宠的赏报。"
+  }
+}

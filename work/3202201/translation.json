@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202201",
+    "title": "Letter 201",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 201",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 201",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Amphilochius, bishop of Iconium</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I long to meet you for many reasons, that I may have the benefit of your advice in the matters I had in hand, and that on beholding you after a long interval I may have some comfort for your absence. But since both of us are prevented by the same reasons, you by the illness which has befallen you, and I by the malady of longer standing which has not yet left me, let us, if you will, each forgive the other, that both may free ourselves from blame.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202201.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202201.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第201封",
+    "p0002": "\\Signature{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "\\Emph{致\\Place{依科尼雍}主教\\Person{安斐洛纠}}",
+    "p0004": "我渴望与你会面，原因甚多：既可在所处理之事上受益于你的忠告，又能在久别之后见到你，以稍慰你缺席之苦。然而，我俩皆因相同缘由受阻——你因降临于你的疾病，我因缠绕已久仍未离去的病痛——若你同意，让我们彼此宽恕，好使双方皆可免于责难。"
+  }
+}

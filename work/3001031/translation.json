@@ -1,0 +1,105 @@
+{
+  "source": {
+    "source_id": "3001031",
+    "title": "Letter 31",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 31",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 31",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Eustochium</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Jerome writes to thank Eustochium for some presents sent to him by her on the festival of St. Peter. He also moralizes on the mystical meaning of the articles sent. The letter should be compared with Letter XLIV., of which the theme is similar. Written at Rome in 384 A.D. (on St. Peter's Day)."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Doves, bracelets, and a letter are outwardly but small gifts to receive from a virgin, but the action which has prompted them enhances their value. And since honey may not be offered in sacrifice to God, {{BIBLE:lev 2:11}} you have shown skill in taking off their overmuch sweetness and making them pungent— if I may so say— with a dash of pepper. For nothing that is simply pleasurable or merely sweet can please God. Everything must have in it a sharp seasoning of truth. Christ's passover must be eaten with bitter herbs. {{BIBLE:exo 12:8}}",
+        "scripture": [
+          "lev 2:11",
+          "exo 12:8"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. It is true that a festival such as the birthday of Saint Peter should be seasoned with more gladness than usual; still our merriment must not forget the limit set by Scripture, and we must not stray too far from the boundary of our wrestling-ground. Your presents, indeed, remind me of the sacred volume, for in it Ezekiel decks Jerusalem with bracelets, {{BIBLE:eze 16:11}} Baruch receives letters from Jeremiah, and the Holy Spirit descends in the form of a dove at the baptism of Christ. {{BIBLE:mat 3:16}} But to give you, too, a sprinkling of pepper and to remind you of my former letter, I send you today this three-fold warning. Cease not to adorn yourself with good works— the true bracelets of a Christian woman. {{BIBLE:1ti 2:10}} Rend not the letter written on your heart {{BIBLE:2co 3:2}} as the profane king cut with his penknife that delivered to him by Baruch. {{BIBLE:jer 36:23}} Let not Hosea say to you as to Ephraim, <quote>You are like a silly dove.</quote> {{BIBLE:hos 7:11}}",
+        "scripture": [
+          "eze 16:11",
+          "mat 3:16",
+          "1ti 2:10",
+          "2co 3:2",
+          "jer 36:23",
+          "hos 7:11"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "My words are too harsh, you will say, and hardly suitable to a festival like the present. If so, you have provoked me to it by the nature of your own gifts. So long as you put bitter with sweet, you must expect the same from me, sharp words that is, as well as praise.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "3. However, I do not wish to make light of your gifts, least of all the basket of fine cherries, blushing with such a virgin modesty that I can fancy them freshly gathered by Lucullus himself. For it was he who first introduced the fruit at Rome after his conquest of Pontus and Armenia; and the cherry tree is so called because he brought it from Cerasus. Now as the Scriptures do not mention cherries, but do speak of a basket of figs, {{BIBLE:jer 24:1}} I will use these instead to point my moral. May you be made of fruits such as those which grow before God's temple and of which He says, <quote>Behold they are good, very good.</quote> {{BIBLE:jer 24:3}} The Saviour likes nothing that is half and half, and, while he welcomes the hot and does not shun the cold, he tells us in the Apocalypse that he will spew the lukewarm out of his mouth. {{BIBLE:rev 3:15}} Wherefore we must be careful to celebrate our holy day not so much with abundance of food as with exultation of spirit. For it is altogether unreasonable to wish to honor a martyr by excess who himself, as you know, pleased God by fasting. When you take food always recollect that eating should be followed by reading, and also by prayer. And if, by taking this course, you displease some, repeat to yourself the words of the Apostle: <quote>If I yet pleased men I should not be the servant of Christ</quote> {{BIBLE:gal 1:10}}",
+        "scripture": [
+          "jer 24:1",
+          "jer 24:3",
+          "rev 3:15",
+          "gal 1:10"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001031.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001031.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十一封书信",
+    "p0002": "\\Emph{致欧斯托钦}",
+    "p0003": "\\EditorialNote{热罗尼莫写信感谢欧斯托钦在圣伯多禄瞻礼日送给他的一些礼物。他还对所送物品的神秘含义进行了道德诠释。这封信应与第四十四封书信相比较，其主题相似。写于公元384年罗马（圣伯多禄瞻礼日）。}",
+    "p0004": "1. 鸽子、手镯和一封信，从一位贞女那里收到，外表上只是小礼物，但促使这礼物的行动却增加了它们的价值。既然蜂蜜不可作为祭品献给天主，\\BibleRef{肋 2:11} 你便巧妙地除去它们过度的甜味，使它们——如果我可以这样说——因加了一点胡椒而变得辛辣。因为凡是单纯令人愉快或仅仅甜蜜的事物，都不能取悦天主。一切事物都必须有真理的尖锐调味。基督的逾越节必须与苦菜一同吃。\\BibleRef{出 12:8}",
+    "p0005": "2. 诚然，像圣伯多禄诞辰这样的节日，比平常应以更多的喜乐来调味；但我们的欢乐仍不能忘记圣经所定的界限，我们也不可过于远离我们角力的场地。你的礼物确实让我想起圣经的篇章，因为厄则克耳用它装饰耶路撒冷，为其佩戴手镯，\\BibleRef{则 16:11} 巴路克从耶肋米亚那里接受书信，圣神在基督受洗时以鸽子的形状降临。\\BibleRef{玛 3:16} 但为了也给你加上一点胡椒，并提醒你我之前的书信，我今天送你这三重警告。不要停止以善工装饰自己——这是基督徒妇人的真正手镯。\\BibleRef{弟前 2:10} 不要撕毁写在你心上的书信，\\BibleRef{格后 3:2} 如同那渎神的国王用他的小刀割破巴路克交给他的书卷。\\BibleRef{耶 36:23} 不要让欧瑟亚对你说，如同对厄弗辣因说：\\Quote{你像一只愚蠢的鸽子。}\\BibleRef{欧 7:11}",
+    "p0006": "你会说，我的话过于严厉，与像现在这样的节日不太相称。如果是这样，那是你自己的礼物性质激怒了我。只要你把苦与甜混在一起，你就得从我这里得到同样的回报，也就是说，既有尖锐的话语，也有赞美。",
+    "p0007": "3. 不过，我不愿轻视你的礼物，尤其那篮精美的樱桃，带着童贞的羞涩而如此绯红，以致我幻想起它们是由卢库卢斯本人亲自采摘的。因为是他首先将这种水果引入罗马，在他征服了彭托斯和亚美尼亚之后；樱桃树之所以得名，是因为他从\\Place{塞拉苏斯}带回来的。既然圣经没有提到樱桃，但却提到了一篮无花果，\\BibleRef{耶 24:1} 我就用这些来指出我的教训。愿你结出这样的果实，如同那些在天主圣殿前生长的，祂说：\\Quote{看，它们很好，非常好。}\\BibleRef{耶 24:3} 救主不喜欢半冷不热的东西，祂虽接纳热心的，也不拒绝冷淡的，但在默示录中说，祂要把温吞的从口中吐出来。\\BibleRef{默 3:15} 因此，我们必须谨慎，庆祝我们的圣日，与其以丰盛的食物，不如以精神的欢跃。因为希望以过度来荣耀一位殉道者，而这殉道者本人，如你所知，以斋戒取悦了天主，是完全不合理的。当你进食时，总要记得，吃饭之后应接以阅读，并接以祈祷。如果因为这样而行，你使某些人不悦，就对自己重复宗徒的话：\\Quote{如果我还讨人的喜欢，我就不是基督的仆人了。}\\BibleRef{迦 1:10}"
+  }
+}

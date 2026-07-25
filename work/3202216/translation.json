@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202216",
+    "title": "Letter 216",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 216",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 216",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Meletius, bishop of Antioch.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Many other journeys have taken me from home. I have been as far as Pisidia to settle the matters concerning the brethren in Isauria in concert with the Pisidian bishops. Thence I journeyed into Pontus, for Eustathius had caused no small disturbance at Dazimon, and had caused there a considerable secession from our church. I even went as far as the home of my brother Peter, and, as this is not far from Neocæsarea, there was occasion of considerable trouble to the Neocæsareans, and of much rudeness to myself. Some men fled when no one was in pursuit. And I was supposed to be intruding uninvited, simply to get compliments from the folk there. As soon as I got home, after contracting a severe illness from the bad weather and my anxieties, I straightway received a letter from the East to tell me that Paulinus had had certain letters from the West addressed to him, in acknowledgement of a sort of higher claim; and that the Antiochene rebels were vastly elated by them, and were next preparing a form of creed, and offering to make its terms a condition of union with our Church. Besides all this it was reported to me that they had seduced to their faction that most excellent man Terentius. I wrote to him at once as forcibly as I could, to induce him to pause; and I tried to point out their disingenuousness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202216.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202216.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信216",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "致\\Person{安提约基雅的默肋提乌斯}主教。",
+    "p0004": "许多其他旅程使我离家。我曾远至\\Place{丕息狄雅}，与丕息狄雅的主教们一同解决有关\\Place{依扫利雅}弟兄们的事务。然后我旅行到\\Place{本都}，因为\\Person{欧斯塔提乌斯}在\\Place{达齐蒙}引起了不小的骚动，并导致那里从我们的教会中分离出相当一部分人。我甚至到了我兄弟\\Person{伯多禄}的家，由于那里离\\Place{新凯撒勒雅}不远，给新凯撒勒雅人带来了相当大的麻烦，也使我受到了许多无礼对待。有些人在无人追赶时却逃跑了。而我被当作是不请自来，仅仅是为了从那里的人那里得到恭维。我一回到家，因恶劣的天气和焦虑患了重病，立即收到一封来自东方的信，告诉我\\Person{保利诺}收到了来自西方的一些信函，承认他有某种更高的权利；安提约基雅的叛乱者因此大为得意，接下来他们准备了一份信经，并提出以其条款作为与我们教会联合的条件。除此之外，还报告说他们已将那位最卓越的人\\Person{泰伦提乌斯}诱入他们的派别。我立即尽可能有力地写信给他，劝他暂停；并试图指出他们的不诚实。"
+  }
+}

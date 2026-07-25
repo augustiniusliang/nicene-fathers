@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202030",
+    "title": "Letter 30",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 30",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 30",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eusebius of Samosata</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "If I were to write at length all the causes which, up to the present time, have kept me at home, eager as I have been to set out to see your reverence, I should tell an interminable story. I say nothing of illnesses coming one upon another, hard winter weather, and press of work, for all this has been already made known to you. Now, for my sins, I have lost my Mother, the only comfort I had in life. Do not smile, if, old as I am, I lament my orphanhood. Forgive me if I cannot endure separation from a soul, to compare with whom I see nothing in the future that lies before me. So once more my complaints have come back to me; once more I am confined to my bed, tossing about in my weakness, and every hour all but looking for the end of life; and the Churches are in somewhat the same condition as my body, no good hope shining on them, and their state always changing for the worse. In the meantime Neocæsarea and Ancyra have decided to have successors of the dead, and so far they are at peace. Those who are plotting against me have not yet been permitted to do anything worthy of their bitterness and wrath. This we make no secret of attributing to your prayers on behalf of the Churches. Weary not then in praying for the Churches and in entreating God. Pray give all salutations to those who are privileged to minister to your Holiness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202030.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202030.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信三十}",
+    "p0002": "\\Emph{\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致萨莫萨塔的厄乌塞伯。}",
+    "p0004": "若我尽述迄今使我留在家中、无法启程拜见尊驾的所有原因，尽管我渴望前往，那将是一个无尽的故事。疾病接踵而至、严冬气候、工作压力，这一切您已尽知。如今，因我的罪过，我失去了母亲，这是我生活中唯一的慰藉。请勿见笑，我虽年迈，仍哀叹自己成了孤儿。请原谅我无法忍受与一个灵魂分离，在我面前未来的一切中，我视其无可比拟。于是，我的哀怨再次回到我身；我再次卧床，在虚弱中辗转反侧，几乎每时每刻都在期待生命的终结；而教会的状况与我的身体大致相似，没有良好的希望照耀，且每况愈下。与此同时，\\Place{新凯撒勒雅}和\\Place{安齐拉}已决定为死者选立继任者，目前尚属平安。那些阴谋反对我的人尚未被允许做出任何符合其苦毒和愤怒的事。对此我们毫不隐瞒，归功于您为教会所做的祈祷。那么，请不要厌倦为教会祈祷并恳求天主。请向那些有幸服事您的人致以所有问候。"
+  }
+}

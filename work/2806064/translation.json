@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "2806064",
+    "title": "Letter 64",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 64",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 64",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Diodorus (fragment).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To my lord, son, and most beloved fellow-minister Diodorus [bishop of <em>Tyre</em>] , Athanasius greeting in the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I thank my Lord, Who is everywhere establishing His doctrine, and chiefly so by means of His own sons, such as actual fact shows you to be. For before your Reverence wrote, we knew how great grace has been brought to pass in Tyre by means of your perseverance. And we rejoice with you that by your means Tyre also has learned the right word of piety. And I indeed took an opportunity of writing to you, longed-for and beloved: but I marvel at your not having replied to my letter. Be not then slow to write at once, knowing that you give me refreshment, as a son to his father, and make me exceeding glad, as a herald of truth. And enter upon no controversy with the heretics, but overcome their argumentativeness with silence, their ill-will with courtesy. For thus your speech shall be 'with grace, seasoned with salt {{BIBLE:col 4:6}} ,' while they [will be judged] by the conscience of all.",
+        "scripture": [
+          "col 4:6"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806064.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Archibald Robertson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806064.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第64封书信",
+    "p0002": "\\Emph{致狄奥多罗斯（残篇）。}",
+    "p0003": "致我主、我子、并最亲爱的同为主仆的\\Person{狄奥多罗斯}[\\Emph{提洛}的主教]，\\Person{亚大纳削}在主内致候。",
+    "p0004": "我感谢我主，祂在各地建立祂的教义，而主要是借着祂自己的众子，正如事实所显示的您就是这样的人。因为在您写信之前，我们就已经知道，因着您的坚忍，在\\Place{提洛}成就了多么大的恩宠。我们与您一同喜乐，因为通过您，\\Place{提洛}也学会了正确的虔诚之言。我确实找到了机会给您写信，您是我长久思念和亲爱的；但我惊讶于您尚未回复我的信。因此不要迟延，请立即写信，因为您知道您如同儿子对父亲一样，给我带来慰藉，并且如同真理的宣报者一样，使我极其喜乐。不要与异端者辩论，而是以沉默克胜他们的好辩，以礼貌克胜他们的恶意。因为这样，您的言语当是\\BibleQuote{以恩宠，用盐调和}\\BibleRef{哥 4:6}，而他们[将被所有人的良心所判断]。"
+  }
+}

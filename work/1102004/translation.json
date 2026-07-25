@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "1102004",
+    "title": "Letter 4 (A.D. 387)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 4",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 4 (A.D. 387)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Nebridius Augustine Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. It is very wonderful how completely I was taken by surprise, when, on searching to discover which of your letters still remained unanswered, I found only one which held me as your debtor—that, namely, in which you request me to tell you how far in this my leisure, which you suppose to be great, and which you desire to share with me, I am making progress in learning to discriminate those things in nature with which the senses are conversant, from those about which the understanding is employed. But I suppose it is not unknown to you, that if one becomes more and more fully imbued with false opinions, the more fully and intimately one exercises himself in them, the corresponding effect is still more easily produced in the mind by contact with truth. Nevertheless my progress, like our physical development, is so gradual, that it is difficult to define its steps distinctly, just as though there is a very great difference between a boy and a young man, no one, if daily questioned from his boyhood onward, could at any one date say that now he was no more a boy, but a young man.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. I would not have you, however, so to apply this illustration as to suppose that, in the vigour of a more powerful understanding, I have arrived as it were at the beginning of the soul's manhood. For I am yet but a boy, though perhaps, as we say, a promising boy, rather than a good-for-nothing. For although the eyes of my mind are for the most part perturbed and oppressed by the distractions produced by blows inflicted through things sensible, they are revived and raised up again by that brief process of reasoning: <quote>The mind and intelligence are superior to the eyes and the common faculty of sight; which could not be the case unless the things which we perceive by intelligence were more real than the things which we perceive by the faculty of sight.</quote> I pray you to help me in examining whether any valid objection can be brought against this reasoning. By it, meanwhile, I find myself restored and refreshed; and when, after calling upon God for help, I begin to rise to Him, and to those things which are in the highest sense real, I am at times satisfied with such a grasp and enjoyment of the things which eternally abide, that I sometimes wonder at my requiring any such reasoning as I have above given to persuade me of the reality of those things which in my soul are as truly present to me as I am to myself.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Please look over your letters yourself, for I own that you will be in this matter at greater pains than I, in order to make sure that I am not perchance unwittingly still owing an answer to any of them: for I can hardly believe that I have so soon got from under the burden of debts which I used to reckon as so numerous; albeit, at the same time, I cannot doubt that you have had some letters from me to which I have as yet received no reply.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102004.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102004.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "信函四（公元387年）",
+    "p0002": "\\Emph{致\\Person{内布里狄乌斯}，\\Person{奥古斯丁}致意。}",
+    "p0003": "1. 令我极为惊讶的是，当我搜索你尚有哪些来信未回复时，发现只有一封信让我成为你的债务人——即你在信中请求我告诉你，在此期间，在我这段你猜想很充裕、并渴望分享的闲暇中，我在学习分辨自然中与感官打交道的事物和那些需运用理智的事物方面，取得了多大进展。但我想你并非不知，若人越来越深地受虚假意见浸染，越充分地、亲密地在这些意见中锻炼自己，那么心灵与真理接触时，就越容易产生相应的效果。然而，我的进步，如同身体的发育一样，是如此渐进，以至难以清晰地界定其步骤，正如同：虽然一个男孩与一个青年之间有极大差异，但若从他幼时起每日询问，谁也不能在任何一天说，现在他不再是男孩，而是青年了。",
+    "p0004": "2. 然而，我不愿你如此套用这个比喻，以至于认为，凭借一种更强理解力的旺盛活力，我已可说是步入了灵魂的壮年。因我仍不过是个孩童，尽管也许，如我们所说，是个有希望的孩童，而非一个无用之辈。因为虽然我心灵的眼睛，大都被那些源自可感事物的击打所生的纷扰所困挠和压抑，但它们却被那简短的推理过程所苏醒和提起：\\Quote{心灵和理智高于眼睛和通常的视觉能力；若非如此，我们凭理智感知的事物便不会比凭视觉感知的事物更真实。}我恳请你帮我审查，对这一推理是否能提出任何有效的反对。与此同时，我借此得蒙恢复与振奋；当我呼求天主的助佑，开始向他及那些最真实的事物上升时，我有时得以如此把握和享受那永恒常在的事物，以致我有时诧异，竟然需要诸如此类我上述的推理，来说服我那些在我灵魂中确确实实临在于我的事物，正如我临在于我自己一般真实。",
+    "p0005": "请你亲自检查你的信函，因为我承认，你为此将比我更为费心，以确保我或许并非无意中仍欠某一封回信：因为简直难以相信我竟如此迅速地卸下了我过去认为如此繁多的债务重担；但同时，我也不能怀疑，你有我的一些信函，至今尚未收到回复。"
+  }
+}

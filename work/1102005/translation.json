@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102005",
+    "title": "Letter 5 (A.D. 388)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 5",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 5 (A.D. 388)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Augustine Nebridius Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Is it true, my beloved Augustine, that you are spending your strength and patience on the affairs of your fellow citizens (in Thagaste), and that the leisure from distractions which you so earnestly desired is still withheld from you? Who, I would like to know, are the men who thus take advantage of your good nature, and trespass on your time? I believe that they do not know what you love most and long for. Have you no friend at hand to tell them what your heart is set upon? Will neither Romanianus nor Lucinianus do this? Let them hear me at all events. I will proclaim aloud; I will protest that God is the supreme object of your love, and that your heart's desire is to be His servant, and to cleave to Him. Fain would I persuade you to come to my home in the country, and rest here; I shall not be afraid of being denounced as a robber by those countrymen of yours, whom you love only too well, and by whom you are too warmly loved in return.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102005.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102005.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五封书信（公元388年）",
+    "p0002": "\\Emph{致\\Person{奥斯定}，\\Person{内布里迪乌斯}致以问候。}",
+    "p0003": "我亲爱的\\Person{奥斯定}，你真的把你的精力和耐心花在你在\\Place{塔加斯特}的同乡的事务上，而你热切渴望的远离俗务的闲暇仍然被剥夺了吗？我想知道，是谁这样利用你的善良本性，侵占你的时间？我相信他们不知道你最喜爱和最渴望的是什么。你身边难道没有朋友告诉他们你一心所向往的吗？\\Person{罗马尼亚努斯}和\\Person{卢西尼亚努斯}都做不到吗？至少让他们听我说。我要大声宣告；我要声明，天主是你爱的最高对象，你内心的渴望就是作祂的仆人，紧紧依附着祂。我渴望说服你到我在乡间的家，在这里休息；我不怕被你那些同乡指责为强盗，你对他们爱得太深，而他们也报以过分的爱。"
+  }
+}

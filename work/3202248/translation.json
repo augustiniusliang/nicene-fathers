@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202248",
+    "title": "Letter 248",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 248",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 248",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Amphilochius, bishop of Iconium.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "So far as my own wishes are concerned I am grieved at living at such a distance from your reverence. But, as regards the peace of your own life, I thank the Lord Who has kept you out of this conflagration which has specially ravaged my diocese. For the just Judge has sent me, in accordance with my works, a messenger of Satan, who is buffeting me severely enough, and is vigorously defending the heresy. Indeed to such a pitch has he carried the war against us, that he does not shrink even from shedding the blood of those who trust in God. You cannot fail to have heard that a man of the name of Asclepius, because he would not consent to communion with Doeg, has died under the blows inflicted on him by them, or rather, by their blows has been translated into life. You may suppose that the rest of their doings are of a piece with this; the persecutions of presbyters and teachers, and all that might be expected to be done by men abusing the imperial authority at their own caprice. But, in answer to your prayers, the Lord will give us release from these things, and patience to bear the weight of our trials worthily of our hope in Him. Pray write frequently to me of all that concerns yourself. If you find any one who can be trusted to carry you the book that I have finished, be so kind as to send for it, that so, when I have been cheered by your approval, I may send it on to others also. By the grace of the Holy One may you be granted to me and to the Church of the Lord in good health rejoicing in the Lord, and praying for me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202248.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202248.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信二四八",
+    "p0002": "\\Person{圣巴西略·凯撒勒雅}",
+    "p0003": "致\\Person{安菲洛奇乌斯}，\\Place{伊科尼雍}主教。",
+    "p0004": "就我个人的愿望而言，我为远离尊驾而居感到悲伤。但就您生活的平安而言，我感谢\\Person{主}，祂使您免受这场特别蹂躏我教区的火灾。因为公义的\\Person{审判者}按我的作为，给我派遣了一位\\OriginalTerm{撒殚的使者}{messenger of Satan}，他重重地击打我，并奋力维护\\OriginalTerm{异端}{heresy}。事实上，他向我们的战争已到了如此地步，甚至不惜流出信靠\\Person{天主}之人的血。您一定听说了，一个名叫\\Person{阿斯克勒庇乌斯}的人，因为不肯与\\Person{多厄格}共融，被他们殴打致死——或者说，因他们的击打而进入了生命。其余的行径，您可以想见与此一致：\\OriginalTerm{司铎}{presbyters}和教师遭受迫害，以及那些滥用\\OriginalTerm{皇权}{imperial authority}为所欲为的人可能做出的一切。但因您的祈祷，\\Person{主}将赐我们摆脱这些事，并赐我们忍耐，以堪当承受试炼，相称于祂内的\\OriginalTerm{望德}{hope}。请常常写信告诉我您的一切。如果您找到可靠的人可以将我写完的那本书带给您，恳请派人来取，这样，当我因您的认可而欢欣时，也可将它传给他人。愿藉\\OriginalTerm{圣者}{the Holy One}的恩宠，您得以安然无恙，在主内欢欣，并为我祈祷，归于我和\\Person{主}的教会。"
+  }
+}

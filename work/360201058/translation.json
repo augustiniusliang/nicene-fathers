@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201058",
+    "title": "Book I, Letter 58",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 58",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 58",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Arsicinus Duke, the Clergy, Nobility, and Common People (ordini et plebi) of the City of Ariminum.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Arsicinus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How ready is the devotion of your love in expectation of a pontiff the text of the report which you have addressed to us shows. But, since the ordainer ought in such cases to be exceedingly careful, we are watching over this case with due deliberation. And so we warn your Charity by this present writing that no one need trouble himself to apply to us in favour of Ocleatinus: but, if any one is found in your own city to undertake this work with profit, so that he cannot be objected to by us, let your choice concur in his favour. But, if no one should be found fit for it, we have mentioned to the bearers of these presents one to whom you may no less accord your consent. But do you with one accord pray faithfully, that, whosoever may be ordained, he may be able both to be profitable to you and to display priestly service worthy of our God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201058.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201058.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第五十八封信",
+    "p0002": "\\Emph{致阿尔西辛努斯公爵、里米尼城的圣职人员、贵族与平民（\\OriginalTerm{等级与平民}{ordini et plebi}）}",
+    "p0003": "\\Person{格列高利}致\\Person{阿尔西辛努斯}等。",
+    "p0004": "你们的爱德在期待一位主教时是多么热忱，你们呈递给我们的报告文本显示。但是，由于在类似情形中，祝圣者应当格外谨慎，我们正以应有的审慎关注此事。因此，我们以此函劝告你们的爱德：不必为\\Person{奥克莱阿提努斯}的事麻烦向我们请求；但如果你们自己的城里发现某人能有益地承担此职，且我们不能对他提出异议，就请你们的意见赞成他。但如果找不到合适的人，我们已向持信者提及一人，你们同样可同意他。但你们要同心合意忠诚地祈祷，无论谁被祝圣，他既能有益于你们，又能显示相称于我们天主的司铎服务。"
+  }
+}

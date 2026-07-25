@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202279",
+    "title": "Letter 279",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 279",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 279",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Modestus the Prefect.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although so numerous are my letters, conveyed to your excellency by as many bearers, yet, having regard to the special honour you have shown me, I cannot think that their large number causes you any annoyance.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "I do not hesitate therefore to entrust to this brother the accompanying letter: I know that he will meet with all that he wishes, and that you will count me but as a benefactor in furnishing occasion for the gratification of your kind inclinations. He craves your advocacy. His cause he will explain in person, if you but deign to regard him with a favourable eye, and embolden him to speak freely in the presence of so august an authority. Accept my assurance that any kindness shown to him, I shall regard as personal to myself. His special reason for leaving Tyana and coming to me was the high value he attached to the presentation of a letter written by myself in support of his application. That he may not be disappointed of his hope; that I may continue in the enjoyment of your consideration; that your interest in all that is good may, in this present matter, find scope for its full exercise— are the grounds on which I crave a gracious reception for him, and a place among those nearest to you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202279.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202279.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信二七九",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "致总督\\Person{莫德斯图}。",
+    "p0004": "尽管我经由同样众多的信差呈递给阁下的信件如此之多，但鉴于您对我所显示的特别尊荣，我无法认为它们的数量之多会令您感到任何烦扰。",
+    "p0005": "因此，我毫不犹豫地将随信托付给这位弟兄：我知道他将如愿以偿，而您也会视我为恩人，因为我提供了机会满足您仁慈的意愿。他恳求您的庇护。他的事将由他亲自陈明，只要您屈尊以善意的眼光看待他，并鼓励他在如此威严的权威面前自由陈辞。请接受我的保证：凡向他所施的仁慈，我将视同对我本人。他离开\\Place{提雅纳}前来见我的特殊原因，是他极为重视呈上一封由我亲笔所写、支持他请求的信函。为使他不会失望，为使我继续蒙受您的眷顾，为使您对一切美善的热忱能在当前之事中充分施展——基于这些理由，我恳求您仁慈地接待他，并赐他一个在您近侍中的位置。"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360206030",
+    "title": "Book VI, Letter 30",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 30",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 30",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Secundus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Secundus, servant of God at Ravenna.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Now that Castorius has returned and made known to us all that has been done between you and King Agilulph, we have taken care to send him back to you with all speed, lest any one should find an excuse against us on the ground of delay. Having learned then from him all that is to be done, give the matter your earnest attention, and press in all ways for this peace to be arranged, since, as report goes, there are some who are trying to hinder it. On this account make haste to act strenuously, that your labour may not remain without effect. For both these parts and various islands are already placed in great danger.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Stir up with such words as you can use our brother the bishop Marinianus : for I suspect that he has fallen asleep. For certain persons have come to me, among whom were some aged mendicants, who were questioned by me as to what they had received and from whom they had received it; and they told me particularly how much had been given them on their journey, and by whom it had been given. But, when I enquired of them what my aforesaid brother had given them, they replied that they had asked him, but had received nothing at all from him; so that they did not get even bread on the way, though it has always been the familiar usage of that Church to give to all. For they said, He answered saying, I have nothing that I can give you. And I am surprised, if he who has clothes, money, and storehouses, has nothing to give to the poor.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Tell him, then, that with his place he should change his disposition too. Let him not believe reading and prayer alone to be enough for him, so that he should think to sit apart, and nowise fructify with his hand; but let him have a liberal hand; let him succour those who suffer need; let him believe the wants of others to be his own; since, if he has not these things, he bears but a bishop's empty name. I did indeed give him some admonitions about his soul in my letter; but he has sent me no reply whatever; whence I suppose that he has not even deigned to read them. For this reason it is needless now for me to admonish him at all in my letter to him; and so I have written only what I was able to dictate as his adviser in worldly matters. For it is not incumbent on me to tire myself, by dictation for a man who does not read what is said to him. Let, then, your Love speak to him about all these things privately, and admonish him how he ought to demean himself, lest through present negligence he lose the advantage of his former life, which God forbid.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206030.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206030.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第六卷，第三十封信}",
+    "p0002": "\\Emph{致\\Person{塞孔都斯}。}",
+    "p0003": "\\Person{额我略}致\\Place{拉文纳}的天主仆人\\Person{塞孔都斯}。",
+    "p0004": "如今\\Person{卡斯特里乌斯}已返回，并将您与\\Person{阿吉卢尔夫}王之间所行的一切都告知了我们。我们已留意尽快将他送回您那里，以免有人以迟延为由对我们提出非难。因此，既从他得知一切应行之事，请您对此事倾注热忱，全力以赴促成这项和约的议定，因为据传闻，有些人正试图阻挠它。为此，请迅速采取行动，以免您的辛劳落空。因为这部分地区和各个岛屿已陷入极大的危险。",
+    "p0005": "请用您所能使用的言词激励我们的兄弟\\Person{马里尼亚努斯}主教；因为我怀疑他沉睡了。因为某些人来到我这里，其中有几位年老的乞丐，我问他们收到了什么、从谁那里收到的；他们一一告诉我他们在旅途中得到了多少，以及是谁给的。但是，当我询问他们我的上述兄弟给了他们什么时，他们回答说他们曾向他请求，但什么也没从他那里得到；以至于他们连路上的面包也没有得到，而那座教会向来有施舍给所有人的习惯。因为他们说，他回答说：\\Quote{我没有什么可以给你们。}我感到惊讶，如果他有衣服、钱和仓库，却没有什么给穷人。",
+    "p0006": "那么，告诉他，他应当随着他的职位也改变他的性情。让他不要以为仅仅阅读和祈祷就足够了，以致他想要置身事外，完全不肯亲手结出果实；而要让他有一双慷慨的手；让他救助那些贫乏的人；让他视他人的需要为己任；因为，如果没有这些，他不过是空负主教之名。我确实曾在信中给他一些关于他灵魂的劝诫；但他没有给我任何回音；由此我猜想他甚至不屑于阅读它们。为此，我现在无需再在他给我的信中对他进行任何劝诫；因而我只写了作为他在世俗事务上的顾问能够口授的内容。因为，我为一个人口授，而他却不肯读对他说的话，这并非我的责任。那么，请你的爱德私下与他谈论所有这些事，并劝诫他应当如何自持，以免因眼前的疏忽而失去他以前生活的益处——愿天主不许此事发生。"
+  }
+}

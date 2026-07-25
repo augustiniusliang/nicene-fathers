@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602314",
+    "title": "The Harmony of the Gospels, Book III",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book III, Chapter 14",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book III",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 14. Of the Harmony Preserved Among All the Evangelists on the Subject of the Two Robbers Who Were Crucified Along with Him.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "51. Matthew continues his narrative in the following terms: <quote>Then were there two robbers crucified with Him, one on the right hand, and another on the left.</quote> Mark and Luke give it also in a similar form. Neither does John raise any question of difficulty, although he has made no mention of those robbers. For he says, <quote>And two other with Him, on either side one,and Jesus in the midst.</quote> But there would have been a contradiction if John had spoken of these others as innocent, while the former evangelists called them robbers.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602314.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602314.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音书的和谐 第三卷}",
+    "p0002": "第14章 论所有圣史在与他一同被钉的两个强盗之事上的一致",
+    "p0003": "51. 玛窦继续叙述如下：\\Quote{那时，有两个强盗与他一同被钉，一个在右边，一个在左边。} 马尔谷和路加也以类似的形式记载了此事。若望也没有提出难题，尽管他没有提及那些强盗。因为他说道：\\Quote{另有两人和他一起，两侧各一个，耶稣在中间。} 但如果若望说这些其他人是无罪的，而其他圣史称他们为强盗，那就会有矛盾。"
+  }
+}

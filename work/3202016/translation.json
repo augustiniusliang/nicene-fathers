@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202016",
+    "title": "Letter 16",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 16",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 16",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Against Eunomius the heretic</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "He who maintains that it is possible to arrive at the discovery of things actually existing, has no doubt by some orderly method advanced his intelligence by means of the knowledge of actually existing things. It is after first training himself by the apprehension of small and easily comprehensible objects, that he brings his apprehensive faculty to bear on what is beyond all intelligence. He makes his boast that he has really arrived at the comprehension of actual existences; let him then explain to us the nature of the least of visible beings; let him tell us all about the ant. Does its life depend on breath and breathing? Has it a skeleton? Is its body connected by sinews and ligaments? Are its sinews surrounded with muscles and glands? Does its marrow go with dorsal vertebræ from brow to tail? Does it give impulse to its moving members by the enveloping nervous membrane? Has it a liver, with a gall bladder near the liver? Has it kidneys, heart, arteries, veins, membranes, cartilages? Is it hairy or hairless? Has it an uncloven hoof, or are its feet divided? How long does it live? What is its mode of reproduction? What is its period of gestation? How is it that ants neither all walk nor all fly, but some belong to creeping things, and some travel through the air? The man who glories in his knowledge of the really-existing ought to tell us in the meanwhile about the nature of the ant. Next let him give us a similar physiological account of the power that transcends all human intelligence. But if your knowledge has not yet been able to apprehend the nature of the insignificant ant, how can you boast yourself able to form a conception of the power of the incomprehensible God?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202016.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202016.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十六封信",
+    "p0002": "\\Signature{圣巴西略·凯撒里亚}",
+    "p0003": "\\Emph{驳斥异端者欧诺弥。}",
+    "p0004": "凡主张有可能发现实际存在之事的人，无疑是通过某种有序方法，借助对实际存在之事的认识来提升自己的理智。他先通过领会微小而易于理解的对象来训练自己，然后将自己的领会能力运用于超越一切理智的事物上。他以自己确实达到了对实际存在的理解为荣；那么，让他向我们解释一下最微小的可见事物的本性吧；让他告诉我们关于蚂蚁的一切。它的生命依赖于呼吸和气息吗？它有骨骼吗？它的身体是由筋腱和韧带连接的吗？它的筋腱是否被肌肉和腺体包裹？它的骨髓是否从额头到尾巴沿着背椎延伸？它是否通过包裹的神经膜推动其运动的肢体？它有肝脏吗，肝脏附近有胆囊吗？它有肾脏、心脏、动脉、静脉、膜、软骨吗？它有毛还是无毛？它有分趾的蹄还是脚分成几部分？它能活多久？它如何繁殖？它的妊娠期是多长？为什么蚂蚁既不是全部爬行也不是全部飞行，而有些属于爬行动物，有些则在空中穿行？这位以自己知道真实存在为荣的人，应该在此期间告诉我们关于蚂蚁的本性。然后，让他给我们一个类似的生理学描述，关于那超越一切人类理解力的权能。但是，如果你的知识尚未能领会微不足道的蚂蚁的本性，你怎能夸口自己能构想不可理解的天主的权能呢？"
+  }
+}

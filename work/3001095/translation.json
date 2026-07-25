@@ -1,0 +1,92 @@
+{
+  "source": {
+    "source_id": "3001095",
+    "title": "Letter 95",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 95",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 95",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>From Pope Anastasius to Simplicianus</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "At the request of Theophilus Anastasius, bishop of Rome, writes to Simplicianus, bishop of Milan, to inform him that he, like Theophilus, has condemned Origen whose blasphemies have been brought under his notice by Eusebius of Cremona. This latter had shown him a copy of the version by Rufinus of the treatise On First Principles. The date of the letter is 400 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "To his lord and brother Simplicianus, Anastasius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "1. It is felt right that a shepherd should bestow great care and watchfulness upon his flock. In like manner too from his lofty tower the careful watchman keeps a lookout day and night on behalf of the city. So also in the hour of tempest when the sea is dangerous the shipmaster suffers keen anxiety lest the gale and the violence of the waves shall dash his vessel upon the rocks. It is with similar feelings that the reverend and honourable Theophilus our brother and fellow bishop, ceases not to watch over the things that make for salvation, that God's people in the different churches may not by reading Origen run into awful blasphemies.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "2. Being informed, then, by a letter of the aforesaid bishop, we inform your holiness that we in like manner who are set in the city of Rome in which the prince of the apostles, the glorious Peter, first founded the church and then by his faith strengthened it; to the end that no man may contrary to the commandment read these books which we have mentioned, have condemned the same; and have with earnest prayers urged the strict observance of the precepts which God and Christ have inspired the evangelists to teach. We have charged men to remember the words of the venerable apostle Paul, prophetic and full of warning:— <quote>if any than preach any other gospel unto you than that which we have preached unto you, let him be accursed.</quote> {{BIBLE:gal 1:8}} Holding fast, therefore, this precept, we have intimated that everything written in days gone by Origen that is contrary to our faith is even by us rejected and condemned.",
+        "scripture": [
+          "gal 1:8"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "3. I send this letter to your holiness by the hand of the presbyter Eusebius, a man filled with a glowing faith and love for the Lord. He has shown to me some blasphemous chapters which made me shudder as I passed judgement on them. If Origen has put forth any other writings, you are to know that they and their author are alike condemned by me. The Lord have you in safe keeping, my lord and brother deservedly held in honour.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001095.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001095.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九十五封书信",
+    "p0002": "\\Emph{从教宗\\Person{亚纳斯塔修}致\\Person{辛普利西安}}",
+    "p0003": "\\EditorialNote{应\\Person{德奥斐洛}的请求，罗马主教\\Person{亚纳斯塔修}致信米兰主教\\Person{辛普利西安}，告知他本人如同\\Person{德奥斐洛}一样谴责了\\Person{奥力振}，因为克雷莫纳的\\Person{欧瑟伯}已将其亵渎言论呈报给他。后者向他展示了一本\\Person{鲁菲努斯}翻译的\\WorkTitle{论原则}的副本。此信写于公元400年。}",
+    "p0004": "致我主及弟兄\\Person{辛普利西安}，\\Signature{亚纳斯塔修}",
+    "p0005": "1. 牧者理应对羊群倍加看顾与警醒。同样，在瞭望塔上，谨慎的守望者也日夜为城池警戒。又如暴风雨来临、海上危险时，船长焦虑不安，唯恐狂风巨浪将船撞上礁石。怀着同样的心情，我们可敬的兄弟和同僚主教\\Person{德奥斐洛}不懈地关注那些关乎救恩之事，以免天主子民在不同的教会因阅读\\Person{奥力振}的作品而陷入可怕的亵渎之中。",
+    "p0006": "2. 因此，我们根据上述主教的来信，告知你的圣德：我们同样——我们被安置在\\Place{罗马}城中，宗徒之长、荣耀的\\Person{伯多禄}首先在此建立了教会，又以其信德坚固了它——为了任何人不得违反诫命阅读我们提及的这些书籍，也谴责了这些书；并且我们以热切的祈祷敦促\\Person{天主}和\\Person{基督}所启示给圣史们教导的诫命得以严格遵守。我们敦促人们记住可敬的宗徒\\Person{保禄}那充满预言与警告的话语：\\BibleQuote{如果任何人给你们宣讲另一个福音，与我们给你们所宣讲的福音不同，当受诅咒。}\\BibleRef{迦 1:8} 因此，坚守这诫命，我们声明：凡是过去\\Person{奥力振}所写、与我们的信仰相悖的一切，我们同样予以拒绝和谴责。",
+    "p0007": "3. 我藉司铎\\Person{欧瑟伯}之手将本信寄递给你的圣德，他是一位充满炽热信德并对主怀着爱戴的人。他向我展示了一些亵渎的章节，我在审断它们时不禁战栗。如果\\Person{奥力振}发表了任何其他著作，你要知道，这些著作及其作者都同样被我谴责。愿主保佑你，我理应尊敬的主内弟兄。"
+  }
+}

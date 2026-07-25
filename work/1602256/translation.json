@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "1602256",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 56",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 56. Of the Manifestation Which the Lord Made of Himself, in Company with Moses and Elias, to His Disciples on the Mountain; And of the Question Concerning the Harmony Between the First Three Evangelists with Regard to the Order and the Circumstances of that Event; And in Especial, the Number of the Days, in So Far as Matthew and Mark State that It Took Place After Six Days, While Luke Says that It Was After Eight Days.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "112. Matthew proceeds thus: <quote>Verily I say unto you, There be some standing here which shall not taste of death till they see the Son of man coming in His kingdom. And after six days, Jesus takes Peter, James, and John his brother, and brought them up into an high mountain;</quote> and so on, down to where we read, <quote>Tell the vision to no man until the Son of man be risen again from the dead.</quote> This vision of the Lord upon the mount in the presence of the three disciples, Peter, James, and John, on which occasion also the testimony of the Father's voice was borne Him from heaven, is related by the three evangelists in the same order, and in a manner expressing the same sense completely. And as regards other matters, they may be seen by the readers to be in accordance with those modes of narration of which we have given examples in many passages already, and in which there are diversities in expression without any consequent diversity in meaning.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "113. But with respect to the circumstance that Mark, along with Matthew, tells us how the event took place after six days, while Luke states that it was after eight days, those who find a difficulty here do not deserve to be set aside with contempt, but should be enlightened by the offering of explanations. For when we announce a space of days in these terms, <quote>after so many days,</quote> sometimes we do not include in the number the day on which we speak, or the day on which the thing itself which we intimate beforehand or promise is declared to take place, but reckon only the intervening days, on the real and full and final expiry of which the incident in question is to occur. This is what Matthew and Mark have done. Leaving out of their calculation the day on which Jesus spoke these words, and the day on which He exhibited that memorable spectacle on the mount, they have regarded simply the intermediate days, and thus have used the expression, <quote>after six days.</quote> But Luke, reckoning in the extreme day at either end, that is to say, the first day and the last day, has made it <quote>after eight days,</quote> in accordance with that mode of speech in which the part is put for the whole.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "114. Moreover, the statement which Luke makes with regard to Moses and Elias in these terms, <quote>And it came to pass, as they departed from Him, Peter said unto Jesus, Master, it is good for us to be here,</quote> and so forth, ought not to be considered antagonistic to what Matthew and Mark have subjoined to the same effect, as if they made Peter offer this suggestion while Moses and Elias were still talking with the Lord. For they have not expressly said that it was at that time, but rather they have simply left unnoticed the fact which Luke has added—namely, that it was as they went away that Peter made the suggestion to the Lord with respect to the making of three tabernacles. At the same time, Luke has appended the intimation that it was as they were entering the cloud that the voice came from heaven,— a circumstance which is not affirmed, but which is as little contradicted, by the others.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602256.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602256.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐，第二卷}",
+    "p0002": "第56章：主与梅瑟和厄里亚一同在山上向门徒显示自己；以及前三部福音关于此事发生的顺序和情况的和谐问题；尤其关于天数，玛窦和马尔谷说六天后，而路加说八天后。",
+    "p0003": "112. 玛窦接着记述：\\BibleQuote{我实在告诉你们：站在这里的人中，就有些人在未尝到死味以前，必要看见人子来到自己的国内。六天后，耶稣带着伯多禄、雅各伯和他的兄弟若望，领他们上了一座高山；}等等，直到我们读到：\\BibleQuote{不要将所见的告诉任何人，除非人子从死者中复活。}",
+    "p0004": "113. 至于马尔谷与玛窦一同告诉我们此事发生在六天之后，而路加却说八天之后，那些对此感到困惑的人不应被轻蔑地置之不理，而应通过解释得到启发。因为当我们用\\Quote{过多少天}这样的说法来宣布一段时间时，有时我们并不把说话的那一天，或我们事先预告或承诺的事本身宣称要发生的那一天计算在内，而只计算中间的日子，这些日子真正、完全、最终地期满后，所提及的事件才会发生。玛窦和马尔谷正是这样做的。他们省去了耶稣说这些话的那一天，以及祂在山上展示那值得纪念的景象的那一天，而只考虑了中间的日子，因此用了\\Quote{六天后}的说法。但路加把两端的日子都计算在内，即第一天和最后一天，因此用了\\Quote{八天后}，这是一种以部分代表整体的说法。",
+    "p0005": "114. 此外，路加关于梅瑟和厄里亚的陈述，即\\BibleQuote{他们离开耶稣的时候，伯多禄对耶稣说：\\InnerQuote{老师，我们在这里真好！}}等等，不应被视为与玛窦和马尔谷随后所述的内容相矛盾，仿佛他们使伯多禄在梅瑟和厄里亚仍在与主谈话时就提出了这个建议。因为他们并没有明确说是在那个时候，而只是忽略了路加所添加的事实——即当梅瑟和厄里亚离去时，伯多禄向主提出了搭建三个棚的建议。同时，路加还附加了暗示，说当他们进入云彩时，有声音从天上传来——这一情况未被其他两位肯定，但也没有被否认。"
+  }
+}

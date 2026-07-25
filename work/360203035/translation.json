@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360203035",
+    "title": "Book III, Letter 35",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 35",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 35",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, subdeacon of Campania.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Our brother and fellow bishop Paul has often requested us to allow him to return to his own church. And, having perceived this to be reasonable, we have thought it needful to accede to his petition. Consequently let your Experience convene the clergy of the Neapolitan church, to the end that they may choose two or three of their number, and not omit to send them hither for the election of a bishop. But let them also intimate, in their communication to us, that those whom they send represent them all in this election, so that their church may have its own bishop validly ordained. For we cannot allow it to be any longer without a ruler of its own. Should they perchance try in any way to set aside your admonition, bring to bear on them the vigour of ecclesiastical discipline. For he will be giving proof of his own perverseness, whosoever does not of his own accord assent to this proceeding. Moreover, cause to be given to the aforesaid Paul, our brother and fellow bishop, one hundred <em>solidi</em>, and one little orphan boy, to be selected by himself, for his labour in behalf of the same church. Further, admonish those who are to come hither as representing all for the election of a bishop, to remember that they must bring with them all the episcopal vestments, and also as much money as they may foresee to be necessary for him who may be elected bishop to have to his own use. But lose no time in dispatching those of the clergy who are selected as we have said, that, seeing that there are present here various nobles of the city of Naples, we may treat with them concerning the election of a bishop, and take counsel together with the help of the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203035.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203035.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷·第三十五封信",
+    "p0002": "\\Emph{致副执事伯多禄。}",
+    "p0003": "\\Person{格列高利}致\\Place{坎帕尼亚}副执事\\Person{伯多禄}。",
+    "p0004": "我们的兄弟同为主教的\\Person{保禄}曾多次请求我们准许他返回自己的教会。我们见这请求合理，认为有必要同意他的请求。因此，你当召集那不勒斯教会的圣职人员，以便他们从他们中选出两三位，并务必派他们到这里来选举主教。但他们也应在致我们的信中说明，他们所派之人代表全体参与这次选举，以便他们的教会能有效祝圣自己的主教。因为我们不能再容许它长期没有自己的治理者。倘若他们试图以任何方式忽视你的劝诫，就以教会纪律的权威对待他们。因为凡不自愿同意此举者，将证明自己的乖戾。此外，请将一百\\Emph{\\OriginalTerm{索利多}{solidi}}和一个由他亲自挑选的孤儿赠予上述我们的兄弟同为主教的\\Person{保禄}，作为他为同一教会劳苦的酬劳。此外，劝诫那些代表全体来此选举主教的人，要记住他们必须带来所有主教礼服，以及他们认为被选为主教者自己所需使用的足够金钱。但不可延误地派遣那些按我们所说选出的圣职人员，因为现时有那不勒斯城的诸位贵族在此，我们可以与他们商议选举主教之事，并在主的助佑下共同筹谋。"
+  }
+}

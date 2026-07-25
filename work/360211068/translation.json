@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360211068",
+    "title": "Book XI, Letter 68",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 68",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 68",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>[To Virgilius, Bishop of Arelate (Arles).]</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Virgilius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What affection should be bestowed on brethren who come to us of their own accord is apparent from the fact that they are usually invited to visit us for the sake of charity. And so, if our common brother the bishop Augustine should chance to come to you, let your Love, as is fit, so affectionately and sweetly receive him as both to refresh him with the boon of your consolation and teach others also how fraternal charity should be cultivated. And, since it often happens that those who are placed at a distance learn first from others of things that require amendment, if he should perchance intimate to your Fraternity any faults in priests or others, do you, in concert with him, enquire into them with all subtle investigation. And do you both show yourselves so strict and solicitous against things that offend God and provoke Him to wrath that, for the amendment of others, both vengeance may smite the guilty and false report not afflict the innocent. God keep you safe, most reverend brother. Given the 10th day of the Kalends of July, the 19th year of the empire of our most pious lord Mauricius Tiberius Augustus, the 18th year after the same our lord's consulship, Indiction 4.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211068.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211068.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷，第六十八封书信",
+    "p0002": "\\Emph{致\\Person{维吉利乌斯}，\\Place{阿雷拉特}（\\Place{阿尔勒}）主教。}",
+    "p0003": "\\Person{格列高利}致\\Person{维吉利乌斯}等。",
+    "p0004": "对于自愿前来投奔我们的弟兄应给予何等情谊，从通常出于爱德邀请他们来访即可明了。因此，若我们的共同兄弟\\Person{奥古斯丁}主教偶然来到你处，愿您的爱德恰如其分地如此亲切温柔地接待他，既以您安慰之恩使他振作，也教导他人如何培养兄弟般的爱德。再者，由于远处之人常先由他人得知需要纠正之事，若他偶然向您的兄弟情谊提及司铎或其他人的过失，您当与他协力，以极细致的调查探究此事。并且，你们二人要如此严格而热忱地抵制冒犯天主、激起祂义怒之事，为使他人改正，既让惩罚击中有罪者，也不让诬告折磨无辜者。愿天主保佑您平安，最可敬的兄弟。颁于\\OriginalTerm{七月朔日前的第十日}{10th day of the Kalends of July}，我们最虔诚的主上\\Person{玛乌里奇乌斯·提贝里乌斯·奥古斯都}皇帝统治第19年，同一位主上执政官后第18年，\\OriginalTerm{第4小纪}{Indiction 4}。"
+  }
+}

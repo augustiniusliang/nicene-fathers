@@ -1,0 +1,41 @@
+{
+  "source": {
+    "source_id": "0103200",
+    "title": "Against Heresies (Book II, Preface)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book II, Preface",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book II, Preface)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. In the first book, which immediately precedes this, exposing <quote>knowledge falsely so called,</quote> {{BIBLE:1ti 6:20}} I showed you, my very dear friend, that the whole system devised, in many and opposite ways, by those who are of the school of Valentinus, was false and baseless. I also set forth the tenets of their predecessors, proving that they not only differed among themselves, but had long previously swerved from the truth itself. I further explained, with all diligence, the doctrine as well as practice of Marcus the magician, since he, too, belongs to these persons; and I carefully noticed the passages which they garble from the Scriptures, with the view of adapting them to their own fictions. Moreover, I minutely narrated the manner in which, by means of numbers, and by the twenty-four letters of the alphabet, they boldly endeavour to establish [what they regard as] truth. I have also related how they think and teach that creation at large was formed after the image of their invisible Pleroma, and what they hold respecting the Demiurge, declaring at the same time the doctrine of Simon Magus of Samaria, their progenitor, and of all those who succeeded him. I mentioned, too, the multitude of those Gnostics who are sprung from him, and noticed the points of difference between them, their several doctrines, and the order of their succession, while I set forth all those heresies which have been originated by them. I showed, moreover, that all these heretics, taking their rise from Simon, have introduced impious and irreligious doctrines into this life; and I explained the nature of their <quote>redemption,</quote> and their method of initiating those who are rendered <quote>perfect,</quote> along with their invocations and their mysteries. I proved also that there is one God, the Creator, and that He is not the fruit of any defect, nor is there anything either above Him, or after Him.2. In the present book, I shall establish those points which fit in with my design, so far as time permits, and overthrow, by means of lengthened treatment under distinct heads, their whole system; for which reason, since it is an exposure and subversion of their opinions, I have so entitled the composition of this work. For it is fitting, by a plain revelation and overthrow of their conjunctions, to put an end to these hidden alliances, and to Bythus himself, and thus to obtain a demonstration that he never existed at any previous time, nor now has any existence.",
+        "scripture": [
+          "1ti 6:20"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103200.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103200.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥异端（第二卷，前言）}",
+    "p0002": "1. 在紧接此卷的第一卷书中，我揭露了那些属于\\Person{瓦伦提诺}学派的人所制定的、以多种对立方式构成的整个体系是虚假且毫无根据的，正如\\BibleRef{弟前 6:20}所言，是\\Quote{伪知识}。我亲爱的朋友，我已向你展示这一切。我还陈述了其前辈的教义，证明他们不仅彼此分歧，而且早已背离了真理本身。此外，我详尽解释了魔术师\\Person{马可}的教义与实践，因他也属于这些人；并仔细指出了他们为了适应自己的虚构而从圣经中曲解的段落。再者，我详细叙述了他们如何通过数字和字母表中的二十四个字母，大胆地试图建立（他们视为）真理。我也讲述了他们如何思考并教导万有是按照他们那不可见的\\OriginalTerm{圆满}{Pleroma}的形象而形成的，以及他们关于\\OriginalTerm{得缪格}{Demiurge}的观点，同时声明了他们的始祖，撒玛黎雅的\\Person{西满}魔术师以及所有继承他之人的教义。我还提到了从他衍生的众多\\OriginalTerm{诺斯替派}{Gnostics}，并指出他们之间的差异、各自的教义以及承继次序，同时陈述了由他们起源的所有这些异端。此外，我表明所有这些异端者，源于\\Person{西满}，已将不敬神和不信神的教义引入此生；并解释了他们的\\Quote{救赎}的本质，以及他们使那些成为\\Quote{成全}者的人们入教的方法，连同他们的祈祷和奥秘。我也证明了天主是唯一的创造者，祂并非任何缺陷的产物，也没有任何事物在祂之上或在祂之后。\\newline{}2. 在本卷书中，我将在时间允许的范围内，确立那些符合我计划的观点，并通过按不同标题进行的详细论述来推翻他们的整个体系；因此，既然这是一项对其意见的揭露和颠覆，我便这样命名了这部作品的创作。因为通过对其结合体的清晰揭露和颠覆，来终结这些隐藏的联合并终结\\OriginalTerm{深渊}{Bythus}本身，从而证明他无论在过去还是现在都从未存在过，这是合宜的。"
+  }
+}

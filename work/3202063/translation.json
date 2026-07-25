@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202063",
+    "title": "Letter 63",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 63",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 63",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Governor of Neocæsarea</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The wise man, even if he dwells far away, even if I never set eyes on him, I count a friend. So says the tragedian Euripides. And so, if, though I have never had the pleasure of meeting your excellency in person, I speak of myself as a familiar friend, pray do not set this down to mere empty compliment. Common report, which loudly proclaims your universal benevolence, is, in this instance, the promoter of friendship. Indeed since I met the highly respectable Elpidius, I have known you as well, and I have been as completely captured by you, as though I had long lived with you and had practical experience of your excellent qualities. For he did not cease telling me about you, mentioning one by one your magnanimity, your exalted sentiments, your mild manners, your skill in business, intelligence, dignity tempered by cheerfulness, and eloquence. All the other points that he enumerated in his long conversation with me it is impossible for me to write to you, without extending my letter beyond all reasonable bounds. How can I fail to love such a man? How could I put such restraint upon myself as not loudly to proclaim what I feel? Accept then, most excellent Sir, the greeting which I send you, for it is inspired by true and unfeigned friendship. I abhor all servile compliment. Pray keep me enrolled in the list of your friends, and, by frequently writing to me, bring yourself before me and comfort me in your absence.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202063.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202063.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六十三书",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致新凯撒勒雅总督}。",
+    "p0004": "\\Quote{智者，即使他居住在远方，即使我从未见过他，我也视之为友。}悲剧家欧里庇得斯如此说。因此，如果我虽从未有幸亲自与阁下会面，却以熟友自居，请勿将此视为空洞的恭维。普遍的声音，热烈宣扬您的普遍仁爱，在此正是友谊的促进者。事实上，自从我遇见十分可敬的\\Person{厄尔丕迪乌斯}，我便同样认识了您，并完全被您吸引，如同与您长久相处并亲身经验了您的卓越品质。因为他不停地向我讲述您，逐一提及您的宽宏大量、崇高情操、温和举止、办事才干、智慧、愉快调和的尊严，以及口才。他在与我长谈中列举的其他所有细节，我无法在信中一一写出，否则会超出合理的篇幅。我怎能不爱这样的人？我怎能如此克制，不将我内心的感受高声宣告呢？那么，最卓越的先生，请接受我向您致意，因为这是出于真实而无伪的友谊。我厌恶一切谄媚的恭维。请将我列入您的朋友名单，并常常写信给我，使您在我面前出现，并在我缺席时安慰我。"
+  }
+}

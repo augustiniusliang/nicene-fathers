@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602113",
+    "title": "The Harmony of the Gospels, Book I",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book I, Chapter 13",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book I",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 13. Of the Question Why God Suffered the Jews to Be Reduced to Subjection.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "20. Hence also they cannot meet us fairly with this question: Why, then, did the God of the Hebrews, whom you declare to be the supreme and true God, not only not subdue the Romans under their power, but even fail to secure those Hebrews themselves against subjugation by the Romans? For there were open sins of theirs that went before them, and on account of which the prophets so long time ago predicted that this very thing would overtake them; and above all, the reason lay in the fact, that in their impious fury they put Christ to death, in the commission of which sin they were made blind [to the guilt of their crime] through the deserts of other hidden transgressions. That His sufferings also would be for the benefit of the Gentiles, was foretold by the same prophetic testimony. Nor, in another point of view, did the fact appear clearer, that the kingdom of that nation, and its temple, and its priesthood, and its sacrificial system, and that mystical unction which is called <greek>χρῖσμα</greek> in Greek, from which the name of <em>Christ</em> takes its evident application, and on account of which that nation was accustomed to speak of its kings as anointed ones, were ordained with the express object of prefiguring Christ, than has the kindred fact become apparent, that after the resurrection of the Christ who was put to death began to be preached unto the believing Gentiles, all those things came to their end, all unrecognised as the circumstance was, whether by the Romans, through whose victory, or by the Jews, through whose subjugation, it was brought about that they did thus reach their conclusion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602113.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602113.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音合参} 第一卷",
+    "p0002": "第十三章 论天主为何容许犹太人被征服",
+    "p0003": "20. 因此，他们也不能这样公平地追问我们：为什么你们宣称是至高无上真天主的希伯来人天主，不仅没有使罗马人屈服于他们权下，甚至未能保护这些希伯来人自己免遭罗马人的征服？因为他们公开的罪行先行，先知们早已预言这事必将临到他们；而最重要的原因在于，他们以不敬的狂怒处死了基督，在犯此罪时，因其他隐秘过犯的应得惩罚，他们被蒙蔽（看不清自己罪行的罪责）。祂的受难也将有益于外邦人，这同样由先知预言所预告。从另一角度看，以下事实同样清楚：那民族的王国、圣殿、司祭职、祭献制度，以及那在希腊文中称为\\OriginalTerm{傅油}{χρῖσμα}的神秘傅油——\\Emph{基督}之名明显由此而来，那民族也惯于称他们的君王为受傅者——这一切被设立，其明确目的是预表基督；同样清楚的是，在被害的基督复活后，开始向信从的外邦人宣讲时，所有这些事物都到达了终点，无论是通过胜利的罗马人，还是通过被征服的犹太人，它们都以这种方式悄然结束，无人认清这一情况。"
+  }
+}

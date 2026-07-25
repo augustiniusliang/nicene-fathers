@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602210",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 10. A Statement of the Reason Why Luke Tells Us that <quote>His Parents Went to Jerusalem Every Year at the Feast of the Passover</quote> Along with the Boy; While Matthew Intimates that Their Dread of Archelaus Made Them Afraid to Go There on Their Return from Egypt.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "23. Or does any one put to us this question, How was it, then, that His parents went up to Jerusalem every year during the boyhood of Christ, as Luke's narrative bears, if they were prevented from going there by the fear of Archelaus? Well, I should not deem it any very difficult task to solve this question, even although none of the evangelists has given us to understand how long Archelaus reigned there. For it might have been the case that, simply for that one day, and with the intention of returning immediately, they went up on the day of the feast, without attracting any notice among the vast multitudes then assembled, to the city where, nevertheless, they were afraid to make their residence on other days. And thus they might at once have saved themselves from the appearance of being so irreligious as to neglect the observance of the feast, and have avoided drawing attention upon themselves by a continued sojourn. But further, although all the evangelists have omitted to tell us what was the length of the reign of Archelaus, we have still open to us this obvious method of explaining the matter, namely, to understand the custom to which Luke refers, when he says that they were in the habit of going to Jerusalem every year, as one prosecuted at a time when Archelaus was no more an object of fear. But if the reign of Archelaus should be made out to have lasted for a somewhat longer period on the authority of any extra-evangelical history which appears to deserve credit, the consideration which I have indicated above should still prove quite sufficient—namely, the supposition that the fear which the parents of the child entertained of a residence in Jerusalem was, nevertheless, not of such a nature as to lead them to neglect the observance of the sacred festival to which they were under obligation in the fear of God, and which they might very easily go about in a manner that would not attract public attention to them. For surely it is nothing incredible that, by taking advantage of favourable opportunities, whether by day or by hour, men may (safely venture to) approach places in which they nevertheless are afraid to be found tarrying.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602210.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602210.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音合参 第二卷}",
+    "p0002": "第十章 说明为何\\Person{路加}告诉我们\\Quote{他的父母每年逾越节同孩子上耶路撒冷}；而\\Person{玛窦}暗示他们从埃及回来时因害怕\\Person{阿基劳斯}而不敢去那里。",
+    "p0003": "23. 或者有人向我们提出这个问题：那末，既然\\Person{路加}的叙述说基督童年时他的父母每年都上\\Place{耶路撒冷}，假如他们因害怕\\Person{阿基劳斯}而不敢去那里，这怎么可能呢？嗯，我认为解决这个问题并不十分困难，即使没有一位圣史告诉我们\\Person{阿基劳斯}在那里统治了多久。因为可能的情况是，只是为了那一天，并且打算立刻返回，他们在节日那天上去，在聚集的广大群众中不引人注意地前往那座城市，而他们平时却不敢在那里居住。这样，他们既避免了显得如此不虔诚以致忽略了遵守节日的义务，又通过短暂的停留避免了引起注意。而且，尽管所有圣史都忽略了告诉我们\\Person{阿基劳斯}统治的年限，我们仍然有一个明显的解释方法，即理解\\Person{路加}所指的习惯，他说他们每年去\\Place{耶路撒冷}，是在\\Person{阿基劳斯}不再是一个可怕的对象的时候进行的。但如果根据任何看起来可信的福音外历史，\\Person{阿基劳斯}的统治持续了相当长的时间，那么我在上面指出的考虑仍然足够——即假定孩子的父母虽然害怕在\\Place{耶路撒冷}居住，但这种恐惧并不足以使他们忽略遵守他们因敬畏天主而有义务遵守的神圣节日，而且他们很容易以一种不引起公众注意的方式去履行。因为，凭借有利的时机，无论是白天还是小时，人们可以安全地接近那些他们仍然害怕被发现逗留的地方，这并没有什么不可思议的。"
+  }
+}

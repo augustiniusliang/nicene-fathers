@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201003",
+    "title": "Book I, Letter 3",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 3",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 3",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Paul, Scholasticus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Paul, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "However strangers smile upon me on account of the dignity of my priestly office, this I take not much account of; but I do grieve not a little at your smiling upon me on this account, seeing that you know what I long for, and yet suppose me to have received advancement. For to me it would have been the highest advancement, if what I wished could have been fulfilled; if I could have accomplished my desire, which you have been long acquainted with, in the enjoyment of longed-for rest. Yet, since I am now detained in the city of Rome, tied by the chains of this dignity, I have something wherein I may even rejoice in addressing your Glory, seeing that, when the most eminent lord the ex-consul Leo comes, I suspect that you will not remain in Sicily; and when you yourself also, tied by your own dignity, shall come to be detained in Rome, you will come to know what sorrow and what bitterness I suffer. But when the magnificent Lord Maurentius, the <em>Chartularius</em>, comes to you, I pray you concur with him in regard to the present straits of the Roman city, since outside we are stabbed without cease by hostile swords. But we are still more heavily pressed by danger within through a sedition of the soldiers. Further, we commend to your Glory in all respects Peter our sub-deacon, whom we have sent to rule the patrimony of the Church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201003.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201003.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷一·第三书",
+    "p0002": "\\Emph{致\\Person{保禄}法学修士。}",
+    "p0003": "\\Person{额我略}致\\Person{保禄}等。",
+    "p0004": "尽管外人因我司铎职位的尊荣而向我微笑，我却不甚在意；但令我深感忧伤的是，你竟也为此而向我微笑，因为你明知我所渴慕的，却仍以为我获得了升迁。对我而言，若我之所愿得以实现——若我能完成你长久熟知的渴望，安享所渴盼的憩息——那才是最高的升迁。然而，如今我被困于罗马城，被此尊荣的锁链束缚，我甚至在致信阁下时仍有可庆幸之处：因为当最尊贵的主上前任执政官\\Person{良}到来时，我猜想你不会留在西西里；而当你自己也因自身的尊荣被束缚，前来被困于罗马时，你将明了我的悲伤与苦涩。但显赫的\\Person{莫伦提乌斯}主上、\\OriginalTerm{机要秘书}{Chartularius}，到你那里时，我求你与他同心，应对罗马城当前的困境，因为城外我们不断被敌剑所刺。而城内因士兵的叛乱，我们更被危险重重压迫。此外，我们将在一切事上，将我们的副执事\\Person{伯多禄}托付给阁下，他已受遣管理教会的产业。"
+  }
+}

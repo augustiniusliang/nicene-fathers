@@ -1,0 +1,54 @@
+{
+  "source": {
+    "source_id": "3001072",
+    "title": "Letter 72",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 72",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 72",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Vitalis</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Vitalis had asked Jerome Is Scripture credible when it tells us that Solomon and Ahaz became fathers at the age of eleven? The difficulty had previously occurred to Jerome himself (Letter XXXVI. 10, whence perhaps Vitalis took it) and in this letter he suggests several ways in which it may be met. He is quite prepared, if necessary, to accept the alleged fact on the grounds that there are many things in Scripture which sound incredible and yet are true and that nature cannot resist the Lord of nature (§2). He is disposed, however, to regard the question as trivial and of no importance. The date of the letter is 398 A.D."
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001072.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001072.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第七十二封书信}",
+    "p0002": "\\Emph{致\\Person{维塔利斯}}",
+    "p0003": "\\EditorialNote{维塔利斯曾问热罗尼莫：圣经告诉我们撒罗满和阿哈次在十一岁时成为父亲，圣经是否可信？这个难题之前也曾困扰过热罗尼莫本人（见第36封信第10节，或许维塔利斯是从那里得到的），在这封信中他提出了几种可能应对的方式。如有必要，他很愿意接受这一声称的事实，理由是圣经中有许多听起来难以置信却是真实的事情，并且自然不能抗拒自然之主（§2）。然而，他倾向于认为这个问题无关紧要且不重要。这封信的日期是公元398年。}"
+  }
+}

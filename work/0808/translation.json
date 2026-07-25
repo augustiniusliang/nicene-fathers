@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "0808",
+    "title": "The Clementine Homilies",
+    "breadcrumbs": "Home > Fathers of the Church > Clementine Homilies",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Clementine Homilies",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Introductory Epistles</strong>\n<strong>Homily 1</strong>\n<strong>Homily 2</strong>\n<strong>Homily 3</strong>\n<strong>Homily 4</strong>\n<strong>Homily 5</strong>\n<strong>Homily 6</strong>\n<strong>Homily 7</strong>\n<strong>Homily 8</strong>\n<strong>Homily 9</strong>\n<strong>Homily 10</strong>\n<strong>Homily 11</strong>\n<strong>Homily 12</strong>\n<strong>Homily 13</strong>\n<strong>Homily 14</strong>\n<strong>Homily 15</strong>\n<strong>Homily 16</strong>\n<strong>Homily 17</strong>\n<strong>Homily 18</strong>\n<strong>Homily 19</strong>\n<strong>Homily 20</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Thomas Smith. From Ante-Nicene Fathers, Vol. 8. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0808.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Thomas Smith.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/0808.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "克莱孟讲道集",
+    "p0002": "\\Emph{引言书信}\\newline{}\\Emph{讲道一}\\newline{}\\Emph{讲道二}\\newline{}\\Emph{讲道三}\\newline{}\\Emph{讲道四}\\newline{}\\Emph{讲道五}\\newline{}\\Emph{讲道六}\\newline{}\\Emph{讲道七}\\newline{}\\Emph{讲道八}\\newline{}\\Emph{讲道九}\\newline{}\\Emph{讲道十}\\newline{}\\Emph{讲道十一}\\newline{}\\Emph{讲道十二}\\newline{}\\Emph{讲道十三}\\newline{}\\Emph{讲道十四}\\newline{}\\Emph{讲道十五}\\newline{}\\Emph{讲道十六}\\newline{}\\Emph{讲道十七}\\newline{}\\Emph{讲道十八}\\newline{}\\Emph{讲道十九}\\newline{}\\Emph{讲道二十}"
+  }
+}

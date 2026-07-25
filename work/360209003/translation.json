@@ -1,0 +1,72 @@
+{
+  "source": {
+    "source_id": "360209003",
+    "title": "Book IX, Letter 3",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 3",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 3",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Januarius, Bishop of Caralis (Cagliari).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Januarius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The most distinguished lady Nereida has complained to us that your Fraternity does not blush to exact from her a hundred <em>solidi</em> for the burial of her daughter, and would bring upon her the additional vexation of expense over and above her groans of sorrow. Now, if the truth is so, it being a very serious thing and far from a priest's office to require a price for earth that is granted to rottenness, and to wish to make profit out of another's grief, let your Fraternity refrain from this demand, and be no more troublesome to her, especially as she tells us that Hortulanus, to whom she asserts she bore this daughter, had formerly been munificent to your Church in no small degree. Now as to this abuse, we ourselves, after we had by God's permission acceded to the dignity of the episcopate, forbade it entirely in our Church, and by no means permitted the evil custom to be taken up anew, remembering that, when Abraham demanded for a price a sepulchre for the burial of his wife's body from the sons of Emor, that is from Ephron the son of Seor, the latter refused to accept a price, lest he should appear to have made profit out of a corpse {{NOTE:note1}} . If then a man that was a pagan showed such great consideration, how much more ought we, who are called priests, not to do this thing? Wherefore I admonish you that this abuse, which comes of avarice, be not ventured on any more, even in the case of strangers. But, if at any time you allow any one to be buried in your Church, and the parents, relations, or heirs of such person should of their own accord wish to offer something for lights, we do not forbid it to be accepted. But we altogether forbid anything to be asked for or exacted, this being a very irreligious proceeding, lest (which God forbid) the Church should haply be spoken of as venal, or you should seem to take joy in men's deaths, if you endeavour in any way whatever to seek profit out of their corpses.",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Genesis 23"
+          }
+        ]
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "With regard to other cases included in the petition of the aforesaid Nereida, we exhort you, if possible, to settle them by an amicable arrangement, or certainly not to omit sending an instructed person to the court, deputed by us, for which purpose we have sent to your parts Redemptus our guardian (<em>defensorem</em>), the bearer of these presents, that he may compel the parties to appear for trial, and carry out with summary execution what may be adjudged.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209003.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209003.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷九·第三封信",
+    "p0002": "\\Emph{致卡拉利斯（卡利亚里）主教雅努亚略。}",
+    "p0003": "格列高利致雅努亚略等。",
+    "p0004": "最尊贵的女士内雷依达向我们申诉，责备您的弟兄毫不羞愧地向她索取一百个\\OriginalTerm{苏勒德斯}{solidi}作为其女儿的丧葬费，并要在她的悲伤呻吟之外，再增加费用的烦恼。如果事实果真如此——因为索要已然腐烂之躯的泥土的代价，并欲从他人的悲痛中牟利，实属严重之事，且与司铎的职分相去甚远——那么，请您的弟兄停止此项索求，不要再打扰她；尤其她告诉我们，那位她声称与之生下此女的霍尔图拉努斯，曾对您的教会慷慨奉献，为数不少。至于这一恶习，我们在天主的准许下就任主教之尊后，便在自己的教会中彻底禁止，绝不允许这不良习俗重新兴起，因为我们记得，当亚巴郎向哈毛尔之子，即厄斐龙，则哈尔之子，请求购买墓地埋葬其妻子遗体时，后者拒绝接受代价，以免显得他从尸体中牟利\\EditorialNote{创世纪23}。如果一位外邦人都表现出如此大的体恤，那么我们这些被称为司铎的人，岂不更不应做这样的事？因此我劝诫您，即使是面对陌生人，也不可再冒这出于贪婪的恶习。但是，若有时您允许某人在您的教会中安葬，而该人的父母、亲属或继承人自愿为灯烛献上一些东西，我们不禁止接受。但我们完全禁止任何索求或强取，因为这是极其不虔敬的行为，以免（但愿天主不许）教会被人说成是买卖之地，或您似乎因他人的死亡而欣喜，倘若您以任何方式企图从死尸中牟利。",
+    "p0005": "关于上述内雷依达请愿书中包含的其他案件，我们劝您，如有可能，以和解的方式解决；否则，务必不要遗漏派遣一位有知识的人士，由我们委派，前往法庭。为此，我们已派遣我们的\\OriginalTerm{辩护人}{defensorem}、此信的携带者雷德姆普图斯前往您所在地区，以便他强制双方出庭受审，并对可能作出的判决立即执行。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360210062",
+    "title": "Book X, Letter 62",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 62",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 62",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Neapolitans.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to the clergy and noble citizens of Naples.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It is not a new thing, nor is it reprehensible, that in the election of a bishop the votes of the people should be divided between two parties: but it is a serious matter when in cases of this kind the election goes not by judgment, but by favour only. For before your letter reached us we had learned from the report of certain persons that the deacon John, who has been elected by the other party, has a little daughter. Hence, if they had had a mind to attend to reason, neither would others have elected him nor would he have consented. For what presumption must his be who dares to approach the episcopate while convicted by the evidence of the little girl, of not having had long control over his own body! Moreover, Peter the deacon, who you say has been elected by you, is, according to what is said, quite without astuteness. And you know that at the present time the person to be constituted in the highest place of government, should be one who knows how to be careful, not only for the salvation of souls, but also with regard to the external advantage and safeguard of his subjects. But know further that it has come to our ears concerning him, that he has given money on usury; which thing you ought to enquire into thoroughly, and, if it is so, elect another, and without delay hold yourselves aloof from a person of this kind. For we will on no account lay hands on lovers of usury. If, however, after accurate enquiry made, this should prove to be false (since his person is unknown to us, and we know not whether what has been reported to us of his simplicity be true), he must needs come to us with your decree in his favour, that, having made careful enquiry into his life and manners, we may at the same time become acquainted with his intelligence; and thus, in case of his satisfying this enquiry, we may in him, with the Lord's help, fulfil your desires. Further, let it be your care to look out also for another person who may be suitable, so that, if this one should by any chance appear unfit for appointment to this order, there may be some one else to whom you may transfer your choice. For it will be a serious disgrace to your clergy, in case of this man by any chance not being approved, if they should say that they have no one else fit to be elected.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210062.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210062.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十卷，第六十二封书信",
+    "p0002": "\\Emph{致那不勒斯人。}",
+    "p0003": "\\Person{额我略}致\\Place{那不勒斯}的圣职人员及贵族市民。",
+    "p0004": "主教选举中，民众的票数分为两派，这不是新鲜事，也不应受谴责。但严重的是，在此类情况下，选举不是凭判断，而只是凭偏爱。因为在你们的信函到达我们之前，我们已从某些人的报告中得知，被另一派选出的执事若望有一个小女儿。因此，如果他们有意讲求理性，那么别人既不会选他，他也不会同意。他的妄自尊大该是何等严重，他竟然在有小女儿的证据下，证明他长久未能节制自己的身体，还敢觊觎主教职位！此外，执事伯多禄，你们说被你们选出，据说他毫无心机。你们知道，在当今之世，被立于统治理高位的人，应当懂得不仅要谨慎照顾灵魂的得救，还要顾及属下的外在利益和安全。但还要知道，我们听到关于他的传闻，说他曾放高利贷；你们应当彻查此事，若果真如此，就另选他人，并立即远离这样的人。因为我们绝不对喜爱高利贷的人按手。然而，如果经过仔细查证，此事证明是假的（因为他的本人我们并不认识，也不知道关于他纯朴的报告是否真实），他必须带着你们的推举文书来见我们，以便我们详细考察他的生活和品行，同时知晓他的才智；这样，如果他符合考察，我们就能在主助佑下，借他实现你们的愿望。此外，你们也要留意寻找另一位合适的人，万一此人显得不适于授任此职，你们可将选择转向别人。因为，万一此人未获批准，而你们的圣职人员说没有其他适合被选举的人，那将是重大的耻辱。"
+  }
+}

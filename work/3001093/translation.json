@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3001093",
+    "title": "Letter 93",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 93",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 93",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>From the Bishops of Palestine to Theophilus</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The synodical letter of the council of Jerusalem sent to Theophilus in reply to the preceding. The translation as before is due to Jerome.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The following is an epitome: We have done all that you wished, and Palestine is almost wholly free from the taint of heresy. We wish that not only the Origenists, but Jews, Samaritans and heathen also, could be put down. Origenism does not exist among us. The doctrines you describe are never heard here. We anathematize those who hold such doctrines, and also those of Apollinaris, and shall not receive anyone whom you excommunicate.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001093.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001093.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第九十三封书}",
+    "p0002": "\\Emph{来自\\Place{巴勒斯坦}诸位主教致\\Person{德奥斐洛}}",
+    "p0003": "耶路撒冷会议致\\Person{德奥斐洛}的主教会议信函，回复前述信件。译文仍由\\Person{热罗尼莫}完成。\\newline{}以下为概要：",
+    "p0004": "我们已行你所愿的一切，巴勒斯坦几乎完全摆脱了异端的污染。我们但愿不仅奥力振派，连犹太人、撒玛黎雅人和外教人也能被铲除。奥力振主义在我们中间并不存在。你所描述的那些教义在此地从未听闻。我们弃绝那些持有此类教义者，也弃绝阿波利纳里的追随者，并且不会接纳任何被你绝罚的人。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202194",
+    "title": "Letter 194",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 194",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 194",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Zoilus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What are you about, most excellent sir, in anticipating me in humility? Educated as you are, and able to write such a letter as you have sent, you nevertheless ask for forgiveness at my hands, as though you were engaged in some undertaking rash and beyond your position. But a truce to mockery. Continue to write to me on every occasion. Am I not wholly illiterate? It is delightful to read the letters of an eloquent writer. Have I learned from Scripture how good a thing is love? I count intercourse with a loving friend invaluable. And I do hope that you may tell me of all the good gifts which I pray for you; the best of health, and the prosperity of all your house. Now as to my own affairs, my condition is not more endurable than usual. It is enough to tell you this and you will understand the bad state of my health. It has indeed reached such extreme suffering as to be as difficult to describe as to experience, if indeed your own experience has fallen short of mine. But it is the work of the good God to give me power to bear in patience whatever trials are inflicted on me for my own good at the hands of our merciful Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202194.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202194.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信194}",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "\\Emph{致\\Person{佐依禄}}。",
+    "p0004": "最卓越的先生，您在谦卑上先知先觉，这是怎么回事？您既有教养，又能写出您所寄来的那样一封书信，却仍在我面前请求宽恕，仿佛您从事了什么鲁莽越份之举似的。但玩笑归玩笑。请随时写信给我。难道我完全是文盲吗？阅读一位雄辩家的信函是令人愉快的。难道我从圣经学不到爱是何等美善的事吗？我视与一位仁爱的朋友交往为无价之宝。而且我确实希望您能告诉我我为您祈求的一切美好恩赐：最健康的身体，以及您全家的一切福乐。至于我自己的情况，我的状况并不比往常更可忍受。只告诉您这一点就够了，您就会明白我健康状况的恶劣。它确实已达到了如此极端的痛苦，以至于既难以形容，也难以体验——如果您的体验不及我的话。然而，这是良善的天主的工作，赐给我力量，使我得以忍耐承受为我的益处而由仁慈的主所加给我的一切试探。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707171",
+    "title": "Letter 171",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 171",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 171",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Letter of Theodoret to John, Bishop of Antioch, after the Reconciliation.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "God, who governs all things in wisdom, who provides for our unanimity, and cares for the salvation of His people, has caused us to be assembled together, and has shown us that the views of all of us are in agreement with one another. We have assembled together, and read the Egyptian Letter; we have carefully examined its purport, and we have discovered that its contents are quite in accordance with our own statements, and entirely opposed to the Twelve Chapters, against which up to the present time we have continued to wage war, as being contrary to true religion. Their teaching was that God the Word was carnally made flesh; that there was an union of hypostasis, and that the combination in union was of nature, and that God the Word was the first-born from the dead. They forbade all distinction in the terms used of our Lord, and further contained other doctrines at variance with the seeds sown by the apostles, and outcome of heretical tares. The present script, however, is beautified by apostolic nobility of origin. For in it our Lord Jesus Christ is exhibited as perfect God and perfect man; it shows two natures, and the distinction between them; an unconfounded union, made not by mixture and compounding, but in a manner ineffable and divine, and distinctly preserving the properties of the natures; the impassibility and immortality of God the Word; the passibility and temporary surrender to death of the temple, and its resurrection by the power of the united God; that the holy Spirit is not of the Son, nor derives existence from the Son, but proceeds from the Father, and is properly stated to be of the Son, as being of one substance. Beholding this orthodoxy in the letter, we have hymned Him who heals our stammering tongues, and changes our discordant noises into the harmony of sweet music.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707171.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707171.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一七一书",
+    "p0002": "\\Emph{\\Person{狄奥多雷}在和解后致\\Place{安提约基雅}主教\\Person{若望}的书信。}",
+    "p0003": "天主以智慧治理万有，顾念我们的一致，并关切祂子民的救恩，祂使我们聚集在一起，并表明我们众人的看法彼此相符。我们聚集一处，阅读了埃及书信；我们仔细审察了其要旨，发现其内容完全符合我们自己的陈述，且全然反对那十二章，直至今日我们仍持续与之争战，视其为违反真宗教。他们的教训是：天主圣言成了血肉之躯；有位格的合一，且合一中的结合是本性上的；天主圣言是从死者中首先复生的。他们禁止在论及我们的主时所使用的术语有任何区别，此外还包含其他与宗徒所播种的种子相悖、出于异端稗子的道理。然而，这封书信却因宗徒般的高贵起源而增色。因为其中显示我们的主耶稣基督为完美的天主和完美的人；它表明两个本性及其区别；一种不相混合的合一，不是通过掺和与混合而成，而是以不可言喻和神圣的方式，明确保存各本性的属性；天主圣言的不受苦难与不死；圣殿的可受苦难与暂时屈服于死亡，以及藉着合一的天主的能力而复活；圣神并非出自圣子，也不是由圣子获得存在，而是由圣父所发，且按理被称为属于圣子，因其为同一实体。看到这书信中的正统信仰，我们颂扬那位治愈我们口吃舌结，并使我们不和谐的声音变为美妙音乐的和谐的主。"
+  }
+}

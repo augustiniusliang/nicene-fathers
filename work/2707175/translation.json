@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707175",
+    "title": "Letter 175",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 175",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 175",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Alexander of Hierapolis</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I have already informed your holiness that if the doctrine of the very holy and venerable bishop, my lord Nestorius, is condemned, I will not communicate with those who do so. If it shall please your holiness to insert this in the letter which is being sent to Antioch so be it. Let there then, I beseech you, be no delay!",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707175.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707175.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一七五封信",
+    "p0002": "\\Emph{致\\Place{希拉波利}的\\Person{亚历山大}}。",
+    "p0003": "我已通知了你的圣座：若非常神圣且可敬的主教、我的主\\Person{聂斯托利}的教义受到谴责，我将不与那些这样做的人共融。如果这能使你的圣座乐意被插入正在送往\\Place{安提约基雅}的信中，那就这样吧。那么，我恳求你，不要再耽搁了！"
+  }
+}

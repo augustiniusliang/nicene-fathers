@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "0103126",
+    "title": "Against Heresies (Book I, Chapter 26)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book I, Chapter 26",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book I, Chapter 26)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Cerinthus, again, a man who was educated in the wisdom of the Egyptians, taught that the world was not made by the primary God, but by a certain Power far separated from him, and at a distance from that Principality who is supreme over the universe, and ignorant of him who is above all. He represented Jesus as having not been born of a virgin, but as being the son of Joseph and Mary according to the ordinary course of human generation, while he nevertheless was more righteous, prudent, and wise than other men. Moreover, after his baptism, Christ descended upon him in the form of a dove from the Supreme Ruler, and that then he proclaimed the unknown Father, and performed miracles. But at last Christ departed from Jesus, and that then Jesus suffered and rose again, while Christ remained impassible, inasmuch as he was a spiritual being.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Those who are called Ebionites agree that the world was made by God; but their opinions with respect to the Lord are similar to those of Cerinthus and Carpocrates. They use the Gospel according to Matthew only, and repudiate the Apostle Paul, maintaining that he was an apostate from the law. As to the prophetical writings, they endeavour to expound them in a somewhat singular manner: they practise circumcision, persevere in the observance of those customs which are enjoined by the law, and are so Judaic in their style of life, that they even adore Jerusalem as if it were the house of God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. The Nicolaitanes are the followers of that Nicolas who was one of the seven first ordained to the diaconate by the apostles. They lead lives of unrestrained indulgence. The character of these men is very plainly pointed out in the Apocalypse of John, [when they are represented] as teaching that it is a matter of indifference to practise adultery, and to eat things sacrificed to idols. Wherefore the Word has also spoken of them thus: <quote>But this you have, that you hate the deeds of the Nicolaitanes, which I also hate.</quote> {{BIBLE:rev 2:6}}",
+        "scripture": [
+          "rev 2:6"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103126.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103126.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "反异端（第一卷，第二十六章）",
+    "p0002": "1. \\Person{塞林托}，又是一个在埃及人的智慧中受教育的人，教导说世界不是由原始的天主创造的，而是由某种远隔他且远离那超越宇宙的至上元首的能力所创造，并且不认识那超越万有的天主。他声称耶稣不是由童贞女所生，而是依照人类生育的通常过程为\\Person{若瑟}和\\Person{玛利亚}的儿子，但他在义德、谨慎和智慧上却比其他人更优越。此外，在他受圣洗后，基督以鸽子的形状从至高主宰那里降临在他身上，并且那时他宣报了未知的圣父，并行了奇迹。但最后基督离开了耶稣，然后耶稣受难并复活了，而基督却保持了不受苦，因为他是个属神的存在。",
+    "p0003": "2. 那些被称为厄彼翁派的人同意世界是由天主创造的；但他们对于主的意见与\\Person{塞林托}和\\Person{卡波克拉特斯}相似。他们只使用\\BibleBook{玛窦}{福音}，并否认宗徒 \\Person{保禄}，声称他是法律的背教者。关于先知著作，他们试图以某种奇特的方式解释；他们实行割损，坚持遵守法律所命令的习俗，他们的生活方式如此犹太化，以致他们甚至崇敬\\Place{耶路撒冷}，仿佛它是天主的住所。",
+    "p0004": "3. 尼苛劳派是那个\\Person{尼苛劳}的追随者，他是宗徒们最初祝圣的七位执事之一。他们过着放纵无度的生活。这些人的品行在\\BibleBook{若望}{默示录}中非常清楚地被指出来，［他们］被描述为教导说，行奸淫和吃祭偶像之物是无关紧要的。因此，圣言也这样论及他们说：\\BibleQuote{然而，你有一件可取的事，就是你恨恶尼苛劳派的作为，我也恨恶。}\\BibleRef{默 2:6}"
+  }
+}

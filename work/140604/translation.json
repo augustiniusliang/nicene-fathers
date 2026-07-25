@@ -1,0 +1,73 @@
+{
+  "source": {
+    "source_id": "140604",
+    "title": "Contra Faustum, Book IV",
+    "breadcrumbs": "Home > Fathers of the Church > Contra Faustum (Augustine) > Book IV",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Contra Faustum, Book IV",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Faustus's reasons for rejecting the Old Testament, and Augustine's animadversions thereon.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. <em>Faustus</em> said: Do I believe the Old Testament? If it bequeaths anything to me, I believe it; if not, I reject it. It would be an excess of forwardness to take the documents of others which pronounce me disinherited. Remember that the promise of Canaan in the Old Testament is made to Jews, that is, to the circumcised, who offer sacrifice, and abstain from swine's flesh, and from the other animals which Moses pronounces unclean, and observe Sabbaths, and the feast of unleavened bread, and other things of the same kind which the author of the Testament enjoined. Christians have not adopted these observances, and no one keeps them; so that if we will not take the inheritance, we should surrender the documents. This is my first reason for rejecting the Old Testament, unless you teach me better. My second reason is, that this inheritance is such a poor fleshly thing, without any spiritual blessings, that after the New Testament, and its glorious promise of the kingdom of heaven and eternal life, I think it not worth the taking.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. <em>Augustine</em> replied: No one doubts that promises of temporal things are contained in the Old Testament, for which reason it is called the Old Testament; or that the kingdom of heaven and the promise of eternal life belong to the New Testament. But that in these temporal things were figures of future things which should be fulfilled in us upon whom the ends of the ages have come, is not my fancy, but the judgment of the apostle, when he says of such things, \"These things were our examples;\" and again, \"These things happened to them for an example, and they are written for us on whom the ends of the ages have come.\" {{BIBLE:1co 10:6}} We receive the Old Testament, therefore, not in order to obtain the fulfillment of these promises, but to see in them predictions of the New Testament; for the Old bears witness to the New. Whence the Lord, after He rose from the dead, and allowed His disciples not only to see but to handle Him, still, lest they should doubt their mortal and fleshly senses, gave them further confirmation from the testimony of the ancient books, saying, \"It was necessary that all things should be fulfilled which were written in the law of Moses, and in the Prophets and Psalms, concerning me.\" {{BIBLE:luk 24:44}} Our hope, therefore, rests not on the promise of temporal things. Nor do we believe that the holy and spiritual men of these times— the patriarchs and prophets— were taken up with earthly things. For they understood, by the revelation of the Spirit of God, what was suitable for that time, and how God appointed all these sayings and actions as types and predictions of the future. Their great desire was for the New Testament; but they had a personal duty to perform in those predictions, by which the new things of the future were foretold. So the life as well as the tongue of these men was prophetic. The carnal people, indeed, thought only of present blessings, though even in connection with the people there were prophecies of the future.",
+        "scripture": [
+          "1co 10:6",
+          "luk 24:44"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "These things you do not understand, because, as the prophet said, \"Unless you believe, you shall not understand.\" {{BIBLE:isa 7:9}} For you are not instructed in the kingdom of heaven—that is, in the true Catholic Church of Christ. If you were, you would bring forth from the treasure of the sacred Scriptures things old as well as new. For the Lord Himself says, \"Therefore every scribe instructed in the kingdom of heaven is like an householder who brings forth from his treasure things new and old.\" {{BIBLE:mat 13:52}} And so, while you profess to receive only the new promises of God, you have retained the oldness of the flesh, adding only the novelty of error; of which novelty the apostle says, \"Shun profane novelties of words, for they increase unto more ungodliness, and their speech eats like a cancer. Of whom is Hymenæus and Philetus, who concerning the faith have erred, saying that the resurrection is past already, and have overthrown the faith of some.\" {{BIBLE:2ti 2:16}} Here you see the source of your false doctrine, in teaching that the resurrection is only of souls by the preaching of the truth, and that there will be no resurrection of the body. But how can you understand spiritual things of the inner man, who is renewed in the knowledge of God, when in the oldness of the flesh, if you do not possess temporal things, you concoct fanciful notions about them in those images of carnal things of which the whole of your false doctrine consists? You boast of despising as worthless the land of Canaan, which was an actual thing, and actually given to the Jews; and yet you tell of a land of light cut asunder on one side, as by a narrow wedge, by the land of the race of darkness—a thing which does not exist, and which you believe from the delusion of your minds; so that your life is not supported by having it, and your mind is wasted in desiring it.",
+        "scripture": [
+          "isa 7:9",
+          "mat 13:52",
+          "2ti 2:16"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/140604.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Richard Stothert.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/140604.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥福斯图斯，第四卷}",
+    "p0002": "\\Emph{\\Person{福斯图斯}拒绝旧约的理由，以及\\Person{奥古斯丁}对此的评论。}",
+    "p0003": "1. \\Person{福斯图斯}说：\\Quote{我是否相信旧约？如果它遗赠任何东西给我，我就相信；否则，我就拒绝。拿着宣告我被剥夺继承权的别人的文件，将是过分鲁莽。请记住，旧约中\\Place{迦南}的应许是给犹太人，即受割礼者，他们祭献，禁食猪肉以及\\Person{梅瑟}宣布不洁的其他动物，并守安息日、无酵节以及立约者所规定的其他同类事物。基督徒没有采纳这些礼仪，也没有人遵守；因此，如果我们不愿接受产业，就应该交出文件。这是我拒绝旧约的第一个理由，除非你教导我更好的。我的第二个理由是，这份产业是如此可怜、属血肉的东西，没有任何属灵的祝福，以致于有了新约及其光荣的天国和永生应许之后，我认为它不值得接受。}",
+    "p0004": "2. \\Person{奥古斯丁}回答说：没有人怀疑旧约中包含对现世事物的应许，因此被称为旧约；也没有人怀疑天国和永生的应许属于新约。然而，在这些现世事物中，是未来事物的预象，这些预象应在我们这些万世终结已经来到的人身上应验，这不是我个人的想象，而是宗徒的判断，当他说到这类事情时：\\BibleQuote{这些事是我們的预像}；又说：\\BibleQuote{这些事发生在他们身上，作为预像，并且写在经上，是为警戒我们这些末世的人。}\\BibleRef{格前 10:6} 因此，我们接受旧约，不是为了获得这些应许的实现，而是在其中看到对新约的预言；因为旧约为新约作证。因此，主从死者中复活后，让祂的门徒不仅看见祂，而且触摸祂，但仍然担心他们怀疑自己必死和血肉的感官，便进一步从古书的见证中证实他们，说：\\BibleQuote{凡在\\Person{梅瑟}法律、先知和诗篇上所记载关于我的事，都必须应验。}\\BibleRef{路 24:44} 因此，我们的希望不在于现世事物的应许。我们也不相信那些时期的圣善和属灵的人——圣祖和先知——专注于地上的事物。因为他们借着天主圣神的启示，明白了什么适合那个时代，以及天主如何安排所有这些言行作为未来的预像和预言。他们深切渴望新约；但在那些预言中，他们有一个个人的使命需要履行，通过这些预言，未来的新事被预告。所以这些人的生活和言语都是预言性的。属血肉的百姓确实只想到当前的祝福，尽管就连在百姓身上也有关于未来的预言。",
+    "p0005": "这些事你们不明白，因为正如先知所说：\\BibleQuote{除非你们相信，你们必不会明白。}\\BibleRef{依 7:9} 因为你们没有受过天国——即基督的真实的天主教会——的教诲。如果受过，你们就会从圣经的宝库里拿出新旧的东西来。因为主亲自说：\\BibleQuote{凡受过天国教诲的经师，就好像一个家主，从他的宝库里拿出新旧的东西来。}\\BibleRef{玛 13:52} 所以，你们一方面声称只接受天主的新应许，另一方面却保留了血肉的旧性，只增加了错误的标新立异；关于这种标新立异，宗徒说：\\BibleQuote{要躲避亵渎的新奇言论，因为它们只会加增不虔敬，他们的言论如同毒疮蔓延。其中有\\Person{希默纳约斯}和\\Person{斐肋托斯}，他们在信德上偏离了，说复活已经过去，并且颠覆了一些人的信德。}\\BibleRef{弟后 2:16} 从这里你们可以看出你们错误教义的来源，即教导复活只是借着宣讲真理使灵魂复活，而不会有身体的复活。但你们这些保留血肉旧性的人，如果你们不拥有现世事物，又如何能理解内心之人属灵的事物——内心之人是在认识天主上更新的？你们编造关于现世事物的幻想，这些幻想由你们全部错误教义所组成的那些血肉事物的形象构成。你们夸耀自己鄙视无价值的\\Place{迦南}地，那是一个实际存在的地方，并实际赐给了犹太人；然而你们却讲述一个光明之地，被黑暗种族之地像狭窄的楔子一样从一侧切开——这是一个不存在的东西，你们从你们心智的迷惑中相信它；因此你们的生活没有因拥有它而得到支撑，你们的心智却在渴望它中消耗殆尽。"
+  }
+}

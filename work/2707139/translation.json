@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707139",
+    "title": "Letter 139",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 139",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 139",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Aspar, Consular and Patrician.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To the other good deeds of your excellency must be added your having acquainted our pious and most christian emperor, whom God's grace has appointed for the blessing of his subjects, of the enormous wrong done against me, and your having by a righteous edict annulled an edict which was nothing of the kind. Supported by divine Providence I have made what they reckoned a punishment a means of good, and I have welcomed my rest with delight; but none the less I have been wrongly and illegally treated, though in no single point guilty of the errors which the enemies of the truth slanderously laid at my door, but yet made to suffer the penalty of the greatest criminals. Nay, my fate has been yet harder than theirs. I was judged without a trial; I was doomed in my absence; when forbidden by the emperor's orders to go to Ephesus I received the most righteous sentence of my holy judges. All this has now been undone by his most serene majesty, through the active interposition of your excellency. I, for my part, feeling that I should be wrong to keep silent and not offer you my thanks, have availed myself of this letter, whereby I beseech your excellency to speak in warm terms in my behalf both to the victorious and Christian emperor and to the very godly and pious Augusta. On their behalf I implore our good Lord as earnestly as lies in my power to guard their empire in security, and to grant that it may be at once a source of loving protection for their subjects, and of terror to their foes, and establish honourable peace for all. May your excellency be induced to petition them completely to put an end to the agitation of the Church, and order the assembling of the council; not, like the last, of men who from their habits of unruliness throw the synod into confusion, but, in peace and quiet, of members instructed in divine things, and in the habit of confirming the apostolic decrees and rejecting what is spurious and at variance with the truth. And I express this hope to the end that your excellency may reap the good which such a course of conduct is likely to produce.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707139.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707139.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一三九封书信}",
+    "p0002": "\\Emph{致执政官兼贵族\\Person{Aspar}}。",
+    "p0003": "在阁下其他善行之外，尚需添上一件：您已使我虔诚并极其信奉基督的皇帝（天主的恩宠已任命他为臣民的福祉）知晓了对我所行的极大不公，并且您已通过一道正义的谕令，废除了一道并非正义的谕令。在天主眷顾的支持下，我视他们所视为惩罚之事为善的手段，并欣悦地迎接了我的安息；然而我确被错谬且非法地对待，尽管在真理之敌诽谤加于我的过失上，我毫无半点罪责，却被处以了最大罪犯所应受的刑罚。不，我的命运比他们的更为严酷：我未经审判而被定罪；我在缺席时被宣判；当奉皇帝之命禁止我前往厄弗所时，我竟从圣洁的法官们那里领受了至为正义的判决。如今，因阁下积极斡旋，最仁慈的陛下已撤销这一切。我觉得若保持沉默、不向您致谢是有亏于理，于是便以此信恳请阁下，在我所里既为那位得胜而虔诚的皇帝、也为那位极其敬神且虔诚的奥古斯塔面前大力为我进言。我代他们以我所能的最大热忱向我们的善主祈求，求主保佑他们的帝国安全稳固，恩赐帝国对臣民成为慈爱的保护，对敌人成为恐怖，并为众人建立尊贵的和平。恳请阁下能请求他们完全终止教会的动荡，并下令召开公议会；不是像上一次那样，由惯于扰乱、使会议陷入混乱的人组成，而是要在和平与安静中，由通晓天主之事、惯于确认宗徒谕令、摒弃那些虚假且与真理相悖之事的成员组成。我表达此希望，为使阁下能收获这种行径所能产生的善果。"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "3202277",
+    "title": "Letter 277",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 277",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 277",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To the learned Maximus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The excellent Theotecnus has given mean account of your highness, whereby he has inspired me with a longing for your acquaintance, so clearly do his words delineate the character of your mind. He has enkindled in me so ardent an affection for you, that were it not that I am weighed down with age, that I am the victim of a congenital ailment, that I am bound hand and foot by the numberless cares of the Church, nothing would have hindered my coming to you. For indeed it is no small gain that a member of a great house, a man of illustrious lineage, in adopting the life of the gospel, should bridle the propensities of youth by reflection, and subject to reason the affections of the flesh; should display a humility consistent with his Christian profession, bethinking himself, as is his duty, whence he has come and whither he is going. For it is this consideration of our nature that reduces the swelling of the mind, and banishes all boastfulness and arrogance. In a word it renders one a disciple of our Lord, Who said, <quote>Learn of me, for I am meek and lowly in heart.</quote> {{BIBLE:mat 11:29}} And in truth, very dear son, the only thing that deserves our exertions and praises is our everlasting welfare; and this is the honour that comes from God.",
+        "scripture": [
+          "mat 11:29"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Human affairs are fainter than a shadow; more deceitful than a dream. Youth fades more quickly than the flowers of spring; our beauty wastes with age or sickness. Riches are uncertain; glory is fickle. The pursuit of arts and sciences is bounded by the present life; the charm of eloquence, which all covet, reaches but the ear: whereas the practice of virtue is a precious possession for its owner, a delightful spectacle for all who witness it. Make this your study; so will you be worthy of the good things promised by the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "But a recital of the means whereby to make the acquisition, and secure the enjoyment of these blessings, lies beyond the intention of this present letter. Thus much however, after what I heard from my brother Theotecnus, it occurred to me to write to you. I pray that he may always speak the truth, especially in his accounts of you; that the Lord may be the more glorified in you, abounding as you do in the most precious fruits of piety, although derived from a foreign root.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202277.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202277.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信277",
+    "p0002": "\\Signature{\\Emph{凯撒勒雅的圣巴西略}}",
+    "p0003": "致博学之士\\Person{马克西姆}。",
+    "p0004": "杰出的\\Person{德奥特克诺}向我讲述了您的事迹，由此激起了我对您相识的渴望，因为他用言语如此清晰地描绘了您心智的品格。他点燃了我对您炽热的爱慕，以至于若不是我年事已高，先天疾病缠身，且被教会无数的挂虑所束缚，没有任何事能阻止我前来见您。因为的确，一个名门望族的成员、出身显赫的人，若采纳福音的生活方式，以理性克制青春的冲动，使肉体的情感服从理智；展示与他基督徒身份相符的谦卑，按本分反思自己从何而来、往何处去——这并非小小的收获。正是对我们本性的这种反思，抑制了心灵的傲慢，驱散了所有自夸和骄傲。总之，它使人成为我们主的门徒，主曾说：\\BibleQuote{你们向我学习，因为我是良善心谦的。}\\BibleRef{玛 11:29}实在的，极亲爱的儿子，唯一值得我们的努力和赞美的是我们永恒的福祉；这是来自天主的尊荣。",
+    "p0005": "人间万事比影子更虚幻，比梦更欺骗。青春凋谢比春天的花朵更快；容貌因年老或疾病而憔悴。财富不确定；荣华易逝。对技艺和学问的追求局限于现世生命；人人都向往的雄辩魅力仅止于耳；而修德的实践对其拥有者是宝贵的财富，对所有目睹者是赏心悦目的景象。请以此为您的学业；这样您就配得上主所应许的美好事物。",
+    "p0006": "但是，列举获得并享有这些福乐的方法，超出了本信的意图。然而，在听了我的兄弟\\Person{德奥特克诺}的讲述后，我想到了给您写这些。我祈祷他永远说实话，尤其是在他对您的描述中；愿主在您内更受光荣，因为您虽出自异域之根，却充盈着最珍贵的虔敬之果。"
+  }
+}

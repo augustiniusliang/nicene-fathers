@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707142",
+    "title": "Letter 142",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 142",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 142",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Same.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I have already addressed your reverence in another letter, and have delivered it to your much respected brethren. Now again I address your holiness. I am induced to do so both by your admirable life, and by the praiseworthy zeal which you have shown on behalf of the apostolic faith, fearless alike of imperial power and of episcopal combination. For granted that the majority of the council consented under coercion, still they did confirm the new fangled heresy by their signatures. Your holiness, however, was shaken by none of these things, but abided by the ancient doctrines which the Lord, by means of both the prophets and the apostles, has taught the churches to hold. These decrees I pray that I may preserve, and keep to the end my faith and confession in one Father, one Son and one Holy Ghost. For the incarnation of the only begotten made no addition to the number of the Trinity. Even after the incarnation the Trinity is still a Trinity. This is the teaching I have received from the beginning; this has been my faith; in this was I baptized; this have I preached; in this have I baptized, this I continue to hold. Of them that utter a lie about the Father the Lord has said <quote>When he speaks a lie he speaks of his own,</quote> for what is said of the teacher is appropriate to the disciples. So these men who employ lies against me speak of their own, and do not describe what is mine. I am comforted by my Master's words <quote>Blessed are you when men shall revile you and persecute you and shall say all manner of evil against you falsely for my sake. Rejoice and be exceeding glad for great is your reward in heaven.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I entreat your piety to pray that I may not have my part among the wrong doers, but among them that suffer wrong on account of the truth of the Gospels.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707142.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707142.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一四二号书信}",
+    "p0002": "\\Emph{致同一人。}",
+    "p0003": "今已另函寄呈尊座，并托付于贵敬爱之弟兄。兹复再致函于圣座。此举既因您堪赞之生活，亦因您为宗徒信仰所表现之可嘉热忱——既不畏皇权，亦不惧主教之结盟。盖全会虽多数迫于压力，然毕竟以署名确认此新造之异端。然圣座不为所动，坚守古训，即主藉先知及宗徒训导教会所持守者。切望我能持守此等信条，至终保持对唯一圣父、唯一圣子、唯一圣神之信德与宣认。盖独生者之降生成人并未增加天主圣三之位数。既降生后，圣三仍是圣三。此乃我初所受之教理；此乃我之信德；我以此受洗；我以此宣讲；我以此施洗；我至今持守。对于妄言父者，主曾言：\\Quote{他说谎时，是出于自己}，盖师之所言，合于弟子。是故，以谎言攻击我者，所言出于自己，而非描述我之实情。我以主之言自慰：\\BibleQuote{几时人因我辱骂迫害你们，捏造一切恶言毁谤你们，你们是有福的。你们欢喜踊跃罢！因为你们在天上的赏报是丰厚的。}",
+    "p0004": "恳请尊虔代祷，使我不要与行不义者同分，而与为福音真理受不义者共分。"
+  }
+}

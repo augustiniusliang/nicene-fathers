@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "0103440",
+    "title": "Against Heresies (Book IV, Chapter 40)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book IV, Chapter 40",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book IV, Chapter 40)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. It is therefore one and the same God the Father who has prepared good things with Himself for those who desire His fellowship, and who remain in subjection to Him; and who has the eternal fire for the ringleader of the apostasy, the devil, and those who revolted with him, into which [fire] the Lord {{BIBLE:mat 25:41}} has declared those men shall be sent who have been set apart by themselves on His left hand. And this is what has been spoken by the prophet, <quote>I am a jealous God, making peace, and creating evil things;</quote> {{BIBLE:isa 45:7}} thus making peace and friendship with those who repent and turn to Him, and bringing [them to] unity, but preparing for the impenitent, those who shun the light, eternal fire and outer darkness, which are evils indeed to those persons who fall into them.",
+        "scripture": [
+          "mat 25:41",
+          "isa 45:7"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. If, however, it were truly one Father who confers rest, and another God who has prepared the fire, their sons would have been equally different [one from the other]; one, indeed, sending [men] into the Father's kingdom, but the other into eternal fire. But inasmuch as one and the same Lord has pointed out that the whole human race shall be divided at the judgment, <quote>as a shepherd divides the sheep from the goats,</quote> {{BIBLE:mat 25:32}} and that to some He will say, <quote>Come, you blessed of My Father, receive the kingdom which has been prepared for you,</quote> {{BIBLE:mat 25:34}} but to others, <quote>Depart from me, you cursed, into everlasting fire, which My Father has prepared for the devil and his angels,</quote> {{BIBLE:mat 25:41}} one and the same Father is manifestly declared [in this passage], <quote>making peace and creating evil things,</quote> preparing fit things for both; as also there is one Judge sending both into a fit place, as the Lord sets forth in the parable of the tares and the wheat, where He says, <quote>As therefore the tares are gathered together, and burned in the fire, so shall it be at the end of the world. The Son of man shall send His angels, and they shall gather from His kingdom everything that offends, and those who work iniquity, and shall send them into a furnace of fire: there shall be weeping and gnashing of teeth. Then shall the just shine forth as the sun in the kingdom of their Father.</quote> {{BIBLE:mat 13:40}} The Father, therefore, who has prepared the kingdom for the righteous, into which the Son has received those worthy of it, is He who has also prepared the furnace of fire, into which these angels commissioned by the Son of man shall send those persons who deserve it, according to God's command.",
+        "scripture": [
+          "mat 25:32",
+          "mat 25:34",
+          "mat 25:41",
+          "mat 13:40"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. The Lord, indeed, sowed good seed in His own field; and He says, <quote>The field is the world.</quote> But while men slept, the enemy came, and <quote>sowed tares in the midst of the wheat, and went his way.</quote> {{BIBLE:mat 13:28}} Hence we learn that this was the apostate angel and the enemy, because he was envious of God's workmanship, and took in hand to render this [workmanship] an enmity with God. For this cause also God has banished from His presence him who did of his own accord stealthily sow the tares, that is, him who brought about the transgression; but He took compassion upon man, who, through want of care no doubt, but still wickedly [on the part of another], became involved in disobedience; and He turned the enmity by which [the devil] had designed to make [man] the enemy of God, against the author of it, by removing His own anger from man, turning it in another direction, and sending it instead upon the serpent. As also the Scripture tells us that God said to the serpent, <quote>And I will place enmity between you and the woman, and between your seed and her seed. He shall bruise your head, and you shall bruise his heel.</quote> {{BIBLE:gen 3:15}} And the Lord summed up in Himself this enmity, when He was made man from a woman, and trod upon his [the serpent's] head, as I have pointed out in the preceding book.",
+        "scripture": [
+          "mat 13:28",
+          "gen 3:15"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103440.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103440.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥异端（第四卷，第四十章）}",
+    "p0002": "1. 因此，是同一天主圣父为那些渴望与祂共融并服从祂的人预备了美善之事，也为背道的魁首——魔鬼及其同谋者预备了永火；主曾宣告（\\BibleRef{玛 25:41}）那些被分别站在祂左边的人将被投入那火。这也是先知所说的：\\BibleQuote{我是嫉妒的天主，制造和平，也制造灾祸}\\BibleRef{依 45:7}；祂这样与那些悔改归向祂的人和好，并引领他们合一，却为那执迷不悟、逃避光明的人预备了永火和外面的黑暗，这些对陷入其中的人确实是灾祸。",
+    "p0003": "2. 然而，如果真有一位父赐予安息，而另一位神预备了火，那么他们的儿子也必然互不相同：一位将人送入父的国，另一位则送入永火。但既然同一位主指明，全人类将在审判时被分开，\\BibleQuote{好像牧人分开绵羊和山羊一样}\\BibleRef{玛 25:32}，并要对一些人说：\\BibleQuote{我父所祝福的，你们来吧！承受那为你们预备了的国度}\\BibleRef{玛 25:34}，而对另一些人说：\\BibleQuote{可咒骂的，离开我，到那为魔鬼和他的使者预备的永火里去吧！}\\BibleRef{玛 25:41}，那么显然，同一圣父就是经文所宣告的\\BibleQuote{制造和平，也制造灾祸}的那一位，为双方预备了适宜的事；同样，一位审判者将他们送往适宜的地方，正如主在莠子和麦子的比喻中所说：\\BibleQuote{就如把莠子收集起来，用火焚烧，在末日也将是这样。人子要差遣祂的天使，把一切使人跌倒的事和作恶的人从祂的国里收集起来，扔到火窑里；在那里要有哀号和切齿。那时，义人在他们父的国里，要发光如同太阳}\\BibleRef{玛 13:40}。因此，那位为义人预备了国度、并由圣子接纳配得之人进入的父，也是预备了火窑的那一位，人子差遣的天使将根据天主的命令，把那些应得的人投入其中。",
+    "p0004": "3. 主确实在自己的田里撒了好种子，他说：\\BibleQuote{田地就是世界。}但人们睡觉的时候，仇敌来了，\\BibleQuote{在麦子中间撒上莠子，就走了}\\BibleRef{玛 13:28}。由此我们知道，这就是那背叛的天使和仇敌，因为他嫉妒天主的创造，并企图使这创造与天主为敌。因此，天主将他从自己面前驱逐出去，因为他自己偷偷地撒了莠子，即带来违命的那一位；但天主怜悯了人，人虽然因疏忽（当然，但也因另一方邪恶）而陷入悖逆，但天主将魔鬼本想使人成为天主的敌人的敌意转向了其作者，将祂的愤怒从人身上移开，转向蛇。正如经上告诉我们的，天主对蛇说：\\BibleQuote{我要把仇恨放在你和女人之间，和你的后裔和她的后裔之间；她的后裔要踏碎你的头颅，你要咬伤他的脚跟}\\BibleRef{创 3:15}。主亲自将这仇恨实现在自己身上，当他由女人而成为人，并踏碎了蛇的头颅时，正如我在前书中所指出的。"
+  }
+}

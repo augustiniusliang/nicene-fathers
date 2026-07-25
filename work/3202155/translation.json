@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202155",
+    "title": "Letter 155",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 155",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 155",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Without address</em>. <em>In the case of a trainer</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am at a loss how to defend myself against all the complaints contained in the first and only letter which your lordship has been so good as to send me. It is not that there is any lack of right on my side, but because among so many charges it is hard to select the most vital, and fix on the point at which I ought to begin to apply a remedy. Perhaps, if I follow the order of your letter, I shall come upon each in turn. Up to today I knew nothing about those who are setting out for Scythia; nor had any one told me even of those who came from your house, so that I might greet you by them, although I am anxious to seize every opportunity of greeting your lordship. To forget you in my prayers is impossible, unless first I forget the work to which God has called me, for assuredly, faithful as by God's grace you are, you remember all the prayers of the Church; how we pray also for our brethren when on a journey and offer prayer in the holy church for those who are in the army, and for those who speak for the sake of the Lord's name, and for those who show the fruits of the Spirit. In most, or all of these, I reckon your lordship to be included. How could I ever forget you, as far as I am individually concerned, when I have so many reasons to stir me to recollection, such a sister, such nephews, such kinsfolk, so good, so fond of me, house, household, and friends? By all these, even against my will, I am perforce reminded of your good disposition. As to this, however, our brother has brought me no unpleasant news, nor has any decision been come to by me which could do him any injury. Free, then, the chorepiscopus and myself from all blame, and grieve rather over those who have made false reports. If our learned friend wishes to bring an action against me, he has law courts and laws. In this I beg you not to blame me. In all the good deeds that you do, you are laying up treasure for yourself; you are preparing for yourself in the day of retribution the same refreshment which you are providing for those who are persecuted for the sake of the name of the Lord. If you send the relics of the martyrs home you will do well; as you write that the persecution there is, even now, causing martyrs to the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202155.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202155.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一五五号书信}",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅）}}",
+    "p0003": "\\Emph{无收信人地址}。\\Emph{关于一位训练者}。",
+    "p0004": "我不知道该如何为自己辩护，以回应阁下惠赐的第一封也是唯一一封信中所包含的所有抱怨。并非因为我理亏，而是因为在众多指控中，难以选出最关键的，并确定我应从何处开始补救。或许，若我按照来信的顺序，便依次触及每一个。直至今日，我对那些前往\\Place{斯基泰亚}的人一无所知；也没有人告诉我任何从您府上来的，以便我能通过他们向您问候，尽管我渴望抓住每一个问候阁下的机会。在祈祷中忘记您是不可能的，除非我先忘记天主召叫我的工作，因为借着天主的恩宠，您是忠实的，您记得教会的一切祈祷：我们也会为旅途中的弟兄祈祷，在圣教会中为从军者奉献祈祷，为那些为主之名说话的人祈祷，也为那些显示圣神果实的人祈祷。在大部分或所有这些中，我认为阁下也被包括在内。就我个人而言，我怎能忘记您呢？我有如此多的理由唤起回忆：这样一位姐妹，这样一些侄儿，这样一些亲属，如此善良，如此爱我，还有房屋、家人和朋友？所有这一切，即使违背我的意愿，也迫使我记起您的善意。然而，关于此事，我们的兄弟没有带来不愉快的消息，我也没有作出任何可能伤害他的决定。那么，请免除那位\\OriginalTerm{乡村主教}{chorepiscopus}和我的一切责备，并为那些造谣中伤的人感到悲伤。如果我们博学的朋友想起诉我，有法庭和法律在。在此，我恳求您不要责备我。在您所做的一切善事中，您为自己积攒财宝；您在报应之日为自己预备了同样的安慰，就像您为主之名受迫害的人所提供的那样。若您送殉道者的遗骸回家，您会做得很好；正如您信中所写，那里的迫害甚至现在仍在为主产生殉道者。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360205052",
+    "title": "Book V, Letter 52",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book V, Letter 52",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book V, Letter 52",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Archbishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, Archbishop of the Corinthians.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The equity and solicitude of Secundinus our brother and fellow bishop, which had been well known to us of old, is shown also by the tenor of your letters. In this matter he has greatly pleased us, and made us glad, in that in the cause of Anastasius , once bishop, which we charged him to enquire into, he has both exercised his vigilance diligently and judged the crimes that were discovered as justice required, and as was right. But in all these things we return thanks to Almighty God for that, when certain accusers held back, He brought the truth to his knowledge, lest the originator of such great crimes should escape detection. But seeing that, in the sentence wherein it is evident that the above-named Anastasius has been justly condemned and deposed, our above-named brother and fellow bishop has visited the offense of certain persons in such a manner as to reserve them for our judgment, we therefore have seen fit to signify by this present epistle what is to be held to and observed concerning them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "As to Paul the deacon then, the bearer of these presents, although his fault is exceedingly to his shame and discredit— namely, that deluded by promises, he held back from accusation of his late bishop who has been lately deposed, and that, in the eagerness of cupidity, he consented, against his own soul, to keep silence rather than declare the truth— yet, since it befits us to be more kind than strict, we pardon him this fault, and decide that he is to be received again into his rank and position. For we believe that the affliction which he has endured since the time of the sentence being pronounced may suffice for the punishment of this fault. But as to Euphemius and Thomas, who received sacred orders for relinquishing their accusation, it is our will that they be deprived of these sacred orders, and, having been deposed from them, so continue; and we decree that they shall never, under any pretext or excuse, be restored to sacred orders. For it is in the highest degree improper, and contrary to the rule of ecclesiastical discipline, that they should enjoy the dignity which they have received, not for their merits, but as the reward of wickedness. Yet, inasmuch as it is fit for us to incline to mercy more than to strict justice, it is our will that the same Euphemius and Thomas be restored to the rank and position, but to that only, from which they had been promoted to sacred orders, and receive during all the days of their life the stipends of these positions, as they had been before accustomed. Further, as to Clematius the reader, I appoint, from a like motive of benignity, that he is to be restored to his rank and position. To all these also, that is, to Paul the deacon, to Euphemius, Thomas, and Clematius, let your Fraternity take care to supply their emoluments, according to the rank and position in which each of them is, as each has been accustomed to receive them, from this present thirteenth indiction without any diminution. Inasmuch, therefore, as the above-named Paul the deacon asserts that he expended much for the advantage of your Church, and desires to be aided by the succour of your Fraternity for recovery of the same, we exhort that, if this is so, you should concur with him in all possible ways, and support him with your aid, for recovering what he has given, since no reason allows that he should unjustly suffer loss in what he has expended for the advantage of the generality. Furthermore, let your Fraternity restore without delay the three pounds of gold which, at the instance of our above-named brother and fellow bishop Secundinus, it appears that the said Paul the deacon gave for the benefit of your Church, lest (which God forbid) you should seem to burden him, not reasonably, but out of mere caprice.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360205052.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360205052.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五卷，书信五十二",
+    "p0002": "\\Emph{致\\Person{若望}总主教}",
+    "p0003": "\\Person{额我略}致\\Person{若望}\\Place{科林托}总主教。",
+    "p0004": "我们的兄弟及同为主教者\\Person{塞孔迪诺}的公义与关怀，早已为我们所熟知，如今更由你书信的内容得以显明。在此事上，他极大地取悦了我们，并使我们欣喜，因在调查前任主教\\Person{阿纳斯塔修斯}一案中，他既勤勉地履行了审慎之责，又按正义及应然之理，对所发现的罪行做出了判决。然而在一切事上，我们感谢全能天主，因为当某些控告者退缩时，祂使真相被他知晓，以免如此重大罪行的肇始者逃脱发觉。但是，鉴于在上述\\Person{阿纳斯塔修斯}被公正定罪及罢免的判决中，我们上述的兄弟及同为主教者如此处理某些人的过犯，即将其留待我们审判，我们因而宜借此书信表明，关于他们应持守及遵行何事。",
+    "p0005": "关于持信人\\Person{保禄}执事，尽管他的过错极其可耻——即受许诺迷惑，未控告其近日被罢免的前任主教，且因贪心之急切，违背自己的灵魂，同意缄默而不愿声明真相——然而，因我们宜以仁慈而非严厉，我们宽恕此过，并决定他应恢复其品级及职位。因为我们认为，自判决宣布以来他所承受的忧苦，足以惩罚此过。至于\\Person{尤菲米乌斯}与\\Person{托马斯}，他们因放弃控告而接受了圣秩，我们决定他们应被剥夺这些圣秩，罢免后保持如此；并规定他们永不可借任何托词或理由恢复圣秩。因为，他们接受所获之尊位，并非因其功绩，而是作为恶行之酬报，这极不合宜，且违背教会纪律之规则。然而，因我们宜倾向于仁慈而非严格正义，我们决定上述\\Person{尤菲米乌斯}与\\Person{托马斯}应恢复其原品级及职位（但仅限此原品级，即他们被擢升圣秩前所处的品级），并终生领取这些职位之俸禄，如前所惯。此外，关于读经员\\Person{克莱马修斯}，我出于同样仁爱之心，指定他应恢复其品级及职位。对于以上所有人，即\\Person{保禄}执事、\\Person{尤菲米乌斯}、\\Person{托马斯}及\\Person{克莱马修斯}，请阁下按其各人所处的品级及职位，依其向来领取之方式，从本第十三小纪起，毫无减损地供给其报酬。既然上述\\Person{保禄}执事声称为贵教会的益处花费甚多，并希望借阁下之助追回，我们敦促，若果如此，你应以一切可能方式协助他，并支持他追回所赠之物，因为无理由容许他为大众之利所花费者遭受不公损失。此外，请阁下立即归还上述三磅黄金，即应我们上述兄弟及同为主教者\\Person{塞孔迪诺}之请，该\\Person{保禄}执事为贵教会的益处所给予的，以免（愿天主不许）你似乎非理性地，而仅凭任性加重他的负担。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360205048",
+    "title": "Book V, Letter 48",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book V, Letter 48",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book V, Letter 48",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Andrew, Scholasticus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Andrew, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have been desirous of carrying out the wish of the most excellent the lord Patrician as to the person of Donatus, the archdeacon; but, seeing that it is very dangerous to the soul to lay hands on any one rashly, we took care to examine by a thorough investigation into his life and deeds. And, since many things have been discovered, as we have written to the said lord Patrician, which remove him far from the episcopate, we, fearing the judgment of God, have not thought fit to consent to his ordination. But neither have we presumed to ordain John, the presbyter, who is ignorant of the psalms, since this circumstance certainly showed him to be too little in earnest about himself. These, then, being excluded, when we had urged the parties to choose some one from among their own people , and they declared that they had no one fit for this office, and when we together with them were the more distressed, they at length, with one common voice and consent, repeatedly solicited our venerable brother the presbyter Marinianus, who they learned had been associated with me for a long time in a monastery. He, shrinking from the office, was at last, by various means, with difficulty persuaded to give assent to their petition. And, since we were well acquainted with his life, and knew him to be solicitous in winning souls, we did not delay his ordination. Let, therefore, your Glory receive him as is becoming, and extend to his newness the aid of your succour. For to all, as you know, newness in any office whatever is very trying. But I have great confidence that Almighty God, who has vouchsafed to put him over His flock, will both stimulate him to give heed to what is inward, and comfort him with the loving-kindness of His grace for administering what is outward. But, inasmuch as, after his long enjoyment of quiet, his newness, as we have before said, will without doubt expose him to perturbation, I beg that, when he shall come to you flying from the whirlwinds of secular storms, he may always find in your heart a haven of rest, and be cheered by the boon of your charity. But you will soon learn how much you will find yourselves able to agree; for he comes unwillingly to the episcopate.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360205048.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360205048.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五卷，第四十八封信",
+    "p0002": "\\Emph{致\\Person{安德烈}，\\OriginalTerm{学者}{Scholasticus}}。",
+    "p0003": "\\Person{额我略}致\\Person{安德烈}等。",
+    "p0004": "我们一直渴望满足最杰出的显贵大人关于总执事\\Person{多纳图斯}之位的愿望；但是，鉴于鲁莽地为任何人覆手极其危险灵魂，我们谨慎地通过彻底调查审视了他的生活与行为。由于我们发现许多事情——正如我们已写信给上述显贵大人——使他远离主教职，我们畏惧天主的审判，认为不宜同意他的祝圣。我们也没有胆量祝圣那位不熟悉圣咏的司铎\\Person{若望}，因为这情况显然表明他对自己不够认真。这些候选人被排除后，我们敦促各方从他们自己的人中选出一位，他们宣称无人适合此职，我们与他们一同更为忧虑，最终他们异口同声、一致恳求我们可敬的弟兄、司铎\\Person{马里尼亚诺}——他们得知他曾与我一同在隐修院生活很长时间。他推辞此职，最后通过各种方式勉强被说服同意他们的请求。由于我们熟知他的生活，知道他在救灵上谨慎，我们没有延迟他的祝圣。因此，愿阁下恰当地接待他，并在他初任时伸出援助之手。因为如您所知，任何职务的新手对所有人来说都是非常艰难的。但我深信全能天主既已恩准他治理自己的羊群，必会激励他关注内在之事，并以恩宠的慈爱安慰他处理外在事务。而且，由于他长久享受宁静后，正如我们先前所说，他的新手身份无疑会让他受到困扰，我恳求，当他逃离世俗风暴的旋风来到您身边时，愿他总能在您心中找到避风的港湾，并因您的爱德恩惠而欢欣。不久您就会知道自己与他们能达成多大一致；因为他是不情愿地接受主教职的。"
+  }
+}

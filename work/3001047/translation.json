@@ -1,0 +1,95 @@
+{
+  "source": {
+    "source_id": "3001047",
+    "title": "Letter 47",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 47",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 47",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Desiderius</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Jerome invites two of his old friends at Rome, Desiderius and his sister (or wife) Serenilla, to join him at Bethlehem. It is possible but not probable that this Desiderius is the same with Desiderius of Aquitaine, who afterwards induced Jerome to write against Vigilantius."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "An interval of seven years separates this letter (of which the date is 393 A.D.) from the preceding, and all the letters written during this period have wholly perished.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "1. Surprised as I have been, my excellent friend, to read the language which your kindness has prompted you to hold concerning me, I have rejoiced that I possess the testimony of one both eloquent and sincere; but when I turn from you to myself I feel vexed that, owing to my unworthiness, your words of praise and eulogy rather weigh me down than lift me up. You know, of course, that I make it a principle to raise the standard of humility, and to prepare for scaling the heights by walking for the present in the lowest places. For what am I or what is my significance that I should have the voice of learning raised to bear witness of me, or that the palm of eloquence should be laid at my feet by one whose style is so charming that it has almost deterred me from writing a letter at all? I must, however, make the attempt in order that charity which seeks not her own {{BIBLE:1co 13:5}} but always her neighbor's good, may at least return a compliment, since it cannot convey a lesson.",
+        "scripture": [
+          "1co 13:5"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "2. I offer my congratulations to you and to your holy and revered sister, Serenilla, who, true to her name, has trodden down the troubled waves of the world, and has passed to Christ's calm haven: a happiness which— if we may trust the augury of your name— is in store for you also. For we read that the holy Daniel was called <quote>a man of desires,</quote> and the friend of God, because he desired to know His mysteries. Therefore, I do with pleasure what the revered Paula has asked of me. I urge and implore you both by the charity of the Lord that you will give your presence to us, and that a visit to the holy places may induce you to enrich us with this great gift. Even supposing that you do not care for our society, it is still your duty as believers to worship on the spot where the Lord's feet once stood and to see for yourselves the still fresh traces of His birth, His cross, and His passion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "3. Several of my little pieces have flown away out of their nest, and have rashly sought for themselves the honor of publication. I have not sent you any lest I should send works which you already have. But if you care to borrow copies of them, you can do so either from our holy sister, Marcella, who has her abode upon the Aventine, or from that holy man, Domnio, who is the Lot of our times. {{BIBLE:2pe 2:7}} Meantime, I look for your arrival, and will give you all I have when you once come; or, if any hindrances prevent you from joining us, I will gladly send you such treatises as you shall desire. Following the example of Tranquillus and of Apollonius the Greek, I have written a book concerning illustrious men from the apostles' time to our own; and after enumerating a great number I have put myself down on the last page as one born out of due time, and the least of all Christians. {{BIBLE:1co 15:8}} Here I have found it necessary to give a short account of my writings down to the fourteenth year of the Emperor Theodosius. If you find, on procuring this treatise from the persons mentioned above, that there are any pieces mentioned which you have not already got, I will have them copied for you by degrees, if you wish it.",
+        "scripture": [
+          "2pe 2:7",
+          "1co 15:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001047.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001047.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四十七封信",
+    "p0002": "\\Emph{\\Person{德西德里乌斯}}",
+    "p0003": "\\EditorialNote{热罗尼莫邀请他在罗马的两位老朋友，\\Person{德西德里乌斯}和他的姐妹（或妻子）\\Person{塞雷尼拉}，到\\Place{白冷}来与他相聚。这位\\Person{德西德里乌斯}有可能（但可能性不大）即是\\Person{阿基坦的德西德里乌斯}，此人后来促使热罗尼莫撰写反对\\Person{维吉兰提乌斯}的文章。}",
+    "p0004": "这封信（写于公元393年）与前一封相隔七年，在此期间所写的所有信件均已完全失传。",
+    "p0005": "我深感惊讶，我卓越的朋友，您的好意促使您对我所言如此，我喜乐自己得到了一位既雄辩又真诚之人的见证；但当我从您转向我自己时，我感到懊恼，因为由于我的不配，您的赞美和称颂之言反使我沉重而非提升。您当然知道，我的原则是高举谦卑的标杆，并准备通过暂时行走在最低处来攀登高峰。因为我是什么，我有什么意义，竟值得学问之声为我作证，或让一位文风如此迷人、几乎使我打消写信念头的人，将雄辩的棕榈枝放在我的脚前？但我必须尝试，好使那不求自己益处、但常求他人利益的\\BibleRef{格前 13:5}爱德，至少能回报一份恭维，既然它无法传递教训。",
+    "p0006": "我向您和您圣洁而可敬的姐妹\\Person{塞雷尼拉}表示祝贺，她名副其实，已践踏了世间汹涌的波涛，到达了基督平静的港湾；这一幸福——如果我们可信赖您名字的预兆——也在等待着您。因为我们读到，圣\\Person{达尼尔}被称为\\Quote{渴望之人}，是天主的朋友，因为他渴望知道天主的奥秘。因此，我乐于做可敬的\\Person{保拉}托付给我的事。我以主的爱德敦促并恳求你们二位，务请光临我们这里，并希望访问圣地能促使你们以此大礼丰富我们。即使你们不关心我们的团体，作为信徒，你们仍有责任在主的脚曾站立的地方朝拜，并亲眼目睹祂诞生、十字架和受难尚存的痕迹。",
+    "p0007": "我的几篇小文章已飞出巢窠，轻率地自行寻求出版的荣耀。我没有寄给您，以免寄去您已经有的作品。但如果您想借阅副本，可以向我们的圣姐妹\\Person{玛尔塞拉}（她住在\\Place{阿文蒂诺山}上）或那位圣人\\Person{多姆尼奥}（他是我们时代的\\Person{罗特}）借用（\\BibleRef{伯后 2:7}）。与此同时，我期待您的到来，一旦您来，我将把我所有的一切都给您；或者，如果有任何阻碍使您不能与我们相聚，我将乐意为您送去您所期望的论著。效法\\Person{特兰奎卢斯}和\\Person{希腊人阿颇罗尼乌斯}的榜样，我写了一本关于从宗徒时代到我们这个时代著名人物的书；在列举了许多人之后，我在最后一页写下了自己，如同一个未及时出生的人，是所有基督徒中最小的（\\BibleRef{格前 15:8}）。在此，我发现有必要简要叙述一下我的著作，直至\\Person{德奥多西}皇帝在位的第十四年。如果您从上述人士那里得到这本论著，发现其中提到您尚未拥有的一些作品，如果您愿意，我将逐步为您抄录。"
+  }
+}

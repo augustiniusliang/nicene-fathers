@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202147",
+    "title": "Letter 147",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 147",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 147",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Aburgius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Up to this time I used to think Homer a fable, when I read the second part of his poem, in which he narrates the adventures of Ulysses. But the calamity which has befallen the most excellent Maximus has led me to look on what I used to think fabulous and incredible, as exceedingly probable. Maximus was governor of no insignificant people, just as Ulysses was chief of the Cephallenians. Ulysses had great wealth, and returned stripped of everything. To such straits has calamity reduced Maximus, that he may have to present himself at home in borrowed rags. And perhaps he has suffered all this because he has irritated some Læstrygones against him, and has fallen in with some Scylla, hiding a dog's fierceness and fury under a woman's form. Since then he has barely been able to swim out of this inextricable whirlpool. He supplicates you by my means for humanity's sake to grieve for his undeserved misfortunes and not be silent about his needs, but make them known to the authorities. He hopes thus that he may find some aid against the slanders which have been got up against him: and if not, that at all events the intention of the enemy who has shown such an intoxication of hostility against him may be made public. When a man has been wronged it is a considerable comfort to him if the wickedness of his enemies can be made plain.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202147.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202147.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一四七封信",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}圣\\Person{巴西略}}",
+    "p0003": "\\Emph{致\\Person{阿布尔吉乌斯}}",
+    "p0004": "直到如今，我读\\Person{荷马}诗歌的第二部分（其中叙述\\Person{尤利西斯}的历险）时，一向以为\\Person{荷马}是虚构的。然而，降临在最杰出的\\Person{马克西穆斯}身上的灾难，使我过去认为荒诞不经、难以置信的事变得极为可能。\\Person{马克西穆斯}曾统治一个并非微不足道的民族，正如\\Person{尤利西斯}是\\Person{刻法勒尼亚人}的首领一样。\\Person{尤利西斯}拥有巨大财富，却空手而归，一无所有。灾难已将\\Person{马克西穆斯}逼到如此窘境，他可能不得不穿着借来的破衣回家。或许他遭受这一切，是因为他激怒了一些\\Person{莱斯特律戈涅斯人}，又遇到了某个以女子之形隐藏着狗的凶残与狂暴的\\Person{斯库拉}。自那以后，他几乎无法从这无法脱身的漩涡中游出。他通过我恳求你，本着仁爱，为他不应遭受的不幸而悲伤，不要对他的需要保持沉默，而是将其告知当权者。他期望因此能得到一些帮助，以对抗针对他的诽谤；如若不然，至少也要公开那位对他表现出如此敌对狂热的敌人的意图。当一个人受了冤屈，能使敌人的邪恶公之于众，对他来说便是极大的安慰。"
+  }
+}

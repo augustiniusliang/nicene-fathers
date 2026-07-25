@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2902",
+    "title": "Answer to Eunomius' Second Book",
+    "breadcrumbs": "Home > Fathers of the Church > Answer to Eunomius' Second Book (Gregory of Nyssa)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Answer to Eunomius' Second Book",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Introduction",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "It is important, for the understanding of the following Book, to determine what faculty of the mind <greek>᾿</greek> <greek>Επίνοια</greek> is. Eunomius, Gregory says, <quote>makes a solemn travesty</quote> of the word. He reduces its force to its lowest level, and makes it only <quote>fancy the unnatural,</quote> either contracting or extending the limits of nature, or putting heterogeneous notions together. He instances colossi, pigmies, centaurs, as the result of this mental operation. <quote>Fancy,</quote> or <quote>notion,</quote> would thus represent Eunomius' view of it. But Gregory ascribes every art and every science to the play of this faculty. <quote>According to my account, it is the method by which we discover things that are unknown, going on to further discoveries, by means of what adjoins and follows from our first <em>perception</em> with regard to the thing studied.</quote> He instances Ontology (!), Arithmetic, Geometry, on the one hand, Agriculture, Navigation, Horology, on the other, as the result of it. <quote>Any one who should judge this faculty more precious than any other with the exercise of which we are gifted would not be far mistaken.</quote> <quote>Induction</quote> might almost represent this view of it. But then Gregory does not deny that <quote>lying wonders are also fabricated by it.</quote> By means of it <quote>and entertainer might amuse an audience</quote> with fire-breathing monsters, men enfolded in the coils of serpents, etc. He calls it an inventive faculty. It must therefore be something more spontaneous than ratiocination, whether deductive or inductive; while it is more reliable than Fancy or Imagination.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "This is illustrated by what S. John Damascene, in his Dialectica (c. 65), says of <greek>᾿</greek> <greek>Επίνοια</greek>: <quote>It is of two sorts. The first is the faculty which analyses and elucidates the view of things undissected and in the gross (<greek>ὁ</greek> <greek>λοσχερῆ</greek>): whereby a simple phenomenon becomes complex speculatively: for instance, man becomes a compound of soul and body. The second, by a union of perception and fancy, produces fictions out of realities, <em>i.e.</em> divides wholes into parts, and combines those parts, selected arbitrarily, into new wholes; <em>e.g.</em> Centaurs, Sirens.</quote> Analysis (scientific) would describe the one; fancy, the other. Basil and Gregory were thinking of the one, Eunomius of the other; but still both parties used the same expression.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "If, then, there is one word that will cover the whole meaning, it would seem to be <quote>Conception.</quote> This word at all events, both in its outward form and in its intention, stands to perception in a way strictly analogous to that in which <greek>᾿</greek> <greek>Επίνοια</greek> stands to <greek>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by M. Day. From Nicene and Post-Nicene Fathers, Second Series, Vol. 5. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2902.htm>.",
+    "metadata": {
+      "srctrans": "Translated by M. Day.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/2902.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "答欧诺弥乌斯第二书",
+    "p0002": "引言",
+    "p0003": "为理解以下之书，重要者在于确定心灵中何项官能乃\\OriginalTerm{概念}{Ἐπίνοια}。\\Person{欧诺弥乌斯}，\\Person{额我略}说，\\Quote{对一词作了庄严滑稽的曲解}。他将其力量降至最低水平，仅使之成为\\Quote{对反乎自然之物的幻想}，或收缩或延伸自然的界限，或将异质观念拼凑在一起。他举出巨像、侏儒、半人马作为此种心智运作的结果。\\Quote{幻想}或\\Quote{概念}，由此将代表欧诺弥乌斯对此的看法。但\\Person{额我略}将每一门技艺与每一门科学归因于这种官能的运作。\\Quote{按我的说法，它是我们借以发现未知之物的方法，通过就所研究之物的\\Emph{感知}之周边及后续内容而继续发现。}他一面举出本体论（！）、算术、几何，另一面举出农业、导航、钟表作为其结果。\\Quote{任何人若判断此官能比我们所具备的任何其他活动都更为宝贵，则不会大错特错。}\\Quote{归纳}几乎可代表此看法。但\\Person{额我略}并不否认\\Quote{骗人的奇事也由它编造而成}。借此，\\Quote{一个表演者可以用喷火怪物、被巨蛇缠绕的人等娱悦观众。}他称之为一种发明性的官能。因此它必比演绎或归纳的推理更为自发，同时比幻想或想象更为可靠。",
+    "p0004": "这一论述可由\\Person{圣若望·达玛森}在其\\WorkTitle{辩证法}（第65章）中对\\OriginalTerm{概念}{Ἐπίνοια}的论述加以说明：\\Quote{它有两种。第一种是分析并阐明未经分割总体事物的官能（\\OriginalTerm{整体之见}{ὁ λοσχερῆ}）：由此一个简单的现象在思辨中变得复杂，例如人成为由灵魂与身体组成的复合体。第二种则藉感知与幻想的联合，从实在中产生虚构，即，将整体分为部分，并将任意选择的部分组合成新的整体，例如半人马、塞壬。}分析（科学的）描述前者；幻想描述后者。\\Person{巴西略}与\\Person{额我略}思考的是前者，\\Person{欧诺弥乌斯}思考的是后者；但双方仍使用同一表述。",
+    "p0005": "如果有一个词能涵盖全部含义，那似乎是\\Quote{概念}。这个词无论如何，就其外在形式和内在意图，都与感知的关系严格类似，正如\\OriginalTerm{概念}{'Επίνοια}相对于"
+  }
+}

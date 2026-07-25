@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360208022",
+    "title": "Book VIII, Letter 22",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 22",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 22",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Rusticiana, Patrician</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Rusticiana, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I remember having before now written to your Excellency, and repeatedly urged you to lose no time in revisiting the thresholds of the blessed Peter, Prince of the apostles. And what means your so great delight in the city of Constantinople, and your oblivion of the city of Rome, I know not. I have not so far been thought worthy of getting any information from you on this head. For how far it might be of advantage to your soul for reaping the rewards of eternal life, and how far it would suit also in all respects your glorious daughter, the lady Eusebia, this we fully give our attention to, and you may no less fully consider. But, if you enquire of my son Peter, your servant, whom I have found to be wise beyond his age and to be studying to attain ripeness, you will find how great is the love towards your Excellency of all who dwell here, and how great their desire to be thought worthy of seeing you again. And if, the Lord teaching us, we are admonished in Holy Writ that we should love even our enemies, we ought to consider how wrong it is to show no love even to those who love us. But, if haply we are said to be loved, we know most certainly that no one can have affection for those whom he does not wish to see. If, however, you are afraid of the swords and wars of Italy, you should attentively observe how great is the protection of the blessed Peter, Prince of the apostles, in this city, wherein, without a large force of people, and without military aid, we are preserved under God for so many years among swords. This we say, because we love. But may Almighty God grant whatever He sees to be of advantage to your soul for ever, and to the renown of your house at the present time.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The ten pounds of gold which your Excellency has sent for the redemption of captives I have received at the hands of my aforesaid son. But I pray that the heavenly grace which granted to you that you should give them for your soul's reward may also grant to me to dispense them without any contagion of sin; lest we should be stained by that whereby you wipe away sins. May Almighty God, who looks upon the weakness of your body and your pilgrimage, comfort you ever by His grace, and by the life and health of my most sweet son the Lord Strategius ; that so He may nurture him both for you through many years and for Himself through eternity, and may both replenish you and all your house with present good and grant you to have grace from above. We further beg that the glorious lord Eudoxius may be greeted in our behalf.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208022.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208022.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷·第二十二封信",
+    "p0002": "\\Emph{致贵族夫人\\Person{Rusticiana}}.",
+    "p0003": "\\Person{Gregory}致\\Person{Rusticiana}，等。",
+    "p0004": "我记得以前曾写信给阁下，并反复敦促您不可迟延地重新访问真福\\Person{伯多禄}，宗徒之长的门槛。而我不知您何以如此喜爱\\Place{君士坦丁堡}城，却遗忘了\\Place{罗马}城。至今我尚未蒙恩从您那里得到任何关于此事的消息。因为这对您的灵魂在获得永生赏报方面有多少益处，以及在各方面如何适合您光荣的女儿贵妇\\Person{Eusebia}，我们已充分关注，您也同样可以充分考虑。但是，如果您询问我的儿子\\Person{伯多禄}，您的仆人——我发现他年纪虽小却智慧过人，且正在努力学习以求成熟——您将会发现所有住在这里的人对阁下怀有多么大的爱，以及他们多么渴望有朝一日能再次见到您。而且，如果主教导我们，\\WorkTitle{圣经}告诫我们应爱仇敌，那么连爱我们的人都不表示爱，那是多么错误，我们应当思考。但是，如果我们偶然被说成是被爱的，我们最确凿地知道，没有人能对他不想见的人有感情。然而，如果您害怕\\Place{意大利}的刀剑和战争，您应当留心观察真福\\Person{伯多禄}，宗徒之长，在这城市中是何等大的保护；在这城里，没有大量军队，没有军事援助，我们却在刀剑之下蒙天主保全了这么多年。我们这么说，是因为我们爱你们。但愿全能天主赐予凡祂看出永远有益于您灵魂、且现时有益于您家族声望的一切。",
+    "p0005": "阁下为赎取俘虏而送来的十磅黄金，我已由我前述之子\\Person{伯多禄}手中收到。但我祈求，那曾赐予您为您的灵魂的赏报而施舍它们的天上恩宠，也赐予我以毫无罪染的方式分施它们；免得我们被那借以洗除罪恶的事所玷污。愿全能天主，眷顾您身体的软弱和您的旅途，常以祂的恩宠安慰您，并藉着我最甜蜜的儿子\\Person{Strategius}阁下的生命与健康安慰您；如此，祂可以养育他，既为您多年，也为祂自己直到永远，并以现世的福祉充满您和您全家，赐予您从上而来的恩宠。我们亦恳请，代我们问候光荣的阁下\\Person{Eudoxius}。"
+  }
+}

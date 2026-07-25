@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707008",
+    "title": "Letter 8",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 8",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 8",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Eugraphia.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "It is needless for me to bring once more to bear upon your grief the spells of the spirit. The mere mention of the sufferings that wrought our salvation is enough to quench distress, even at its worst. Those sufferings were all undergone for humanity. Our Lord did not destroy death to make one body victorious over death, but through that one body to effect our common resurrection, and make our hope of it a sure and certain hope. And if even while our holy celebrations are bringing you manifold refreshment of soul, you cannot overcome your sense of sorrow, let me beg you, my honoured friend, to read the very words of the marriage contract which follow on the mention of the dowry, and to see how the wedding is preceded by the reminder of death. Knowing as we do that men are mortal, and bethinking us of the peace of survivors, it is customary to lay down what are called conditions, and for no hesitation to be shown at the mention of death before the joining together in marriage. These are the plain words <quote>If the husband should die first it is agreed that so and so be done; if this lot should first fall to the wife, so and so.</quote> We knew all this before the wedding; we are waiting for it so to say everyday. Why then take it amiss? The union must needs be broken either by the death of the husband or the departure of the wife. Such is the course of life. You know, my excellent friend, alike God's will and human nature; dispel then your despondency and wait for the fulfilment of the common hope of the just.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707008.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707008.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八封书信",
+    "p0002": "\\Emph{致\\Person{尤格拉菲亚}.}",
+    "p0003": "我无需再次用精神的安慰来抚平你的悲伤。仅仅提及那为我们成就救恩的苦难，便足以驱散任何深重的哀愁。那一切苦难皆为人类而受。我们的主消灭死亡，并非为使一个身体战胜死亡，而是借着那同一个身体，实现我们共同的复活，并使我们对此复活的望德坚定确实。即使在神圣的庆典中，你的灵魂得到多重慰藉，你仍无法克服悲痛之感；那么，我敬爱的朋友，请允许我恳求你，阅读那份婚姻契约中紧随嫁妆之后的词句，看看婚礼之前是如何以死亡提醒为前奏。我们既知人皆有死，又思考生者的安宁，按惯例会订下所谓的条件，且在婚姻结合之前提及死亡时毫无迟疑。这些明文是：\\Quote{若丈夫先死，约定如此这般；若此命运先降临妻子，亦如此这般。}这一切我们在婚礼前早已知道，可谓每日都等待着。为何还要介意呢？结合终必因丈夫的死亡或妻子的离世而破裂。生命的历程如此。你，我卓越的朋友，既深知天主的旨意，又明白人性；请驱散你的沮丧，耐心等候义人共同望德的实现。"
+  }
+}

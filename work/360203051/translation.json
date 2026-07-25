@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360203051",
+    "title": "Book III, Letter 51",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 51",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 51",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Maximianus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Maximinianus, Bishop of Syracuse.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "My brethren who live with me familiarly urge me by all means to write something briefly about the miracles of the Fathers done in Italy, which we have heard of. With this view I am in great need of the assistance of your Charity, to mention to me shortly what comes back to your memory, and what you happen to have known. For I remember your telling me something, which I have now forgotten, about the Lord Abbot Nonnosus, who was with the Lord Anastasius of Pentomi. And therefore this, or anything else, I beg you to communicate to me by letter without delay, if indeed you are not intending to come to me yourself shortly.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203051.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203051.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷 第五十一封信",
+    "p0002": "\\Emph{致\\Person{马克西米安}主教。}",
+    "p0003": "\\Person{额我略}致\\Place{锡拉库萨}主教\\Person{马克西米安}。",
+    "p0004": "那些与我朝夕相处的弟兄们极力催促我简要写一些我们在意大利所听说的关于教父们所行奇迹的事。为此我非常需要您的爱德之助，请简短地告诉我您所回忆起的以及您所知道的事。因为我记得您曾告诉我一些关于\\Person{诺诺苏斯}院长大人的事，他当时与\\Place{彭托米}的\\Person{阿纳斯塔修斯}大人在一起，但我现在已忘记了。因此我恳求您立刻写信把这些或其他事情告诉我，如果您自己也不打算短期内来访的话。"
+  }
+}

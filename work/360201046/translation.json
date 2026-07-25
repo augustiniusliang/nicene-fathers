@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201046",
+    "title": "Book I, Letter 46",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 46",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 46",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter the Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The divine precepts admonish us to love our neighbours as ourselves; and, seeing that we are enjoined to love them with this charity, how much more ought we to succour them by supplies to their carnal needs, that we may relieve their distress, if not in all respects, yet at least with some support. Inasmuch, then, as we have found that the son of the most worthy Godiscalchus is in distress, not only from loss of sight, but also from want of food, we hold it necessary to provide for him as far as possible. Wherefore we enjoin your Experience by this present order to supply to him for sustaining life twenty-four <em>modii</em> of wheat every year, and also twelve <em>modii</em> of beans and twenty <em>decimates</em> of wine; which may afterwards be debited in your accounts. So act, therefore, that the bearer of these presents may have to complain of no delay in receiving the gifts of the Lord, and that you may be found partaker in the well administered benefit.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201046.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201046.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷·书信四十六",
+    "p0002": "\\Emph{致副助祭伯多禄。}",
+    "p0003": "\\Person{额我略}致\\Person{伯多禄}等。",
+    "p0004": "神圣的诫命劝勉我们要爱人如己；既然我们受命以这样的爱德爱他们，我们更应当供给他们肉身的需要，以减轻他们的困乏——纵使不能完全解决，至少也予以一些支持。因此，既然我们得知最可敬的\\Person{戈迪斯卡尔库斯}之子不仅失明，而且缺乏食物，我们觉得必须尽己所能予以照顾。故此，我们命令你的经验，凭此命令每年供给他二十四\\OriginalTerm{莫底乌斯}{modii}小麦，以及十二\\OriginalTerm{莫底乌斯}{modii}豆类和二十\\OriginalTerm{迪西马特}{decimates}酒，以维持生命；这些日后可在你的账目中列支。所以，你要这样行事，好使持本信者不致因耽误领受主的恩赐而抱怨，也使你因妥善施与恩惠而成为有份者。"
+  }
+}

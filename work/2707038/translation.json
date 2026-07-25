@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707038",
+    "title": "Letter 38",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 38",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 38",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Festal.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The divine feast of salvation has brought us the founts of God's good gifts, the blessing of the Cross, and the immortality which sprang from our Lord's death, the resurrection of our Lord Jesus Christ which gives promise of the resurrection of us all. These being the gifts of the feast, such its exhibition of the bounty of divine grace, it has filled us with spiritual gladness. But encompassed as we are on every side by many and great calamities, the brightness of the feast is dimmed, and lamentation and wailing are mingled with our psalmody. Such sorrows does sin bring forth. It is sin which has filled our life with pangs; it is on account of sin that death is lovelier to us than life; it is on account of sin that when we think in imagination of that incorruptible tribunal we shudder even at the life to come. So may your piety pray that God's loving-kindness may light on us, and that this gloomy and terrible cloud may be dispersed and sunshine again quickly give us joy.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707038.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707038.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第38封信",
+    "p0002": "\\Emph{节庆}",
+    "p0003": "救恩的神圣盛宴为我们带来了天主美善恩赐的源泉、十字架的祝福，以及从我们主的死亡而来的不朽，即我们主耶稣基督的复活，这复活预许了我们众人的复活。这些既是盛宴的恩赐，也彰显了神圣恩宠的丰裕，它使我们充满属灵的喜乐。但是，我们既被众多巨大的灾祸四面围困，盛宴的光彩便黯淡了，哀叹与哭泣与我们的圣咏混杂在一起。这样的忧苦乃是罪所产生。是罪使我们的生命充满痛苦；是因罪，死亡对我们来说比生命更可爱；是因罪，当我们在想象中思考那不朽的审判台时，我们甚至对来生也感到战栗。因此，愿你们的虔诚祈祷，使天主的仁慈降在我们身上，使这阴郁可怕的云雾消散，使阳光再次迅速赐予我们喜乐。"
+  }
+}

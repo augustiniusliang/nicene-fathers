@@ -1,0 +1,82 @@
+{
+  "source": {
+    "source_id": "360207032",
+    "title": "Book VII, Letter 32",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Anastasius, Presbyter</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Anastasius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "That a good man out of the good treasure of his heart brings forth good things {{BIBLE:mat 12:35}} , this your Charity has shown, both in your habitual life and lately also in your epistle; wherein I find two persons at issue with regard to virtues; that is to say, yourself contending for charity, and another for fear and humility. And, though occupied with many things, though ignorant of the Greek language, I have nevertheless sat as judge of your contention. But, in very truth, you have, in my judgment, yourself conquered your opponent by the sentence, which I proffered to you during your contention, <em>That there is no fear in charity,, but perfect charity casts out fear; because fear has torment. He that fears is not made perfect in charity</em>. I know then how much your Fraternity is made perfect in charity. And, since you love Almighty God much, you ought to presume on your neighbour much. For it is not places or ranks that make us neighbours to our Creator; but either our good deserts join us to Him, or our bad deserts separate us from Him. Since, then, it is still uncertain what any one is inwardly, how was it that you were afraid to write, ignorant as you are as to which of us two is the superior? And indeed that you live well I know, but I am conscious myself of being burdened by many sins. And though you are yourself a sinner, still you are much better than I, since you bear your own sins only, but I those also of the persons committed to me. In this, then, I look upon you as lofty, in this I look upon you as great, that in a great place and lofty before human eyes you have not felt yourself advanced at all. For therein, while honour is paid you by men outwardly, your mind is sunk into depths, because burdened by distracting cares. But to you Almighty God has done as it is written; <em>He has laid down ascents in the heart, in the valley of tears</em> {{BIBLE:psa 83:6}} . To me, however, you might have appeared far loftier, far more sublime, had you never undertaken the leadership of the monastery which is called Neas, seeing that in that monastery, as I hear, there is indeed an appearance of monks kept up, but many secular things are done under the garb of sanctity. But even to this I shall think that heavenly grace has brought you, if what in that place displeases Almighty God should be corrected under your guidance.",
+        "scripture": [
+          "mat 12:35",
+          "psa 83:6"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But, since there have been wont to be quarrels between the father of this same monastery and the pastor of the Church of Jerusalem, I believe that Almighty God has willed that your Love and my most holy brother and fellow priest Amos should be at the same time at Jerusalem for this end, that the quarrels which I have spoken of should be put an end to. Show, then, now how much you loved before. For I know that both of you are abstinent, both learned, both humble; whence the glory of our Saviour must needs be praised, according to the language of the Psalm, in timbrel and chorus {{BIBLE:psa 150:4}} . For in a timbrel the sound from the skin is dry, but in a chorus there is a concord of voices. What therefore is denoted by a timbrel but abstinence, and what by a chorus but unanimity? Since then by abstinence ye praise the Lord in timbrel, I beg that by unanimity ye praise Him in chorus. The Truth also in person says, <em>Have salt in yourselves, and have peace one with another</em> {{BIBLE:mar 9:50}} . What is denoted by salt but wisdom, as Paul attests, who says, <em>Let your speech be always in grace, seasoned with salt</em> {{BIBLE:col 4:6}} ? Since, then, we know that you have salt through the teaching of the heavenly word, it remains that through the grace of charity you keep with all your hearts peace between yourselves. All this I say, dearest brother, because I love you both exceedingly, and am much afraid lest the sacrifices of your prayers should be stained by any dissension between you.",
+        "scripture": [
+          "psa 150:4",
+          "mar 9:50",
+          "col 4:6"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "The blessing which you sent, first by Exhilaratus the <em>Secundicerius</em> , and afterwards by Sabinianus the deacon, I received with thanksgiving, since from a holy place it became you to send holy things, and to show by your very gift whom you serve continually. May Almighty God protect you with His right hand, and preserve you scatheless from all evils.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207032.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207032.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷·第三十二书",
+    "p0002": "\\Emph{致安纳斯塔修斯司铎}。",
+    "p0003": "额我略致安纳斯塔修斯等。",
+    "p0004": "善良的人从心中的善库发出善来 \\BibleRef{玛 12:35}，你的爱德已经在你的日常生活中，最近也在你的书信中，表明了这一点。在信中，我发现有两个人就德行展开了争论；也就是说，你自己为爱德而争，另一人为恐惧和谦卑而争。虽然我事务繁忙，虽然我不懂希腊文，但我还是作为你们争论的裁判坐了下来。但说实话，依我看，你通过我在争论中向你所提出的那句话，已经击败了你的对手：\\Quote{爱德中没有恐惧，但圆满的爱德驱除恐惧，因为恐惧含着痛苦；那恐惧的，在爱德中还没有得以圆满}。因此，我知道你的兄弟之爱在爱德中得以圆满有多少。既然你深爱全能的天主，你就该对近人大有信心。因为使我们与造物主亲近的，不是地方或地位；而是我们的善功使我们与祂结合，或我们的恶行使我们与祂分离。既然我们仍然不确定每个人的内心如何，你又如何因害怕而不敢写信呢？你不知道我们两人中谁更优越吗？确实，我知道你生活良善，但我自己却意识到自己受许多罪的拖累。虽然你自己也是罪人，但你比我好得多，因为你只背负自己的罪，而我还背负那些托付给我的人的罪。因此，在这事上，我看你是崇高的，我看你是伟大的：在高位且在众人眼前尊贵时，你却没有感到自己有任何提升。因为在那里，虽然人们外表上向你致敬，你的心灵却因被分心的忧虑所重压而沉入深渊。但全能的天主却按经上所记载的对待了你：\\BibleQuote{祂在心中设定了上升阶梯，在流泪谷中} \\BibleRef{咏 83:6}。然而，在我看来，如果你未曾承担那个被称为尼阿斯隐修院的领导职务，你会显得更为崇高、更为超卓，因为在那隐修院中，据我所知，虽然维持着隐修士的外表，但许多世俗事务却在圣洁的外衣下进行。但即使如此，如果在你领导下，那地方令全能天主不悦的事情得到纠正，我仍会认为天上的恩宠带领你到了那里。",
+    "p0005": "但是，由于同一隐修院的院长与耶路撒冷教会的牧者之间常有争执，我相信全能的天主意愿你的爱德和我最圣洁的兄弟、同司铎阿摩斯同时留在耶路撒冷，正是为此目的：使我所提到的争执得以止息。那么，现在请展示你从前有多么爱。因为我知道你们两人都是克己的、博学的、谦卑的；因此，按照圣咏的话，应当在鼓瑟和合唱中赞美我们救主的荣耀 \\BibleRef{咏 150:4}。因为在鼓瑟中，皮发出的声音是干燥的；但在合唱中，声音是和谐一致的。那么，鼓瑟所象征的若不是克己，合唱所象征的若不是同心合意，又是什么呢？既然你们通过克己在鼓瑟中赞美主，我恳求你们通过同心合意在合唱中赞美祂。真理本人也说：\\BibleQuote{你们应当在自己里面有盐，彼此之间保持平安} \\BibleRef{谷 9:50}。盐所象征的若不是智慧，又是什么呢？正如保禄所证实的，他说：\\BibleQuote{你们的言谈要时常带着恩宠，用盐调和} \\BibleRef{哥 4:6}。既然我们知道你们通过天上圣言的教学有了盐，那么，借着爱德的恩宠，你们务要全心在彼此之间保持平安。亲爱的弟兄，我说这一切，是因为我极其爱你们两人，并且非常担心你们之间的任何分歧会玷污你们祈祷的祭献。",
+    "p0006": "你送来的祝福，首先由\\Person{埃克斯希拉图斯} \\Emph{Secundicerius}，随后由执事\\Person{萨比尼亚努斯}转交，我以感恩的心领受了，因为从圣地你该当送出圣物，并通过你的礼物显明你一直事奉的是谁。愿全能的天主用祂的右手保护你，使你免受一切邪恶的伤害。"
+  }
+}

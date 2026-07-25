@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2707143",
+    "title": "Letter 143",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 143",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 143",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Andrew, Monk of Constantinople.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I have never seen your piety nor have we ever communicated by letter, but I have become warmly attached to you. What has wrought the charm and continues to inflame it is the report unanimously brought by the tasters of your honey. All express admiration of the orthodoxy of your faith, the brightness of your life, the constancy of your soul, the harmoniousness of your character, the attractiveness and sweetness of your society and all the other characteristics of the true foster child of philosophy. For all these reasons I am attached to your godliness, and my longing has made me even begin a correspondence; but, my dear sir, grant me as soon as possible what I desire and let me have written communication from you. For when friends are at a distance considerable comfort is given them by epistolary communication. You will write to no man of heterodox opinions, but to one nurtured in the teaching of the apostles and preacher not of a quaternity but of a Trinity, for in reality I see little difference in the impiety of those who have the hardihood to endeavour to contract into one the two natures of the Only-begotten and those who endeavour to divide our Lord Jesus Christ, the Son of the living God, God the Word made man, into two sons; if such indeed there be; I cannot think so; but Arians, Eunomians, and Apollinarians too have ever shamelessly fabricated this slander against the Church, and indeed laborious students may easily perceive that our far famed Fathers, lights of the churches, laboured at the hands of the foes of the truth under this accusation which is now levelled against me by the most excellent champions of the new fangled heresy. Our wise Lord has laid bare their impiety, for He could not endure to confirm the unholy heresy by His long suffering.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Be sure then, sir, that you will be writing to one of like sentiments with your own; and of this you can easily assure yourself from my copious writings.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Write then to me in return, and again your letter, by God's leave, shall serve to kindle affection. And before you write, give me the help of your prayers, and beseech our good Lord to guide my feet into the right road, that I may travel the rest of my journey in accordance with His laws. You who have won right of access from your unstained life will easily persuade Him Who is eager to give us His good gifts.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707143.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707143.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第一四三号}",
+    "p0002": "\\Emph{致\\Person{安德肋}，\\Place{君士坦丁堡}隐修士。}",
+    "p0003": "我从未见过你的虔诚，也从未以书信往来，但我已对你深深眷恋。究竟是什么造成了这魅力，并继续点燃它呢？乃是那些品尝你蜜糖的人一致传来的报告。众人都赞叹你信仰的正统、生活的光明、灵魂的坚毅、品德的和谐、交往的吸引力和甘甜，以及真正哲学养子的所有其他特征。因这一切，我依恋你的敬虔，我的渴望甚至促使我开始通信；但是，亲爱的先生，请尽快赐我所愿，让我收到你的书信。因为当朋友相隔遥远时，书信的往来能给与极大的安慰。你将写信给一个并非持异端见解的人，而是给一个在宗徒教导中成长、宣讲天主圣三而非四位一体的宣讲者。因为实际上，我看不出那些大胆试图将独生子的两性合为一的人，与那些试图将我们的主耶稣基督、永生天主之子、降生成人的天主圣言分为两个儿子的人，在亵渎上有何区别；如果真有这样的人的话；我不能这样想；但亚略派、欧诺米派和阿波林派一直无耻地捏造这毁谤来反对教会，而且，勤勉的学生很容易看出，我们备受赞誉的教父、教会的明灯，曾因这指控——如今那些新派异端的最优秀拥护者正以此攻击我——而遭受真理仇敌的劳苦。我们智慧的主已揭露了他们的不敬，因祂不能以容忍来确认这不圣的异端。",
+    "p0004": "因此，先生，请确信你将写信给一个与你自己怀有相同感情的人；从我的大量著作中，你很容易确信这一点。",
+    "p0005": "那么，请给我回信，愿你的信再次蒙天主许可，点燃爱心。在写信之前，请以你的祈祷帮助我，并恳求我们良善的主引导我的脚步走上正路，使我能在祂的律法下度过余生。你这因无玷生活而获得进身之阶的人，必能轻易说服那乐意赐我们美好恩赐的祂。"
+  }
+}

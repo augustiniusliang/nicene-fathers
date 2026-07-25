@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "360209123",
+    "title": "Book IX, Letter 123",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 123",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 123",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Venantius and Italica</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to the lord Venantius, Patrician, and Italica his wife.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have taken care, with due affection, to enquire of certain persons who have come from Sicily about your Excellency's health. But they have given me a sad report of the frequency of your ailments. Now, when I say this, neither do I find anything to tell you about myself, except that, for my sins, lo it is now eleven months since it has been a very rare case with me if I have been able now and then to rise from my bed. For I am afflicted by so great sufferings from gout, and so great from troubles, that my life is to me most grievous pain. For every day I faint under my sufferings, and sigh in expectation of the relief of death. Indeed among the clergy and people of this city there has been such an invasion of feverous sicknesses that hardly any freeman, hardly any slave, remains fit for any office or ministry. Moreover, from the neighbouring cities we have news daily of havocs and of mortality. Then, how Africa is being wasted by mortality and sickness I believe that you know more accurately than we do, insomuch as you are nearer to it. But of the East those who come from thence report still more grievous desolations. In the midst of all these things, therefore, since you perceive that there is a general smiting as the end of the world draws near, you ought not to be too much afflicted for your own troubles. But, as becomes wise nobles, bring back your whole heart to the care of your souls, and fear the strict judgment all the more as it is so much nearer at hand. Devote yourselves to piety, of which it is written that <em>It has promise of the life that now is, and of that which is to come</em> {{BIBLE:1ti 4:8}} . But Almighty God is powerful both to preserve the life of your Excellency for a long time here, and to bring you after many courses of years to eternal joys. I beg my most sweet daughters, the lady Barbara and the lady Antonina, to be greeted in my name; whom I pray that heavenly grace may protect, and grant them to be prospered in all things.",
+        "scripture": [
+          "1ti 4:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209123.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209123.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷九，第一二三封书信",
+    "p0002": "\\Emph{致\\Person{韦南修斯}与\\Person{伊塔莉卡}}。",
+    "p0003": "额我略致韦南修斯大人、显贵，及其妻伊塔莉卡。",
+    "p0004": "我怀着应有的关切，向来西西里的人询问了您贵体的健康。但他们向我报告说您屡次患病，令人忧伤。说到我自己，我也没什么可告诉您的，只是，因我的罪，看着吧，至今已十一个月，我偶尔能起身下床的情况极为罕见。因为我深受痛风之苦，又为诸多烦扰所困，我的生命对我而言是最痛苦的折磨。每天，我在痛苦中昏厥，叹息着期待死亡带来解脱。事实上，在这座城市的神职人员和民众中，热病蔓延得如此之广，几乎没有任何自由人，也没有任何奴隶，还能胜任任何职务或服务。此外，从邻近的城市我们每天都能听到灾祸和死亡的报告。至于非洲如何因死亡和疾病而荒废，我相信您比我们知道得更清楚，因为您离得更近。至于东方，从那里来的人报告了更令人悲伤的荒凉。因此，在这些事中，既然您看到世界末日临近，普遍的打击降临，您不应为自己的困难过于悲伤。相反，作为明智的贵族，应将全部心思转回对灵魂的关怀，越是临近严苛的审判，就越要畏惧。要虔敬，一如经上记载：\\BibleQuote{它对现世和来世的生命都有应许} \\BibleRef{弟前 4:8}。但是全能的天主既能长久保全您贵体的生命，也能在多年之后带领您进入永恒的喜乐。我恳请代我问候我最亲爱的女儿们，芭芭拉夫人和安东尼娜夫人；我祈愿天上的恩宠保护她们，使她们万事顺遂。"
+  }
+}

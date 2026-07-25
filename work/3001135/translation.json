@@ -1,0 +1,72 @@
+{
+  "source": {
+    "source_id": "3001135",
+    "title": "Letter 135",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 135",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 135",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>From Pope Innocent to Aurelius</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Shortly after the synod of Diospolis the Pelagians exulting in their success made an attack upon Jerome's monasteries at Bethlehem which they pillaged and partially burned. This gained for him the sympathy of Innocent who now (A.D. 417) asks Aurelius to transmit to him the letter which follows this."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Innocent to his most esteemed friend and brother Aurelius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Our fellow presbyter Jerome has informed us of your most dutiful desire to come to see us. We suffer with him as with a member of our own flock. We have been swift also to take such measures as have appeared to us expedient and practicable. As you count yourself one of us, most dear brother, make haste to transmit the following letter to the aforesaid Jerome.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001135.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001135.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一三五封信",
+    "p0002": "\\Emph{自\\Person{教宗依诺增爵}致\\Person{奥雷留斯}}",
+    "p0003": "\\EditorialNote{在迪奥斯波利斯会议后不久，伯拉纠派因成功而得意忘形，袭击了\\Person{耶柔米}在白冷的隐修院，将其洗劫并部分焚毁。这为他赢得了\\Person{依诺增爵}的同情，后者现在（公元417年）请求\\Person{奥雷留斯}将以下信件转交给他。}",
+    "p0004": "\\Person{依诺增爵}致他最敬爱的朋友与兄弟\\Person{奥雷留斯}。",
+    "p0005": "我们的同僚司铎\\Person{耶柔米}告知我们，您最恳切的愿望是来探望我们。我们与他一同受苦，如同他是我群中的一员。我们也迅速采取了我们认为合乎时宜且可行的措施。由于您视自己为我们中的一员，最亲爱的兄弟，请速将以下信件转交上述的\\Person{耶柔米}。"
+  }
+}

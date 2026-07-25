@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360207006",
+    "title": "Book VII, Letter 6",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 6",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 6",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Mauricius Augustus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Mauricius Augustus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Almighty God, who has made your Piety to be the guardian of ecclesiastical peace, preserves you by the same faith which, through unity among priests, you preserve; and when you submit your heart humbly to the yoke of heavenly loving-kindness, it is brought to pass by heavenly grace that you tread your enemies under the foot of valour. For it cannot be of small advantage that, when John of holy memory had departed this life, your Piety long hesitated, and somewhat deferred the time, while seeking counsel in the fear of Almighty God, in order, to wit, that the cause of God might be ordered, as it should be, with great fear. Whence also I think that my brother and fellow priest Cyriacus is proved to be exceedingly fit for pastoral rule, in that the long deliberation of your Piety has raised him to this degree. And we all know how diligent and how practised he has long been in the administration of ecclesiastical affairs. Whence also I doubt not that it has been brought about by Divine ordering that one who had administered the least things well should fitly undertake the greater, and should pass from the charge of affairs to the government of souls. Wherefore in all our prayers we beseech Almighty God to repay this good work to the Serenity of our lords and to their pious offspring both in the present world and also with a perpetual recompense, and to grant to my aforesaid brother and fellow priest, who has been put over the Lord's flock, to show himself fully solicitous in the care of souls; that he may be able irreprovably both to correct what is wrong in his subjects and to foster what is right unto further increase; to the end that the judgment of your Piety concerning him may be approved, not only before men, but also before the eyes of the Supernal Majesty.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The venerable men, George the presbyter and Theodore the deacon, in consideration of the command of my lords and the imminence of the winter season, I have not allowed to be delayed in this city.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207006.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207006.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷，第六封信",
+    "p0002": "\\Emph{致摩里士皇帝。}",
+    "p0003": "额我略致摩里士皇帝。",
+    "p0004": "全能的天主，祂使陛下成为教会和平的守护者，也以同一信德保守您，这信德藉着司铎之间的合一而得以保存；当您谦卑地将心屈服于天上慈爱的轭下时，便藉着天主的恩宠成就了您以勇力践踏仇敌的事。这绝非小可之事：当可敬的若望离世后，陛下长久迟疑，并在敬畏全能天主的顾虑中稍加延宕，为的是使天主的事业能以应有的敬畏妥善安排。因此，我也认为我的兄弟和同僚司铎基亚古斯极适于牧职治理，因为陛下长期的审慎考虑将他提升至此位。我们皆知他在教会事务的管理上长久以来是何等勤勉与干练。因此，我毫不怀疑这是出于天主的安排：那妥善管理小事者，当适当地承担大事，并从事务管理过渡到灵魂的治理。故此，我们在一切祈祷中恳求全能的天主，将这件善工回报给主上们的安宁及其虔诚的后裔，不仅在现世，也以永久的赏报，并恩赐我前述的兄弟和同僚司铎，既被委派管理主的羊群，能在照顾灵魂上显出充分的关怀，使他能无可指摘地纠正属下不当之处，扶持正直，使之增长；以致陛下对他的判断不仅在人前蒙受称许，也在至高威严的眼前蒙受悦纳。",
+    "p0005": "可敬的乔治长老和戴奥多勒执事，念及我主们的命令及冬季的临近，我不允许他们在此城中耽搁。"
+  }
+}

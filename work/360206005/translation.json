@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360206005",
+    "title": "Book VI, Letter 5",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 5",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 5",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Queen Brunichild.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Brunichild, Queen of the Franks.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The laudable and God-pleasing goodness of your Excellence is manifested both by your government of your kingdom and by your education of your son. To him you have not only with provident solicitude conserved intact the glory of temporal things, but have also seen to the rewards of eternal life, having planted his mind in the root of the true faith with maternal, as became you, and laudable care of his education. Whence not undeservedly it ensues that he should surpass all the kingdoms of the nations , in that he both worships purely and confesses truly the Creator of these nations. But that faith may shine forth in him the more laudably in his works, let the words of your exhortation kindle him, to the end that, as royal power shows him lofty among men, so goodness of conduct may make him great before God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now inasmuch as past experience in many instances gives us confidence in the Christianity of your Excellence, we beg of you, for the love of Peter, Prince of the apostles, whom we know that you love with your whole heart, that you would cherish with the aid of your patronage our most beloved son the presbyter Candidus , who is the bearer of these presents, together with the little patrimony for the government of which we have sent him, to the end that, strengthened by the favour of your support, he may be able both to manage profitably this little patrimony, which is evidently beneficial towards the expenses of the poor, and also to recover into the possession of this little patrimony anything that may have been taken away from it. For it is not without increase of your praise that after so long a time a man belonging to Church has been sent for the management of this patrimony. Let your Excellency, then, deign so willingly to give your attention to what we request of you that the blessed Peter, Prince of the apostles, to whom the power of binding and loosing has been given by the Lord Jesus Christ, may both grant to your Excellence to rejoice here in your offspring, and after courses of many years cause you to be found, absolved from all ills before the face of the eternal Judge.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206005.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206005.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷 第五封信",
+    "p0002": "\\Emph{致\\Person{布伦希尔德}王后。}",
+    "p0003": "\\Person{额我略}致\\Place{法兰克}王后\\Person{布伦希尔德}。",
+    "p0004": "你的贤明的良善与可悦天主之处，既彰显于你治理王国，亦彰显于你教诲儿子。你不但以睿智的关切，为他保全了现世之荣耀无虞，并且以合宜的母爱、可赞的教养之顾，将他的心思扎根于真信德中，从而也顾及了永生的赏报。因此，他当超越万国之邦，非无端由，因为他既纯然地崇拜，又真诚地宣认万民的造主。但为使信德在他身上藉行为更可赞地闪耀，愿你的劝勉之言激励他，从而，正如王权使他高居人上，亦使善行在天主面前成为大。",
+    "p0005": "既然以往在许多实例中，我们对你的贤明的基督信仰怀有信心，我们因你全心所爱的宗徒之长圣伯多禄之爱，恳求你：愿你的庇护之助，珍视我们至爱的子、携此信之司铎\\Person{坎迪杜斯}，以及他所治理的小产业，使他得着你扶持之恩，既能忠实管理这小产业——它显然有益于穷人之费用——又能收回任何曾被夺去之物，归于这小产业之所有。因为此产业长久以来未有教会人士被派管理，这并非不增加你的赞美。愿你的贤明，如此情愿关注我们所求之事，以致蒙福的宗徒之长圣伯多禄——主耶稣基督赐予他束缚与释放之权——既使你的贤明在此世因你的后裔欢欣，亦在多年之后，使你得脱一切邪恶，立于永恒审判者面前。"
+  }
+}

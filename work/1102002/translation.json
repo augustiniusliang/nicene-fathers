@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102002",
+    "title": "Letter 2 (A.D. 386)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 2",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 2 (A.D. 386)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Zenobius Augustine Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. We are, I suppose, both agreed in maintaining that all things with which our bodily senses acquaint us are incapable of abiding unchanged for a single moment, but, on the contrary, are moving and in perpetual transition, and have no present reality, that is, to use the language of Latin philosophy, do not exist. Accordingly, the true and divine philosophy admonishes us to check and subdue the love of these things as most dangerous and disastrous, in order that the mind, even while using this body, may be wholly occupied and warmly interested in those things which are ever the same, and which owe their attractive power to no transient charm. Although this is all true, and although my mind, without the aid of the senses, sees you as you really are, and as an object which may be loved without disquietude, nevertheless I must own that when you are absent in body, and separated by distance, the pleasure of meeting and seeing you is one which I miss, and which, therefore, while it is attainable, I earnestly covet. This my infirmity (for such it must be) is one which, if I know you aright, you are well pleased to find in me; and though you wish every good thing for your best and most loved friends, you rather fear than desire that they should be cured of this infirmity. If, however, your soul has attained to such strength that you are able both to discern this snare, and to smile at those who are caught therein, truly you are great, and different from what I am. For my part, as long as I regret the absence of any one from me, so long do I wish him to regret my absence. At the same time, I watch and strive to set my love as little as possible on anything which can be separated from me against my will. Regarding this as my duty, I remind you, in the meantime, whatever be your frame of mind, that the discussion which I have begun with you must be finished, if we care for each other. For I can by no means consent to its being finished with Alypius, even if he wished it. But he does not wish this; for he is not the man to join with me now in endeavouring, by as many letters as we could send, to detain you with us, when you decline this, under the pressure of some necessity to us unknown.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102002.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102002.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二封信（公元386年）",
+    "p0002": "\\Emph{致\\Person{泽诺比乌斯}，\\Person{奥古斯丁}问候。}",
+    "p0003": "1. 我想，我们双方都同意，我们身体感官所接触的一切事物，一刻也不能保持不变，相反，它们处于运动之中，不断变迁，没有当下的实在性，也就是说，用拉丁哲学的语言来说，并不存在。因此，真确而神圣的哲学告诫我们，对这些事物的爱恋犹如最危险、最具灾难性的陷阱，必须加以抑制和制伏，好使心灵，即便在使用这个身体时，也能全然专注于并热切关心那些始终如一、其魅力丝毫不靠短暂诱人之处的事物。尽管这完全正确，尽管我的心灵无须借助于感官，便能认识你真实的样子，认识你是可以不受烦扰地去爱的对象，但我仍要承认，当你不在我身边，身体分隔两地时，我会怀念与你相会、相见的快乐，因此，只要这种快乐能够实现，我便热切渴望。我的这个软弱（因为想必就是软弱），如果我对你的了解正确，你是很高兴在我身上看到的；尽管你祝愿你最好、最亲爱的朋友们一切顺利，你却宁愿担心而不是希望他们摆脱这个软弱。然而，如果你的灵魂已达到如此坚定的程度，既能看清这个陷阱，又能嘲笑那些身陷其中的人，那么你确实了不起，与我的境界截然不同。至于我，只要我为别人的离去而惋惜，我也就希望他同样为我的离去而惋惜。同时，我警醒努力，尽量不将自己的爱寄托在任何可能违背我意愿而与我分离的事物上。我将此视为自己的本分，同时也提醒你，无论你此刻心境如何，我们之间已开始的讨论必须完成，只要我们彼此在意。因为我绝不能同意与\\Person{阿利比乌斯}一道结束这个讨论，即使他愿意。但他并不愿意；因为他在目前的情况下，绝非这样的人：当我们试图用尽可能多的信件将你留在我们身边时，你却在某种我们不得而知的需要压力下，不愿如此，他便不会与我一同力劝你。"
+  }
+}

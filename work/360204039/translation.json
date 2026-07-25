@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360204039",
+    "title": "Book IV, Letter 39",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Constantius, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Constantius, Bishop of Mediolanum (<em>Milan</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Having read the letter of your Holiness, we find that you are in a state of serious distress, principally on account of the bishops and citizens of Briscia (<em>Brescia</em>) who bid you send them a letter in which you are asked to swear that you have not condemned the Three Chapters. Now, if your Fraternity's predecessor Laurentius did not do this, it ought not to be required of you. But, if he did it, he was not with the universal Church, and contradicted what he had sworn to in his security. But, inasmuch as we believe him to have kept his oath, and to have continued in the unity of the Catholic Church, there is no doubt that he did not swear to any of his bishops that he had not condemned the Three Chapters. Hence your Holiness may conclude that you ought not to be forced to do what was in no wise done by your predecessor. But, lest those who have thus written to you should be offended, send them a letter declaring under interposition of anathema that you neither take away anything from the faith of the synod of Chalcedon nor received those who do, and that you condemn whomsoever it condemned, and absolve whomsoever it absolved. And thus I believe that they may be very soon satisfied.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Further, as to what you write about many of them being offended because you name our brother and fellow bishop John of the Church of Ravenna during the solemnities of mass, you should enquire into the ancient custom; and, if it has been the custom, it ought not now to be found fault with by foolish men. But, if it has not been the custom, a thing ought not to be done at which some may possibly take offense. Yet I have been at pains to make careful enquiry whether the same John our brother and fellow bishop names you at the altar; and they say that this is not done. And, if he does not make mention of your name, I know not what necessity obliges you to make mention of his. If indeed it can be done without any one taking offense, your doing anything of this kind is very laudable, since you show the charity you have towards your brethren.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, as to what you write of your having been unwilling to transmit my letter to Queen Theodelinda on the ground that the fifth synod was named in it, if you believed that she might thereby be offended, you did right in not transmitting it. We are therefore doing now as you recommend, namely, that we should only express approval of the four synods. Yet, as to the synod which was afterwards held in Constantinople, called by many the fifth, I would have you know that it neither ordained nor held anything in opposition to the four most holy synods, seeing that nothing was done in it with respect to the faith, but only with respect to persons; and persons, too, about whom nothing is contained in the acts of the Council of Chalcedon but, after the canons had been promulged, discussion arose, and final action was ventilated concerning persons. Yet still we have done as you desired, making no mention of this synod. But we have also written to our daughter the queen what you wrote to us about the bishops. Ursicinus, who wrote something to you against our brother and fellow bishop John, you ought by your letters addressed to him, with sweetness and reason, to restrain from his intention. Further, concerning Fortunatus , we desire your Fraternity to be careful, lest you be in any way surreptitiously influenced by bad men. For I hear that he ate at the table of the Church with your predecessor Laurentius for many years until now, that he sat among the nobles, and subscribed, and that with our brother's knowledge he served in the army. And now, after so many years, your Fraternity thinks that he should be driven from the position which he now occupies. This seems to me altogether incongruous. And so I have given you this order through him, but privately. Still, if there is anything reasonable that can be alleged against him, it ought to be submitted to our judgment. But, if it please Almighty God, we will send letters through your man to our son the Lord Dynamius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷·第三十九书",
+    "p0002": "\\Emph{致\\Person{康斯坦提乌斯}主教}",
+    "p0003": "\\Person{额我略}致\\Place{米兰}（\\Emph{Milan}）主教\\Person{康斯坦提乌斯}。",
+    "p0004": "阅读了尊驾的信函，我们发觉你处于严重的困扰中，主要由于\\Place{布雷西亚}（\\Emph{Brescia}）的主教和市民，他们要求你寄给他们一封信，在信中你被要求发誓你没有谴责\\OriginalTerm{三章}{Three Chapters}。现在，如果你的兄弟之爱的前任\\Person{劳伦提乌斯}没有这样做，就不应当要求你这样做。但是，如果他做了，他就不是与普世教会同在，并且违背了他在保证书中所发誓的。然而，既然我们相信他遵守了他的誓言，并继续在\\OriginalTerm{天主教会}{Catholic Church}的合一中，那么毫无疑问，他并未向他的任何主教发誓他没有谴责三章。因此，尊驾可以得出结论，你不应当被强迫做你的前任根本没有做过的事。但是，为了避免那些写信给你的人感到不快，请你给他们发一封信，在绝罚的介入下宣告，你既不从加采东大公会议的信仰中删除任何东西，也不接纳那些这样做的人，并且你谴责它所谴责的，宽恕它所宽恕的。我相信这样他们很快就会满意。",
+    "p0005": "此外，关于你所写的，许多人因你在弥撒庆典中提及我们的兄弟、\\Place{拉文纳}教会同为主教的\\Person{若望}而感到不快，你应当查考古代的习惯；如果是习惯，就不应现在被愚人指责。但如果不是习惯，就不应当做可能引起一些人反感的事。然而我已尽力仔细查问，同一位\\Person{若望}，我们的兄弟和同为主教，是否在祭台上提到你的名字；他们回答说没有这样做。如果他不提你的名字，我不知道有什么必要迫使你提他的名字。如果这样做可以不引起任何人的反感，你这样做是极值得称赞的，因为你显示出你对弟兄的爱德。",
+    "p0006": "此外，关于你所写的你一直不愿意把我的信转交给王后\\Person{特奥德林达}，因为信中提到了第五次大公会议，如果你认为她可能因此而不快，你不转交是做对了。因此我们现在按照你的建议行事，即我们只表达对四次大公会议的赞成。然而，关于后来在\\Place{君士坦丁堡}举行的、被许多人称为第五次的大公会议，我愿你知道，它没有制定也没有持有任何违背那四次至圣大公会议的东西，因为其中关于信仰什么都没有做，只涉及人；而且是关于那些在加采东大公会议的法案中毫无记载的人，只是在教令颁布后，引起了讨论，最终对人采取了行动。然而我们仍然按你的愿望做了，没有提及这次大公会议。但我们也写信给我们女儿王后，告知你所写关于主教们的事。\\Person{乌尔西奇努斯}曾写信给你反对我们的兄弟、同为主教的\\Person{若望}，你应当通过写信给他，以温柔和理性制止他的意图。此外，关于\\Person{福图纳图斯}，我们希望你兄弟之爱要小心，免得你以任何方式被恶人暗中影响。因为我听说他与你的前任\\Person{劳伦提乌斯}一同在教会的餐桌前吃饭多年直至现在，他坐在显贵之中，签署文件，并且在我们兄弟知情的情况下在军队服役。现在，这么多年后，你的兄弟之爱认为他应当被赶出他现在所占的职位。这在我看来完全不合适。因此我通过他给你这个命令，但是私下。尽管如此，如果有什么合理的理由可以指控他，应当提交给我们裁决。但如果全能的天主愿意，我们将通过你的人送信给我们的儿子\\Person{迪纳米乌斯}大人。"
+  }
+}

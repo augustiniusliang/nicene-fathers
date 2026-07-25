@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202010",
+    "title": "Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To a widow</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The art of snaring pigeons is as follows. When the men who devote themselves to this craft have caught one, they tame it, and make it feed with them. Then they smear its wings with sweet oil, and let it go and join the rest outside. Then the scent of that sweet oil makes the free flock the possession of the owner of the tame bird, for all the rest are attracted by the fragrance, and settle in the house. But why do I begin my letter thus? Because I have taken your son Dionysius, once Diomedes, and anointed the wings of his soul with the sweet all of God, and sent him to you that you may take flight with him, and make for the nest which he has built under my roof. If I live to see this, and you, my honoured friend, translated to our lofty life, I shall require many persons worthy of God to pay Him all the honour that is His due.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十封信",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Emph{致一位寡妇。}",
+    "p0004": "捕捉鸽子的技艺如下。当从事此艺的人捉到一只鸽子后，他们便驯养它，使它与自己一同进食。然后他们用甘饴之油涂抹它的翅膀，再放它飞回外面的鸽群。于是那甘饴之油的气味使自由的鸽群成为驯鸽主人的财产，因为其他鸽子都被芳香吸引，落在屋内。但我为何这样开始写信呢？因为我已经接纳了你的儿子\\Person{狄约尼削}（他曾名\\Person{狄奥墨得斯}），并用天主的甘饴之油涂抹了他灵魂的翅膀，将他派到你那里，为的是你能与他一同飞翔，并飞向他在我屋檐下所筑的巢。若我得以见到此事，并见到你——我可敬的朋友——被提升到我们崇高的生活，我便需要许多配得上天主的人，以向祂献上应得的一切荣耀。"
+  }
+}

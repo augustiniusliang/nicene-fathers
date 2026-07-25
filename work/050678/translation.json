@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "050678",
+    "title": "Epistle 78",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 78",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 78",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>The Reply to the Same of Lucius and the Rest of the Martyrs.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— The Argument of the Present Letter Is, in Substance, the Same as that of the Preceding; And Therefore It is Not a Letter of Lucius the Roman Bishop, But of Lucius the African Bishop and Martyr.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. To Cyprian our brother and colleague, Lucius, and all the brethren who are with me in the Lord, greeting. Your letter came to us, dearest brother, while we were exulting and rejoicing in God that He had armed us for the struggle, and had made us by His condescension conquerors in the battle; the letter, namely, which you sent to us by Herennianus the sub-deacon, and Lucian, and Maximus, and Amantius the acolytes, which when we read we received a relaxation in our bonds, a solace in our affliction, and a support in our necessity; and we were aroused and more strenuously animated to bear whatever more of punishment might be awaiting us. For before our suffering we were called forth by you to glory, who first afforded us guidance to confession of the name of Christ. We indeed, who follow the footsteps of your confession, hope for an equal grace with you. For he who is first in the race is first also for the reward; and you who first occupied the course thence have communicated this to us from what you began, showing doubtless the undivided love wherewith you have always loved us, so that we who had one Spirit in the bond of peace might have the grace of your prayers, and one crown of confession.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. But in your case, dearest brother, to the crown of confession is added the reward of your labours— an abundant measure which you shall receive from the Lord in the day of retribution, who have by your letter presented yourself to us, as you manifested to us that candid and blessed breast of yours which we have ever known, and in accordance with its largeness have uttered praises to God with us, not as much as we deserve to hear, but as much as you are able to utter. For with your words you have both adorned those things which had been less in-strutted in us, and have strengthened us to the sustaining of those sufferings which we bear, as being certain of the heavenly rewards, and of the crown of martyrdom, and of the kingdom of God, from the prophecy which, being filled with the Holy Spirit, you have pledged to us in your letter. All this will happen, beloved, if you will have us in mind in your prayers, which I trust you do even as we certainly do.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. And thus, O brother most longed-for, we have received what you sent to us from Quirinus and from yourself, a sacrifice from every clean thing. Even as Noah offered to God, and God was pleased with the sweet savour, and had respect unto his offering, so also may He have respect unto yours, and may He be pleased to return to you the reward of this so good work. But I beg that you will command the letter which we have written to Quirinus to be sent forward. I bid you, dearest brother and earnestly desired, ever heartily farewell, and remember us. Greet all who are with you. Farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050678.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050678.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七十八封书信",
+    "p0002": "\\Emph{致路爵与其余殉道者同一问题的答复。}",
+    "p0003": "\\Emph{论证——本信的论证实质上与前信相同；因此它不是罗马主教路爵的信，而是非洲主教兼殉道者路爵的信。}",
+    "p0004": "\\Person{路爵}及所有与我在主内同在的弟兄，问候我们的弟兄兼同僚\\Person{西彼廉}。最亲爱的弟兄，当我们因天主而欢欣踊跃时，祂武装我们投入战斗，并屈尊使我们成为战场的胜利者，你的信函到达了我们手中；这封信是由副执事\\Person{厄勒尼雅诺}、\\Person{路齐亚诺}、\\Person{玛克西莫}及辅祭者\\Person{阿曼提奥}带给我们的。我们读信时，在束缚中得了缓解，苦难中得了安慰，困境中得了支持；我们被激起，更坚强地忍受可能等待我们的任何更多惩罚。因为在我们的苦难之前，你已召唤我们走向光荣，你首先为我们提供了导向宣认基督之名的引导。我们确实追随你们宣认的足迹，希望与你们同享相等的恩宠。因为赛跑中领先者也是奖赏的领先者；你们先行占据了跑道，便从你们的起点将之传递给我们，无疑显明了你们始终爱我们的不分之爱，使我们在和平的束缚中同有一个圣神，能得着你们祈祷的恩宠，以及宣认的唯一冠冕。",
+    "p0005": "然而，最亲爱的弟兄，在你们身上，宣认的冠冕之外还加上了你们劳苦的赏报——一份丰盛的度量，你们将在报应的日子从主那里领受，因为你们藉着书信将自己呈现给我们，向我们显示了那纯洁而蒙福的胸怀，我们素来所认识的，并且照其宽广，与我们一同向天主发出赞美，并非我们配得聆听，而是你们所能表达的。因为你们以言语装饰了我们中那些尚未完全受教之处，并坚固我们承受所忍受的苦难，既因你们确信天上的赏报、殉道的冠冕及天主的国，从你们充满圣神的预言中，在书信中向我们许诺了这一切。这一切将会实现，亲爱的，如果你们在祈祷中记念我们，我相信你们如此行，正如我们确实也如此行一般。",
+    "p0006": "因此，极渴望的弟兄，我们收到了你们从\\Person{基里诺}和你们自己那里带给我们的礼物——从一切洁净之物所献的祭献。正如\\Person{诺厄}向天主奉献，天主喜爱馨香，垂顾他的供物；同样，愿祂也垂顾你们的供物，并乐意将这善工的赏报归给你们。但我请求你们命令将我们写给\\Person{基里诺}的信转交出去。最亲爱的且热切愿望的弟兄，我祝你们永远衷心安好，并记念我们。问候所有与你们同在的人。安好。"
+  }
+}

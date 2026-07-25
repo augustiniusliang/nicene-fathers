@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "1102037",
+    "title": "Letter 37 (A.D. 397)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 37",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 37 (A.D. 397)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Simplicianus</em>, <em>My Lord Most Blessed, and My Father Most Worthy of Being Cherished with Respect and Sincere Affection, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. I received the letter which your Holiness kindly sent—a letter full of occasions of much joy to me, because assuring me that you remember me, that you love me as you used to do, and that you take great pleasure in every one of the gifts which the Lord has in His compassion been pleased to bestow on me. In reading that letter, I have eagerly welcomed the fatherly affection which flows from your benignant heart towards me: and this I have not found for the first time, as something short-lived and new, but long ago proved and well known, my lord, most blessed, and most worthy of being cherished with respect and sincere love.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. Whence comes so great a recompense for the literary labour given by me to the writing of a few books as this, that your Excellency should condescend to read them? Is it not that the Lord, to whom my soul is devoted, has purposed thus to comfort me under my anxieties, and to lighten the fear with which in such labour I cannot but be exercised, lest, notwithstanding the evenness of the plain of truth, I stumble through want either of knowledge or of caution? For when what I write meets your approval, I know by whom it is approved, for I know who dwells in you; and the Giver and Dispenser of all spiritual gifts designs by your approbation to confirm my obedience to Him. For whatever in these writings of mine merits your approbation is from God, who has by me as His instrument said, <quote>Let it be done,</quote> and it was done; and in your approval God has pronounced that what was done is <quote>good.</quote> {{BIBLE:gen 1:3}}",
+        "scripture": [
+          "gen 1:3"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "3. As for the questions which you have condescended to command me to resolve, even if through the dulness of my mind I did not understand them, I might through the assistance of your merits find an answer to them. This only I ask, that on account of my weakness you intercede with God for me, and that whatever writings of mine come into your sacred hands, whether on the topics to which you have in a manner so kind and fatherly directed my attention, or on any others, you will not only take pains to read them, but also accept the charge of reviewing and correcting them; for I acknowledge the mistakes which I myself have made, as readily as the gifts which God has bestowed on me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102037.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102037.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 37（公元397年）",
+    "p0002": "\\Emph{致\\Person{辛普利西}}，\\Emph{我最可祝福的主教，我最值得以敬意和真诚爱戴珍视的神父}，\\Person{奥古斯丁}在主内向您致意。",
+    "p0003": "1. 我收到了您圣善的慈爱所惠寄的信函——这封信带给我许多欢乐的缘由，因为它向我保证您记得我，您像往常一样爱我，并且您对主因怜悯乐意赐给我的每一项恩赐都感到极大的喜悦。在读这封信时，我热切地迎接了从您仁慈的心中流出的父亲般的情感：而这并不是我第一次发现它，好像它是短暂而新奇的，而是早已验证且熟知的，我最可祝福的主，最值得以尊敬和真诚爱戴珍视的主。",
+    "p0004": "2. 我花了些文学辛劳撰写了几本书，竟得到如此大的回报，以致您的尊荣竟屈尊阅读它们？这岂不是主——我的灵魂所奉献于祂的那位——定意这样安慰我的忧虑，并减轻我在这种辛劳中不能不经历的恐惧，担心自己尽管在真理的平原上看似平稳，却或因无知或因不慎而失足？因为当我所写的得到您的赞许时，我便知道是谁赞许了它，因为我知道谁居住在您内；而那位所有属神恩赐的赐予者和分施者，正借着您的认可来坚固我对祂的顺服。因为我这些著作中凡配得您赞许的，都来自天主，祂曾借着我作为工具说：\\BibleQuote{要有光}，就有了光；而在您的认可中，天主宣告了所成之事是\\BibleQuote{好的}。\\BibleRef{创 1:3}",
+    "p0005": "3. 至于您屈尊命令我解答的那些问题，即使由于我头脑迟钝而不能理解它们，借着您功绩的帮助，我也许会找到答案。我仅请求您，因我的软弱向天主为我转求，并且无论我的何种著作到了您神圣的手中，无论是关于您曾如此慈爱和父亲般地引导我注意的那些题目，还是关于其他主题，您不仅费心阅读它们，而且承担起审阅和纠正它们的职责；因为我承认我自己犯的错误，正如我承认天主赐予我的恩赐一样容易。"
+  }
+}

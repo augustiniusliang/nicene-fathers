@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202082",
+    "title": "Letter 82",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 82",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 82",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Athanasius, bishop of Alexandria</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "When I turn my gaze upon the world, and perceive the difficulties by which every effort after good is obstructed, like those of a man walking in fetters, I am brought to despair of myself. But then I direct my gaze in the direction of your reverence; I remember that our Lord has appointed you to be physician of the diseases in the Churches; and I recover my spirits, and rise from the depression of despair to the hope of better things. As your wisdom well knows, the whole Church is undone. And you see everything in all directions in your mind's eye like a man looking from some tall watch tower, as when at sea many ships sailing together are all dashed one against the other by the violence of the waves, and shipwreck arises in some cases from the sea being furiously agitated from without, in others from the disorder of the sailors hindering and crowding one another. It is enough to present this picture, and to say no more. Your wisdom requires nothing farther, and the present state of affairs does not allow me freedom of speech. What capable pilot can be found in such a storm? Who is worthy to rouse the Lord to rebuke the wind and the sea? Who but he who from his boyhood fought a good fight on behalf of true religion? Since now truly all that is sound among us is moving in the direction of fellowship and unity with those who are of the same opinion, we have come confidently to implore you to send us a single letter, advising us what is to be done. In this way they wish that they may have a beginning of communication which may promote unity. They may, perhaps, be suspected by you, when you remember the past, and therefore, most God-beloved Father, do as follows; send me the letters to the bishops, either by the hand of some one in whom you place trust in Alexandria, or by the hand of our brother Dorotheus the deacon: when I have received these letters I will not deliver them till I have got the bishops' answers; if not, let me <quote>bear the blame for ever.</quote> {{BIBLE:gen 43:9}} Truly this ought not to have struck more awe into him who first uttered it to his father, than into me who now say it to my spiritual father. If however you altogether renounce this hope, at least free me from all blame in acting as I have, for I have undertaken this message and mediation in all sincerity and simplicity, from desire for peace and the mutual intercourse of all who think alike about the Lord.",
+        "scripture": [
+          "gen 43:9"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202082.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202082.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八十二封书信",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致\\Person{圣亚大纳削}，\\Place{亚历山大城}主教。}",
+    "p0004": "当我将目光转向世界，察觉一切追求美善的努力都如同戴着脚镣行走的人一样受阻时，我便陷入失望。但随后我将目光转向尊驾，想起我们的主已任命您为教会疾病的医师，于是我恢复精神，从绝望的消沉中振作，期盼更好的事。如您的智慧深知，整个教会已濒临崩溃。您用心灵之眼审视各方，如同从高塔上瞭望，正如海上许多船只一起航行，因波涛汹涌而互相碰撞，船只失事有的源于外界狂风怒海，有的源于水手们的混乱、互相阻碍。描绘这幅景象便足够了，无需多言。您的智慧无需更多，而当前的局势也不容我自由言说。在这样的风暴中，哪里能找到有能力的舵手？谁配唤醒主斥责风和海？除了那位自幼为真道打美好仗的人，还能有谁？如今，我们中所有健全的人确实正朝着与同道共融合一的方向迈进，因此我们满怀信心地恳求您寄给我们一封信，指示我们当行的事。他们希望通过这种方式有一个促进合一的交流的开端。或许，当您回忆往事时会对他们有所怀疑，因此，最蒙天主所爱的父，请这样做：将致主教们的信函，要么通过您在\\Place{亚历山大城}所信任的人，要么通过我们的兄弟、执事\\Person{多罗特乌斯}之手寄给我；我收到这些信函后，将等到获得主教们的答复才转交；否则，让我\\Quote{永远承担责任。}\\BibleRef{创 43:9} 这事本当更令那位最初对他父亲说出此话的人感到畏惧，而我现在对属灵父亲说同样的话，更应如此。然而，如果您完全放弃这个希望，至少让我在行事上不受责备，因为我受托传递信息和调解，完全是出于真诚和纯朴，出于对和平的渴望，以及所有在主内同道之间的彼此往来。"
+  }
+}

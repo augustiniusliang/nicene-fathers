@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "360208015",
+    "title": "Book VIII, Letter 15",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 15",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 15",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Marinianus, Bishop of Ravenna.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Marinianus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How necessary it is to provide for the quiet of monasteries , and to take measures for their perpetual security, you are aware from the office you formerly filled in government of a monastery. And so, seeing that we have learned how the monastery of the blessed John and Stephen in the city of Classis, over which our common son, the abbot Claudius, is known to preside, has suffered many prejudices and grievances from your predecessors, it is right that the provision of your Fraternity should make salutary arrangements for the quiet of its inmates in future; to the end that living there in the service of God, His grace also assisting them, they may persevere with free mind. But lest, owing to the custom which ought rather to be amended, any one at any time should presume to cause any annoyance there, it is necessary that the points which we have taken care to enumerate below be so guarded by the careful attention of your Fraternity that no occasion of causing them disquiet may possibly be found in future. Let no one, then, any more dare, by any kind of inquisition whatever, to diminish anything from the revenues or charters of the aforesaid monastery, or of any place that in any manner whatever pertains to it, or to attempt any kind of usurpations or stratagems. But if perchance any matter of dispute should arise between the Church of Ravenna and the aforesaid monastery, and it cannot be settled amicably, let it be concluded without voluntary delay before men who fear God chosen by the parties, oath being made upon the most holy Gospels. Further, on the death of an abbot, let not a stranger be ordained, but one whom the congregation may choose of its own free will for itself from the same congregation, and who shall have been chosen without any fraud or venality. But, if they should be unable to find a suitable person among themselves, let them in like manner wisely choose for themselves for ordination one from some other monastery. And, when an abbot comes, let no person whatever on any occasion whatever be put over him in his own monastery, unless perchance in the case (which God forbid) of crimes which are shown to be punishable by the sacred canons. This rule also must be no less carefully observed; that against the will of the abbot of such monastery monks be not removed thence for furnishing other monasteries, or for sacred orders, or for any clerical office. But in cases of there being monks in abundance, sufficient for celebrating praises to God and for satisfying the requirements of monasteries, let the abbot offer with devotion of those who are to spare, such as he may be able to find worthy in the sight of God. But if, while having a sufficient number he should refuse to give any, then let the bishop of Ravenna take of such as are to spare for furnishing other monasteries. Nevertheless, let no one be taken out thence for an ecclesiastical office, except such as the abbot of the place, on having notice given him, may offer of his own accord. Whosoever also from the aforesaid monastery shall have attained to any ecclesiastical order, let him thenceforth have neither any power there nor leave to dwell there.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "It is to be observed also that no schedule of the property and charters of this monastery must be made by ecclesiastics, if ever circumstances require one: but let the abbot of the place with other abbots make an inventory of the property.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, as often as the abbot may perchance wish to go or send to the Roman pontiff in the interest of his monastery, let him have entire liberty to do so.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "Furthermore, though the visits of bishops should be looked for with desire by monasteries, yet, seeing that it has been reported to us that the aforesaid monastery in the times of your predecessor was burdened by occasion of entertainment, it is right that your Holiness should regulate this in a becoming manner, so that the prelate of the city may have access to the monastery as often as he pleases for the sake of visiting and exhorting. But let the bishop so fulfil the office of charity there that the monastery incur not any burden. Now the aforesaid abbot not only does not fear your Fraternity's frequent access to the monastery, but even longingly desires it, knowing that it is quite impossible that the substance of the monastery should be burdened through you. Given in the month of April, first Indiction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208015.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208015.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷，第十五封信",
+    "p0002": "\\Emph{致\\Person{马里尼亚努斯}，\\Place{拉文纳}主教。}",
+    "p0003": "额我略致\\Person{马里尼亚努斯}等。",
+    "p0004": "维护隐修院的安宁并采取措施确保其永久安全的必要性，你阁下因先前担任隐修院管理职务而深为了解。因此，鉴于我们得知，位于\\Place{克拉西斯}城的\\Person{圣若望}及\\Person{圣斯德望}隐修院（由我们共同的儿子、院长\\Person{克劳狄}主持）曾因你的前任们而遭受许多损害和不满，理应由你阁下为其未来安宁作出有益安排，为的是修士们在那里事奉天主，并蒙祂的恩宠助佑，得以心神自由地坚持。但为避免因那更应纠正的习俗，任何人任何时候胆敢在那里造成任何烦扰，有必要使你阁下细心注意，确保我们下面列举的几点得到遵守，以免将来可能找到使他们不安的借口。今后，任何人不得再以任何形式的调查，从上述隐修院或任何与其相关的地方的收入或契据中减少任何东西，或尝试任何形式的强占或诡计。但如果\\Place{拉文纳}教会与上述隐修院之间发生任何争端，且不能友好解决，则应在由双方选出的敬畏天主的人面前，在至圣福音书上宣誓，无故意拖延地了结。此外，院长去世时，不得任命外人，而应由会众从同一会众中自由选择一人，且该人当选时无任何欺诈或贿赂。但如果他们在自己中间找不到合适的人，他们也应同样明智地从其他隐修院中选择一人来任命。并且，当一位院长到来时，在任何情况下，不得在其隐修院中设立任何人高于他，除非（愿天主禁止）出现圣教法典规定应受惩罚的罪行。同样必须严格遵守这条规定：未经该隐修院院长的同意，不得将修士调离，用于充实其他隐修院、授予圣职或任何神职职务。但如果修士充足，足以颂扬天主并满足隐修院的需要，院长应虔诚地从那些可省下的人中，提供他在天主面前认为合适的人。但如果院长在有足够数量的情况下拒绝提供，那么\\Place{拉文纳}主教可从那些可省下的人中取用，以充实其他隐修院。然而，除非该地院长在接到通知后自愿提供，否则不得从该隐修院中挑选任何人担任神职职务。任何从上述隐修院获得任何圣职的人，此后在该处既无任何权力，亦不得居住在那里。",
+    "p0005": "还应注意到，如有需要，不得由神职人员制作该隐修院财产和契据的清单；而应由该地院长与其他院长一起制作财产清册。",
+    "p0006": "此外，凡院长可能希望为了其隐修院的利益前往或派遣使者到罗马教宗处，他应有完全的自由这样做。",
+    "p0007": "此外，虽然隐修院应渴望主教的探访，但鉴于我们听说上述隐修院在你的前任时期曾因接待而负担沉重，所以你阁下理应以适当方式加以规定，使得该城主教可以随时为探访和劝勉之故进入隐修院。但主教应在那里履行爱德职责，以免隐修院遭受任何负担。现在，上述院长不仅不害怕你阁下频繁进入隐修院，反而渴望如此，因为他知道隐修院的财产绝不可能因你而受负担。于四月，第一小纪颁发。"
+  }
+}

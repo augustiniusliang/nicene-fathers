@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202177",
+    "title": "Letter 177",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 177",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 177",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Saphronius the Master</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "To reckon up all those who have received kindness at your excellency's hand, for my sake, is no easy task; so many are there whom I feel that I have benefited through your kind aid, a boon which the Lord has given me to help me in these very serious times. Worthiest of all is he who is now introduced to you by my letter, the reverend brother Eusebius, attacked by a ridiculous calumny which it depends upon you alone in your uprightness, to destroy. I beseech you, therefore, both as respecting the right and as being humanely disposed, to grant me your accustomed favours, by adopting the cause of Eusebius as your own, and championing him, and, at the same time, truth. It is no small thing that he has the right on his side; and this, if he be not stricken down by the present crisis, he will have no difficulty in proving plainly and without possibility of contradiction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202177.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202177.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一七七书",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "\\Emph{致\\Person{索弗若尼乌斯}阁下}.",
+    "p0004": "要一一列举那些因我的缘故蒙受阁下恩惠的人，并非易事；因我所知，借由您的慷慨援助，我已使许多人受益，这是主在如此严峻的时期赐予我的恩赐。其中最值得称道的，便是此信引荐给您的可敬弟兄\\Person{优西比乌}；他遭到荒唐的诽谤，而惟有您——以您的正直——才能消除这诽谤。因此，我恳请您，既出于正义，亦出于仁爱，赐予我惯常的恩惠：将\\Person{优西比乌}的事当作您自己的事，予以支持、捍卫，同时亦捍卫真理。他拥有正义在侧，这并非小事；若他不在当前危机中倒下，必将毫不费力地、明白无误且无可辩驳地证明这一点。"
+  }
+}

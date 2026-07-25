@@ -1,0 +1,58 @@
+{
+  "source": {
+    "source_id": "0103507",
+    "title": "Against Heresies (Book V, Chapter 7)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book V, Chapter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book V, Chapter 7)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. In the same manner, therefore, as Christ did rise in the substance of flesh, and pointed out to His disciples the mark of the nails and the opening in His side (now these are the tokens of that flesh which rose from the dead), so <quote>shall He also,</quote> it is said, <quote>raise us up by His own power.</quote> {{BIBLE:1co 6:14}} And again to the Romans he says, <quote>But if the Spirit of Him that raised up Jesus from the dead dwell in you, He that raised up Christ from the dead shall also quicken your mortal bodies.</quote> {{BIBLE:rom 8:11}} What, then, are mortal bodies? Can they be souls? Nay, for souls are incorporeal when put in comparison with mortal bodies; for God <quote>breathed into the face of man the breath of life, and man became a living soul.</quote> Now the breath of life is an incorporeal thing. And certainly they cannot maintain that the very breath of life is mortal. Therefore David says, <quote>My soul also shall live to Him,</quote> just as if its substance were immortal. Neither, on the other hand, can they say that the spirit is the mortal body. What therefore is there left to which we may apply the term <quote>mortal body,</quote> unless it be the thing that was moulded, that is, the flesh, of which it is also said that God will vivify it? For this it is which dies and is decomposed, but not the soul or the spirit. For to die is to lose vital power, and to become henceforth breathless, inanimate, and devoid of motion, and to melt away into those [component parts] from which also it derived the commencement of [its] substance. But this event happens neither to the soul, for it is the breath of life; nor to the spirit, for the spirit is simple and not composite, so that it cannot be decomposed, and is itself the life of those who receive it. We must therefore conclude that it is in reference to the flesh that death is mentioned; which [flesh], after the soul's departure, becomes breathless and inanimate, and is decomposed gradually into the earth from which it was taken. This, then, is what is mortal. And it is this of which he also says, <quote>He shall also quicken your mortal bodies.</quote> And therefore in reference to it he says, in the first [Epistle] to the Corinthians: <quote>So also is the resurrection of the dead: it is sown in corruption, it rises in incorruption.</quote> {{BIBLE:1co 15:42}} For he declares, <quote>That which you sow cannot be quickened, unless first it die.</quote> {{BIBLE:1co 15:36}}",
+        "scripture": [
+          "1co 6:14",
+          "rom 8:11",
+          "1co 15:42",
+          "1co 15:36"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. But what is that which, like a grain of wheat, is sown in the earth and decays, unless it be the bodies which are laid in the earth, into which seeds are also cast? And for this reason he said, <quote>It is sown in dishonour, it rises in glory.</quote> {{BIBLE:1co 15:43}} For what is more ignoble than dead flesh? Or, on the other hand, what is more glorious than the same when it arises and partakes of incorruption? <quote>It is sown in weakness, it is raised in power:</quote> {{BIBLE:1co 15:43}} in its own weakness certainly, because since it is earth it goes to earth; but [it is quickened] by the power of God, who raises it from the dead. <quote>It is sown an animal body, it rises a spiritual body.</quote> {{BIBLE:1co 15:44}} He has taught, beyond all doubt, that such language was not used by him, either with reference to the soul or to the spirit, but to bodies that have become corpses. For these are animal bodies, that is, [bodies] which partake of life, which when they have lost, they succumb to death; then, rising through the Spirit's instrumentality, they become spiritual bodies, so that by the Spirit they possess a perpetual life. <quote>For now,</quote> he says, <quote>we know in part, and we prophesy in part, but then face to face.</quote> {{BIBLE:1co 13:9}} And this it is which has been said also by Peter: <quote>Whom having not seen, you love; in whom now also, not seeing, you believe; and believing, you shall rejoice with joy unspeakable.</quote> {{BIBLE:1pe 1:8}} For our face shall see the face of the Lord and shall rejoice with joy unspeakable—that is to say, when it shall behold its own Delight.",
+        "scripture": [
+          "1co 15:43",
+          "1co 15:44",
+          "1co 13:9",
+          "1pe 1:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103507.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103507.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{反异端论}第五卷，第七章",
+    "p0002": "1. 因此，正如基督以\\OriginalTerm{肉身的实体}{substance of flesh}复活了，并向祂的门徒指出钉痕和肋旁的伤口（这些是从死者中复活的那肉身的标记），同样，经上说：\\Quote{祂也要}藉祂自己的德能\\Quote{使我们复活}。\\BibleRef{格前 6:14} 他又对罗马人说：\\Quote{然而，如果那使耶稣从死者中复活者的圣神住在你们内，那使基督从死者中复活的，也必藉那住在你们内的圣神，使你们有死的身体活过来。}\\BibleRef{罗 8:11} 那么，什么是\\OriginalTerm{有死的身体}{mortal bodies}？难道可以是灵魂吗？不，因为灵魂与有死的身体相比是\\OriginalTerm{非物质的}{incorporeal}；因为天主\\Quote{向人的面上吹了一口\\OriginalTerm{生命的气息}{breath of life}，人就成了一个\\OriginalTerm{有灵的生灵}{living soul}}。这生命的气息是非物质的东西。他们当然不能坚持说这生命气息本身是可死的。因此达味说：\\Quote{我的灵魂也要为祂而生活}，仿佛它的实体是不朽的。另一方面，他们也不能说圣神就是有死的身体。那么，还有什么可被称为\\Quote{有死的身体}，除非是那被塑造的，即肉身，经上也说天主将使这肉身\\OriginalTerm{活起来}{vivify}？因为这是那死去并\\OriginalTerm{分解}{decompose}的，而不是灵魂或圣神。因为死就是失去生命能力，从此成为无气息、无生命、无活动，并分解为那些构成其实体的成分。但这既不发生在灵魂身上，因为它是生命的气息；也不发生在圣神身上，因为圣神是单纯而非复合的，故不能被分解，且祂本身就是那些接受祂者的生命。因此我们必须断定，死亡是就肉身而言的；这肉身在灵魂离开后，变得无气息、无生命，并逐渐分解为它所从出的尘土。这就是可朽的。也正是这个，他说：\\Quote{也必使你们有死的身体活过来。}因此，他在（第一封）致格林多人书中论及它说：\\Quote{死人的复活也是这样：播种的是可朽坏的，复活起来的是\\OriginalTerm{不朽}{incorruption}的。}\\BibleRef{格前 15:42} 因为他声明：\\Quote{你所播种的，若不先死去，就不能活起来。}\\BibleRef{格前 15:36}",
+    "p0003": "2. 那如同麦粒被撒在地里而腐朽的，若非被埋在地里的尸体，种子也撒在其上，又是什么呢？为此他说：\\Quote{播种的是在\\OriginalTerm{羞辱}{dishonour}中，复活起来的是在\\OriginalTerm{荣耀}{glory}中。}\\BibleRef{格前 15:43} 因为有什么比死去的肉身更可耻？另一方面，有什么比它复活并分享不朽时更光荣？\\Quote{播种的是在\\OriginalTerm{软弱}{weakness}中，复活起来的是在\\OriginalTerm{德能}{power}中：}\\BibleRef{格前 15:43} 当然是在它自己的软弱中，因为既然是土，就归于土；但藉天主的德能，祂使它从死者中复活。\\Quote{播种的是\\OriginalTerm{属生灵的身体}{animal body}，复活起来的是\\OriginalTerm{属神的身体}{spiritual body}。}\\BibleRef{格前 15:44} 他无疑教导说，这样的话并非指着灵魂或圣神说的，而是指着成为\\OriginalTerm{尸体}{corpses}的身体。因为它们是属生灵的身体，即分享生命的身体；当它们失去生命时，就陷入死亡；然后藉着圣神的媒介复活，成为属神的身体，从而藉圣神拥有\\OriginalTerm{永恒的生命}{perpetual life}。\\Quote{因为如今，}他说，\\Quote{我们认识是局部的，我们讲预言也是局部的；但到那时，就要面对面了。}\\BibleRef{格前 13:9} 这也是伯多禄所说的：\\Quote{你们虽然没有见过祂，却爱祂；如今虽然看不见祂，却相信祂；且相信时，要以不可言传的喜乐而欢跃。}\\BibleRef{伯前 1:8} 因为我们的脸将要看见主的脸，并以不可言传的喜乐而欢跃——也就是说，当它看见自己的喜悦时。"
+  }
+}

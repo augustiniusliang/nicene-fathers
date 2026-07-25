@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "2710",
+    "title": "Apology Against Rufinus",
+    "breadcrumbs": "Home > Fathers of the Church > Apology Against Rufinus (Jerome)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Apology Against Rufinus",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Book I\nBook II\nBook III",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2710.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2710.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳鲁菲诺护教篇}",
+    "p0002": "卷一\\newline{}卷二\\newline{}卷三"
+  }
+}

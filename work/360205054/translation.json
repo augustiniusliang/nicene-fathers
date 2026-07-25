@@ -1,0 +1,102 @@
+{
+  "source": {
+    "source_id": "360205054",
+    "title": "Book V, Letter 54",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book V, Letter 54",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book V, Letter 54",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To all the Bishops of the Kingdom of Childebert.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all the Bishops of Gaul who are under the kingdom of Childebert.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "To this end has the provision of the divine dispensation appointed that there should be diverse degrees and distinct orders, that, while the inferiors show reverence to the more powerful and the more powerful bestow love on the inferiors, one contexture of concord may ensue of diversity, and the administration of all several offices may be properly borne. Nor indeed could the whole otherwise subsist; unless, that is, a great order of differences of this kind kept it together. Further, that creation cannot be governed, or live, in a state of absolute equality we are taught by the example of the heavenly hosts, since, there being angels and also archangels, it is manifest that they are not equal; but in power and rank, as you know, one differs from another. If then among these who are without sin there is evidently this distinction, who of men can refuse to submit himself willingly to this order of things which he knows that even angels obey? For hence peace and charity embrace each other mutually, and the sincerity of concord remains firm in the reciprocal love which is well pleasing to God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Since, then, each single duty is then salubriously fulfilled when there is one president who may be referred to, we have therefore perceived it to be opportune, in the Churches that are under the dominion of our most excellent son king Childebert, to give our vicariate jurisdiction, according to ancient custom, to our brother Virgilius, bishop of the city of Arelate, to the end that the integrity of the Catholic faith, that is of the four holy synods, may be preserved under the protection of God with attentive devotion, and that, if any contention should by chance arise among our brethren and fellow priests, he may allay it by the rigour of his authority with discreet moderation, as representing the Apostolic See. We have also charged him that, if such a dispute should arise in any cases as to require the presence of others, he should assemble our brethren and fellow bishops in competent number, and discuss the matter salubriously with due regard to equity, and decide it with canonical integrity. But if a contention (which may the Divine power avert) should happen to arise on matters of faith, or any business come up about which there may perchance be serious doubt, and he should be in need of the judgment of the Apostolic See in place of his own greatness, we have directed him that, having diligently enquired into the truth, he should take care to bring the question under our cognizance by a report from himself, to the end that it may be terminated by a suitable sentence so as to remove all doubt.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "And, since it is necessary that the bishops should assemble at suitable times for conference before him to whom we have granted our vicariate jurisdiction as often as he may think it, we exhort that none of you presume to be disobedient to his orders, or defer attending the general conclave, unless perchance bodily infirmity should prevent any one, or a just excuse in any case should allow his absence. Yet let such as are unavoidably prevented from attending the synod send a presbyter or a deacon in their stead, to the end that the things that, with the help of God, may be decided by our vicar, may come to the knowledge of him who is absent by a faithful report through the person whom he had sent, and be observed with unshaken steadfastness, and that there be no occasion of excuse for daring to violate them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "About this also we take the precaution of warning you, that none of you may attempt in any way to depart to places at any great distance without the authority of our aforesaid brother and fellow bishop Virgilius, knowing that the orders of our predecessors, who granted vicariate jurisdiction to his predecessors, undoubtedly lay this down.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "Furthermore, we exhort that each one of you give careful attention to his own office, so that he who desires to receive the reward promised for feeding the sheep may guard the flock committed to him with carefulness and prayer, lest the prowling wolf should invade and tear the sheep entrusted to him, and there should be in the retribution punishment instead of reward. We hope, therefore, most dear brethren, and we entreat Almighty God with all our prayers, that He would make you to be fervent more and more in the constancy of His love, and grant you especially to be retained in the peace of the Church, and in agreement together.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "p",
+        "text": "It has been reported to us that some are promoted to sacred orders through simoniacal heresy; and we have ordered our above-written brother and fellow bishop Virgilius that this must be altogether prohibited; and, that your Fraternity may know and studiously observe this, our letter to him is to be read in your presence. Given the 12th day of August, Indiction 13.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360205054.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360205054.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五卷，第五十四封书函",
+    "p0002": "\\Emph{致\\Person{希尔代贝特}王国全体主教。}",
+    "p0003": "\\Person{额我略}致\\Place{高卢}隶属于\\Person{希尔代贝特}王国的全体主教。",
+    "p0004": "天主上智的安排为此规定了应有不同的等级和分明的秩序，为的是当下位者对上位者显示敬意，而上位者施爱于下位者时，从多样性中便产生了和谐的连结，各项职务的管理也能得以恰当承担。的确，整体无法以其他方式存续，除非这种伟大的差异秩序维系着它。再者，受造物不能以绝对平等的方式被治理或生存，这一教训来自天军的榜样，因为既有天使，也有总领天使，显然它们并非平等；而是在能力和等级上，如你们所知，彼此不同。如果连这些无罪者之中都显然有这种区别，那么有谁能在明知甚至天使都服从这种秩序的情况下，拒绝自愿顺服呢？因为从此和平与爱德互相拥抱，和谐的真诚在彼此相爱中坚定不移，而这爱是悦乐天主的。",
+    "p0005": "既然每一项职责唯有在有一位可向其请示的领导人时才能得到有益地履行，因此我们认为，在我们最杰出的儿子希尔代贝特国王统治下的各教会，根据古老习惯，将我们的代牧权授予我们的兄弟、阿尔勒城的维吉利乌斯主教，是合宜的，以便天主教的信仰，即四大神圣会议的完整，在天主的保护下以殷勤的虔诚得以保存，并且，如果在我们的兄弟和同僚司铎之间偶然发生任何争执，他能作为宗座代表，以其权威的严谨，以谨慎的节制平息争执。我们也委托他，如果在某些案件中出现需要他人出席的争议，他应召集适当数量的兄弟和同僚主教，在适当考虑公平的情况下有益地讨论此事，并以教规的完整性作出裁决。但如果（愿天主的大能避免）在信仰问题上发生争执，或出现任何可能引起严重疑问的事务，而他需要宗座的判断以取代自己的权柄，我们指示他，在勤勉查究真相后，应自行报告将此问题提交我们认知，以便通过适当的判决终结疑问。",
+    "p0006": "并且，由于主教们有必要在他（我们授予代牧权者）面前于适当时机集合开会，只要他认为合适，我们劝告你们中任何人不得擅自行事，违抗他的命令，或推迟参加全体会议，除非或许因身体虚弱阻碍某人，或有正当理由允许其缺席。然而，凡因故无法出席主教会议者，应派一位司铎或执事代替自己，以便凭天主的助佑由我们的代牧所决定的事项，能通过他所派遣者的忠实报告传达给缺席者，并以坚定不移的恒心予以遵守，从而没有借口胆敢违反。",
+    "p0007": "关于此事，我们也提醒你们，在未经我们前述兄弟和同僚主教维吉利乌斯的授权时，你们中任何人都不得以任何方式远行到远处，因为知道我们的前任们授予其前任代牧权的命令无疑规定了这一点。",
+    "p0008": "此外，我们劝告你们每一位要留心自己的职责，以便那渴望获得牧羊报酬的人，以谨慎和祈祷守护托付给他的羊群，以免游走的狼侵入并撕裂托付给他的羊，而在报应时得到惩罚而非奖赏。因此，最亲爱的弟兄们，我们希望并恳求全能的天主以我们全部的祈祷，使你们在祂爱德的恒心中越来越热切，并特别恩赐你们在教会的和平与彼此合一中被保守。",
+    "p0009": "有人向我们报告，有人通过西满尼异端被晋升至神圣神品；我们已经命令我们上述兄弟和同僚主教维吉利乌斯，此事必须完全禁止；为使你们的兄弟团体知晓并认真遵守，我们给他的信函将在你们面前宣读。颁于八月十二日，第十三小纪。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202127",
+    "title": "Letter 127",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 127",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 127",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eusebius, bishop of Samosata</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Our merciful God, Who makes comfort match trouble, and consoles the lowly, lest they be drowned unawares in exceeding grief, has sent a consolation, equivalent to the troubles I have suffered in Nicopolis, in seasonably bringing me the God-beloved bishop Jobinus. He must tell you himself how very opportune his visit was. I shrink from a long letter, and will hold my peace. And I am the more inclined to silence, lest I seem as it were to put a mark on men, who have turned round and begun to show regard to me, by mentioning their fall.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "God grant that you may come to see me in my own home, so that I may embrace your reverence and tell you everything in detail. For we often find some comfort in telling what is painful in actual experience. However, for all that the very godly bishop has done, fully as far as regards his affection for me, and preeminently and stoutly as regards the exact observance of the canons, commend him. Moreover, thank God that your pupils everywhere exhibit your reverence's character.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202127.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202127.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一二七号书信}",
+    "p0002": "\\Emph{\\Person{凯撒勒雅的圣巴西略}}",
+    "p0003": "\\Emph{致\\Place{萨莫萨塔}主教\\Person{欧瑟比}}。",
+    "p0004": "我们的仁慈天主，祂使安慰与患难相称，并安慰卑微的人，免得他们不知不觉在过度的忧伤中被淹没，藉着适时地带来蒙主钟爱的主教\\Person{约比诺}，赐下与我在\\Place{尼科波利斯}所遭受的患难相等的安慰。他必须亲自告诉您他的来访是多么及时。我不愿写长信，所以保持沉默。我更倾向于沉默，免得我似乎给那些已经转变并开始对我表示尊敬的人贴上标记，提及他们的跌倒。",
+    "p0005": "愿天主恩赐您能来到我的家，以便我能拥抱您的尊驾并详细告诉您一切。因为我们时常发现，讲述痛苦的实际经历能带来一些安慰。然而，无论如何，请称颂那位极其敬虔的主教所做的一切，完全符合他对我的爱，尤其是在严格遵守教会法规方面。此外，感谢天主，您的学生在各处都展现出您尊驾的品格。"
+  }
+}

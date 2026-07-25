@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202221",
+    "title": "Letter 221",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 221",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 221",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To the Beræans.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You were previously known to me, my dear friends, by your far-famed piety, and by the crown won by your confession in Christ. Peradventure one of you may ask in reply who can have carried these tidings of us so far? The Lord Himself; for He puts His worshippers like a lamp on a lamp-stand, and makes them shine throughout the whole world. Are not winners in the games wont to be made famous by the prize of victory, and craftsmen by the skilful design of their work? Shall the memory of these and others like them abide for ever unforgotten, and shall not Christ's worshippers concerning whom the Lord says Himself, Them that honour me I will honour, be made famous and glorious by Him before all? Shall He not display the brightness of their radiant splendour as He does the beams of the sun? But I have been moved to greater longing for you by the letter which you have been good enough to send me, a letter in which, above and beyond your former efforts on behalf of the truth, you have been yet more lavish of your abounding and vigorous zeal for the true faith. In all this I rejoice with you, and I pray with you that the God of the universe, Whose is the struggle and the arena, and Who gives the crown, may fill you with enthusiasm, may make your souls strong, and make your work such as to meet with His divine approval.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202221.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202221.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二二一封信",
+    "p0002": "\\Person{凯撒勒雅的圣巴西略}",
+    "p0003": "致\\Place{贝利亚人}。",
+    "p0004": "亲爱的朋友们，此前我因你们远近闻名的虔诚，以及你们在基督内宣认所得的荣冠，已认识你们。或许有人会问：这些关于我们的消息是谁传得这么远？是主自己；因为他将敬拜他的人如同灯放在灯台上，使他们照亮全世界。难道竞技的胜利者不是因胜利的奖赏而闻名，工匠不是因作品的巧妙设计而著称吗？这些人和类似之人的记忆岂不永远不被遗忘？敬拜基督的人，主亲自说：\\Quote{尊重我的，我必尊重他，}岂不因他而在众人面前成名并受光荣？他岂不将他们的荣耀光辉如同太阳的光线一样彰显出来？然而，由于你们惠然寄给我的信，我更加渴慕你们。在信中，你们为真理所做的努力，已超越以往，对真信仰的热情更加丰沛而强韧。我为此与你们一同喜乐，并同你们祈祷，愿那掌管宇宙、进行竞赛和赐予冠冕的天主，以热忱充满你们，使你们的灵魂强壮，并使你们的工作合乎他神圣的喜悦。"
+  }
+}

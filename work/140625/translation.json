@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "140625",
+    "title": "Contra Faustum, Book XXV",
+    "breadcrumbs": "Home > Fathers of the Church > Contra Faustum (Augustine) > Book XXV",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Contra Faustum, Book XXV",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Faustus seeks to bring into ridicule the orthodox claim to believe in the infinity of God by caricaturing the anthropomorphic representations of the Old Testament. Augustine expresses his despair of being able to induce the Manichæans to adopt right views of the infinitude of God so long as they continue to regard the soul and God as extended in space.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. <em>Faustus</em> said: Is God finite or infinite? He must be finite unless you are mistaken in addressing Him as the God of Abraham and Isaac and Jacob; unless, indeed, the being thus addressed is different from the God you call infinite. In the case of the God of Abraham and Isaac and Jacob, the mark of circumcision, which separated these men from fellowship with other people, marked also the limit of God's power as extending only to them. And a being whose power is finite cannot himself be infinite. Moreover, in this address, you do not mention even the ancients before Abraham, such as Enoch, Noah, and Shem, and others like them, whom you allow to have been righteous though in uncircumcision; but because they lacked this distinguishing mark, you will not call God their God, but only of Abraham and his seed. Now, if God is one and infinite, what need of such careful particularity in addressing Him, as if it was not enough to name God, without adding whose God He is— Abraham's, namely, and Isaac's and Jacob's; as if Abraham were a landmark to steer by in your invocation, to escape shipwreck among a shoal of deities? The Jews, who are circumcised, may very properly address this deity, as having a reason for it, because they call God the God of circumcision, in contrast to the gods of uncircumcision. But why you should do the same, it is difficult to understand; for you do not pretend to have Abraham's sign, though you invoke his God. If we understand the matter rightly, the Jews and their God seem to have set marks upon one another for the purpose of recognition, that they might not lose each other. So God gave them the disgusting mark of circumcision, that, in whatever land or among whatever people they might be, they might by being circumcised be known to be His. They again marked God by calling Him the God of their fathers, that, wherever He might be, though among a crowd of gods, He might, on hearing the name God of Abraham, God of Isaac, God of Jacob, know at once that He was addressed. So we often see, in a number of people of the same name, that no one answers till called by his surname. In the same way the shepherd or herdsman makes use of a brand to prevent his property being taken by others. In thus marking God by calling Him the God of Abraham and Isaac and Jacob, you show not only that He is finite, but also that you have no connection with Him, because you have not the mark of circumcision by which He recognizes His own. Therefore, if this is the God you worship, there can be no doubt of His being finite. But if you say that God is infinite, you must first of all give up this finite deity, and by altering your invocation, show your penitence for your past errors. We have thus proved God to be finite, taking you on your own ground. But to determine whether the supreme and true God is infinite or not, we need only refer to the opposition between good and evil. If evil does not exist, then certainly God is infinite; otherwise He must be finite. Evil, however, undoubtedly exists; therefore God is not infinite. It is where good stops that evil begins.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. <em>Augustine</em> replied: No one that knows you would dream of asking you about the infinitude of God, or of discussing the matter with you. For, before there can be any degree of spirituality in any of your conceptions, you must first have your minds cleared by simple faith, and by some elementary knowledge, from the illusions of carnal and material ideas. This your heresy prevents you from doing, for it invariably represents the body and the soul and God as extended in space, either finite or infinite, while the idea of space is applicable only to the body. As long as this is the case, it will be better for you to leave this matter alone; for you can teach no truth regarding it, any more than in other matters; and in this you are unfit for learning, as you might do in other things, if you were not proud and quarrelsome. For in such questions as how God can be finite, when no space can contain Him; how He can be infinite, when the Son knows Him perfectly; how He can be finite, and yet unbounded; how He can be infinite, and yet perfect; how He can be finite, who is without measure; how He can be infinite, who is the measure of all things— all carnal ideas go for nothing; and if the carnality is to be removed, it must first become ashamed of itself. Accordingly, your best way of ending the matter you have brought forward of God as finite or infinite, is to say no more about it till you cease going so far astray from Christ, who is the end of the law. Of the God of Abraham and Isaac and Jacob we have already said enough to show why He who is the true God of all creatures wished to be familiarly known by His people under this name. On circumcision, too, we have already spoken in several places in answer to ignorant reproaches. The Manichæans would find nothing to ridicule in this sign if they would view it as appointed by God, to be an appropriate symbol of the putting off of the flesh. They ought thus to consider the rite with a Christian instead of a heretical mind; as it is written, \"To the pure all things are pure.\" But, considering the truth of the following words, \"To the unclean and unbelieving nothing is pure, but even their mind and conscience are defiled,\" {{BIBLE:tit 1:15}} we must remind our witty opponents, that if circumcision is indecent, as they say it is, they should rather weep than laugh at it; for their god is exposed to restraint and contamination in conjunction both with the skin which is cut and with the blood which is shed.",
+        "scripture": [
+          "tit 1:15"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/140625.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Richard Stothert.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/140625.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "《驳福斯托》第二十五卷",
+    "p0002": "\\Emph{\\Person{福斯托}试图通过讽刺旧约中拟人化的描述，来嘲笑正统信仰关于天主无限性的主张。\\Person{奥古斯丁}表示，只要摩尼教徒继续认为灵魂和天主是在空间中延伸的，他便无法说服他们接受关于天主无限性的正确观点。}",
+    "p0003": "1. \\Person{福斯托}说：\\Quote{天主是有限的还是无限的？祂必定是有限的，除非你们错称祂为\\InnerQuote{亚巴郎、依撒格和雅各伯的天主}；除非你们所这样称呼的那位与你们称为无限的天主不相同。至于\\InnerQuote{亚巴郎、依撒格和雅各伯的天主}，割损的印记将这些人与其他民族分开，也划定了天主能力的界限，只延伸到他们。一个能力有限者不能是无限的。此外，在这样的称呼中，你们连亚巴郎之前的古人也不提，比如哈诺客、诺厄、闪以及类似的人，你们承认他们未受割损却为义人；但因他们缺乏这个分辨的印记，你们就不称天主为他们的天主，而只称祂为\\InnerQuote{亚巴郎及其后裔的天主}。如今，如果天主是唯一的且无限的，又何必如此小心谨慎地称呼祂，仿佛只提\\InnerQuote{天主}还不够，还必须加上祂是谁的天主——即\\InnerQuote{亚巴郎、依撒格和雅各伯的天主}；似乎亚巴郎成了你们呼求时的航标，以免在众多神祇中失事？受过割损的犹太人完全有理由这样称呼这位神明，因为他们称天主为\\InnerQuote{割损之神}，与\\InnerQuote{未受割损之神}相对。但你们为何也这样做，就难以理解了；因为你们并不声称有亚巴郎的印记，却呼求他的天主。若我们理解正确，犹太人和他们的天主似乎互为标记以便相认，以免彼此丢失。所以天主赐给他们可憎的割损印记，为使他们无论在哪一块土地、哪一个民族中，都能因受割损而被认出是属祂的。而他们也用称天主为\\InnerQuote{祖先的天主}来标记祂，为使祂无论在哪里，即使在众神之中，一听到\\InnerQuote{亚巴郎的天主、依撒格和雅各伯的天主}之名，就立刻知道是在呼求祂。我们常见许多人同名，无人回应，直到被叫到姓氏。同样，牧人或牧者使用烙印以防他人窃取他的财产。你们这样称天主为\\InnerQuote{亚巴郎、依撒格和雅各伯的天主}来标记祂，不仅表明祂是有限的，而且表明你们与祂毫无关系，因为你们没有祂用以认出自己子民的割损印记。因此，如果这就是你们敬拜的天主，那么祂无疑是有限的。但若你们说天主是无限的，就必须首先放弃这位有限的神明，并改变你们的呼求方式，为自己过去的错误表示忏悔。我们已从你们自己的立场出发，证明了天主是有限的。但要决定至高真神是否是无限的，我们只需参照善恶之间的对立。如果恶不存在，那么天主无疑是无限的；否则祂只能是有限的。然而，恶无疑存在；因此天主不是无限的。善止之处，恶便起。}",
+    "p0004": "2. \\Person{奥古斯丁}答：\\Quote{认识你的人没有一个会想到问你关于天主无限性的问题，或与你讨论此事。因为，在你的任何观念中有任何属灵程度之前，你首先必须通过单纯的信仰和某些基础知识，使你的心灵摆脱肉体和物质思想的幻象。你的异端却阻止你这样做，因为它总是将身体、灵魂和天主描述为在空间中延伸，无论是有限的还是无限的，而空间的概念只适用于身体。只要这样，你最好别管这件事；因为你不能在此事上教导真理，正如在其他事上一样；而在此事上你也无学习能力，若非你骄傲好斗，你本可在其他事上学习。因为诸如这样的问题：若没有空间能容下天主，祂怎能是有限的？若圣子完全认识祂，祂怎能是无限的？祂怎能是有限的，却又无界限？祂怎能是无限的，却又完善？那位无尺度的怎能是有限的？那位万物的尺度怎能是无限的？——一切肉体的思想都归于虚无；若要除去肉体思想，它必须首先自惭形秽。因此，对于你提出的天主有限还是无限的问题，最好的结束方式是暂时不再谈论，直到你不再远离基督，祂是法律的终向。关于亚巴郎、依撒格和雅各伯的天主，我们已经说得足够多了，以表明那位所有受造物的真天主为何愿意被自己的子民以这个名称亲切地认识。关于割损，我们也已在几处回应了无知的指责。如果摩尼教徒视这个标记为天主所立，作为脱去肉体的适当象征，就不会在它里面找到可笑之处。他们应按基督徒而非异端者的心思考量这仪式；正如经上所载：\\BibleQuote{洁净者一切皆洁净。}但是，考虑到下面这句话的真实性：\\BibleQuote{为不洁与不信者，无一洁净，连他们的理智与良心也被玷污。}（\\BibleRef{铎 1:15}）我们必须提醒我们诙谐的对手，如果割损如他们所说是不雅的，他们应为此哭泣而非嘲笑；因为他们的神在割下的皮肤和流出的血中，既受限制又受玷污。}"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "source": {
+    "source_id": "0103100",
+    "title": "Against Heresies (Book I, Preface)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book I, Preface",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book I, Preface)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Inasmuch as certain men have set the truth aside, and bring in lying words and vain genealogies, which, as the apostle says, <quote>minister questions rather than godly edifying which is in faith,</quote> and by means of their craftily-constructed plausibilities draw away the minds of the inexperienced and take them captive, [I have felt constrained, my dear friend, to compose the following treatise in order to expose and counteract their machinations.] These men falsify the oracles of God, and prove themselves evil interpreters of the good word of revelation. They also overthrow the faith of many, by drawing them away, under a pretence of [superior] knowledge, from Him who rounded and adorned the universe; as if, forsooth, they had something more excellent and sublime to reveal, than that God who created the heaven and the earth, and all things that are therein. By means of specious and plausible words, they cunningly allure the simple-minded to inquire into their system; but they nevertheless clumsily destroy them, while they initiate them into their blasphemous and impious opinions respecting the Demiurge; and these simple ones are unable, even in such a matter, to distinguish falsehood from truth.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Error, indeed, is never set forth in its naked deformity, lest, being thus exposed, it should at once be detected. But it is craftily decked out in an attractive dress, so as, by its outward form, to make it appear to the inexperienced (ridiculous as the expression may seem) more true than the truth itself. One far superior to me has well said, in reference to this point, <quote>A clever imitation in glass casts contempt, as it were, on that precious jewel the emerald (which is most highly esteemed by some), unless it come under the eye of one able to test and expose the counterfeit. Or, again, what inexperienced person can with ease detect the presence of brass when it has been mixed up with silver?</quote> Lest, therefore, through my neglect, some should be carried off, even as sheep are by wolves, while they perceive not the true character of these men,— because they outwardly are covered with sheep's clothing (against whom the Lord has enjoined {{BIBLE:mat 7:15}} us to be on our guard), and because their language resembles ours, while their sentiments are very different—I have deemed it my duty (after reading some of the <em>Commentaries</em>, as they call them, of the disciples of Valentinus, and after making myself acquainted with their tenets through personal intercourse with some of them) to unfold to you, my friend, these portentous and profound mysteries, which do not fall within the range of every intellect, because all have not sufficiently purged their brains. I do this, in order that you, obtaining an acquaintance with these things, may in turn explain them to all those with whom you are connected, and exhort them to avoid such an abyss of madness and of blasphemy against Christ. I intend, then, to the best of my ability, with brevity and clearness to set forth the opinions of those who are now promulgating heresy. I refer especially to the disciples of Ptolemæus, whose school may be described as a bud from that of Valentinus. I shall also endeavour, according to my moderate ability, to furnish the means of overthrowing them, by showing how absurd and inconsistent with the truth are their statements. Not that I am practised either in composition or eloquence; but my feeling of affection prompts me to make known to you and all your companions those doctrines which have been kept in concealment until now, but which are at last, through the goodness of God, brought to light. <quote>For there is nothing hidden which shall not be revealed, nor secret that shall not be made known.</quote> {{BIBLE:mat 10:26}}",
+        "scripture": [
+          "mat 7:15",
+          "mat 10:26"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. You will not expect from me, who am resident among the Keltæ, and am accustomed for the most part to use a barbarous dialect, any display of rhetoric, which I have never learned, or any excellence of composition, which I have never practised, or any beauty and persuasiveness of style, to which I make no pretensions. But you will accept in a kindly spirit what I in a like spirit write to you simply, truthfully, and in my own homely way; while you yourself (as being more capable than I am) will expand those ideas of which I send you, as it were, only the seminal principles; and in the comprehensiveness of your understanding, will develop to their full extent the points on which I briefly touch, so as to set with power before your companions those things which I have uttered in weakness. In fine, as I (to gratify your long-cherished desire for information regarding the tenets of these persons) have spared no pains, not only to make these doctrines known to you, but also to furnish the means of showing their falsity; so shall you, according to the grace given to you by the Lord, prove an earnest and efficient minister to others, that men may no longer be drawn away by the plausible system of these heretics, which I now proceed to describe.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103100.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103100.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第一卷，前言）",
+    "p0002": "1. 既然有些人置真理于不顾，引进虚谎的言语和无聊的族谱，正如宗徒所说，这些事\\Quote{引发争议，而非信德中合乎敬虔的造益}，并藉其巧妙编造的似是而非之辞，引诱缺乏经验者的心思，将其掳去，[我深感有责任，亲爱的朋友，撰写以下论著，以揭露并抵制他们的阴谋。]这些人篡改天主的圣言，证明自己是那美好启示之言的邪恶诠释者。他们还颠覆许多人的信德，藉着假装拥有[更高]知识，将人从那创造并装饰宇宙者那里引开，仿佛他们能揭示出某种比那创造天地及其中万物的天主更卓越、更崇高的事物。藉着动听而貌似有理的言辞，他们狡猾地诱使头脑简单的人探究他们的体系；然而，当他们将这些简单人引入其关于\\OriginalTerm{德谬哥}{Demiurge}的亵渎而不虔的见解时，却又笨拙地毁灭了他们；而这些人连在这样的问题上也无法分辨谬误与真理。",
+    "p0003": "2. 其实，谬误从不以其赤裸的丑陋面目出现，以免一旦暴露就立刻被识破。但它被狡猾地装扮上一件诱人的外衣，以便藉其外在形式，在缺乏经验的人面前显得（说来可笑）比真理本身更真实。一位远比我高明的人曾就此恰当地说：\\Quote{精妙的玻璃仿制品仿佛藐视那珍贵宝石绿宝石（某些人极为珍视），除非它受到能检验并揭露赝品之人的审视。或者，当黄铜与银混合时，缺乏经验的人岂能轻易察觉黄铜的存在？}因此，唯恐因我的疏忽，一些人被狼掠走，如同羊群，而他们却未察觉这些人的真面目——因为他们外表披着羊皮（主曾告诫我们当提防他们，见：\\BibleRef{玛 7:15}），且他们的言语与我们相似，而思想却大相径庭——我认为有责任（在阅读了瓦伦廷门徒们所谓的一些\\WorkTitle{注释}，并亲自与其中一些人交往而了解其教义之后）向你，我的朋友，揭示这些怪诞深奥的奥秘，它们并非每个人的理智都能领会，因为并非所有人都充分净化了自己的头脑。我这样做，是为了使你认识这些事，进而向所有与你相关的人解释，并劝勉他们避开这种疯狂和亵渎基督的深渊。因此，我打算尽己所能，简明清晰地陈述那些现今传播异端之人的见解。我特别指托勒密的门徒，他们的学派可说是瓦伦廷学派的一个分支。我也将尽力，按我微薄的能力，提供推翻他们的方法，表明他们的陈述是多么荒谬且与真理不符。我并非在作文或雄辩上训练有素，但我的友爱之情促使我向你及你所有的同伴显明那些至今被隐藏，却终因天主的仁慈而得以显明的教义。\\BibleQuote{因为掩盖的事没有不显露出来的，隐秘的事没有不被人知道的。}（\\BibleRef{玛 10:26}）",
+    "p0004": "3. 你不可期望，我这个居住在\\OriginalTerm{凯尔特人}{Keltæ}中、大多使用蛮族语言的人，会展示出任何我从未学过的修辞技巧，或任何我从未练习过的写作造诣，或任何我自诩的风格之美与说服力。但你会以善意接受我同样以诚朴之心、直率而通俗地写给你的话；而你自己（因比我更有能力）会扩展我寄给你的那些仅如种子般的观念；并凭你理解的广大，将我所简略提及的要点充分展开，以便将我所软弱陈述的，有力地陈明在你同伴面前。总之，正如我（为满足你长期渴望了解这些人教义的心愿）不辞劳苦，不仅使你认识这些学说，也提供证明其虚假的方法；同样，你要按主赐给你的恩宠，向他人作热忱有效的服务者，使人们不再被这些异端者的似是而非体系所迷惑。——我现在便开始描述。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202213",
+    "title": "Letter 213",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 213",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 213",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Without address</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. May the Lord, Who has brought me prompt help in my afflictions, grant you the help of the refreshment wherewith you have refreshed me by writing to me, rewarding you for your consolation of my humble self with the real and great gladness of the Spirit. For I was indeed downcast in soul when I saw in a great multitude the almost brutish and unreasonable insensibility of the people, and the inveterate and ineradicable unsatisfactoriness of their leaders. But I saw your letter; I saw the treasure of love which it contained; then I knew that He Who ordains all our lives had made some sweet consolation shine on me in the bitterness of my life. I therefore salute your holiness in return, and exhort you, as is my wont, not to cease to pray for my unhappy life, that I may never, drowned in the unrealities of this world, forget God, <quote>who raises up the poor out of the dust;</quote> that I may never be lifted up with pride and fall into the condemnation of the devil; that I may never be found by the Lord neglectful of my stewardship and asleep; never discharging it amiss, and wounding the conscience of my fellow-servants; and, never companying with the drunken, suffer the pains threatened in God's just judgment against wicked stewards. I beseech you, therefore, in all your prayers to pray God that I may be watchful in all things; that I may be no shame or disgrace to the name of Christ, in the revelation of the secrets of my heart, in the great day of the appearing of our Saviour Jesus Christ.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Know then that I am expecting to be summoned by the wickedness of the heretics to the court, in the name of peace. Learn too that on being so informed, this bishop wrote to me to hasten to Mesopotamia, and, after assembling together those who in that country are of like sentiments with us, and are strengthening the state of the Church, to travel in their company to the emperor. But perhaps my health will not be good enough to allow me to undertake a journey in the winter. Indeed, hitherto I have not thought the matter pressing, unless you advise it. I shall therefore await your counsel that my mind may be made up. Lose no time then, I beg you, in making known to me, by means of one of our trusty brethren, what course seems best to the divinely guided intelligence of your excellency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202213.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202213.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信二一三}",
+    "p0002": "\\Person{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{无收信人}。",
+    "p0004": "1. 愿那在我苦难中速速救助我的主，以你们写信给我所给予的慰藉之帮助回报你们，以真实的、来自圣神的大喜乐酬谢你们对我卑微之人的安慰。因为我确实心中沮丧，当我看见在众多人群中那近乎愚蠢且不理智的麻木不仁，以及他们的领袖那根深蒂固、难以根除的不满足。但我看到了你的信；我看到了其中所包含的爱德宝藏；于是我明白，那安排我们一切生活的主，在我生命的苦涩中使我得享一些甜蜜的慰藉。因此我回礼问候你的圣德，并如我所惯常那样劝勉你，不要停止为我这不幸的生命祈祷，好使我永不沉溺于此世的虚幻，忘记那\\BibleQuote{从尘埃中提拔穷人的}天主；好使我永不因骄傲而自高自大，陷入魔鬼的审判；好使我永不为主发现我疏忽管家的职分而沉睡；也永不误尽本分，伤害同仆的良心；且永不与醉酒的人为伍，在天主对恶仆的公正审判中承受所警告的惩罚。因此我恳求你，在你的一切祈祷中，祈求天主使我事事警醒；使我永不因我内心的秘密在吾主\\Person{耶稣基督}显现的伟大日子被揭露，而成为基督之名的羞辱或耻辱。",
+    "p0005": "2. 你要知道，我预计会因异端者的恶行，以和平的名义被传唤到朝廷。也请知道，收到此消息后，这位主教写信给我，要我赶往\\Place{美索不达米亚}，并在召集了当地与我们同心同德、巩固教会状况的人之后，与他们一同前往皇帝那里。但也许我的健康状况不足以让我在冬天出行。事实上，迄今为止我并不认为此事紧迫，除非你建议。因此我将等候你的意见，以便我下定决心。那么，我恳请你，不要迟延，立即通过我们可信任的弟兄之一，告知我你这由天主引导的智慧阁下认为最佳的做法。"
+  }
+}

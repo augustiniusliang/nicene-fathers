@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "0103210",
+    "title": "Against Heresies (Book II, Chapter 10)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book II, Chapter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book II, Chapter 10)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. It is therefore in the highest degree irrational, that we should take no account of Him who is truly God, and who receives testimony from all, while we inquire whether there is above Him that [other being] who really has no existence, and has never been proclaimed by any one. For that nothing has been clearly spoken regarding Him, they themselves furnish testimony; for since they, with wretched success, transfer to that being who has been conceived of by them, those parables [of Scripture] which, whatever the form in which they have been spoken, are sought after [for this purpose], it is manifest that they now generate another [god], who was never previously sought after. For by the fact that they thus endeavour to explain ambiguous passages of Scripture (ambiguous, however, not as if referring to another god, but as regards the dispensations of [the true] God), they have constructed another god, weaving, as I said before, ropes of sand, and affixing a more important to a less important question. For no question can be solved by means of another which itself awaits solution; nor, in the opinion of those possessed of sense, can an ambiguity be explained by means of another ambiguity, or enigmas by means of another greater enigma, but things of such character receive their solution from those which are manifest, and consistent and clear.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. But these [heretics], while striving to explain passages of Scripture and parables, bring forward another more important, and indeed impious question, to this effect, <quote>Whether there be really another god above that God who was the Creator of the world?</quote> They are not in the way of solving the questions [which they propose]; for how could they find means of doing so? But they append an important question to one of less consequence, and thus insert [in their speculations] a difficulty incapable of solution. For in order that they may know <quote>knowledge</quote> itself (yet not learning this fact, that the Lord, when thirty years old, came to the baptism of truth), they do impiously despise that God who was the Creator, and who sent Him for the salvation of men. And that they may be deemed capable of informing us whence is the substance of matter, while they believe not that God, according to His pleasure, in the exercise of His own will and power, formed all things (so that those things which now are should have an existence) out of what did not previously exist, they have collected [a multitude of] vain discourses. They thus truly reveal their infidelity; they do not believe in that which really exists, and they have fallen away into [the belief of] that which has, in fact, no existence.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. For, when they tell us that all moist substance proceeded from the tears of Achamoth, all lucid substance from her smile, all solid substance from her sadness, all mobile substance from her terror, and that thus they have sublime knowledge on account of which they are superior to others—how can these things fail to be regarded as worthy of contempt, and truly ridiculous? They do not believe that God (being powerful, and rich in all resources) created matter itself, inasmuch as they know not how much a spiritual and divine essence can accomplish. But they do believe that their Mother, whom they style a female from a female, produced from her passions aforesaid the so vast material substance of creation. They inquire, too, whence the substance of creation was supplied to the Creator; but they do not inquire whence [were supplied] to their Mother (whom they call the Enthymesis and impulse of the Æon that went astray) so great an amount of tears, or perspiration, or sadness, or that which produced the remainder of matter.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "4. For, to attribute the substance of created things to the power and will of Him who is God of all, is worthy both of credit and acceptance. It is also agreeable [to reason], and there may be well said regarding such a belief, that <quote>the things which are impossible with men are possible with God.</quote> {{BIBLE:luk 18:27}} While men, indeed, cannot make anything out of nothing, but only out of matter already existing, yet God is in this point pre-eminently superior to men, that He Himself called into being the substance of His creation, when previously it had no existence. But the assertion that matter was produced from the Enthymesis of an Æon going astray, and that the Æon [referred to] was far separated from her Enthymesis, and that, again, her passion and feeling, apart from herself, became matter— is incredible, infatuated, impossible, and untenable.",
+        "scripture": [
+          "luk 18:27"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103210.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103210.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第二卷，第十章）",
+    "p0002": "因此，这是极其不合理的：我们竟然不理会那真正是天主、且从万有获得见证的天主，而去探究在祂之上是否还有那另一位[存在者]，他实际上并不存在，也从未被任何人宣告过。因为关于祂并没有任何清楚的言论，他们自己就提供了证据；由于他们以可怜的成功，将他们所设想的那个存在者套用到圣经中的比喻上——这些比喻无论以什么形式说出，都是为了[这个目的]而被寻求的——显然他们现在是生出了另一位神，一位从未被寻求过的神。因为他们这样努力解释圣经中模糊的段落（这些段落之所以模糊，并非指涉及另一位神，而是指涉及真天主的安排），他们就构造了另一位神，如我先前所说，编织沙绳，并将更重要的问题依附于较不重要的问题。因为任何问题都不能通过另一个本身有待解决的问题来解决；而且，在有见识的人看来，歧义不能靠另一个歧义来解释，谜也不能靠另一个更大的谜来解释；但这类事物是从那些明显、一致且清晰的事物中得到解决的。",
+    "p0003": "2. 但这些异端者，在努力解释圣经段落和比喻的同时，提出了另一个更重要且确实不虔敬的问题，大意是：\\Quote{是否在创造世界的天主之上真的另有另一位神？}他们并不是在解决他们所提出的问题；因为他们怎么能找到解决的方法呢？但他们将一个重要的问题附加在一个次要的问题上，从而将无法解决的困难插入他们的思辨中。为了让他们认识\\Quote{知识}本身——却不了解这一事实：主在三十岁时来接受真理的圣洗——他们不虔敬地藐视那位创造者天主，正是祂派遣了祂（主）为人的救恩。而且，为了让人以为他们能告知我们物质的本质从何而来，他们不相信天主按祂的喜悦，运用祂自己的意志和能力，从不存在的事物中形成了万有（使现存的事物得以存在），从而收集了众多空谈。他们因此真正显露出了他们的不信；他们不相信真正存在的事物，却堕落于实际上不存在的事物的信仰中。",
+    "p0004": "3. 因为，当他们告诉我们，一切湿润的物质来自\\Person{阿卡摩特}的眼泪，一切明亮的物质来自她的微笑，一切固态的物质来自她的忧伤，一切流动的物质来自她的恐惧，并且因此他们拥有崇高的知识，借此他们优于他人——这些事如何能不被视为可鄙且真正可笑的呢？他们不相信天主（全能的、富于一切资源）创造了物质本身，因为他们不知道一个精神性和神性的本质能成就多少。但他们却相信他们的母亲——他们称之为女性所生的女性——从上述她的情感中产生了如此庞大的受造物质。他们也询问，受造物的物质是从何处供给创造者的；但他们却不询问，他们的母亲（他们称她为迷失的永世的\\OriginalTerm{恩提米西斯}{Enthymesis}和冲动）从哪里获得如此大量的泪水、汗水、忧伤，或产生其余物质的东西。",
+    "p0005": "4. 因为，将受造物的物质归于万有之天主的能力和意志，是既可信又可接受的。这也合乎理性，并且关于这样的信仰，可以恰当地说：\\BibleQuote{在人不可能的事，在天主却是可能的。}\\BibleRef{路 18:27}事实上，人不能从无中造出任何东西，只能从已有的物质中造出；然而天主在这点上远比人优越，因为祂自己将祂创造物的物质召唤到存在中，而此前它并不存在。但声称物质是从迷失的永世的\\OriginalTerm{恩提米西斯}{Enthymesis}产生的，那永世与她的恩提米西斯远远分离，而且她的情感和感觉脱离她自身而成为物质——这是不可信的、荒谬的、不可能的、站不住脚的。"
+  }
+}

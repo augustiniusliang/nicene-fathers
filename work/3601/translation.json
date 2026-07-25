@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "3601",
+    "title": "Pastoral Rule",
+    "breadcrumbs": "Home > Fathers of the Church > Pastoral Rule (Gregory the Great)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Pastoral Rule",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book I</strong>\n<strong>Book II</strong>\n<strong>Book III</strong>\n<strong>Book IV</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3601.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3601.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{牧灵规则}",
+    "p0002": "\\Emph{第一卷}\\newline{}\\Emph{第二卷}\\newline{}\\Emph{第三卷}\\newline{}\\Emph{第四卷}"
+  }
+}

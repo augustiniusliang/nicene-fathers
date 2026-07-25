@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2806024",
+    "title": "From Letter 24",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Letter 24",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>(For 352.)</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "And at that time when they went forth and crossed over Egypt, their enemies were the sport of the sea; but now, when we pass over from earth to Heaven, Satan himself henceforth falls like lightning from Heaven.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by R. Payne-Smith. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806024.htm>.",
+    "metadata": {
+      "srctrans": "Translated by R. Payne-Smith.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806024.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信二十四",
+    "p0002": "\\Emph{（写于352年）}",
+    "p0003": "当初，当他们出离并越过\\Place{埃及}时，他们的敌人成了大海的玩物；但如今，当我们由地进入天堂时，\\Person{撒殚}自己从此便如闪电般从天坠落。"
+  }
+}

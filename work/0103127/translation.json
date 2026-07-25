@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "0103127",
+    "title": "Against Heresies (Book I, Chapter 27)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book I, Chapter 27",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book I, Chapter 27)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Cerdo was one who took his system from the followers of Simon, and came to live at Rome in the time of Hyginus, who held the ninth place in the episcopal succession from the apostles downwards. He taught that the God proclaimed by the law and the prophets was not the Father of our Lord Jesus Christ. For the former was known, but the latter unknown; while the one also was righteous, but the other benevolent.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Marcion of Pontus succeeded him, and developed his doctrine. In so doing, he advanced the most daring blasphemy against Him who is proclaimed as God by the law and the prophets, declaring Him to be the author of evils, to take delight in war, to be infirm of purpose, and even to be contrary to Himself. But Jesus being derived from that father who is above the God that made the world, and coming into Judæa in the times of Pontius Pilate the governor, who was the procurator of Tiberius Cæsar, was manifested in the form of a man to those who were in Judæa, abolishing the prophets and the law, and all the works of that God who made the world, whom also he calls Cosmocrator. Besides this, he mutilates the Gospel which is according to Luke, removing all that is written respecting the generation of the Lord, and setting aside a great deal of the teaching of the Lord, in which the Lord is recorded as most dearly confessing that the Maker of this universe is His Father. He likewise persuaded his disciples that he himself was more worthy of credit than are those apostles who have handed down the Gospel to us, furnishing them not with the Gospel, but merely a fragment of it. In like manner, too, he dismembered the Epistles of Paul, removing all that is said by the apostle respecting that God who made the world, to the effect that He is the Father of our Lord Jesus Christ, and also those passages from the prophetical writings which the apostle quotes, in order to teach us that they announced beforehand the coming of the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. Salvation will be the attainment only of those souls which had learned his doctrine; while the body, as having been taken from the earth, is incapable of sharing in salvation. In addition to his blasphemy against God Himself, he advanced this also, truly speaking as with the mouth of the devil, and saying all things in direct opposition to the truth—that Cain, and those like him, and the Sodomites, and the Egyptians, and others like them, and, in fine, all the nations who walked in all sorts of abomination, were saved by the Lord, on His descending into Hades, and on their running unto Him, and that they welcomed Him into their kingdom. But the serpent which was in Marcion declared that Abel, and Enoch, and Noah, and those other righteous men who sprang from the patriarch Abraham, with all the prophets, and those who were pleasing to God, did not partake in salvation. For since these men, he says, knew that their God was constantly tempting them, so now they suspected that He was tempting them, and did not run to Jesus, or believe His announcement: and for this reason he declared that their souls remained in Hades.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "4. But since this man is the only one who has dared openly to mutilate the Scriptures, and unblushingly above all others to inveigh against God, I purpose specially to refute him, convicting him out of his own writings; and, with the help of God, I shall overthrow him out of those discourses of the Lord and the apostles, which are of authority with him, and of which he makes use. At present, however, I have simply been led to mention him, that you might know that all those who in any way corrupt the truth, and injuriously affect the preaching of the Church, are the disciples and successors of Simon Magus of Samaria. Although they do not confess the name of their master, in order all the more to seduce others, yet they do teach his doctrines. They set forth, indeed, the name of Christ Jesus as a sort of lure, but in various ways they introduce the impieties of Simon; and thus they destroy multitudes, wickedly disseminating their own doctrines by the use of a good name, and, through means of its sweetness and beauty, extending to their hearers the bitter and malignant poison of the serpent, the great author of apostasy. {{BIBLE:rev 12:9}}",
+        "scripture": [
+          "rev 12:9"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103127.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103127.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "反异端 第一卷 第二十七章",
+    "p0002": "1. \\Person{切尔东}从\\Person{西满}的追随者中采纳其体系，来到\\Place{罗马}，时值\\Person{希吉诺}在位，他在宗徒以降的主教传承中位居第九。他教导说：法律和先知所宣告的天主，并非我主耶稣基督的圣父。因为前者是已知的，后者却是未知的；而且前者是正义的，后者却是仁慈的。",
+    "p0003": "2. \\Place{本都}的\\Person{马尔基昂}继承了他，并发展了他的学说。他借此对法律和先知所宣告为天主的那一位，提出了最狂妄的亵渎，宣称祂是万恶之源，喜爱战争，意志薄弱，甚至自相矛盾。但耶稣出自那高于创造世界的天主的父，在\\Person{提庇留凯撒}的代理官\\Person{本丢彼拉多}总督的时代，进入\\Place{犹太}，以人的形状显现给在犹太的人，废除法律和先知，以及那创造世界的天主的一切作为——他也称这位天主为\\OriginalTerm{宇宙统治者}{Cosmocrator}。此外，他割裂了根据\\Person{路加}所写的福音，删去所有关于主诞生的记载，并摒弃了大量主的教导，在这些教导中，主被记载为极其明确地承认宇宙的创造者是祂的圣父。他同样说服他的门徒，他自己比那些将福音传给我们的人更值得信赖，他给他们的不是福音，而仅仅是福音的一部分。同样地，他也肢解了\\Person{保禄}的书信，删去宗徒所说关于那创造世界的天主的一切，即祂是我们主耶稣基督的圣父，也删去宗徒引用先知著作的段落，那些段落是为了教导我们，他们预先宣布了主的来临。",
+    "p0004": "3. 只有那些学习了其学说的灵魂才能获得救恩；而身体，由于取自尘土，不能分享救恩。除了对天主本身的亵渎之外，他还提出了这一点，真正是像用魔鬼的口说话，说出一切与真理直接相反的话——就是说：\\Person{加音}及其同类、索多玛人、埃及人和其他像他们的人，以及一切行各种可憎之事的外邦人，当主降入\\Place{阴府}时，他们都跑到主那里去了，因此得救，并迎接主进入他们的王国。但住在马尔基昂内的毒蛇却宣称：\\Person{亚伯尔}、\\Person{哈诺客}、\\Person{诺厄}、以及从圣祖\\Person{亚巴郎}所出的其他义人，连同所有先知和那些取悦天主的人，都没有分享救恩。因为这些人，他说，知道他们的天主常常试探他们，所以现在他们也怀疑祂是在试探他们，就没有跑到耶稣那里去，也不相信祂的宣告：因此他宣称他们的灵魂仍留在阴府。",
+    "p0005": "4. 但是，既然此人是唯一敢于公开割裂圣经，并比所有其他人更无耻地抨击天主的人，我特意要驳斥他，从他的著作中定他的罪；并且，依靠天主的助佑，我将用主和宗徒们那些对他有权威、他所引用的言论来推翻他。然而现在，我只是被引导提及他，好让你们知道，所有以任何方式败坏真理、损害教会宣讲的人，都是\\Place{撒玛黎雅}的\\Person{西满}术士的门徒和继承者。虽然他们不承认他们师傅的名字，以便更多地诱惑他人，但他们确实教导他的学说。的确，他们将基督耶稣的名字作为一种诱饵提出，但以各种方式引入西满的不敬神之言论；他们就这样毁灭众人，邪恶地利用一个好名声来散布自己的教义，并通过其甜蜜与美好，将毒蛇——那背道的大源头的苦涩恶毒的毒液——传播给听众。\\BibleRef{默 12:9}"
+  }
+}

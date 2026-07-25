@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202354",
+    "title": "Letter 354",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 354",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 354",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Libanius to Basil.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Now I recognise men's description of me! Basil has praised me, and I am hailed victor over all! Now that I have received your vote, I am entitled to walk with the proud gait of a man who haughtily looks down on all the world. You have composed an oration against drunkenness. I should like to read it. But I am unwilling to try to say anything clever. When I have seen your speech it will teach me the art of expressing myself.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202354.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202354.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信 354}",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Person{利巴尼乌斯}致\\Person{巴西略}。",
+    "p0004": "现在，我认清了人们对我描述！巴西略称赞了我，我便被欢呼为万物的征服者！既然我得到了你的投票，我便有资格以一个人傲慢地俯视世界的那种骄傲步伐行走。你写了一篇反对酗酒的演说辞。我想读一读。但我不愿尝试说任何机巧的话。当我看到你的演说时，它将教给我表达的艺术。"
+  }
+}

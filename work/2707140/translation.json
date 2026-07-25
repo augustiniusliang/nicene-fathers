@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2707140",
+    "title": "Letter 140",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 140",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 140",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Master Vincomalus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I have been much astonished to learn that your magnificence, though quite unacquainted with me and mine, and knowing only the wrong that had been done me, stood up as my advocate, and left no means untried to undo the results of the conspiracy against me. But your excellency will assuredly receive recompense from our bountiful Lord, for He who promised to give a reward for a little water will doubtless give greater recompense to the givers of greater gifts.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have indeed endured such sufferings as none, or at least very few, of the ancients have undergone, and this not only from my open foes, but, as I apprehend, from my real friends. The former attacked me, the latter betrayed me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Who in the world ever heard of such a trial? Who ever commanded a criminal to be tried in his absence after chaining him up at a distance of more than five and thirty stages? What judge has ever been so savage and inhuman as not only to try men, aye but to condemn men the sound of whose voice he has never heard, and this in most savage and inhuman fashion? The Lord has ordered the erring brother, who spurns advice, after a first, second and third admonition, to be treated as <quote>an heathen man and a publican.</quote> Now these most equitable and righteous judges have not even given to them of the same faith with themselves the treatment which they give to heathen men and publicans. These indeed they do see and occasionally converse with, and that with all honour and deference where they appear to be of rank and dignity. But they have ordered me to be cut off from home, from water, from everything. This is the way in which they have wished to become imitators of our Father in heaven <quote>Who makes His sun to rise on the evil and on the good and sends rain on the just and on the unjust.</quote> But of these men I will say no more. The tribunal of the Lord is at hand where is required not stage pretence but the reality of life. Now I beseech your excellency to express my thanks to the emperor, the lover of Christ and victorious, and to the very pious and godly Augusta, for having made true religion the firm root of their pious empire, and to implore their majesties to make the peace of the churches firm by commanding the assembling of a council, not of men of violence who throw the discussion into confusion, but of the lovers of the truth who confirm the apostolic teaching, and repudiate this new fangled and spurious heresy. And I pray that of these honourable endeavours you may reap the fruit at the hands of our loving Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707140.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707140.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一四〇封书信",
+    "p0002": "\\Emph{致\\Person{文科马鲁斯}大人}",
+    "p0003": "我深感惊讶地得知，阁下虽与我素不相识，只知我所受的冤屈，却挺身为我辩护，不遗余力地消除那针对我的阴谋所造成的一切后果。然而，阁下必将从我们慷慨的主那里得到酬报，因为那位曾应许赐予一杯凉水之赏的主，无疑会将更大的赏赐赐予那些奉献更大恩惠的人。",
+    "p0004": "我所忍受的苦难，实为古往今来之人，或至少极少数人所经历，这苦难不仅来自公开的仇敌，而且，依我看，也来自我真正的朋友。前者攻击我，后者背叛了我。",
+    "p0005": "世上谁曾听说过这样的审判？谁曾下令将一名罪犯拘押在三十五站之外，在其缺席的情况下进行审判？有哪位法官如此残忍不仁，不仅审判那些他从未听过其声音的人，而且还以最野蛮、最不人道的方式定他们的罪？主曾命令，对那不听劝告的迷途弟兄，在第一次、第二次、第三次劝诫之后，要待他如同\\BibleQuote{外邦人和税吏}。然而，这些极其公正公义的法官，甚至对那些与己同信仰的人，也不曾像对待外邦人和税吏那样对待他们。他们确实见到外邦人和税吏，偶尔还与之交谈，并在他们显示出身份尊贵时，以一切尊敬和顺从相待。但他们却下令将我逐出家门，断绝水源，剥夺一切。他们就是以这种方式，希望成为我们在天之父的效法者，\\BibleQuote{祂使太阳升起，光照恶人，也光照善人；降雨给义人，也给不义的人}。关于这些人，我不再多言。主的审判台就在眼前，那里需要的不是舞台上的伪装，而是真实的生活。如今我恳请阁下，向热爱基督并得胜的皇帝，以及极其虔诚而敬主的皇后，表达我的谢忱，因为他们使真宗教成为其虔诚帝国坚固的根基；并恳请陛下们命令召开一次大公会议，不是由暴烈之徒组成——他们会扰乱讨论——而是由热爱真理之人组成，他们能巩固宗徒的训诲，并摒弃这新奇的、伪造的异端，从而使教会的和平得以稳固。我祈求，因着这些可敬的辛劳，您能从我慈爱之主的手中收获果实。"
+  }
+}

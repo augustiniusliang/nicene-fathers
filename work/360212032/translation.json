@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360212032",
+    "title": "Book XII, Letter 32",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XII, Letter 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XII, Letter 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To all the Bishops of the Council of Bizacium</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As it is laudable and discreet to show due reverence and honour to superiors, so it belongs to rectitude and the fear of God, if anything in them needs correction, not to put it off by any connivance, lest disease should begin to invade the whole body (which God forbid), sickness not being cured in the head. Now a considerable time ago certain things were reported to us about our brother Crementius, your primate, such as to pierce our heart with no slight sorrow. But through the pressure of various tribulations, and especially from enemies raging round us, we had not time to enquire into the matter. And, since it is so serious that it ought by no means to be passed over without investigation, we hereby exhort your Fraternity with all carefulness and activity to search out in all ways the substantial truth, in order that either if these things are so, they may be cut off by canonical punishment, or, if they are false, the innocence of our brother may not long lie under the laceration of an infamous report. Wherefore, that there may be no torpor of idleness in the enquiry, we admonish you that neither the interest nor the favour nor the cajoleries of any person whatever, nor anything else, soften any one of you in your sifting of what has been reported to us, or shake you from the path of truth; but gird ye yourselves in priestly wise to investigate the truth. For, if any one should presume to be sluggish, or to show himself negligent in this matter, let him know that he will be a partaker in the said crimes before Almighty God, by zeal for whom he is not moved to enquire fully into the causes of atrocious wickedness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360212032.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360212032.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十二卷，第三十二封书信",
+    "p0002": "\\Emph{致比扎西乌姆会议全体主教}。",
+    "p0003": "\\Person{格里高利}致全体，等等。",
+    "p0004": "如同对长上表示应有的敬意与尊崇是值得称赞和明智的，同样，若长上身上有需要纠正之处，出于正直与敬畏天主，也不应因任何纵容而拖延，免得疾病（愿天主不许）开始蔓延全身，而头部的不治之症却未被治愈。不久前，有人向我们报告了关于你们的首席主教、我们的弟兄\\Person{克莱门提乌斯}的某些事情，令我们心中感到不小的悲痛。但由于各种苦难的压力，尤其是身边敌人的猖獗，我们没有时间调查此事。鉴于此事十分严重，绝不可不经调查就放过，我们现以万般谨慎与急切的心情敦促你们的弟兄手足，务必以一切方式查明实质真相，以便：若事情属实，可藉教会法律惩罚加以剪除；若为虚假，我们的弟兄的无辜不致长久遭受恶名报告的撕裂。为此，为使调查中不致有懈怠的麻木，我们劝告你们：无论任何人的利益、偏袒、甜言蜜语，或其他任何事物，都不可软化你们任何人，使你们在筛核所报告之事时偏离真理之路；反而你们应如司铎般束腰，以探求真理。因为若有人胆敢在此事上怠惰或表现出疏忽，就让他知道，他在全能天主面前将成为上述罪行的同谋——他竟未因对天主的热情而被推动去彻底查明凶恶罪行的缘由。"
+  }
+}

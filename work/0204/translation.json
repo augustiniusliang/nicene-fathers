@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "0204",
+    "title": "Theophilus to Autolycus",
+    "breadcrumbs": "Home > Fathers of the Church > To Autolycus (Theophilus of Antioch)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Theophilus to Autolycus",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book I</strong>\n<strong>Book II</strong>\n<strong>Book III</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Marcus Dods. From Ante-Nicene Fathers, Vol. 2. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0204.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Marcus Dods.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 2.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0204.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\Person{Theophilus}致\\Person{Autolycus}",
+    "p0002": "\\Emph{第一卷}\\newline{}\\Emph{第二卷}\\newline{}\\Emph{第三卷}"
+  }
+}

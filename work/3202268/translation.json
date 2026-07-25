@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202268",
+    "title": "Letter 268",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 268",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 268",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Eusebius, in exile.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Even in our time the Lord has taught us, by protecting with His great and powerful hand the life of your holiness, that He does not abandon His holy ones. I reckon your case to be almost like that of the saint remaining unhurt in the belly of the monster of the deep, or that of the men who feared the Lord, living unscathed in the fierce fire. For though the war is round about you on every side, He, as I hear, has kept you unharmed. May the mighty God keep you, if I live longer, to fulfil my earnest prayer that I may see you! If not for me, may He keep you for the rest, who wait for your return as they might for their own salvation. I am persuaded that the Lord in His loving-kindness will give heed to the tears of the Churches, and to the sighs which all are heaving over you, and will preserve you in life until He grant the prayer of all who night and day are praying to Him. Of all the measures taken against you, up to the arrival of our beloved brother Libanius the deacon, I have been sufficiently informed by him while on his way. I am anxious to learn what happened afterwards. I hear that in the meanwhile still greater troubles have occurred where you are; about all this, sooner if possible, but, if not, at least by our reverend brother Paul the presbyter, on his return, may I learn, as I pray that I may, that your life is preserved safe and sound. But on account of the report that all the roads are infested with thieves and deserters, I have been afraid to entrust anything to the brother's keeping, for fear of causing his death. If the Lord grant a little quiet, (as I am told of the coming of the army), I will try to send you one of my own men, to visit you, to bring me back news of everything about you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202268.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202268.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第268封信}",
+    "p0002": "\\Signature{凯撒勒雅的圣巴西略}",
+    "p0003": "致流亡中的\\Person{欧瑟伯}。",
+    "p0004": "即使在我们这个时代，主也以其伟大而有力的手保护了您圣德的生命，以此教导我们：祂不会遗弃祂的圣者。我认为您的情况几乎就像那位圣人在深海巨兽腹中毫发无损，或像那些敬畏主的人在烈火中安然无恙一样。因为尽管战争四面环绕您，但据我所闻，祂仍然保全了您安然无恙。愿全能的天主保守您，如果我再活久一点，好让我能实现迫切祈求见到您的祷告！若不为我，愿祂为其余的人保守您，他们等待您的归来如同等待自己的救恩。我深信主以祂的仁慈，必会垂顾众教会的眼泪和众人为您发出的叹息，并保全您的生命，直到祂允准日夜向祂祈祷者的祈求。关于对您所采取的一切措施，直至我们可爱的弟兄\\Person{利巴纽斯}执事到来，我在他途中已从他那里得到充分了解。我急切想知道后来的事情。我听说同时您那里发生了更大的困难；关于这一切，如果可能，尽早，若不能，至少在我们可敬的弟兄\\Person{保禄}长老返回时，但愿我能得知，如我所祈求的，您的生命安然无恙。但因听说所有道路都充满了盗贼和逃兵，我不敢委托弟兄携带任何东西，以免导致他的死亡。如果主赐予一点平静（因我听说军队即将到来），我将设法派遣我自己的一个人去拜访您，以便带给我关于您一切的消息。"
+  }
+}

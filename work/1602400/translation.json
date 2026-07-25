@@ -1,0 +1,63 @@
+{
+  "source": {
+    "source_id": "1602400",
+    "title": "The Harmony of the Gospels, Book IV",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book IV, Prologue",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book IV",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "This book embraces a discussion of those passages which are peculiar to Mark, Luke, or John."
+          }
+        ]
+      },
+      {
+        "id": "p0003",
+        "kind": "h2",
+        "text": "Prologue",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. As we have examined Matthew's narrative in its complete connection, and as the comparison which we have carried out between it and the other three on to its conclusion has established the fact, that not one of these evangelists contains anything either at variance with other statements in his own Gospel, or inconsistent with the accounts presented by his fellow-historians, let us now subject Mark to a similar scrutiny. Our plan will be to omit those sections which he has in common with Matthew, which we have already investigated as far as seemed requisite and are now done with, and to take up those paragraphs which remain, with the view of submitting them to discussion and comparison, and of demonstrating their thorough harmony with what is related by the other evangelists on to the notice of the Lord's Supper. For we have already dealt with all the incidents which are reported in all the four Gospels from that point on to the end, and have considered the subject of their mutual consistency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602400.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602400.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐 第四卷}",
+    "p0002": "\\EditorialNote{本书讨论那些属于\\Person{马尔谷}、\\Person{路加}或\\Person{若望}所独有的段落。}",
+    "p0003": "序言",
+    "p0004": "1. 既然我们已经完整地、按着前后关联地研读了\\Person{玛窦}的叙述，并且我们与其他三卷福音所进行的比较，直至其结论，已经证实了一个事实，即这些福音作者中没有一位在其自己的福音中包含了任何与其其他陈述相矛盾的内容，也没有与其他作者所呈现的记载不一致的内容，现在让我们以类似的方式审视\\Person{马尔谷}。我们的计划是省略那些他与\\Person{玛窦}共有的段落——这些段落我们已经按照必要的程度进行了探讨，并且现在已经处理完毕——然后处理那些剩余的段落，以便对它们进行讨论和比较，并证明它们与其他福音作者所叙述的、直至主的晚餐记述的内容完全和谐。因为从那个点直到结尾，所有四卷福音中所记载的一切事件，我们都已处理，并考虑了它们相互一致的问题。"
+  }
+}

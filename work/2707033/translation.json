@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707033",
+    "title": "Letter 33",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 33",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 33",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Stasimus, Count and Primate. </em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To narrate the sufferings of the most honourable and dignified Celestinianus would require tragic eloquence. Tragic writers set forth fully the ills of humanity, but I can only in a word inform your excellency that his country is Libya, so long on all men's tongues, his city the far famed Carthage, his hereditary rank a seat in her famous council, his circumstances affluent. But all this is now a tale, mere words stripped bare of realities. The barbarian war has deprived him of all this. But such is fortune; she refuses to remain always with the same men and hastens to change her abode to dwell with others. I beg to introduce this guest to your excellency, and beseech you that he may enjoy your far famed beneficence. I beg also that through your excellency he may become known to all those who are in office and opulence, in order that you may both become a means of advantage to them and win the higher reward from our merciful God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707033.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707033.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十三封信",
+    "p0002": "\\Emph{致伯爵与首席主教\\Person{斯塔西穆斯}。}",
+    "p0003": "要叙述最尊贵和显赫的\\Person{塞莱斯蒂尼亚努斯}所受的苦难，需要悲剧式的雄辩。悲剧作家详尽陈述人类的灾祸，但我只能以一言向阁下禀告：他的祖国是利比亚——长久以来载于众人之口的土地，他的城市是闻名遐迩的迦太基，他世袭的品级是那座著名议会中的一个席位，他的家产丰裕。然而这一切如今已成故事，只是剥离了现实的话语。蛮族战争剥夺了他所有这一切。但命运便是如此；她不愿永远与同一人同在，而是急于变换住所，与他人同住。我恳求向阁下引荐这位客人，并恳求他得以享受您远近闻名的恩惠。我也恳求通过阁下，他得以被所有身居官位和富有的人认识，为使您既能成为他们得利的媒介，亦能从我们仁慈的天主那里赢得更高的赏报。"
+  }
+}

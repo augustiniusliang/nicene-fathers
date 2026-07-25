@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602229",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 29",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 29. Of the Two Blind Men and the Dumb Demoniac Whose Stories are Related Only by Matthew.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "69. Matthew proceeds with his narrative in the following terms: <quote>And when Jesus departed thence, two blind men followed Him, crying and saying, Thou son of David, have mercy on us;</quote> and so on, down to the verse where we read, <quote>But the Pharisees said, He casts out devils through the prince of the devils.</quote> Matthew is the only one who introduces this account of the two blind men and the dumb demoniac. For those two blind men, whose story is given also by the others, are not the two before us here. Nevertheless there is such similarity in the occurrences, that if Matthew himself had not recorded the latter incident as well as the former, it might have been thought that the one which he relates at present has also been given by these other two evangelists. There is this fact, therefore, which we ought to bear carefully in mind—namely, that there are some occurrences which resemble each other. For we have a proof of this in the circumstance that the very same evangelist mentions both incidents here. And thus, if at any time we find any such occurrences narrated individually by the several evangelists, and discover some contradiction in the accounts, which seems not to admit of being solved [on the principle of harmonizing], it may occur to us that the explanation simply is, that this [apparently contradictory] circumstance did not take place [on that particular occasion], but that what did happen then was only something resembling it, or something which had gone about in a similar manner.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602229.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602229.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐，第二卷}",
+    "p0002": "第二十九章 论及两个瞎子和一个附魔的哑巴，其故事只由玛窦记述",
+    "p0003": "69. 玛窦继续他的叙述，如下所述：\\Quote{耶稣从那里前行，有两个瞎子跟着祂，喊叫说：\\InnerQuote{达味之子，可怜我们罢！}}等等，直到我们读到\\Quote{法利塞人却说：\\InnerQuote{祂是赖魔王驱魔。}}玛窦是唯一记载这两个瞎子和附魔的哑巴故事的人。因为其他福音书所记载的那两个瞎子，并非我们眼前的这两个。然而，这些事件如此相似，以致如果玛窦自己没有同时记录后一件事，我们可能会认为他此刻所叙述的，也已被另外两位福音作者记述了。因此，有一点我们必须牢记：有些事件彼此相似。这一点可由同一位福音作者在此提及两件事得到证明。因此，如果我们有时发现几位福音作者各自叙述了相似的事件，并发现其中存在似乎无法以对观原则解决的矛盾，那么我们可以想到，解释很简单：那（看似矛盾）的情况并未（在那一特定场合）发生，而当时发生的只是与之相似的事，或是某种以类似方式流传的事。"
+  }
+}

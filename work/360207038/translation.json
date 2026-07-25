@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360207038",
+    "title": "Book VII, Letter 38",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 38",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 38",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Donus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Donus, Bishop of Messana (<em>Messene</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The ordinances both of the sacred canons and of the laws allow the utensils of the Church to be sold for the redemption of captives. And so, seeing that Faustinus, the bearer of these presents, is proved to have contracted a debt of three hundred and thirty <em>solidi</em> for the purpose of redeeming his daughters from the yoke of captivity, and that, thirty thereof having been repaid, it is certain that he has not sufficient means for the repayment of the remaining sum, we exhort your Fraternity by this communication that you by all means give him fifteen pounds, taking his receipt for the same, out of the silver in your hands belonging to the Meriensian Church, of which he is known to be a soldier; so that, it being sold, and the debt paid, he may be freed from the bond of his obligation. But of this also your Fraternity should be careful, that in case of the aforesaid Church having so much current coin, he should receive from it the amount above-written; but otherwise you must needs supply him for the purpose in view with the sum we have stated from the consecrated vessels. For, as it is a very serious thing to sell idly ecclesiastical utensils, so on the other hand it is wrong, under pressing necessity of this kind, for an exceedingly desolated Church to prefer its property to its captives, or to loiter in redeeming them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207038.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207038.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷，第三十八封书信",
+    "p0002": "\\Emph{致多努斯主教。}",
+    "p0003": "\\Person{额我略}致\\Place{墨西拿}主教\\Person{多努斯}（\\OriginalTerm{墨西拿}{Messene}）。",
+    "p0004": "神圣教规与法律的指令均允许出售教会器皿以赎回俘虏。因此，鉴于持信人\\Person{福斯蒂努斯}被证实为赎回其女儿们脱离被俘的枷锁而负担了三百三十\\OriginalTerm{索利都斯}{solidi}的债务，且其中已偿还三十，显然他没有足够的资金偿还余款，我们通过此信劝告你的弟兄：你务必从你手中属于\\Place{梅里恩西安教会}的银子中给他十五磅，并收取其收据；他已知属于该教会。如此，将银子变卖，还清债务，他便可免除其债务的束缚。但你的弟兄亦应注意：倘若上述教会有足够的流通货币，他应从其中收取上述数额；否则，为所述目的，你必须从祝圣过的器皿中向他提供我们所陈述的金额。因为，正如无事出售教会器皿是非常严重的事，另一方面，在这种紧迫的必要下，对于一个极其困苦的教会来说，宁可要其财产而不要其俘虏，或在赎回他们时怠慢，也是错误的。"
+  }
+}

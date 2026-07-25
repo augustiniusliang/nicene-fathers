@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "2707180",
+    "title": "Letter 180",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 180",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 180",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Letter of Theodoretus, as some suppose, to Domnus, Bishop of Antioch, written on the Death of Cyril, Bishop of Alexandria.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "At last and with difficulty the villain has gone. The good and the gentle pass away all too soon; the bad prolong their life for years.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The Giver of all good, methinks, removes the former before their time from the troubles of humanity; He frees them like victors from their contests and transports them to the better life, that life which, free from death, sorrow and care, is the prize of them that contend for virtue. They, on the other hand, who love and practise wickedness are allowed a little longer to enjoy this present life, either that sated with evil they may afterwards learn virtue's lessons, or else even in this life may pay the penalty for the wickedness of their own ways by being tossed to and fro through many years of this life's sad and wicked waves.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "This wretch, however, has not been dismissed by the ruler of our souls like other men, that he may possess for longer time the things which seem to be full of joy. Knowing that the fellow's malice has been daily growing and doing harm to the body of the Church, the Lord has lopped him off like a plague and <quote>taken away the reproach from Israel.</quote> His survivors are indeed delighted at his departure. The dead, maybe, are sorry. There is some ground of alarm lest they should be so much annoyed at his company as to send him back to us, or that he should run away from his conductors like the tyrant of Cyniscus in Lucian.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Great care must then be taken, and it is especially your holiness's business to undertake this duty, to tell the guild of undertakers to lay a very big and heavy stone upon his grave, for fear he should come back again, and show his changeable mind once more. Let him take his new doctrines to the shades below, and preach to them all day and all night. We are not at all afraid of his dividing them by making public addresses against true religion and by investing an immortal nature with death. He will be stoned not only by ghosts learned in divine law, but also by Nimrod, Pharaoh and Sennacherib, or any other of God's enemies.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "But I am wasting words. The poor fellow is silent whether he will or no, <quote>his breath goes forth, he returns to his earth, in that very day his thoughts perish.</quote> He is doomed too to silence of another kind. His deeds, detected, tie his tongue, gag his mouth, curb his passion, strike him dumb and make him bow down to the ground.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "I really am sorry for the poor fellow. Truly the news of his death has not caused me unmixed delight, but it is tempered by sadness. On seeing the Church freed from a plague of this kind I am glad and rejoice; but I am sorry and do mourn when I think that the wretch knew no rest from his crimes, but went on attempting greater and more grievous ones till he died. His idea was, so it is said, to throw the imperial city into confusion by attacking true doctrines a second time, and to charge your holiness with supporting them. But God saw and did not overlook it. <quote>He put his hook into his nose and his bridle into his lips,</quote> and turned him to the earth whence he was taken. Be it then granted to your holiness's prayers that he may obtain mercy and pity and that God's boundless clemency may surpass his wickedness. I beg your holiness to drive away the agitations of my soul. Many different reports are being bruited abroad to my alarm announcing general misfortunes. It is even said by some that your reverence is setting out against your will for the court, but so far I have despised these reports as untrue. But finding every one repeating one and the same story I have thought it right to try and learn the truth from your holiness that I may laugh at these tales if false, or sorrow not without reason if they are true.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707180.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707180.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一百八十号书信",
+    "p0002": "\\Emph{据某些人推测，此为德奥多勒致安提约基亚主教多姆诺斯的书信，写于亚历山大主教济利禄去世之时。}",
+    "p0003": "那恶徒终于费尽周折走了。善人和温和者逝去得太快；恶人却延长寿命多年。",
+    "p0004": "我以为，万善的施予者使前者提前脱离人世的烦扰；祂像竞赛的胜利者一样解放他们，并将他们迁往更好的生命，那无死亡、无悲伤、无挂虑的生命，是操持德性者的奖赏。反之，那些喜爱和行恶的人，被允许稍长久地享受此世生活，或为了让他们饱尝邪恶之后学习德性的功课，或为了在此世为他们自身的邪恶道路付出惩罚，在多年此世悲伤与邪恶的波浪中颠簸。",
+    "p0005": "然而，这个恶徒并没有像其他人那样被我们灵魂的统治者释放，以便他能更长久地拥有那些看似充满喜乐的事物。主知道这人的恶意每日增长，并损害教会肢体，便像瘟疫一样将他砍掉，\\BibleQuote{从以色列身上除去了羞辱。}他的幸存者确实为他的离去而高兴。死者或许感到悲伤。有某种担忧的根据，恐怕他们如此厌烦他的陪伴，以至于把他送回给我们，或者他像路喀阿诺斯所著中库尼司科斯的暴君一样逃离他的护送者。",
+    "p0006": "因此必须极其小心，这尤其是圣座的责任，要告诉殡殓者行会在他的坟墓上放置一块非常大且重的石头，以免他再回来，再次显露出他反复无常的心。让他把他的新教义带到阴间去吧，在那里昼夜宣讲。我们丝毫不怕他通过发表反对真宗教的公开演说，以及赋予不朽本性以死亡，来分裂他们。他不仅会被熟谙神圣法律的幽灵用石头砸死，还会被纳默罗德、法郎、散乃黑黎布，或其他任何天主的敌人用石头砸死。",
+    "p0007": "但我是在浪费言语。这可怜人已缄默无言，无论他愿不愿意，\\BibleQuote{他的气息一断，归于灰土，当日的计划尽都消亡。}他也注定要承受另一种沉默。他的行为被揭露，绑住了他的舌头，塞住他的口，遏制他的激情，使他哑口无言，并使他俯首在地。",
+    "p0008": "我真为这可怜人感到难过。说实话，他去世的消息并未使我毫无混杂的喜悦，而是带有悲伤。看到教会摆脱这种瘟疫，我欢喜快乐；但想到这个恶徒直到死时也没有从他的罪行中得到安息，反而继续尝试更大更严重的事，我便悲伤哀恸。据说，他的想法是第二次攻击真教义，从而搅乱帝都，并指控圣座支持这些教义。但天主看见了，并未忽视。\\BibleQuote{将钩子放进他的鼻子，将辔头戴在他的嘴上}，并使他归于所出之土。愿圣座的祈祷使他获得怜悯与慈悲，愿天主无边的宽仁超过他的邪恶。我恳求圣座驱散我灵魂的焦虑。许多不同的报告在四处流传，令我惊恐，预告普遍的不幸。甚至有人说，圣座在违背己意的情况下出发去朝廷，但迄今为止，我视这些报告为不实而轻视。但发现每个人都在重复同一个故事，我认为应当尽力从圣座那里了解真相，以便若为假，我可以嘲笑这些说法；若为真，则不至于无故悲伤。"
+  }
+}

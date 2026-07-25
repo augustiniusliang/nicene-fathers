@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360210018",
+    "title": "Book X, Letter 18",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 18",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Clementina, Patrician</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Clementina, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Know, glorious daughter, that the presbyter Amandus has been elected to the episcopate by the people of Surrentum. And, we having written for him to be sent hither, you ought not to be saddened for his absence, seeing that one who is with you in heart should not even be believed to be departing from you. And, since he who once pleased you is acceptable to those who want a bishop, bless Almighty God for this, and with Christian devotion rejoice the more; and gladly do your best to further his coming to us for the advantage of others speedily, since it is the part of sincere charity to exult when one who is loved is called that he may grow.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210018.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210018.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十卷，第十八封书信",
+    "p0002": "\\Emph{致贵族女克莱孟蒂娜}。",
+    "p0003": "额我略致克莱孟蒂娜等",
+    "p0004": "荣耀的女儿，你要知道，司铎阿曼多已被苏伦托的民众选为主教。我们已写信命他前来，你不应为他的离开而忧伤，因为那在心中与你同在的人，不应被认为离开了你。何况，他既曾令你喜悦，如今又为需要主教的人所接纳，为此你当赞颂全能的天主，并以基督徒的虔诚更加喜乐；并要欣然尽力促成他尽快前来我们这里，以利于他人，因为真诚爱德的本分，就在于所爱之人被召叫而得以成长时，引以为荣。"
+  }
+}

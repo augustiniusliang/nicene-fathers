@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "3202062",
+    "title": "Letter 62",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 62",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 62",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Church of Parnassus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Following an ancient custom, which has obtained for many years, and at the same time showing you love in God, which is the fruit of the Spirit, I now, my pious friends, address this letter to you. I feel with you at once in your grief at the event which has befallen you, and in your anxiety at the matter which you have in hand. Concerning all these troubles I can only say, that an occasion is given us to look to the injunctions of the Apostle, and not to sorrow <quote>even as others which have no hope.</quote> {{BIBLE:1th 4:13}} I do not mean that we should be insensible to the loss we have suffered, but that we should not succumb to our sorrow, while we count the Pastor happy in his end. He has died in a ripe old age, and has found his rest in the great honour given him by his Lord.",
+        "scripture": [
+          "1th 4:13"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "As to the future I have this recommendation to give you. You must now lay aside all mourning; you must come to yourselves; you must rise to the necessary management of the Church; to the end that the holy God may give heed to His own little flock, and may grant you a shepherd in accordance with His own will, who may wisely feed you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202062.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202062.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第六十二}",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Emph{致帕尔纳索斯教会}。",
+    "p0004": "遵循一项多年以来的古老习俗，并同时向你们呈现在天主内的爱德，那是圣神的果实，我如今，我敬虔的朋友们，致这封信给你们。我立即与你们一同感受你们在临到你们的事件中的悲伤，以及你们手中所关顾的事。关于这一切困扰，我只能说，我们被给予机会注视宗徒的训诫，不要忧伤，\\BibleQuote{像那些没有希望的人一样。}\\BibleRef{得前 4:13}我并不是说我们应当对所遭受的损失无动于衷，而是说我们不应屈服于忧伤，同时认为牧者在他结局中是有福的。他在高龄中逝世，并在主赐给他的极大尊荣中找到了安息。",
+    "p0005": "至于未来，我有以下建议给你们。你们现在必须放下一切哀悼；你们必须醒悟；你们必须起来管理教会的必要事务；为使圣洁的天主垂顾祂自己的小小羊群，并按照祂自己的旨意赐给你们一位牧者，他能明智地牧养你们。"
+  }
+}

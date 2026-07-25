@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "2502",
+    "title": "Life of Constantine",
+    "breadcrumbs": "Home > Fathers of the Church > Life of Constantine (Eusebius)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Life of Constantine",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book I</strong>\n<strong>Book II</strong>\n<strong>Book III</strong>\n<strong>Book IV</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Ernest Cushing Richardson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 1. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1890.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2502.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Ernest Cushing Richardson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1890.",
+      "srcurl": "<http://www.newadvent.org/fathers/2502.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{君士坦丁传}",
+    "p0002": "\\Emph{第一卷}\\newline{}\\Emph{第二卷}\\newline{}\\Emph{第三卷}\\newline{}\\Emph{第四卷}"
+  }
+}

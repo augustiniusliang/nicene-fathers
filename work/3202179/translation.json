@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202179",
+    "title": "Letter 179",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 179",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 179",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Arinthæus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Your natural nobility of character and your general accessibility have taught me to regard you as a friend of freedom and of men. I have, therefore, no hesitation in approaching you in behalf of one who is rendered illustrious by a long line of ancestry, but is worthy of greater esteem and honour on his own account, because of his innate goodness of disposition. I beg you, on my entreaty, to give him your support under a legal charge, in reality, indeed, ridiculous, but difficult to meet on account of the seriousness of the accusation. It would be of great importance to his success if you would deign to say a kind word in his behalf. You would, in the first place, be helping the right; but you would further be showing in this your wonted respect and kindness to myself, who am your friend.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202179.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202179.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一百七十九号书信",
+    "p0002": "\\Person{圣巴西略} \\Place{凯撒勒雅}",
+    "p0003": "致\\Person{阿林陶}。",
+    "p0004": "您天性崇高，平易近人，使我视您为自由与人的朋友。因此，我毫不犹豫地代一位因祖先世系而显赫、但因自身天赋的善良气质而更值得尊敬和荣誉的人向您进言。我恳请您，因我的请求，在他面临一项事实上可笑、但因指控严重而难以应对的法律诉讼时，给予支持。若您肯为他说句好话，对他的成功将至关重要。首先，您将帮助正义；其次，您将以此向我——您的朋友——表示您一贯的尊重和善意。"
+  }
+}

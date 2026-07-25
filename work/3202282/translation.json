@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3202282",
+    "title": "Letter 282",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 282",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 282",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To a bishop.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You blame me for not inviting you; and, when invited, you do not attend. That your former excuse was an empty one is clear from your conduct on the second occasion. For had you been invited before, in all probability you would never have come.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Act not again unadvisedly, but obey this present invitation; since you know that its repetition strengthens an indictment, and that a second lends credibility to a previous accusation.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "I exhort you always to bear with me; or even if you cannot, at any rate it is your duty not to neglect the Martyrs, to join in whose commemoration you are invited. Render therefore your service to us both; or if you will not consent to this, at any rate to the more worthy.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202282.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202282.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第282封信}",
+    "p0002": "\\Emph{\\Person{圣巴西略\\Place{凯撒勒雅}}}",
+    "p0003": "致一位主教。",
+    "p0004": "你责怪我没有邀请你；而当你受到邀请时，你又不来。你先前那个借口是空洞的，从你第二次的行为可以清楚看出。因为如果你先前被邀请过，很可能你根本就不会来。",
+    "p0005": "不要再鲁莽行事，要服从这次邀请；因为你知道，邀请的重复加强了控诉，第二次使先前的指控变得可信。",
+    "p0006": "我劝你常常容忍我；或者即使你不能，至少你有责任不要忽视殉道者，你被邀请参加他们的纪念。因此，请你同时为我们两者提供服务；如果你不愿意这样，至少为更值得的一方。"
+  }
+}

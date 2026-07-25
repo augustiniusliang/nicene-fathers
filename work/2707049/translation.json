@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707049",
+    "title": "Letter 49",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 49",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 49",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Damianus</em>, <em>Bishop of Sidon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "It is the nature of mirrors to reflect the faces of them that gaze into them, and so whoever looks at them sees his own form. This is the same too with the pupils of the eyes, for they show in them the likeness of other people's features. Of this your holiness furnishes an instance, for you have not seen my ugliness, but have beheld with admiration your own beauty. I really have none of the qualities which you have mentioned. It is nevertheless my prayer that your words may be vindicated by actual fact, and I beseech your piety by your prayers to cause it to come to pass that your praises may not fall to the ground through having no reality to correspond with them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707049.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707049.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四十九封书信",
+    "p0002": "\\Emph{致\\Person{达米亚努斯}}，\\Emph{\\Place{西顿}主教}。",
+    "p0003": "镜子的本性是反映注视者的面容，因此任何人看镜子都看到自己的形象。眼睛的瞳孔也是如此，它们映出他人面容的相似。您的圣德提供了这样一个实例，因为您没有看到我的丑陋，反而欣赏了自己的美丽。我实际上没有您所列举的任何品质。尽管如此，我祈愿您的话语能被事实证实，并恳求您的虔诚通过您的祈祷使之实现，这样您的赞美就不会因为缺乏相应的现实而落空。"
+  }
+}

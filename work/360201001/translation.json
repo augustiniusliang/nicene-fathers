@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360201001",
+    "title": "Book I, Letter 1",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 1",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 1",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To all the Bishops of Sicily.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory, servant of the servants of God , to all the bishops constituted throughout Sicily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have plainly perceived it to be very necessary that, even as our predecessors thought fit to do, we should commit all things to one and the same person; and that, where we cannot be present ourselves, our authority should be represented through him to whom we send our instructions. Wherefore, with the help of God, we have appointed Peter, subdeacon of our See, our delegate in the province of Sicily. Nor can we doubt as to the conduct of him to whom, with the help of God, we are known to have committed the charge of the whole patrimony of our church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "This also we have plainly perceived to be a thing that ought to be done; that once in the year your whole fraternity should assemble, at Syracuse or Catana, receiving, as we have charged him, the honour due to you; to the end that, together with the aforesaid Peter, subdeacon of our See, you may settle with due discretion whatever things pertain to the advantage of the churches of the province, or to the relief of the necessities of the poor and oppressed, or to the admonition of all, and the correction of those whose transgressions may perhaps be proved. From which council far be animosities, which are the nutriment of crimes, and may inward grudges die away, and that discord of souls which is beyond measure execrable. Let concord well-pleasing to God, and charity, approve you as His priests. Conduct all things, therefore, with such deliberation and calmness that yours may most worthily be called an Episcopal Council.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201001.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201001.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第一封信",
+    "p0002": "\\Emph{致西西里众主教。}",
+    "p0003": "\\Person{格列高利}，天主众仆之仆，致\\Place{西西里}全境所有主教。",
+    "p0004": "我们清楚地认识到，正如我们的前任认为宜当如此，将一切事务委托给同一人，实属非常必要；并且，在我们无法亲临之处，我们的权威应通过我们向其发送指示之人来代表。因此，藉天主的助佑，我们任命了我们的宗座副执事\\Person{伯多禄}为我们在西西里省的代牧。对于他——我们已知藉天主的助佑，将我们教会全部产业的管辖委托给他——的品行，我们毫不怀疑。",
+    "p0005": "我们也清楚地认识到，有一件应当实行之事：即每年一次，你们全体弟兄应在\\Place{叙拉古}或\\Place{卡塔纳}集会，按我们对他（指\\Person{伯多禄}）的吩咐，接受应归于你们的尊敬；为的是，你们与前述我们的宗座副执事\\Person{伯多禄}一起，得以以适当的明辨处理一切有关省区教会利益、或救济贫穷与受压迫者之急需、或劝诫众人以及处罚那些过失可能被证实之人的事务。愿敌对情绪——罪恶的养分——远离此会议，愿内心积怨消逝，愿那种极其可憎的灵魂不和消失。愿蒙天主悦纳的和谐与\\OriginalTerm{爱德}{charity}，证明你们是祂的司铎。因此，要以如此的审慎与平静处理一切事务，使你们的集会最堪称为主教会议。"
+  }
+}

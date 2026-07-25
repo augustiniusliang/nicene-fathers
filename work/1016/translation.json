@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "1016",
+    "title": "Commentary on Matthew",
+    "breadcrumbs": "Home > Fathers of the Church > Commentary on Matthew (Origen)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Commentary on Matthew",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book I</strong> Fragment\n<strong>Book II</strong> Fragment\n<strong>Book X</strong>\n<strong>Book XI</strong>\n<strong>Book XII</strong>\n<strong>Book XIII</strong>\n<strong>Book XIV</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by John Patrick. From Ante-Nicene Fathers, Vol. 9. Edited by Allan Menzies. (Buffalo, NY: Christian Literature Publishing Co., 1896.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1016.htm>.",
+    "metadata": {
+      "srctrans": "Translated by John Patrick.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 9.",
+      "srced": "Edited by Allan Menzies.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1896.",
+      "srcurl": "<http://www.newadvent.org/fathers/1016.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{玛窦福音注释}",
+    "p0002": "\\Emph{第一卷} 残篇\\newline{}\\Emph{第二卷} 残篇\\newline{}\\Emph{第十卷}\\newline{}\\Emph{第十一卷}\\newline{}\\Emph{第十二卷}\\newline{}\\Emph{第十三卷}\\newline{}\\Emph{第十四卷}"
+  }
+}

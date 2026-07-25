@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360204018",
+    "title": "Book IV, Letter 18",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 18",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Maurus, Abbot.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Maurus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The care of churches which is evidently inherent in the priestly office compels us to be so solicitous that no fault of neglect may appear with regard to them. Since, however, we have learned that the church of Saint Pancratius, which had been committed to presbyters, has been frequently neglected, so that people coming there on the Lord's day to celebrate the solemnities of mass have returned murmuring on finding no presbyter, we therefore, after mature deliberation, have determined to remove those presbyters, and with the favour of God constitute for the same church a congregation of monks in a monastery, to the end that the abbot who shall preside there may give care and attention in all respects to the aforesaid church. And we have also thought fit to put you, Maurus, over this monastery as abbot, ordaining that the lands of the aforesaid church, and whatever may have come into its possession, or accrued from its revenues, be applied to this your monastery, and belong to it without any diminution; but on condition whatever needs to be effected or repaired in the church above written may be so effected and repaired by you without fail.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But lest, after the removal of the presbyters to whom this church had previously been committed, it should seem to be without provision for divine service, we therefore enjoin you by the tenour of this authority to supply it with a <em>peregrine</em> presbyter to celebrate the sacred solemnities of mass, who, nevertheless, must needs both live in your monastery, and have from it provision for his maintenance.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "But let this also above all be your care, that there over the most sacred body of the blessed Pancratius the work of God be executed daily without fail. These things, then, which by the tenour of this precept we depute you to do, we will that not only thou perform, but that they be also so observed and fulfilled for ever by those who shall succeed you in your office and place, that there may be no possibility henceforth of neglect being found in the aforesaid church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204018.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204018.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷四 第十八封信",
+    "p0002": "\\Emph{致院长玛吾尔}",
+    "p0003": "额我略致玛吾尔等。",
+    "p0004": "圣堂的关怀显然属于司铎职务，这促使我们必须如此用心，以免对圣堂出现任何疏忽之过。然而，我们得知曾托付给司铎的圣庞加爵圣堂屡遭疏忽，以致主日前来举行弥撒圣祭的人们因找不到司铎而抱怨离去。因此，经过成熟商议，我们决定撤换这些司铎，并赖天主的恩宠，在同一圣堂内为一隐修院建立一座隐修士团体，以使主持该隐修院的院长能对上述圣堂全面加以关注和照管。我们也认为适宜立你玛吾尔为这座隐修院的院长，并规定上述圣堂的土地以及凡已归其所有之物，或从其收入中所得之物，均归入你这隐修院，毫无减损地属于它；但条件是：上述圣堂内一切需施工或修缮之处，均由你负责完成，不得有误。",
+    "p0005": "但为免在撤去原先托付于该圣堂的司铎后，圣堂似乎缺乏神圣礼仪的供应，我们特以此权令要你向其提供一位\\OriginalTerm{外来的}{peregrine}司铎，以举行神圣弥撒圣祭；这位司铎必须同时居住在你的隐修院中，并从隐修院获得其生活供应。",
+    "p0006": "但尤其要注意：在真福庞加爵至圣遗体之上，每日必行日课不可有缺。我们以本命令委托你实行的这些事，不仅你本人要执行，而且凡继承你职务地位者，亦应永远如此遵守并实现，以使今后上述圣堂再无疏忽之可能。"
+  }
+}

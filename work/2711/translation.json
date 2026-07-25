@@ -1,0 +1,822 @@
+{
+  "source": {
+    "source_id": "2711",
+    "title": "Commentary on the Apostles' Creed",
+    "breadcrumbs": "Home > Fathers of the Church > Commentary on the Apostles' Creed (Rufinus)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Commentary on the Apostles' Creed",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "This exposition of the Creed was made at the request of Laurentius, a Bishop whose see is unknown, but is conjectured by Fontanini, in his life of Rufinus, to have been Concordia, Rufinus' birthplace.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Its exact date cannot be fixed; but from the fact that he says nothing of his difficulty in writing Latin after being so long in the East, as he does in several of his books, and from the comparative ease of the style, it is most probable that it was written in the later years of his sojourn at Aquileia, that is, about 307-309.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Its value is considerable (1) as bearing witness to the state of the Creed in local churches at the beginning of the 5th century, especially their variations. (In the church of Aquileia, in Jes <em>u</em> Christ <em>o</em>. Patrem <em>invisibilem et impassibilem.</em> Resurrectio <em>hujus</em> carnis); (2) as showing the adaptation of Eastern ideas to the formation of Western theology; (3) as giving the canon of the books of Scripture.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The exposition is clear and reasonable; and, with the exception of a very few passages, such as the argument from the Phœnix for the Virgin Birth of our Lord, is still of use to us.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "h2",
+        "text": "The Creed of Aquileia",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "It seems desirable to give the original Latin and English versions of the Creed of Aquileia, on which Rufinus makes his commentary. The words or letters which are peculiar to this creed are put in italics.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "li",
+        "text": "Credo in Deo Patre omnipotenti <em>invisibili et impassibili</em> (I believe in God the Father Almighty, <em>invisible and impassible</em>)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "li",
+        "text": "Et in Jesu Christo, unico Filio ejus, Domino nostro (And in Jesus Christ, His only Son, our Lord)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0010",
+        "kind": "li",
+        "text": "Qui natus est de Spiritu Sancto ex Maria Virgine (Who was born from the Holy Ghost, of the Virgin Mary)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0011",
+        "kind": "li",
+        "text": "Crucifixus sub Pontio Pilato, et sepultus (Was crucified under Pontius Pilate, and buried)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0012",
+        "kind": "li",
+        "text": "Descendit ad inferna; tertia die resurrexit a mortuis (He descended to hell; on the third day he rose again from the dead)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0013",
+        "kind": "li",
+        "text": "Ascendit in cœlos; sedet ad dexteram Patris; (He ascended to the heavens; he sits at the right hand of the Father)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0014",
+        "kind": "li",
+        "text": "Inde venturus est judicare vivos et mortuos; (Thence he is to come to judge the quick and the dead)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0015",
+        "kind": "li",
+        "text": "Et in Spiritu Sancto (And in the Holy Ghost)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0016",
+        "kind": "li",
+        "text": "Sanctam Ecclesiam (The Holy Church)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0017",
+        "kind": "li",
+        "text": "Remissionem peccatorum (The remission of sins)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0018",
+        "kind": "li",
+        "text": "<em>Hujus</em> carnis resurrectionem (The resurrection of this flesh)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0019",
+        "kind": "p",
+        "text": "1. My mind has as little inclination for writing as sufficiency, most faithful Bishop (<em>Papa</em>) Laurentius, for I well know that it is a matter of no little peril to submit a slender ability to general criticism. But, since in your letter you rashly (forgive my saying so) require me, by Christ's sacraments, which I hold in the greatest reverence, to compose something for you concerning the Faith, in accordance with the traditional and natural meaning of the Creed, although in so doing you impose a burden upon me beyond my strength to bear (for I do not forget the opinion of the wise, which so justly says, that <quote>to speak of God even what is true is perilous</quote>); still, if you will aid with your prayers the necessity which your requisition has laid upon me, I will try to say something, moved rather by a reverential regard for your injunction than by presumptuous confidence in my ability. What I write, however, will hardly seem worthy of the consideration of persons of mature understanding, but suited rather to the capacity of children and young beginners in Christ.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0020",
+        "kind": "p",
+        "text": "I find, indeed, that some eminent writers have published treatises on these matters piously and briefly written. Moreover, I know that the heretic Photinus has written on the same; but with the object, not of explaining the meaning of the text to his readers, but of wresting things simply and truthfully said in support of his own dogma, while yet the Holy Spirit has taken care that in these words nothing should be set down which is ambiguous or obscure, or inconsistent with other truths: for therein is that prophecy verified, <quote>Finishing and cutting short the word in equity: because a short word will the Lord make upon the earth.</quote> It shall be our endeavour, then, first to restore and emphasize the words of the Apostles in their native simplicity; and, secondly, to supply such things as seem to have been omitted by former expositors. But that the scope of this <quote>short word,</quote> as we have called it, may be made more plain, we will enquire from the beginning how it came to be given to the Churches.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0021",
+        "kind": "p",
+        "text": "2. Our forefathers have handed down to us the tradition, that, after the Lord's ascension, when, through the coming of the Holy Ghost, tongues of flame had settled upon each of the Apostles, that they might speak diverse languages, so that no race however foreign, no tongue however barbarous, might be inaccessible to them and beyond their reach, they were commanded by the Lord to go severally to the several nations to preach the word of God. Being on the eve therefore of departing from one another, they first mutually agreed upon a standard of their future preaching, lest haply, when separated, they might in any instance vary in the statements which they should make to those whom they should invite to believe in Christ. Being all therefore met together, and being filled with the Holy Ghost, they composed, as we have said, this brief formulary of their future preaching, each contributing his several sentence to one common summary: and they ordained that the rule thus framed should be given to those who believe.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0022",
+        "kind": "p",
+        "text": "To this formulary, for many and most sufficient reasons, they gave the name or Symbol. For Symbol (<greek>κύμβολον</greek>) in Greek answers to both <quote>Indicium</quote> (a sign or token) and <quote>Collatio</quote> (a joint contribution made by several) in Latin. For this the Apostles did in these words, each contributing his several sentence. It is called <quote>Indicium</quote> or <quote>Signum,</quote> a sign or token, because, at that time, as the Apostle Paul says, and as is related in the Acts of the Apostles, many of the vagabond Jews, pretending to be apostles of Christ, went about preaching for gain's sake or their belly's sake, naming the name of Christ indeed, but not delivering their message according to the exact traditional lines. The Apostles therefore prescribed this formulary as a sign or token by which he who preached Christ truly, according to Apostolic rule, might be recognised. Finally, they say that in civil wars, since the armour of both sides is alike, and the language the same, and the custom and mode of warfare the same, each general, to guard against treachery, is wont to deliver to his soldiers a distinct symbol or watchword— in Latin <quote>signum</quote> or <quote>indicium</quote>— so that if one is met with, of whom it is doubtful to which side he belongs, being asked the symbol (watchword), he discloses whether he is friend or foe. And for this reason, the tradition continues, the Creed is not written on paper or parchment, but is retained in the hearts of the faithful, that it may be certain that no one has learned it by reading, as is sometimes the case with unbelievers, but by tradition from the Apostles.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0023",
+        "kind": "p",
+        "text": "The Apostles therefore, as we have said, being about to separate in order to preach the Gospel, settled upon this sign or token of their agreement in the faith; and, unlike the sons of Noah, who, when they were about to separate from one another, built a tower of baked bricks and pitch, whose top might reach to heaven, they raised a monument of faith, which might withstand the enemy, composed of living stones and pearls of the Lord, such that neither winds might overthrow it, nor floods undermine it, nor the force of storms and tempests shake it. Right justly, then, were the former, when, on the eve of separation, they built a tower of pride, condemned to the confusion of tongues, so that no one might understand his neighbour's speech; while the latter, who were building a tower of faith, were endowed with the knowledge and understanding of all languages; so that the one might prove a sign and token of sin, the other of faith.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0024",
+        "kind": "p",
+        "text": "But it is time now that we should say something about these same pearls, among which is placed first the fountain and source of all, when it is said—",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0025",
+        "kind": "p",
+        "text": "3. I <em>Believe in God the Father Almighty</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0026",
+        "kind": "p",
+        "text": "But before I begin to discuss the meaning of the words, I think it well to mention that in different Churches some additions are found in this article. This is not the case, however, in the Church of the city of Rome; the reason being, as I suppose, that, on the one hand, no heresy has had its origin there, and, on the other, that the ancient custom is there kept up, that those who are going to be baptized should rehearse the Creed publicly, that is, in the audience of the people; the consequence of which is that the ears of those who are already believers will not admit the addition of a single word. But in other places, as I understand, additions appear to have been made, on account of certain heretics, by means of which it was hoped that novelty in doctrine would be excluded. We, however, follow that order which we received when we were baptized in the Church of Aquileia.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0027",
+        "kind": "p",
+        "text": "I <em>Believe</em>, therefore, is placed in the forefront, as the Apostle Paul, writing to the Hebrews, says, <quote>He that comes to God must first of all believe that He is, and that He is a rewarder of those who believe in Him.</quote> The Prophet also says, <quote>Unless you believe, you shall not understand.</quote> That the way to understand, therefore, may be open to you, you do rightly first of all, in professing that you believe; for no one embarks upon the sea, and trusts himself to the deep and liquid element, unless he first believes it possible that he will have a safe voyage; neither does the husbandman commit his seed to the furrows and scatter his grain on the earth, but in the belief that the showers will come, together with the sun's warmth, through whose fostering influence, aided by favouring winds, the earth will produce and multiply and ripen its fruits. In fine, nothing in life can be transacted if there be not first a readiness to believe. What wonder then, if, coming to God, we first of all profess that we believe, seeing that, without this, not even common life can be lived. We have premised these remarks at the outset, since the Pagans are wont to object to us that our religion, because it lacks reasons, rests solely on belief. We have shown, therefore, that nothing can possibly be done or remain stable unless belief precede. Finally, marriages are contracted in the belief that children will be born; and children are committed to the care of masters in the belief that the teaching of the masters will be transferred to the pupils; and one man assumes the ensigns of empire, believing that peoples and cities and a well-equipped army also will obey him. But if no one enters upon any one of these several undertakings except in the belief that the results spoken of will follow, must not belief be much more requisite if one would come to the knowledge of God? But let us see what this <quote>short word</quote> of the Creed sets forth.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0028",
+        "kind": "p",
+        "text": "4. <quote>I <em>Believe in God the Father Almighty</em>.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0029",
+        "kind": "p",
+        "text": "The Eastern Churches almost universally deliver the article thus, <quote>I believe in <em>One</em> God the Father Almighty;</quote> and again in the next article, where we say, <quote>And in Christ Jesus, His only Son, our Lord,</quote> they deliver it., <quote>And in <em>One</em> (Lord) our Lord Jesus Christ, His only Son;</quote> confessing, that is, <quote>one God,</quote> and <quote>one Lord,</quote> in accordance with the authority of the Apostle Paul. But we shall return to this by-and-by. For the present, let us turn our attention to the words, <quote>In God the Father Almighty.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0030",
+        "kind": "p",
+        "text": "<quote>God,</quote> so far as the human mind can form an idea, is the name of that nature or substance which is above all things. <quote>Father</quote> is a word expressive of a secret and ineffable mystery. When you hear the word <quote>God,</quote> you must understand thereby a substance without beginning, without end, simple, uncompounded, invisible, incorporeal, ineffable, inappreciable, which has in it nothing which has been either added or created. For He is without cause who is absolutely the cause of all things. When you hear the word <quote>Father,</quote> you must understand by this the Father of a Son, which Son is the image of the aforesaid substance. For as no one is called <quote>Lord</quote> unless he have a possession or a servant whose lord he is, and as no one is called <quote>master</quote> unless he have a disciple, so no one can possibly be called <quote>father</quote> unless he have a son. This very name of <quote>Father,</quote> therefore, shows plainly that, together with the Father there subsists a Son also.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0031",
+        "kind": "p",
+        "text": "But I would not have you discuss how God the Father begot the Son, nor intrude too curiously into the profound mystery, lest haply, by prying too eagerly into the brightness of light inaccessible, you should lose the faint glimpse which, by the gift of God, has been vouchsafed to mortals. Or, if you suppose that this is a subject to be investigated with all possible scrutiny, first propose to yourself questions which concern ourselves, and then, if you are able to deal satisfactorily with them, speed on from earthly things to heavenly, from visible to invisible. Determine first, if you can, how the mind, which is within you, generates a word, and what is the spirit of the memory which is in it; and how these, though diverse in reality and in operation, are yet one in substance or nature; and though they proceed from the mind, yet are never separated from it. And if these, though they are in us and in the substance of our own soul, yet seem to be hidden from us in proportion as they are invisible to our bodily sight, let us take for our enquiry things which are more open to view. How does a spring generate a river from itself? By what spirit is it borne into a rapidly flowing stream? How happens it that, while the river and the spring are one and inseparable, yet neither can the river be understood to be, or can be called, the spring, nor the spring the river, and yet he who has seen the river has seen the spring also? Exercise yourself first in explaining these, and explain, if you are able, things which you have under your hands; and then you may come to loftier matters. Do not think, however, that I would have you ascend all at once from the earth above the heavens: I would first, with your leave, draw your attention to this firmament which our eyes behold, and ask you to explain, if you can, the nature of this visible luminary—how that celestial fire generates from itself the brightness of light, how it also produces heat; and though these are three in reality, how they are yet one in substance. And if you are capable of investigating each of these, even then you must acknowledge that the mystery of the Divine generation is by so much the more diverse and the more transcendent as the Creator is more powerful than the creatures, as the artificer is more excellent than his work, as He who ever is more noble than that which had its beginning out of nothing.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0032",
+        "kind": "p",
+        "text": "That God then is the Father of His only Son our Lord is to be believed, not discussed; for it is not lawful for a servant to dispute about the nativity of his lord. The Father has borne witness from heaven, saying, <quote>This is My beloved Son, in Whom I am well pleased: hear Him.</quote> The Father says that He is His Son and bids us hear Him. The Son says, <quote>He who sees Me sees the Father also,</quote> and <quote>I and the Father are one,</quote> and <quote>I came forth from God and have come into the world.</quote> Where is the man who can thrust himself as a disputant between these words of Father and Son, who can divide the Godhead, separate its volition, break asunder the substance, cut the spirit in parts, and deny that what the Truth speaks is true? God then is a true Father as the Father of the Truth, not begetting extrinsically, but generating the Son from that which Himself is; that is, as the All-wise He generates Wisdom, as the Just Justice, as the Everlasting the Everlasting, as the Immortal Immortality, as the Invisible the Invisible; because He is Light, He generates Brightness, because He is Mind, He generates the Word.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0033",
+        "kind": "p",
+        "text": "5. Now whereas we said that the Eastern Churches, in their delivery of the Creed, say, <quote>In one God the Father Almighty,</quote> and <quote>in one Lord,</quote> the <quote>one</quote> is not to be understood numerically but absolutely. For example, if one should say, <quote>one man</quote> or <quote>one horse,</quote> here <quote>one</quote> is used numerically. For there may be a second man and a third, or a second horse and a third. But where a second or a third cannot be added, if we say <quote>one</quote> we mean one not numerically but absolutely. For example, if we say, <quote>one Sun,</quote> here the meaning is that a second or a third cannot be added, for there is but one Sun. Much more then is God, when He is said to be <quote>one,</quote> called <quote>one,</quote> not numerically but absolutely, that is, He is therefore said to be one because there is no other. In like manner, also, it is to be understood of the Lord, that He is one Lord, Jesus Christ, by or through Whom God the Father possesses dominion over all, whence also, in the next clause, God is called <quote>Almighty.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0034",
+        "kind": "p",
+        "text": "God is called <em>Almighty</em> because He possesses rule and dominion over all things. But the Father possesses all things by His Son, as the Apostle says, <quote>By Him were created all things, visible and invisible, whether they be thrones, or dominions, or principalities, or powers.</quote> And again, writing to the Hebrews, he says, <quote>By Him also He made the worlds,</quote> and <quote>He appointed Him heir of all things.</quote> By <quote>appointed</quote> we are to understand <quote>generated.</quote> Now if the Father made the worlds by Him, and all things were created by Him, and He is heir of all things, then by Him He possesses rule also over all things. Because, as light is born of light, and truth of truth, so Almighty is born of Almighty. As it is written of the Seraphim in the Revelation of John, <quote>And they have no rest day and night, crying Holy, Holy, Holy, Lord God of Sabaoth, which was and which is and which is to come, the Almighty.</quote> He then who <quote>is to come</quote> is called <quote> <em>Almighty</em>.</quote> And what other is there who <quote>is to come</quote> but Christ, the Son of God?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0035",
+        "kind": "p",
+        "text": "To the foregoing is added <quote> <em>Invisible and Impassible</em>.</quote> I should mention that these two words are not in the Creed of the Roman Church. They were added in our Church, as is well known, on account of the Sabellian heresy, called by us <quote>the Patripassian,</quote> that, namely, which says that the Father Himself was born of the Virgin and became visible, or affirms that He suffered in the flesh. To exclude such impiety, therefore, concerning the Father, our forefathers seem to have added these words, calling the Father <quote>invisible and impassible.</quote> For it is evident that the Son, not the Father, became incarnate and was born in the flesh, and that from that nativity in the flesh the Son became <quote>visible and passible.</quote> Yet so far as regards that immortal substance of the Godhead, which He possesses, and which is one and the same with that of the Father, we must believe that neither the Father, nor the Son, nor the Holy Ghost is <quote>visible or passible.</quote> But the Son, in that He condescended to assume flesh, was both seen and also suffered in the flesh. Which also the Prophet foretold when he said, <quote>This is our God: no other shall be accounted of in comparison of Him. He has found out all the way of knowledge, and has given it unto Jacob His servant and to Israel His beloved. Afterward He showed Himself upon the earth, and conversed with men.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0036",
+        "kind": "p",
+        "text": "6. Next there follows, <quote> <em>And in Christ Jesus, His Only Son, Our Lord</em>.</quote> <quote>Jesus</quote> is a Hebrew word meaning <quote>Saviour.</quote> <quote>Christ</quote> is so called from <quote>Chrism,</quote> i.e. unction. For we read in the Books of Moses, that Auses, the son of Nave, when he was chosen to lead the people, had his name changed from <quote>Auses</quote> to <quote>Jesus,</quote> to show that this was a name proper for princes and generals, for those, namely, who should <quote>save</quote> the people who followed them. Therefore, both were called <quote>Jesus,</quote> both the one who conducted the people, who had been brought forth out of the land of Egypt, and freed from the wanderings of the wilderness, into the land of promise, and the other, who conducted the people, who had been brought forth from the darkness of ignorance, and recalled from the errors of the world, into the kingdom of heaven.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0037",
+        "kind": "p",
+        "text": "<quote>Christ</quote> is a name proper either to High Priests or Kings. For formerly both high priests and kings were consecrated with the ointment of chrism: but these, as mortal and corruptible, with material and corruptible ointment. Jesus is made Christ, being anointed with the Holy Spirit, as the Scripture says of Him <quote>Whom the Father has anointed with the Holy Spirit sent down from heaven.</quote> And Isaiah had prefigured the same, saying in the person of the Son, <quote>The Spirit of the Lord is upon Me, because He has anointed Me, He has sent Me to preach good tidings to the poor.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0038",
+        "kind": "p",
+        "text": "Having shown them what <quote>Jesus</quote> is, Who saves His people, and what <quote>Christ</quote> is, Who is made a High Priest for ever, let us now see in what follows, of Whom these things are said, <quote>His only Son, our Lord.</quote> Here we are taught that this Jesus, of whom we have spoken, and this Christ, the meaning of whose name we have expounded, is <quote>the only Son of God</quote> and <quote>our Lord.</quote> Lest, perchance, you should think that these human names have an earthly significance, therefore it is added that He is <quote>the only Son of God, our Lord.</quote> For He is born One of One, because there is one brightness of light, and there is one word of the understanding. Neither does an incorporeal generation degenerate into the plural number, or suffer division, where He Who is born is in no wise separated from Him Who begets. He is <quote>only</quote> (unique), as thought is to the mind, as wisdom is to the wise, as a word is to the understanding, as valour is to the brave. For as the Father is said by the Apostle to be <quote>alone wise,</quote> so likewise the Son alone is called wisdom. He is then the <quote>only Son.</quote> And, although in glory, everlastingness, virtue, dominion, power, He is what the Father is, yet all these He has not unoriginately as the Father, but from the Father, as the Son, without beginning and equal; and although He is the Head of all things, yet the Father is the Head of Him. For so it is written, <quote>The Head of Christ is God.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0039",
+        "kind": "p",
+        "text": "7. When you hear the word <quote>Son,</quote> you must not think of a nativity after the flesh; but remember that it is spoken of an incorporeal substance, and a simple and uncompounded nature. For if, as we said above, whether when the understanding generates a word, or the mind sense, or light brings forth brightness from itself, nothing of this sort is sought for, or any manner of weakness and imperfection imagined in this kind of generation, how much purer and more sacred ought to be our conception of the Creator of all these!",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0040",
+        "kind": "p",
+        "text": "But perhaps you say, <quote>The generation of which you speak is an unsubstantial generation. For light does not produce substantial brightness, nor the understanding generate a substantial word, but the Son of God, it is affirmed, was generated substantially.</quote> To this we reply, first, When in other things examples or illustrations are used, the resemblance cannot hold in every particular, but only in some one point for which the illustration is employed. For instance, When it is said in the Gospel, <quote>The kingdom of heaven is like leaven, which a woman hid in three measures of meal,</quote> are we to imagine that the kingdom of heaven is in all respects like leaven, so that like leaven it is palpable and perishable so as to become sour and unfit for use? Obviously the illustration was employed simply for this object— to show how, through the preaching of God's word which seems so small a thing, men's minds could be imbued with the leaven of faith. So likewise, when it is said, <quote>The kingdom of heaven is like a net cast into the sea, which draws in fishes of every kind,</quote> are we to suppose that the substance of the kingdom of heaven is likened in all respects to the nature of twine of which a net is made, and to the knots with which the meshes are tied? No; the sole object of the comparison is to show that, as a net brings fishes to the shore from the depths of the sea, so by the preaching of the kingdom of heaven men's souls are liberated from the depth of the error of this world. From whence it is evident that examples or illustrations do not answer in every particular to the things which they are brought to exemplify or illustrate. Otherwise, if they were the same in all respects, they would no longer be called examples or illustrations, but rather would be the things themselves.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0041",
+        "kind": "p",
+        "text": "8. Then further it is to be observed that no creature can be such as its Creator. And therefore, as the divine substance or essence admits of no comparison, so neither does the Divinity. Moreover, every creature is of nothing. If therefore a spark which is so unsubstantial but yet is fire, begets of itself a creature which is of nothing, and maintains in it the essential nature of that from which it springs, (i.e. the fire of the parent spark), why could not the substance of that eternal Light which ever has been because it has in itself nothing which is not substantial, produce from itself substantial brightness? Rightly, therefore, is the Son called <quote>only,</quote> <quote>unique.</quote> For He who has been so born is <quote>only</quote> and <quote>unique.</quote> That which is unique can admit of no comparison. Nor can He who made all things be like in substance to the things which He has made. This then is Christ Jesus, the only Son of God, who is also our Lord. <quote>Only</quote> may be referred both to Son and to Lord. For Jesus Christ is <quote>only</quote> both as truly Son and as one Lord. For all other sons, though they are called sons, are so called by the grace of adoption, not by verity of nature; and if there be others who are called lords, they are called so from an authority bestowed not inherent. But Christ alone is the only Son and the only Lord, as the Apostle says, <quote>One Lord Jesus Christ, by Whom are all things.</quote> Therefore, after the Creed has in due order set forth the ineffable mystery of the nativity of the Son from the Father, it now descends to the dispensation which He vouchsafed to enter upon for man's salvation. And of Him whom just now it called the <quote>only Son of God</quote> and <quote>our Lord,</quote> it now says.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0042",
+        "kind": "p",
+        "text": "9. <quote> <em>Who Was Born by</em> <em>(de)</em> <em>The Holy Ghost of the Virgin Mary</em>.</quote> This nativity among men is in the way of dispensation, whereas the former nativity is of the divine substance; the one results from his condescension, the other from his essential nature. He is born by the Holy Ghost of the Virgin. Here a chaste ear and a pure mind is required. For you must understand that now a temple has been built within the secret recesses of a Virgin's womb for Him of Whom erewhile you learned that He was born ineffably of the Father. And just as in the sanctification of the Holy Ghost no thought of imperfection is to be admitted, so in the Virgin-birth no defilement is to be imagined. For this birth was a new birth given to this world, and rightly new. For He Who is the only Son in heaven is by consequence the only Son on earth, and was uniquely born, born as no other ever was or can be.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0043",
+        "kind": "p",
+        "text": "The words of the Prophets concerning Him, <quote>A Virgin shall conceive and bring forth a Son,</quote> are known to all, and are cited in the Gospels again and again. The Prophet Ezekiel too had predicted the miraculous manner of that birth, calling Mary figuratively <quote>the Gate of the Lord,</quote> the gate, namely, through which the Lord entered the world. For he says, <quote>The gate which looks towards the East shall be closed, and shall not be opened, and no one shall pass through it, because the Lord God of Israel shall pass through it, and it shall be closed.</quote> What could be said with such evident reference to the inviolate preservation of the Virgin's condition? That Gate of Virginity was closed; through it the Lord God of Israel entered; through it He came forth from the Virgin's womb into this world; and the Virgin-state being preserved inviolate, the gate of the Virgin remained closed for ever. Therefore the Holy Ghost is spoken of as the Creator of the Lord's flesh and of His temple.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0044",
+        "kind": "p",
+        "text": "10. Starting from this point you may understand the majesty of the Holy Ghost also. For the Gospel witnesses of Him that when the angel said to the Virgin, <quote>You shall bring forth a Son and shall call His name Jesus, for He shall save His people from their sins,</quote> she replied, <quote>How shall this be, seeing I know not a man?</quote> on which the angel said to her, <quote>The Holy Ghost shall come upon you, and the power of the Highest shall overshadow you. Wherefore that holy Thing which shall be born of You shall be called the Son of God.</quote> See here the Trinity mutually cooperating with each other. The Holy Ghost is spoken of as coming upon the Virgin, and the Power of the Highest as overshadowing her. What is the Power of the Highest but Christ Himself, Who is the Power of God and the Wisdom of God? Whose is this Power? The Power of the Highest. There is here then the Highest, there is also the Power of the Highest, there is also the Holy Ghost. This is the Trinity, everywhere latent, and everywhere apparent, distinct in names and persons, but inseparable in the substance of the Godhead. And although the Son alone is born of the Virgin, yet there is present also the Highest, there is present also the Holy Ghost, that both the conception and the bringing forth of the Virgin may be sanctified.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0045",
+        "kind": "p",
+        "text": "11. These things, since they are asserted upon the warrant of the Prophetical Scriptures, may possibly silence the Jews, infidel and incredulous though they be. But the Pagans are wont to ridicule us when they hear us speak of a Virgin-birth. We must, therefore, say a few words in reply to their cavils. Every birth, I suppose, depends upon three conditions. There must be a woman of mature age, she must have intercourse with a man, her womb must not be barren. Of these three conditions, in the birth of which we are speaking, one was wanting, the man. And this, forasmuch as He of Whose birth we speak was not an earthly but a heavenly man, was supplied by the Heavenly Spirit, the virginity of the mother being preserved inviolate. And yet why should it be thought marvellous for a virgin to conceive, when it is well known that the Eastern bird, which they call the Phœnix, is in such wise born, or born again, without the intervention of a mate, that it remains continually one, and continually by being born or born again succeeds itself? That bees know no wedlock, and no bringing forth of young, is notorious. There are also other things which are found to be subject to some such law of birth. Shall it be thought incredible, then, that was done by divine power, for the renewal and restoration of the whole world, of which instances are observed in the nativity of animals? And yet it is strange that the Gentiles should think this impossible, who believe their own Minerva to have been born from the brain of Jupiter. What is more difficult to believe, or what more contrary to nature? Here, there is a woman, the order of nature is kept, there is conception, and in due time birth; there, there is no female, but a man alone, and— birth! Why does he who believes the one marvel at the other? Again, they say that Father Bacchus was born from Jupiter's thigh. Here is another portent, yet it is believed. Venus also, whom they call Aphrodite, was born, they believe, of the foam of the sea, as her compounded name shows. They affirm that Castor and Pollux were born of an egg, the Myrmidons of ants. There are a thousand other things which, though contrary to nature, find credit with them, such as the stones thrown by Deucalion and Pyrrha, and the crop of men sprung from thence. And when they believe such myths and so many of them, does one thing seem impossible to them, that a woman of mature age, not defiled by man but impregnated by the Holy Ghost, should conceive a divine progeny? Who, forsooth, if they are hard of belief, ought in no wise to have given credence to those prodigies, being, as they are, so many and so degrading; but if they do believe them, they ought much more readily to receive these beliefs of ours, so honourable and so holy, than theirs so discreditable and so vile.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0046",
+        "kind": "p",
+        "text": "12. But they say, perhaps, If it was possible to God that a virgin should conceive, it was possible also that she should bring forth, but they think it unmeet that a being of so great majesty should enter the world in such wise, that even though there had been no defilement from intercourse with man, there should yet be the unseemliness attendant upon the act of delivery. To which let us reply briefly, meeting them on their own level. If a person should see a little child in the act of being suffocated in a quagmire, and himself, a great man and powerful, should go into the mire, just at its verge, so to say, to rescue the dying child; would you blame this man as defiled for having stepped into a little mire, or would you praise him as merciful, for having preserved the life of one that was perishing? But the case supposed is that of an ordinary man. Let us return to the nature of Him Who was born. How much, think you, is the nature of the Sun inferior to him? How much beyond doubt, the Creature to the Creator? Consider now if a ray of the sun alights upon a quagmire, does it receive any pollution from it? Or is the sun the worse for shedding his light upon foul objects? Fire, too, how far inferior is its nature to the things of which we are speaking? Yet no substance, whether foul or vile, is believed to pollute fire if applied to it. When the case is plainly thus with regard to material things, do you suppose that anything of pollution and defilement can befall that supereminent and incorporeal nature, which is above all fire and all light? Then, lastly, note this also: we say that man was created by God out of the clay of the earth. But if God is thought to be defiled in seeking to recover His own work, much more must He be thought so in making that work originally. And it is idle to ask why He passed through what is repugnant to our sense of modesty, when you cannot tell why He made what is so repugnant. And therefore it is not nature but general estimation that has made us think these things to be such. Otherwise, all things that are in the body, being formed from one and the same clay, are distinguished from one another only in their uses and natural offices.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0047",
+        "kind": "p",
+        "text": "13. But there is another consideration which we must not leave out in the solution of this question, namely, that the substance of God, which is wholly incorporeal, cannot be introduced into bodies or be received by them in the first instance, unless there be some spiritual substance as a medium, which is capable of receiving the divine Spirit. For instance, if we say that light is able to irradiate all the members of the body, yet by none of them can it be received except by the eye. For it is the eye alone which is receptive of light. So the Son of God is born of a virgin, not associated with the flesh alone in the first instance, but begotten with a soul as a medium between the flesh and God. With the soul, then, serving as a medium, and receiving the Word of God in the secret citadel of the rational spirit, God was born of the Virgin without any such disparagement as you imagine. And therefore nothing is to be esteemed base or unseemly wherein was the sanctification of the Spirit, and where the soul which was capable of God became also a partaker of flesh. Account nothing impossible where the power of the Most High was present. Have no thought of human weakness where there was the plenitude of Divinity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0048",
+        "kind": "p",
+        "text": "14. <em>He Was Crucified Under Pontius Pilate and Was Buried: He Descended into Hell</em>. The Apostle Paul teaches us that we ought to have <quote>the eyes of our understanding enlightened</quote> <quote>that we may understand what is the height and breadth and depth.</quote> <quote>The height and breadth and depth</quote> is a description of the Cross, of which that part which is fixed in the earth he calls the depth, the height that which is erected upon the earth and reaches upward, the breadth that which is spread out to the right hand and to the left. Since, therefore, there are so many kinds of death by which it is given to men to depart this life, why does the Apostle wish us to have our understanding enlightened so as to know the reason why, of all of them, the Cross was chosen in preference for the death of the Saviour. We must know, then, that that Cross was a triumph. It was a signal trophy. A triumph is a token of victory over an enemy. Since then Christ, when He came, brought three kingdoms at once into subjection under His sway (for this He signifies when he says, <quote>That in the name of Jesus every knee should bow, of things in heaven, and things on earth, and things under the earth</quote>), and conquered all of these by His death, a death was sought answerable to the mystery, so that being lifted up in the air, and subduing the powers of the air, He might make a display of His victory over these supernatural and celestial powers. Moreover the holy Prophet says that <quote>all the day long He stretched out His hands</quote> to the people on the earth, that He might both make protestation to unbelievers and invite believers: finally, by that part which is sunk under the earth, He signified His bringing into subjection to Himself the kingdoms of the nether world.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0049",
+        "kind": "p",
+        "text": "15. Moreover—to touch briefly some of the more recondite topics,— when God made the world in the beginning, He set over it and appointed certain powers of celestial virtues by whom the race of mortal men might be governed and directed. That this was so done Moses signifies in the Song in Deuteronomy, <quote>When the Most High divided the nations, He appointed the bounds of the nations according to the number of the angels of God.</quote> But some of these, as he who is called the Prince of this world, did not exercise the power which God had committed to them according to the laws by which they had received it, nor did they teach mankind to obey God's commandments, but taught them rather to follow their own perverse guidance. Thus we were brought under the bonds of sin, because, as the Prophet says, <quote>We were sold under our sins.</quote> For every man, when he yields to lust, is receiving the purchase-money of his soul. Under that bond then every man was held by those most wicked rulers, which same bond Christ, when He came, tore down and stripped them of this their power. This Paul signifies under a great mystery, when he says of Him, <quote>He destroyed the hand-writing which was against us, nailing it to His cross, and led away principalities and powers, triumphing over them in Himself.</quote> Those rulers, then, whom God had set over mankind, having become contumacious and tyrannical, took in hand to assail the men who had been committed to their charge and to rout them utterly in the conflicts of sin, as the Prophet Ezekiel mystically intimates when he says, <quote>In that day angels shall come forth hastening to exterminate Ethiopia, and there shall be perturbation among them in the day of Egypt; for behold He comes.</quote> Having stript them then of their almighty power, Christ is said to have triumphed, and to have delivered to men the power which was taken from them, as also Himself says to His disciples in the Gospel, <quote>Behold I have given you power to tread upon serpents and scorpions, and upon all the might of the enemy.</quote> The Cross of Christ, then, brought those who had wrongfully abused the authority which they had received into subjection to those who had before been in subjection to them. But us, that is, mankind, it teaches first of all to resist sin even unto death, and willingly to die for the sake of religion. Next, this same Cross sets before us an example of obedience, in like manner as it has punished the contumacy of those who were once our rulers. Hear, therefore, how the Apostle would teach us obedience by the Cross of Christ: <quote>Let this mind be in you, which was in Christ Jesus, Who, being in the form of God, thought it not robbery to be equal with God, but made Himself of no reputation, taking upon Him the form of a servant, being made in the likeness of men; and, being found in fashion as a man, He became obedient unto death, even the death of the Cross.</quote> As, then, a consummate master teaches both by example and precept, so Christ taught the obedience, which good men are to render even at the cost of death, by Himself first dying in rendering it.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0050",
+        "kind": "p",
+        "text": "16. But perhaps some one is alarmed at hearing us discourse of the death of Him of Whom, a short while since, we said that He is everlasting with God the Father, and that He was begotten of the Father's substance, and is one with God the Father, in dominion, majesty, and eternity. But be not alarmed, O faithful hearer. Presently you will see Him of Whose death you hear once more immortal; for the death to which He submits is about to spoil death. For the object of that mystery of the Incarnation which we expounded just now was that the divine virtue of the Son of God, as though it were a hook concealed beneath the form and fashion of human flesh (He being, as the Apostle Paul says, <quote>found in fashion as a man</quote>), might lure on the Prince of this world to a conflict, to whom offering His flesh as a bait, His divinity underneath might catch him and hold him fast with its hook, through the shedding of His immaculate blood. For He alone Who knows no stain of sin has destroyed the sins of all, of those, at least, who have marked the door-posts of their faith with His blood. As, therefore, if a fish seizes a baited hook, it not only does not take the bait off the hook, but is drawn out of the water to be itself food for others, so He Who had the power of death seized the body of Jesus in death, not being aware of the hook of Divinity inclosed within it, but having swallowed it he was caught immediately, and the bars of hell being burst asunder, he was drawn forth as it were from the abyss to become food for others. Which result the Prophet Ezekiel long ago foretold under this same figure, saying, <quote>I will draw you out with My hook, and stretch you out upon the earth: the plains shall be filled with you, and I will set all the fowls of the air over you, and I will satiate all the beasts of the earth with you.</quote> The Prophet David also says, <quote>You have broken the heads of the great dragon, You have given him to be meat to the people of Ethiopia.</quote> And Job in like manner witnesses of the same mystery, for he says in the person of the Lord speaking to him, <quote>Will you draw forth the dragon with a hook, and will you put your bit in his nostrils?</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0051",
+        "kind": "p",
+        "text": "17. It is with no loss or disparagement therefore of His Divine nature that Christ suffers in the flesh, but His Divine nature through the flesh descended into death, that by the infirmity of the flesh He might effect salvation; not that He might be detained by death according to the law of mortality, but that He might by Himself in his resurrection open the gates of death. It is as if a king were to proceed to a prison, and to go in and open the doors, undo the fetters, break in pieces the chains, the bars, and the bolts, and bring forth and set at liberty the prisoners, and restore those who are sitting in darkness and in the shadow of death to light and life. The king, therefore, is said indeed to have been in prison, but not under the same condition as the prisoners who were detained there. They were in prison to be punished, He to free them from punishment.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0052",
+        "kind": "p",
+        "text": "18. They who have handed down the Creed to us have with much forethought specified the time when these things were done— <quote>under Pontius Pilate,</quote>— lest in any respect the tradition should falter, as though vague and uncertain. But it should be known that the clause, <quote>He descended into Hell,</quote> is not added in the Creed of the Roman Church, neither is it in that of the Oriental Churches. It seems to be implied, however, when it is said that <quote>He was buried.</quote> But in the love and zeal for the Divine Scriptures which possess you, you say to me, I doubt not, <quote>These things ought to be proved by more evident testimonies from the Divine Scriptures. For the more important the things are which are to be believed, so much the more do they need apt and undoubted witness.</quote> True. But we, as speaking to those who know the law, have left unnoticed, for the sake of brevity, a whole forest of testimonies. But if this also be required, let us cite a few out of many, knowing, as we do, that to those who are acquainted with the Scriptures, a very ample sea of testimonies lies open.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0053",
+        "kind": "p",
+        "text": "19. First of all, then, we must know that the doctrine of the Cross is not regarded by all in the same light. It is one thing to the Gentiles, to the Jews another, to Christians another; as also the Apostle says, <quote>We preach Christ crucified—to the Jews a stumbling-block, to the Gentiles foolishness, but to those who are called, both Jews and Greeks, Christ, the power of God and the wisdom of God;</quote> and, in the same place, <quote>For the preaching of the Cross is to those who perish foolishness, but to those who are saved,</quote> that is, to us, it is <quote>the Power of God.</quote> The Jews, to whom it had been delivered out of the Law, that Christ should abide for ever, were offended by His Cross, because they were unwilling to believe His resurrection. To the Gentiles it seemed foolishness that God should have submitted to death, because they were ignorant of the mystery of the Incarnation. But Christians, who had accepted His birth and passion in the flesh and His resurrection from the dead, of course believed that it was the power of God which had overcome death.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0054",
+        "kind": "p",
+        "text": "First, therefore, hear how this very thing is prophetically declared by Isaiah, that the Jews, to whom the Prophets had foretold these things, would not believe, but that they who had never heard them from the Prophets, would believe them. <quote>To whom He was not spoken of they shall see, and they that have not heard shall understand.</quote> Moreover, this same Isaiah foretells that, while those who were engaged in the study of the Law from childhood to old age believed not, to the Gentiles every mystery should be transferred. His words are: <quote>And the Lord of Hosts shall make a feast on this mountain unto all nations: they shall drink joy, they shall drink wine, they shall be anointed with ointment on this mountain. Deliver all these things to the nations.</quote> This was the counsel of the Almighty respecting all the nations. But they who boast themselves of their knowledge of the Law will, perhaps, say to us, <quote>You blaspheme in saying that the Lord was subjected to the corruption of death and to the suffering of the Cross.</quote> Read, therefore, what you find written in the Lamentations of Jeremiah: <quote>The Spirit of our countenance, Christ the Lord, was taken in our corruptions, of whom we said, we shall live under His shadow among the nations.</quote> You hear how the Prophet says that Christ the Lord was taken, and for us, that is, for our sins, delivered to corruption. Under whose shadow, since the people of the Jews have continued in unbelief, he says the Gentiles lie, because we live not in Israel, but among the Gentiles.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0055",
+        "kind": "p",
+        "text": "20. But, if it does not weary you, let the point out as briefly as possible, specific references to prophecy in the Gospels, that those who are being instructed in the first elements of the faith may have these testimonies written on their hearts, lest any doubt concerning the things which they believe should at any time take them by surprise. We are told in the Gospel that Judas, one of Christ's friends and associates at table, betrayed Him. Let the show you how this is foretold in the Psalms: <quote>He who has eaten My bread has lifted up his heel against Me:</quote> and in another place; <quote>My friends and My neighbours drew near and set themselves against Me:</quote> and again; <quote>His words were made softer than oil and yet be they very darts.</quote> What then is meant by his words were made soft? <quote>Judas came to Jesus and said unto Him, Hail, Master, and kissed Him.</quote> Thus through the soft blandishment of a kiss he implanted the execrable dart of betrayal. On which the Lord said to him, <quote>Judas, do you betray the Son of Man with a kiss?</quote> You observe that He was appraised by the traitor's covetousness at thirty pieces of silver. Of this also the Prophet speaks, <quote>And I said unto them, If you think good, give me my price, or if not, forbear;</quote> and presently, <quote>I received from them,</quote> he says, <quote>thirty pieces of silver, and I cast them into the house of the Lord, into the foundry.</quote> Is not this what is written in the Gospels, that Judas, <quote>repenting of what he had done, brought back the money, and threw it down in the temple and departed?</quote> Well did He call it His price, as though blaming and upbraiding. For He had done so many good works among them, He had given sight to the blind, feet to the lame, the power of walking to the palsied, life also to the dead; for all these good works they paid Him death as His price, appraised at thirty pieces of silver. It is related also in the Gospels that He was bound. This also the word of prophecy had foretold by Isaiah, saying, <quote>Woe unto their soul, who have devised a most evil device against themselves, saying, Let us bind the just One, seeing that He is unprofitable to us.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0056",
+        "kind": "p",
+        "text": "21. But, says some one, <quote>Are these things to be understood of the Lord? Could the Lord be held prisoner by men and dragged to judgment?</quote> Of this also the same Prophet shall convince you. For he says, <quote>The Lord Himself shall come into judgment with the elders and princes of the people.</quote> The Lord is judged then according to the Prophet's testimony, and not only judged, but scourged, and smitten on the face with the palms (of men's hands), and spitted on, and suffers every insult and indignity for our sake. And because all who should hear these things preached by the Apostles would be perfectly amazed, therefore also the Prophet speaking in their person exclaims, <quote>Lord, who has believed our report?</quote> For it is incredible that God, the Son of God, should be spoken of and preached as having suffered these things. For this reason they are foretold by the Prophets, lest any doubt should spring up in those who are about to believe. Christ the Lord Himself therefore in His own person, says, <quote>I gave My back to the scourges, and My cheeks to the palms, I turned not away My face from shame and spitting.</quote> This also is written among His other sufferings, that they bound Him, and led Him away to Pilate. This also the Prophet foretold, saying, <quote>And they bound him and conducted Him as a pledge of friendship <em>(xenium)</em> to King Jarim.</quote> But some one objects, <quote>But Pilate was not a king.</quote> Hear then what the Gospel relates next, <quote>Pilate hearing that He was from Galilee, sent Him to Herod, who was king in Israel at that time.</quote> And rightly does the Prophet add the name <quote>Jarim,</quote> which means a wild-vine, for Herod was not of the house of Israel, nor of that Israelitish vine which the Lord had brought out of Egypt, and <quote>planted in a very fruitful hill,</quote> but was a wild vine, i.e. of an alien stock. Rightly, therefore, was he called <quote>a wild-vine,</quote> because he in nowise sprung from the shoots of the vine of Israel. And whereas the Prophet used the phrase <quote> <em>xenium</em>,</quote> <quote>A pledge of friendship,</quote> this also corresponds, <quote>For Herod and Pilate,</quote> as the Gospel witnesses, <quote>from being enemies were made friends,</quote> and, as though in token of their reconciliation, each sent Jesus bound to the other. What matter, so long as Jesus, as Saviour, reconciles those who were at variance, and restores peace, and also brings back concord! Wherefore of this also it is written in Job, <quote>May the Lord reconcile the hearts of the princes of the earth.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0057",
+        "kind": "p",
+        "text": "22. It is related that when Pilate would fain have released Him all the people cried out, <quote>Crucify Him, Crucify Him!</quote> This also the Prophet Jeremiah foretells, saying, in the person of the Lord Himself, <quote>My inheritance has become to Me as a lion in the forest. He has uttered his voice against Me, wherefore I have hated it. And therefore (says He) I have forsaken and left My house.</quote> And again in another place, <quote>Against whom have ye opened your mouth, and against whom have ye let loose your tongues?</quote> When He stood before His judge, it is written that <quote>He held His peace.</quote> Many Scriptures testify of this. In the Psalms it is written, <quote>I became as a man that hears not, and in whose mouth are no reproofs.</quote> And again, <quote>I was as a deaf man, and heard not, and as one that is dumb and opens not his mouth.</quote> And again another Prophet says, <quote>As a lamb before her shearer, so He opened not His mouth. In His humiliation His judgment was taken away.</quote> It is written that there was put on Him a crown of thorns. Of this hear in the Canticles the voice of God the Father marvelling at the iniquity of Jerusalem in the insult done to His Son: <quote>Go forth and see, you daughters of Jerusalem, the crown wherewith His mother has crowned Him.</quote> Moreover, of the thorns another Prophet makes mention: <quote>I looked that she should bring forth grapes, and she brought forth thorns, and instead of righteousness a cry.</quote> But that you may know the secrets of the mystery, it behooved Him, Who came to take away the sins of the world, to free the earth also from the curse, which it had received through the sin of the first man, when the Lord said <quote>Cursed be the earth in your labours: thorns: and thistles shall it bring forth to you.</quote> For this cause, therefore, is Jesus crowned with thorns, that first sentence of condemnation might be remitted. He is led to the cross, and the life of the whole word is suspended on the wood of which it is made. I would point out how this also is confirmed by testimony from the Prophets. You find Jeremiah speaking of it thus, <quote>Come and let us cast wood into His bread, and crush Him out of the land of the living.</quote> And again, Moses, mourning over them, says, <quote>Your life shall be suspended before your eyes, and you shall fear day and night, and shall not believe your life.</quote> But we must pass on, for already we are exceeding our proposed measure of brevity, and are lengthening out our <quote>short word</quote> by a long dissertation. Yet we will add a few words more, lest we should seem altogether to have passed over what we undertook.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0058",
+        "kind": "p",
+        "text": "23. It is written that when the side of Jesus was pierced <quote>He shed thereout blood and water.</quote> This has a mystical meaning. For Himself had said, <quote>Out of His belly shall flow rivers of living water.</quote> But He shed forth blood also, of which the Jews sought that it might be upon themselves and upon their children. He shed forth water, therefore, which might wash believers; He shed forth blood also which might condemn unbelievers. Yet it might be understood also as prefiguring the twofold grace of baptism, one that which is given by the baptism of water, the other that which is sought through martyrdom in the outpouring of blood, for both are called baptism. But if you ask further why our Lord is said to have poured forth blood and water from His side rather than from any other member, I imagine that by the rib in the side the woman is signified. Since the fountain of sin and death proceeded from the first woman, who was the rib of the first Adam, the fountain of redemption and life is drawn from the rib of the second Adam.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0059",
+        "kind": "p",
+        "text": "24. It is written that in our Lord's passion there was darkness over the earth from the sixth hour until the ninth. To this also you will find the Prophet witnessing, <quote>Your Sun shall go down at mid-day.</quote> And again, the Prophet Zechariah, <quote>In that day there shall be no more light. There shall be cold and frost in one day, and that day known to the Lord; and it shall be neither day nor night, but at evening time there shall be light.</quote> What plainer language could the Prophet have used for his words to seem not so much a prophecy of the future as a narrative of the past? He foretold both the cold and the frost. For Peter was warming himself at the fire because it was cold: and he was suffering cold not only in respect of the time (the early hour), but also of his faith. There is added, <quote>and that day shall be known to the Lord; and it shall be neither day nor night.</quote> What is <quote>neither day nor night?</quote> Did he not plainly speak of the darkness interposed in the day, and then the light afterwards restored? That was not day, for it did not begin with sun-rise, neither was it complete night, for it did not, when the day was ended, receive its due space from the beginning or prolong it to the end; but the light which had been driven away by the crime of wicked men is restored at evening time. For after the ninth hour, the darkness is driven away, and the sun is restored to the world. Again, another Prophet witnesses of the same, <quote>The light shall be darkened upon the earth in the day-time.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0060",
+        "kind": "p",
+        "text": "25. The Gospel further relates that the soldiers parted the garments of Jesus among themselves, and cast lots upon His vesture. The Holy Spirit provided that this also should be witnessed beforehand by the Prophets, for David says, <quote>They parted my garments among them, and upon my vesture they did cast lots.</quote> Nor were the Prophets silent even as to the robe, the scarlet robe, which the soldiers are said to have put upon Him in mockery. Listen to Isaiah, <quote>Who is this that comes from Edom, red in his garments from Bozrah? Wherefore are your garments red, and your raiment as though you had trodden in the wine-press?</quote> To which Himself replies, <quote>I have trodden the wine-press alone, O daughter of Sion.</quote> For He alone it is Who has not sinned, and has taken away the sins of the world. For if by one man death could enter into the world, how much more by one man, Who was God also, could life be restored!",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0061",
+        "kind": "p",
+        "text": "26. It is related also that vinegar was given Him to drink, or wine mingled with myrrh which is bitterer than gall. Hear what the Prophet has foretold of this: <quote>They gave Me gall to eat, and when I was thirsty they gave Me vinegar to drink.</quote> Agreeably with which Moses, even in his day, said to the people, <quote>Their vine is of the vineyards of Sodom, and their branch of Gomorrha; their grape is a grape of gall, and their cluster a cluster of bitterness.</quote> And again, the Prophet upbraiding them says, <quote>Oh foolish people and unwise, have ye thus requited the Lord?</quote> Moreover, in the Canticles the same things are foretold, where even the garden in which the Lord was crucified is indicated: <quote>I have come into my garden, my sister, my spouse, and have gathered in my myrrh.</quote> Here the Prophet has plainly set forth the wine mingled with myrrh which the Lord has given Him to drink.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0062",
+        "kind": "p",
+        "text": "27. Next it is written that <quote>He gave up the ghost.</quote> This also had been foretold, by the Prophet, who says, addressing the Father in the Person of the Son, <quote>Into Your hands I commend My Spirit.</quote> He is related also to have been buried, and a great stone laid at the door of the sepulchre. Hear what the word of prophecy foretold by Jeremiah concerning this also, <quote>They have cut off my life in the pit, and have laid a stone upon Me.</quote> These words of the Prophet point most plainly to His burial. Here are yet others, <quote>The righteous has been taken away from beholding iniquity, and his place is in peace.</quote> And in another place, <quote>I will give the malignant for his burial;</quote> and yet once more, <quote>He has lain down and slept as a lion, and as a lion's cub; who shall rouse Him up?</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0063",
+        "kind": "p",
+        "text": "28. That He descended into hell is also evidently foretold in the Psalms, where it is said, <quote>You have brought Me also into the dust of the death.</quote> And again, <quote>What profit is there in my blood, when I shall have descended into corruption?</quote> And again, <quote>I descended into the deep mire, where there is no bottom.</quote> Moreover, John says, <quote>Are You He that shall come (into hell, without doubt), or do we look for another?</quote> Whence also Peter says that <quote>Christ being put to death in the flesh, but quickened in the Spirit which dwells in Him, descended to the spirits who were shut up in prison, who in the days of Noah believed not, to preach unto them;</quote> where also what He did in hell is declared. Moreover, the Lord says by the Prophet, as though speaking of the future, <quote>You will not leave my soul in hell, neither will You suffer Your Holy One to see corruption.</quote> Which again, in prophetic language he speaks of as actually fulfilled, <quote>O Lord, You have brought my soul out of hell: You have saved me from them that go down into the pit.</quote> There follows next—",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0064",
+        "kind": "p",
+        "text": "29. <em>The Third Day He Rose Again from the Dead</em>. The glory of Christ's resurrection threw a lustre upon everything which before had the appearance of weakness and frailty. If a while since it seemed to you impossible that an immortal Being could die, you see now that He who has overcome death and is risen again cannot be mortal. But understand herein the goodness of the Creator, that so far as you by sinning have cast yourself down, so far has He descended in following you. And do not impute lack of power to God, the Creator of all things, by imagining his work to have ended in the fall into an abyss which He in His redemptive purpose was unable to reach. We speak of infernal and supernal, because we are bounded by the definite circumference of the body, and are confined within the limits of the region prescribed to us. But to God, Who is present everywhere and absent nowhere, what is infernal and what supernal? Notwithstanding, through the assumption of a body there is room for these also. The flesh which had been deposited in the sepulchre, is raised, that that might be fulfilled which was spoken by the Prophet, <quote>You will not suffer Your Holy One to see corruption.</quote> He returned, therefore, a victor from the dead, leading with Him the spoils of hell. For He led forth those who were held in captivity by death, as He Himself had foretold, when He said, <quote>When I shall be lifted up from the earth I shall draw all unto Me.</quote> To this the Gospel bears witness, when it says, <quote>The graves were opened, and many bodies of saints which slept arose, and appeared unto many, and entered into the holy City,</quote> that city, doubtless, of which the Apostle says, <quote>Jerusalem which is above is free, which is the Mother of us all.</quote> As also he says again to the Hebrews, <quote>It became Him, for Whom are all things, and by Whom are all things, Who had brought many sons into glory, to make the Author of their salvation perfect through suffering.</quote> Sitting, therefore, on the right hand of God in the highest heavens, He placed there that human flesh, made perfect through sufferings, which had fallen to death by the lapse of the first man, but was now restored by the virtue of the resurrection. Whence also the Apostle says, <quote>Who has raised us up together and made us sit together in the heavenly places.</quote> For He was the potter, Who, as the Prophet Jeremiah teaches, <quote>took up again with His hands, and formed anew, as it seemed good to Him, the vessel which had fallen from His hands and was broken in pieces.</quote> And it seemed good to Him that the mortal and corruptible body which He had assumed, this body raised from the rocky sepulchre and rendered immortal and incorruptible, He should now place not on the earth but in heaven, and at His Father's right hand. The Scriptures of the Old Testament are full of these mysteries. No Prophet, no Lawgiver, no Psalmist is silent, but almost every one of the sacred pages speaks of them. It seems superfluous, therefore, to linger in collecting testimonies; yet we will cite some few, remitting those who desire to drink more largely to the well-springs of the divine volumes themselves.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0065",
+        "kind": "p",
+        "text": "30. It is said then in the Psalms, <quote>I laid me down and slept, and rose up again, because the Lord sustained me.</quote> Again, in another place, <quote>Because of the wretchedness of the needy and the groaning of the poor, now will I arise, says the Lord.</quote> And elsewhere, as we have said above, <quote>O Lord, you have brought my soul out of hell; You have saved me from them that go down into the pit.</quote> And in another place, <quote>Because You have turned and quickened me, and brought me out of the deep of the earth again.</quote> In the 87th Psalm He is most evidently spoken of: <quote>He became as a man without help, free among the dead.</quote> It is not said <quote>a man,</quote> but <quote>as a man.</quote> For in that He descended into hell, He was <quote>as a man:</quote> but He was <quote>free among the dead,</quote> because He could not be detained by death. And therefore in the one nature the power of human weakness, in the other the power of divine majesty is exhibited. The Prophet Hosea also speaks most manifestly of the third day in this wise, <quote>After two days He will heal us; but on the third day we shall rise and shall live in His presence.</quote> This he says in the person of those who, rising with Him on the third day, are recalled from death to life. And they are the same persons who say, <quote>On the third day we shall rise again, and shall live in His presence.</quote> But Isaiah says plainly, <quote>Who brought forth from the earth the great Shepherd of the sheep.</quote> Then, that the women were to see His resurrection, while the Scribes and Pharisees and the people disbelieved, this also Isaiah foretold in these words, <quote>You women, who come from beholding, come: for it is a people that has no understanding.</quote> But as to the women who are related to have gone to the sepulchre after the resurrection, and to have sought Him without finding, as Mary Magdalene, who is related to have come to the sepulchre before it was light, and not finding Him, to have said, weeping, to the angels who were there, <quote>They have taken away the Lord, and I know not where they have laid Him</quote> — even this is foretold in the Canticles: <quote>On my bed I sought Him Whom my soul loves; I sought Him in the night, and found Him not.</quote> Of those also who found Him, and held Him by the feet, it is foretold, in the same book, <quote>I will hold Him Whom my soul loves, and will not let Him go.</quote> Take these passages, a few of many; for being intent on brevity we cannot heap together more.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0066",
+        "kind": "p",
+        "text": "31. <em>He Ascended into Heaven, and Sits on the Right Hand of the Father: from Thence He Shall Come to Judge the Quick and the Dead</em>. These clauses follow with suitable brevity at the end of this part of the Creed which treats of the Son. What is said is plain, but the question is how and in what sense it is to be understood. For to <quote>ascend,</quote> and to <quote>sit,</quote> and to <quote>come,</quote> unless you understand the words in accordance with the dignity of the divine nature, appear to point to something of human weakness. For having consummated what was to be done on earth, and having recalled souls from the captivity of hell, He is spoken of as ascending up to heaven, as the Prophet had foretold, <quote>Ascending up on high He led captivity captive, and gave gifts unto men,</quote> those gifts, namely, which Peter, in the Acts of the Apostles, spoke of concerning the Holy Ghost, <quote>Being therefore by the right hand of God exalted, He has shed forth this gift which you do see and hear.</quote> He gave the gift of the Holy Ghost to men, because the captives, whom the devil had before carried into hell through sin, Christ by His resurrection from death recalled to heaven. He ascended therefore into heaven, not where God the Word had not been before, for He was always in heaven, and abode in the Father, but where the Word made flesh had not been seated before. Lastly, since this entrance within the gates of heaven seemed new to its ministers and princes, they say to one another, on seeing the nature of flesh penetrating into the secret recesses of heaven, as David full of the Holy Ghost, declares, <quote>Lift up your gates, you princes, and be lifted up ye everlasting gates, and the King of glory shall enter in. Who is the King of glory? The Lord strong and mighty, the Lord mighty in battle.</quote> Which words are spoken not with reference to the power of the divine nature, but with reference to the novelty of flesh ascending to the right hand of God. The same David says elsewhere, <quote>God has ascended jubilantly, and the Lord with the sound of the trumpet.</quote> For conquerors are wont to return from battle with the sound of the trumpet. Of Him also it is said, <quote>Who builds up His ascent in heaven.</quote> And again, <quote>Who has ascended above the cherubims, flying upon the wings of the winds.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0067",
+        "kind": "p",
+        "text": "32. To sit at the right hand of the Father is a mystery belonging to the Incarnation. For it does not befit that incorporeal nature without the assumption of flesh; neither is the excellency of a heavenly seat sought for the divine nature, but for the human. Whence it is said of Him, <quote>Your seat, O God, is prepared from thence forward; You are from everlasting.</quote> The seat, then, whereon the Lord Jesus was to sit, was prepared from everlasting, <quote>in whose name every knee should bow, of things in heaven and things on earth, and things under the earth; and every tongue shall confess to Him that Jesus is Lord in the glory of God the Father;</quote> of Whom also David thus speaks, <quote>The Lord said unto my Lord, Sit on my right hand until I make Your enemies Your footstool.</quote> Referring to which words the Lord in the Gospel said to the Pharisees, <quote>If therefore David in spirit calls Him Lord, how is He his Son?</quote> By which He showed that according to the Spirit He was the Lord, according to the flesh He was the Son, of David. Whence also the Lord Himself says in another place, <quote>Verily I say unto you, henceforth you shall see the Son of Man sitting at the right hand of the power of God.</quote> And the Apostle Peter says of Christ, <quote>Who is on the right hand of God, seated in the heavens.</quote> And Paul also, writing to the Ephesians, <quote>According to the working of the might of His power, which He wrought in Christ, when He raised Him from the dead, and seated Him on His right hand.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0068",
+        "kind": "p",
+        "text": "33. That He shall come to judge the quick and the dead we are taught by many testimonies of the divine Scriptures. But before we cite what the Prophets say on this point, we think it necessary to remind you that this doctrine of the faith would have us daily solicitous concerning the coming of the Judge, that we may so frame our conduct as having to give account to the Judge who is at hand. For this is what the Prophet said of the man who is blessed, that, <quote>He orders his words in judgment.</quote> When, however, He is said to judge the quick and the dead, this does not mean that some will come to judgment who are still living, others who are already dead; but that He will judge both souls and bodies, where, by souls are meant <quote>the quick,</quote> and the bodies <quote>the dead;</quote> as also the Lord Himself says in the Gospel, <quote>Fear not them who are able to kill the body, but are not able to hurt the soul; but rather fear Him who is able to destroy both soul and body in Gehenna.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0069",
+        "kind": "p",
+        "text": "34. Now let us show briefly, if you will, that these things were foretold by the Prophets. You will yourself, since you are so minded, gather together more from the ample range of the Scriptures. The Prophet Malachi says, <quote>Behold the Lord Almighty shall come, and who shall abide the day of His coming, or who shall abide the sight of Him? For He does come as the fire of a furnace and as fuller's soap: and He shall sit, refining and purifying as it were gold and silver.</quote> But that you may know more certainly Who this Lord is of Whom these things are said, hear what the Prophet Daniel also foretells: <quote>I saw,</quote> says he, <quote>in the vision of the night, and, behold, One like the Son of Man coming with the clouds of heaven, and He came near to the Ancient of days, and was brought near before Him; and there was given to Him dominion, and honour, and a kingdom. And all peoples, tribes, and languages shall serve Him. And His dominion is an eternal dominion which shall not pass away, and His kingdom shall not be destroyed.</quote> By these words we are taught not only of His coming and judgment, but of His dominion and kingdom, that His dominion is eternal, and His kingdom indestructible, without end; as it is said in the Creed, <quote>and of His kingdom there shall be no end.</quote> So that one who says that Christ's kingdom shall one day have an end is very far from the faith. Yet it behooves us to know that the enemy is wont to counterfeit this salutary advent of Christ with cunning fraud in order to deceive the faithful, and in the place of the Son of Man, Who is looked for as coming in the majesty of His Father, to prepare the Son of Perdition with prodigies and lying signs, that instead of Christ he may introduce Antichrist into the world; of whom the Lord Himself warned the Jews beforehand in the Gospels, <quote>Because I have come in My Father's Name, and you received Me not, another will come in his own name, and him you will receive.</quote> And again, <quote>When you shall see the abomination of desolation, spoken of by Daniel the Prophet, standing in the holy place, let him that reads understand.</quote> Daniel, therefore, in his visions speaks very fully and amply of the coming of that delusion: but it is not worth while to cite instances, for we have enlarged enough already; we therefore refer any one who may wish to know more concerning these matters to the visions themselves. The Apostle also himself says, <quote>Let no than deceive you by any means, for that day shall not come except there come a falling away first, and that man of sin be revealed, the Son of Perdition, who opposes and exalts himself above everything that is called God, or that is worshipped, so that he sits in the temple of God, showing himself as though himself were God.</quote> And soon afterwards, <quote>Then shall that wicked one be revealed, whom the Lord Jesus shall slay with the breath of His mouth, and shall destroy with the brightness of His coming: whose coming is after the working of Satan with all power and signs and lying wonders.</quote> And again, shortly afterwards, <quote>And therefore the Lord shall send unto them strong delusion, that they may believe a lie, that all may be judged who have not believed the truth.</quote> For this reason, therefore, is this <quote>delusion</quote> foretold unto us by the words of Prophets, Evangelists, and Apostles, lest any one should mistake the coming of Antichrist for the coming of Christ. But as the Lord Himself says, <quote>When they shall say unto you, lo, here is Christ, or lo, He is there, believe it not. For many false Christs and false prophets shall come and shall seduce many.</quote> But let us see how He has pointed out the judgment of the true Christ: <quote>As the lightning shines from the east unto the west, so shall the coming of the Son of Man be.</quote> When, therefore, the true Lord Jesus Christ shall come, He will sit and set up his throne of judgment. As also He says in the Gospel, <quote>He shall separate the sheep from the goats,</quote> that is, the righteous from the unrighteous; as the Apostle writes, <quote>We must all stand before the judgment-seat of Christ, that every man may receive the awards due to the body, according as he has done, whether they be good or evil.</quote> Moreover, the judgment will be not only for deeds, but for thoughts also, as the same Apostle says, <quote>Their thoughts mutually accusing or else excusing one another, in the day when God shall judge the secrets of men.</quote> But on these points let this suffice. Next follows in the order of the faith—",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0070",
+        "kind": "p",
+        "text": "35. <em>And in the Holy Ghost</em>. What has been delivered above somewhat at large concerning Christ relates to the mystery of His Incarnation and of His Passion, and, by thus intervening, as belonging to His Person, has somewhat delayed the mention of the Holy Spirit. Otherwise, if the divine nature alone be taken into account, as in the beginning of the Creed we say <quote>I believe in God the Father Almighty,</quote> and afterwards, <quote>In Jesus Christ His only Son our Lord,</quote> so in like manner we add, <quote>And in the Holy Ghost.</quote> But all of these particulars which are spoken of above concerning Christ relate, as we have said, to the dispensation of the flesh (to His Incarnation). By the mention of the Holy Spirit, the mystery of the Trinity is completed. For as one Father is mentioned, and there is no other Father, and one only-begotten Son is mentioned, and there is no other only-begotten Son, so also there is one Holy Ghost, and there cannot be another Holy Ghost. In order, therefore, that the Persons may be distinguished, the terms expressing relationship (the properties) are varied, whereby the first is understood to be the Father, of Whom are all things, Who Himself also has no Father, the second the Son, as born of the Father, and the third the Holy Ghost, as proceeding from both, and sanctifying all things. But that in the Trinity one and the same Godhead may be set forth, since, prefixing the preposition <quote>in</quote> we say that we believe <quote> <em>in</em> God the Father,</quote> so also we say, <quote> <em>in</em> Christ His Son,</quote> so also <quote> <em>in</em> the Holy Ghost.</quote> But our meaning will be made more plain in what follows. For the Creed proceeds—",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0071",
+        "kind": "p",
+        "text": "36. <quote> <em>The Holy Church; The Forgiveness of Sin, the Resurrection of This Flesh</em>.</quote> It is not said, <quote> <em>In</em> the holy Church,</quote> nor <quote> <em>In</em> the forgiveness of sins,</quote> nor <quote> <em>In</em> the resurrection of the flesh.</quote> For if the preposition <quote>in</quote> had been added, it would have had the same force as in the preceding articles. But now in those clauses in which the faith concerning the Godhead is declared, we say <quote> <em>In</em> God the Father,</quote> and <quote> <em>In</em> Jesus Christ His Son,</quote> and <quote> <em>In</em> the Holy Ghost,</quote> but in the rest, where we speak not of the Godhead but of creatures and mysteries, the preposition <quote> <em>in</em> </quote> is not added. We do not say <quote>We believe <em>in</em> the holy Church,</quote> but <quote>We believe the holy Church,</quote> not as God, but as the Church gathered together to God: and we believe that there is <quote>forgiveness of sins;</quote> we do not say <quote>We believe <em>in</em> the forgiveness of sins;</quote> and we believe that there will be a <quote>Resurrection of the flesh;</quote> we do not say <quote>We believe <em>in</em> the resurrection of the flesh.</quote> By this monosyllabic preposition, therefore, the Creator is distinguished from the creatures, and things divine are separated from things human.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0072",
+        "kind": "p",
+        "text": "This then is the Holy Ghost, who in the Old Testament inspired the Law and the Prophets, in the New the Gospels and the Epistles. Whence also the Apostle says, <quote>All Scripture given by inspiration of God is profitable for instruction.</quote> And therefore it seems proper in this place to enumerate, as we have learned from the tradition of the Fathers, the books of the New and of the Old Testament, which, according to the tradition of our forefathers, are believed to have been inspired by the Holy Ghost, and have been handed down to the Churches of Christ.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0073",
+        "kind": "p",
+        "text": "37. Of the Old Testament, therefore, first of all there have been handed down five books of Moses, Genesis, Exodus, Leviticus, Numbers, Deuteronomy; Then Jesus Nave, (Joshua the son of Nun), The Book of Judges together with Ruth; then four books of Kings (Reigns), which the Hebrews reckon two; the Book of Omissions, which is entitled the Book of Days (Chronicles), and two books of Ezra (Ezra and Nehemiah), which the Hebrews reckon one, and Esther; of the Prophets, Isaiah, Jeremiah, Ezekiel, and Daniel; moreover of the twelve (minor) Prophets, one book; Job also and the Psalms of David, each one book. Solomon gave three books to the Churches, Proverbs, Ecclesiastes, Canticles. These comprise the books of the Old Testament.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0074",
+        "kind": "p",
+        "text": "Of the New there are four Gospels, Matthew, Mark, Luke, John; the Acts of the Apostles, written by Luke; fourteen Epistles of the Apostle Paul, two of the Apostle Peter, one of James, brother of the Lord and Apostle, one of Jude, three of John, the Revelation of John. These are the books which the Fathers have comprised within the Canon, and from which they would have us deduce the proofs of our faith.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0075",
+        "kind": "p",
+        "text": "38. But it should be known that there are also other books which our fathers call not <quote>Canonical</quote> but <quote>Ecclesiastical:</quote> that is to say, Wisdom, called the Wisdom of Solomon, and another Wisdom, called the Wisdom of the Son of Syrach, which last-mentioned the Latins called by the general title Ecclesiasticus, designating not the author of the book, but the character of the writing. To the same class belong the Book of Tobit, and the Book of Judith, and the Books of the Maccabees. In the New Testament the little book which is called the Book of the Pastor of Hermas, [and that] which is called The Two Ways, or the Judgment of Peter; all of which they would have read in the Churches, but not appealed to for the confirmation of doctrine. The other writings they have named <quote>Apocrypha.</quote> These they would not have read in the Churches.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0076",
+        "kind": "p",
+        "text": "These are the traditions which the Fathers have handed down to us, which, as I said, I have thought it opportune to set forth in this place, for the instruction of those who are being taught the first elements of the Church and of the Faith, that they may know from what fountains of the Word of God their draughts must be taken.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0077",
+        "kind": "p",
+        "text": "39. We come next in the order of belief to the <em>Holy Church</em>. We have mentioned above why the Creed does not say here, as in the preceding article, <quote> <em>In</em> the Holy Church.</quote> They, therefore, who were taught above to believe in one God, under the mystery of the Trinity, must believe this also, that there is one holy Church in which there is one faith and one baptism, in which is believed one God the Father, and one Lord Jesus Christ, His Son, and one Holy Ghost. This is that holy Church which is without spot or wrinkle. For many others have gathered together Churches, as Marcion, and Valentinus, and Ebion, and Manichæus, and Arius, and all the other heretics. But those Churches are not without spot or wrinkle of unfaithfulness. And therefore the Prophet said of them, <quote>I hate the Church of the malignants, and I will not sit with the ungodly.</quote> But of this Church which keeps the faith of Christ entire, hear what the Holy Spirit says in the Canticles, <quote>My dove is one; the perfect one of her mother is one.</quote> He then who receives this faith in the Church let him not turn aside in the Council of vanity, and let him not enter in with those who practise iniquity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0078",
+        "kind": "p",
+        "text": "For Marcion's assembly is a Council of vanity in that he denies that the Father of Christ is God, the Creator, who by His Son made the world. Ebion's is a Council of vanity since he teaches that, while we believe in Christ, we are withal to observe the circumcision of the flesh, the keeping of the Sabbath, the accustomed sacrifices, and all the other ordinances according to the letter of the Law. Manichæus' is a Council of vanity in regard of his teaching; first in that he calls himself the Paraclete, then that he says that the world was made by an evil God, denies God the Creator, rejects the Old Testament, asserts two natures, one good the other evil, mutually opposing one another, affirms that men's souls are co-eternal with God, that, according to the Pythagoreans, they return through various circles of nativity into cattle and animals and beasts, denies the resurrection of our flesh, maintains that the passion and nativity of the Lord were not in the verity of flesh, but only in appearance. It was the Council of vanity when Paul of Samosata and his successor Photinus afterwards taught, that Christ was not born of the Father before the world, but had His beginning from Mary, and believed not that being God He was born man, but that of man He was made God. It was the Council of vanity when Arius and Eunomius taught as their determinate opinion that the Son of God was not born of the very substance of the Father, but was created out of nothing, and that the Son of God had a beginning, and is inferior to the Father: moreover they affirm that the Holy Ghost is not only inferior to the Son, but is also a ministering Spirit. Theirs also is a Council of vanity who confess indeed that the Son is of the substance of the Father, but distinguish and separate the Holy Spirit, while yet the Saviour shows in the Gospel that the power and Godhead of the Trinity are one and the same, saying, <quote>Baptize all nations in the Name of the Father, and of the Son, and of the Holy Ghost,</quote> and it is plainly impious for man to put asunder what God has joined together. That also is the Council of vanity which a pertinacious and wicked contention formerly gathered together, affirming that Christ assumed human flesh indeed, but not a rational soul withal, since Christ conferred one and the same salvation on the flesh, and the animal soul, and the reason and mind of man. That also is the Council of vanity which Donatus drew together throughout Africa, by charging the Church with traditorship (delivering up the sacred books), and with which Novatus disturbed men's minds by denying the grant of repentance to the lapsed, and condemning second marriages, though contracted possibly of necessity. All of these then avoid as congregations of malignants. Those also, if such there be, who are said to assert that the Son of God does not see or know the Father, as Himself is known and seen by the Father; or that the kingdom of Christ will have an end; or that the flesh will not be raised in the complete restoration of its substance; these also who deny that there will be a just judgment of God in respect of all, and affirm that the devil will be absolved from the punishment of damnation due to him. To all these, I say, let the believer turn a deaf ear. But hold fast by the holy Church, which confesses God the Father Almighty, and His only Son, Jesus Christ our Lord, and the Holy Ghost, of one concordant and harmonious substance, believes that the Son of God was born of the Virgin, suffered for man's salvation, rose again from the dead in the same flesh in which he was born; and, lastly, hopes that He will come the Judge of all, through Whom also both the <em>Forgiveness of Sins and the Resurrection of the Flesh</em> are preached.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0079",
+        "kind": "p",
+        "text": "40. As to the <em>Forgiveness of Sins</em>, it ought to be enough simple to believe. For who would ask the cause or the reason when a Prince grants indulgence? When the liberality of an earthly sovereign is no fit subject for discussion, shall man's temerity discuss God's largess? For the Pagans are wont to ridicule us, saying that we deceive ourselves, fancying that crimes committed in deed can be purged by words. And they say, <quote>Can he who has committed murder be no murderer, and he who has committed adultery be accounted no adulterer? How then shall one guilty of crimes of this sort all of a sudden be made holy?</quote> But to this, as I said, we answer better by faith than by reason. For he is King of all who has promised it: He is Lord of heaven and earth who assures us of it. Would you have me refuse to believe that He who made me a man of the dust of the earth can of a guilty person make me innocent? And that He who when I was blind made me see, or when I was deaf made me hear, or lame walk, can recover for me my lost innocence? And to come to the witness of Nature— to kill a man is not always criminal, but to kill of malice, not by law, is criminal. It is not the deed then, in such matters, that condemns me, because sometimes it is rightly done, but the evil intention of the mind. If then my mind which had been rendered criminal, and in which the sin originated, is corrected, why should I seem to you incapable of being made innocent, who before was criminal? For if it is plain, as I have shown, that crime consists not in the deed but in the will, as an evil will, prompted by an evil demon, has made me obnoxious to sin and death, so the will prompted by the good God, being changed to good, has restored me to innocence and life. It is the same also in all other crimes. In this way there is found to be no opposition between our faith and natural reason, while forgiveness of sins is imputed not to deeds, which when once done cannot be changed, but to the mind, which it is certain can be converted from bad to good.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0080",
+        "kind": "p",
+        "text": "41. This last article, which affirms the <em>Resurrection of the Flesh</em>, concludes the sum of all perfection with succinct brevity. Although on this point also the faith of the Church is impugned, not only by Gentiles, but by heretics likewise. For Valentinus altogether denies the resurrection of the flesh, so do the Manicheans, as we showed above. But they refuse to listen to the Prophet Isaiah when he says, <quote>The dead shall rise, and they who are in the graves shall be raised,</quote> or to most wise Daniel, when he declares, <quote>Then they who are in the dust of the earth shall arise, these to eternal life, but those to shame and confusion.</quote> Yet even in the Gospels, which they appear to receive, they ought to learn from our Lord and Saviour, Who says, when instructing the Sadducees, <quote>As touching the resurrection of the dead: have ye not read how He says to Moses in the Bush, I am the God of Abraham, the God of Isaac, the God of Jacob? Now God is not the God of the dead but of the living.</quote> Where in what goes before He declares what and how great is the glory of the resurrection, saying, <quote>But in the resurrection of the dead they will neither marry or be given in marriage, but will be as the angels of God.</quote> But the virtue of the resurrection confers on men an angelical state, so that they who have risen from the earth shall not live again on the earth with the brute animals but with angels in heaven— yet those only whose purer life has fitted them for this— those, namely, who even now preserving the flesh of their soul in chastity, have brought it into subjection to the Holy Spirit, and thus with every stain of sins done away and changed into spiritual glory by the virtue of sanctification, have been counted worthy to have it admitted into the society of angels.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0081",
+        "kind": "p",
+        "text": "42. But unbelievers cry, <quote>How can the flesh, which has been putrified and dissolved, or changed into dust, sometimes also swallowed up by the sea, and dispersed by the waves, be gathered up again, and again made one, and a man's body formed anew out of it?</quote> To whom our first answer is in Paul's words: <quote>You fool, that which you sow is not quickened, except it die. And that which you sow, you sow not the body, which shall be, but bare grain of wheat or of some other seed: but God gives it a body as seems good to Him.</quote> Did you not believe that that which you see taking place every year in the seeds which you cast into the ground will come to pass in your flesh which by the law of God is sown in the earth? Why, pray, have you so mean an opinion of God's power that you do not believe it possible for the scattered dust of which each man's flesh was composed to be re-collected and restored to its own original fabric? Do you refuse to admit the fact when you see mortal ingenuity search for veins of metal deeply buried in the ground, and the experienced eye discover gold where the inexperienced thinks there is nothing but earth? Why should we refuse to grant these things to Him who made man, when he whom He made can do so much? And when mortal ingenuity discovers that gold has its own proper vein, and silver another, and that a far different vein of copper, and diverse and distinct veins of iron and lead lie concealed beneath what has the appearance of earth, shall divine power be thought unable to discover and distinguish the component particles belonging to each man's flesh, even though they seem to be dispersed?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0082",
+        "kind": "p",
+        "text": "43. But let us endeavour to assist those souls which fail in their faith through reasons drawn from nature. If one should mix different sorts of seeds together and sow them indiscriminately in the earth, will not the grain of each several kind, wherever it may have been thrown, shoot forth at the proper time in accordance with its own specific nature so as to reproduce the condition of its own form and its own body.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0083",
+        "kind": "p",
+        "text": "Thus then the substance of each individual flesh, though its particles have been variously and diversely scattered, has within it an immortal principle, since it is the flesh of an immortal soul, and at the time which God in His good pleasure shall appoint, there will be collected from the earth and drawn to it, its own component particles, which will be restored to that form which death had formerly dissolved. And thus it will come to pass that to each soul will be restored, not a confused or foreign body but its own which it had when alive, in order that the flesh together with its own soul may for the conflicts of the present life either be crowned if undefiled, or punished if defiled. And accordingly our Church, in teaching the faith instead of <quote>the Resurrection of the flesh,</quote> as the Creed is delivered in other Churches, guardedly adds the pronoun <quote>this</quote>— <quote>the resurrection of <em>this</em> flesh.</quote> <quote>Of this,</quote> that is, no doubt, of the person who rehearses the Creed, making the sign of the cross upon his forehead, while he says the word, that each believer may know that his flesh, if he have kept it clean from sin, will be a vessel of honour, useful to the Lord, prepared for every good work; but, if defiled by sins, that it will be a vessel of wrath destined to destruction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0084",
+        "kind": "p",
+        "text": "But now, concerning the glory of the resurrection and the greatness of the promise by which God has bound Himself, if any one desires to be more fully informed, he will find notices in almost all the divine volumes, out of which, simply by way of bringing them to remembrance, we will mention a few passages in the present place, and then make an end of the work which you have enjoined. The Apostle Paul makes use of such arguments as the following in asserting that mortal flesh will rise again. <quote>But if there be no resurrection of the dead, then is not Christ risen. And if Christ be not risen, our preaching is vain and your faith is vain.</quote> And presently afterwards, <quote>But now is Christ risen from the dead, the first-fruits of them that sleep. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order. Christ the first-fruits, afterwards they that are Christ's at His coming, then comes the end.</quote> And afterways he adds, <quote>Behold I show you a mystery: We shall all rise indeed, but we shall not all be changed;</quote> or as other copies read, <quote>We shall all sleep, indeed but we shall not all be changed; in a moment, in the twinkling of an eye, at the last trump; for the trumpet shall sound, and the dead shall rise incorruptible, and we shall be changed.</quote> However, whichever be the true text, writing to the Thessalonians, he says, <quote>I would not have you ignorant, brethren, concerning those who are asleep, that you sorrow not, as the others who have no hope. For if we believe that Jesus died and rose again, so those also who sleep through Jesus shall God bring with Him. For this we say unto you by the word of the Lord, that we who are alive and remain at the coming of the Lord shall not prevent them that sleep. For the Lord Himself shall descend from heaven with a shout, with the voice of the archangel, with the trump of God, and the dead who are in Christ shall rise first: then we who are alive and remain shall be caught up together with them in the clouds to meet Christ in the air, and so shall we ever be with the Lord.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0085",
+        "kind": "p",
+        "text": "44. But that you may not suppose this to be a novel doctrine peculiar to Paul, I will adduce also what the Prophet Ezekiel foretold by the Holy Ghost. <quote>Behold,</quote> says he, <quote>I will open your graves and bring you forth out of your graves.</quote> Let me recall, further, how Job, who abounds in mystical language, plainly predicts the resurrection of the dead. <quote>There is hope for a tree; for if it be cut down it will sprout again, and its shoot shall never fail. But if its root have waxed old in the earth, and the stock thereof be dead in the dust, yet through the scent of water it will flourish again, and put forth shoots as a young plant. But man, if he be dead, is he departed and gone? And mortal man, if he have fallen, shall he be no more?</quote> Do you not see, that in these words he is appealing to men's sense of shame, as it were, and saying, <quote>Is mankind so foolish, that when they see the stock of a tree which has been cut down shooting forth again from the ground, and dead wood again restored to life, they imagine their own case to have no likeness to that of wood or trees?</quote> But to convince you that Job's words are to be read as a question, when he says, <quote>But mortal man when he has fallen shall he not rise again?</quote> take this proof from what follows; for he adds immediately, <quote>But if a man be dead, shall he live?</quote> And presently afterwards he says, <quote>I will wait till I be made again;</quote> and afterwards he repeats the same: <quote>Who shall raise again upon the earth my skin, which is now draining this cup of suffering?</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0086",
+        "kind": "p",
+        "text": "45. Thus much in proof of the profession which we make in the Creed when we say <quote>The resurrection of this flesh.</quote> As to the addition <quote>this</quote> see how consonant it is with all that we have cited from the divine books. What else does Job signify in the place which we explained above, <quote>He will raise again my skin, which is now draining this cup of suffering,</quote> that is, which is undergoing these torments? Does he not plainly say that there will be a resurrection of this flesh, this, I mean, which is now undergoing the extremity of trials and tribulations? Moreover, when the Apostle says, <quote>This corruptible must put on incorruption, and this mortal must put on immortality,</quote> are not his words those of one who in a manner touches his body and places his finger upon it? This body then, which is now corruptible, will by the grace of the resurrection be incorruptible, and this which is now mortal will be clothed with virtues of immortality, that, as <quote>Christ rising from the dead dies no more, death has no more dominion over Him,</quote> so those who shall rise in Christ shall never again feel corruption or death, not because the nature of flesh will have been cast off, but because its condition and quality will have been changed. There will be a body, therefore, which will rise from the dead incorruptible and immortal, not only of the righteous, but also of sinners; of the righteous that they may be able ever to abide with Christ, of sinners that they may undergo without end the punishment due to them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0087",
+        "kind": "p",
+        "text": "46. That the righteous shall ever abide with Christ our Lord we have proved above, where we have shown that the Apostle says, <quote>Then we which are alive and remain shall be caught up together with them in the clouds to meet Christ in the air, and so shall we ever be with the Lord.</quote> And do not marvel that the flesh of the saints is to be changed into such a glorious condition at the resurrection as to be caught up to meet God, suspended in the clouds and borne in the air, since the same Apostle, setting forth the great things which God bestows on them that love Him, says, <quote>Who shall change our vile body that it may be made like His glorious body.</quote> It is nowise absurd then, if the bodies of the saints are said to be raised up into the air, seeing that they are said to be renewed after the image of Christ's body, which is seated at God's right hand. But this also the holy Apostle adds, speaking either of himself or of others of his own place or merit, <quote>He will raise us up together with Christ and make us sit together in the heavenly places.</quote> Whence, since God's saints have these promises and an infinite number like them respecting the resurrection of the righteous, it will now not be difficult to believe those also which the Prophets have foretold, namely, that <quote>the righteous shall shine as the sun and as the brightness of the firmament in the kingdom of God.</quote> For who will think it difficult that they should have the brightness of the sun, and be adorned with the splendour of the stars and of this firmament, for whom the life and conversation of God's angels are being prepared in heaven, or who are represented as being hereafter to be conformed to the glory of Christ's body? In reference to which glory, promised by the Saviour's mouth, the holy Apostle says, <quote>It is sown as an animal body; it will rise a spiritual body.</quote> For if it is true, as it certainly is true, that God will vouchsafe to associate every one of the righteous and of the saints in companionship with the angels, it is certain that He will change their bodies also into the glory of a spiritual body.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0088",
+        "kind": "p",
+        "text": "47. Nor let this promise seem to you contrary to the natural structure of the body. For if we believe, according to what is written, that God took clay of the earth and made man, and that the origin of our body was this, that, by the will of God, earth was changed into flesh, why does it seem absurd to you or contrary to reason if, on the same principles on which earth is said to be advanced to all animal body, an animal body in turn should be believed to be advanced to a spiritual body? These things and many like these you will find in the divine Scriptures concerning the resurrection of the righteous. There will be given to sinners also, as we said above, a condition of incorruption and immortality at the resurrection, that, as God assigns this state to the righteous for perpetuity of glory, so He may assign the same to sinners for prolongation of confusion and punishment. For this also the Prophet's words, which we referred to above, state clearly: <quote>Many shall rise from the dust of the earth, some to life eternal, and others to confusion and eternal shame.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0089",
+        "kind": "p",
+        "text": "48. If then we have understood in what august significance God Almighty is called Father, and in what mysterious sense our Lord Jesus Christ is held to be His only Son, and with what entire perfection of meaning His Spirit is called the Holy Spirit, and how the Holy Trinity is one in substance but has distinctions of relation and of Persons, what also is the birth from a Virgin, what the nativity of the Word in the flesh, what the mystery of the Cross, what the purpose of our Lord's descent into hell, what the glory of the Resurrection, and the delivery of souls from their captivity in the infernal regions, what also His ascension into heaven, and the expected advent of the Judge; moreover how the holy Church ought to be acknowledged as opposed to the congregations of vanity, what is the number of the sacred Volume, what conventicles of heretics ought to be avoided, and how in the forgiveness of sins there is no opposition whatever between the divine freedom and natural reason, and how not only the sacred oracles but also the example of Lord and Saviour Himself, and the conclusions of natural reason, confirm the truth of the resurrection of our flesh—if, I say, we have intelligently followed these in succession in accordance with the rule of the tradition hereinbefore expounded, we pray that the Lord will grant to us, and to all who hear these words, that having kept the faith which we have received, having finished our course, we may await the crown of righteousness laid up for us, and be found among those who shall rise again to eternal life, and be delivered from confusion and eternal shame, through Christ our Lord, through Whom to God the Father Almighty with the Holy Ghost is glory and dominion for ever and ever. Amen.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2711.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2711.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "宗徒信经注释",
+    "p0002": "本信经注释系应\\Person{劳伦斯}主教之请而作，其教座所在不详；但\\Person{丰塔尼尼}氏于所著《\\Person{鲁菲努斯}传》中推测为\\Place{康科迪亚}，即\\Person{鲁菲努斯}之故乡。",
+    "p0003": "其确切写作年代无法确定；但鉴于鲁菲努斯并未如在其若干著作中那样提及久居东方后书写拉丁文之困难，且文风相对流畅，故极可能写于其滞留\\Place{阿奎莱亚}之晚年，即约三〇七至三〇九年间。",
+    "p0004": "其价值相当可观：(一) 作为五世纪初地方教会中信经状态的见证，尤其各教会的变体。（在阿奎莱亚教会中，\\OriginalTerm{在耶稣基督内}{in Jesu Christo}，\\OriginalTerm{无形可见、不受苦难的圣父}{Patrem invisibilem et impassibilem}，\\OriginalTerm{此肉身的复活}{Resurrectio hujus carnis}）；(二) 显示东方思想如何适应西方神学的形成；(三) 提供圣经正典的准则。",
+    "p0005": "此注释清晰合理；除极少数段落（如从凤凰论证主的童贞诞生）外，至今仍对我们有用。",
+    "p0006": "阿奎莱亚信经",
+    "p0007": "有必要提供\\Person{鲁菲努斯}所注释的阿奎莱亚信经的拉丁文原文及英文译文。下列信经中特有的词或字母以斜体标出。",
+    "p0008": "\\OriginalTerm{我信全能天主圣父，\\Emph{无形可见，不受苦难}}{Credo in Deo Patre omnipotenti \\Emph{invisibili et impassibili}}",
+    "p0009": "\\OriginalTerm{又信耶稣基督，祂的独生子，我们的主}{Et in Jesu Christo, unico Filio ejus, Domino nostro}",
+    "p0010": "\\OriginalTerm{祂由圣神降孕，生于童贞玛利亚}{Qui natus est de Spiritu Sancto ex Maria Virgine}",
+    "p0011": "\\OriginalTerm{在本丢·彼拉多执政时被钉十字架，被埋葬}{Crucifixus sub Pontio Pilato, et sepultus}",
+    "p0012": "\\OriginalTerm{祂下降地狱；第三日从死者中复活}{Descendit ad inferna; tertia die resurrexit a mortuis}",
+    "p0013": "\\OriginalTerm{祂升天，坐在圣父之右}{Ascendit in cœlos; sedet ad dexteram Patris}",
+    "p0014": "\\OriginalTerm{祂将从那里降来，审判生者死者}{Inde venturus est judicare vivos et mortuos}",
+    "p0015": "\\OriginalTerm{又信圣神}{Et in Spiritu Sancto}",
+    "p0016": "\\OriginalTerm{圣教会}{Sanctam Ecclesiam}",
+    "p0017": "\\OriginalTerm{罪过的赦免}{Remissionem peccatorum}",
+    "p0018": "\\OriginalTerm{\\Emph{此}肉身的复活}{\\Emph{Hujus} carnis resurrectionem}",
+    "p0019": "1. 我心中既无写作之意，亦无写作之力，最忠信的主教（\\OriginalTerm{教父}{Papa}）劳伦斯，因为我深知，以一己薄弱之能，置于公众批评之下，实非小可之险。但既然你在信中贸然（请恕我直言）以基督的圣事——我至为尊崇——要求我照信经的传统及自然意义，为你撰写有关信仰之事，虽然如此，你实加给我力不能胜的重担（因为我未忘哲人之言，其言极是：\\Quote{论及天主，即使言说真理，亦属危险}）；然而，若你以祈祷助我因你要求而必须承担之责，我将试言一二——此举出于对你嘱托的敬畏，而非自信心有馀裕。然我所写恐难博得成熟读者之关注，更适于儿童及基督内初学者的理解。",
+    "p0020": "我确知有些卓越的作者已就此问题出版过虔诚而简短的论文。此外，我知道异端者\\Person{福提努斯}也写过同样主题；但其目的并非向读者解释经文的意义，而是将平实真实的话语曲解以支持自己的教义，然而圣神已确保在这些话语中未记载任何含糊、晦涩或与其他真理相悖之处：因为其中应验了那预言：\\BibleQuote{要简约而彻底地在公义中成就言语：因为主要在地上作成简短的话。}我们当努力，首先恢复并强调宗徒话语本身的纯朴；其次，补足先前注释者似乎遗漏之处。但为使这所谓\\Quote{简短的话}的范围更加明晰，我们将从起初探究它是如何赐予各教会的。",
+    "p0021": "2. 我们的祖先传下传统：主升天之后，藉圣神降临，火焰似的舌头落在每位宗徒头上，使他们能说各种语言，以致无论多么遥远的民族、多么野蛮的言语，都不能对之封闭、不得接近；他们奉主命分别往各族去宣讲天主的圣言。因此，即将彼此分离之际，他们首先共同商定了将来宣讲的标准，以免分散后，在对那些被邀请信仰基督的人宣讲时，有任何不一致之处。于是全体聚集，充满圣神，如我们所说，他们编成了这份将来宣讲的简短纲要，每人各将自己的句子贡献给一个共同的总纲；并规定此规则应授予那些信从的人。",
+    "p0022": "对此信式，基于许多且最充分的理由，他们称之为\\OriginalTerm{符号}{κύμβολον}。因为希腊文的\\OriginalTerm{符号}{κύμβολον}相当于拉丁文的\\Quote{\\OriginalTerm{标记}{Indicium}}（一个记号或标记）和\\Quote{\\OriginalTerm{共同贡献}{Collatio}}（由多人共同捐助）。因为宗徒们在这些话中，每人贡献了自己的句子。它被称为\\Quote{\\OriginalTerm{标记}{Indicium}}或\\Quote{\\OriginalTerm{标记}{Signum}}，一个记号或标记，因为，如宗徒保禄所说，以及\\BibleBook{}{宗徒大事录}所载，那时许多四处游荡的犹太人，假装是基督的宗徒，为牟利或糊口而四处宣讲，虽提及基督之名，却不按精确的传统路线传递信息。因此宗徒们规定此信式作为一个记号或标记，使真正按宗徒规则宣讲基督的人可以被认出。最后，他们说，在内战中，由于双方盔甲相同，语言相同，战争的习惯和方式也相同，每位将军为防范背叛，通常向他的士兵交付一个独特的符号或口令——拉丁文称为\\Quote{\\OriginalTerm{标记}{Signum}}或\\Quote{\\OriginalTerm{标记}{Indicium}}——这样，如果遇到一个人，不确定他属于哪一边，询问符号（口令），他就会揭示他是友是敌。因此，传统继续，信经不写在纸或羊皮纸上，而是保留在信徒的心中，以确保没有人是通过阅读学会的，如同有时不信者那样，而是通过从宗徒传来的传统。",
+    "p0023": "因此宗徒们，正如我们所说，即将分散去宣讲福音，确立了这一他们信仰一致的记号或标记；与诺厄的儿子们不同，他们即将彼此分离时，建造了一座用砖和沥青筑成的塔，塔顶可通天，而宗徒们竖起了一座信德纪念碑，由主的活石和珍珠组成，能抵抗敌人，既不被风吹倒，也不被洪水冲垮，更不被暴风骤雨的力量动摇。因此，前一代人在分离前夕建造了一座骄傲之塔，被罚口音混乱，以致无人能听懂邻人的言语；而后一代人建造了一座信德之塔，被赋予各种语言的知识和理解；这样，前者成为罪的标记，后者成为信德的标记。",
+    "p0024": "但现在我们该对这些珍珠本身说些什么了，其中首要的是万有的泉源和源头，即所说的——",
+    "p0025": "3. \\Emph{我信全能者天主圣父。}",
+    "p0026": "但在开始讨论这些话的意义之前，我认为最好提一下，在不同的教会中，这一条款中发现有一些添加。然而，在罗马城的教会中并非如此；原因，我猜想，一方面是因为那里没有异端起源，另一方面是因为那里保持着古老的习惯，即那些即将受洗的人应公开背诵信经，也就是说，在众人面前；其结果是，那些已是信徒的耳朵不会容忍添加一个字。但在其他地方，据我所知，由于某些异端者，似乎有了添加，希望通过这些添加排除教义上的新奇。然而，我们遵循我们在阿奎莱亚教会领洗时所接受的次序。",
+    "p0027": "因此，\\Emph{我信}放在首位，如宗徒保禄在\\BibleBook{希伯来}{书}中所说：\\BibleQuote{凡来到天主面前的，必须先相信祂存在，且相信祂是那些相信祂的人的赏报者。}先知也说：\\BibleQuote{除非你们相信，你们不会明白。}因此，为使你们能理解，你们首先正确宣认你们相信；因为没有人会出海，将自己托付给深邃流动的元素，除非他首先相信航行可能安全；农夫也不会将种子投入犁沟，将谷粒撒在地上，除非相信雨水会来，连同太阳的温暖，在其滋养下，借着顺风，大地会生产、增多并使果实成熟。总之，生活中没有事情可以进行，除非首先有相信的意愿。那么，如果来到天主面前，我们首先宣认相信，这有何奇怪呢？因为没有相信，连普通生活也无法进行。我们在开头预先说了这些，因为外邦人常常反对我们说，我们的宗教因为缺乏理由，只依靠相信。因此，我们表明了，除非相信先行，否则任何事情既不可能做成，也不可能保持稳定。最后，婚姻是在相信会有孩子的情况下缔结的；孩子被托付给导师照料，是相信导师的教导会传递给学生；一人接受帝国的徽章，是相信人民、城市和装备精良的军队也会服从他。但如果在这些不同事业中，没有人着手进行，除非相信所述的结果会随之而来，那么，如果要认识天主，相信岂不更是必要的吗？但让我们看看信经中这个\\Quote{简短话语}阐述了什么。",
+    "p0028": "4. \\Quote{\\Emph{我信全能者天主圣父。}}",
+    "p0029": "东方教会几乎普遍这样传授该条款：\\Quote{我信\\Emph{一个}全能者天主圣父；}而在下一条款中，我们说：\\Quote{并且信基督耶稣，祂的独生子，我们的主，}他们则传授为：\\Quote{并且信\\Emph{一个}（主）我们的主耶稣基督，祂的独生子；}即宣认\\Quote{一个天主}和\\Quote{一个主}，依照宗徒保禄的权威。但我们稍后将回到这一点。目前，让我们注意这些话：\\Quote{在全能者天主圣父内。}",
+    "p0030": "\\Quote{天主}，就人的心智所能形成的概念而言，是指那本性或实体，它超越万有之上。\\Quote{圣父}是一个表达隐秘而不可言喻的奥秘的词。当你听到\\Quote{天主}一词时，你应理解那是一种无始无终、单纯、不复合、不可见、无形体、不可言说、不可估量的实体，其中没有任何增添或受造之物。因为祂是万有的绝对原因，祂自身无因。当你听到\\Quote{圣父}一词时，你应理解为某一位圣子的圣父，这圣子是前述实体的肖像。因为正如无人被称为\\Quote{主}，除非他拥有财产或仆人，他是他们的主；正如无人被称为\\Quote{师傅}，除非他有门徒；同样，无人可能被称为\\Quote{父亲}，除非他有圣子。因此，\\Quote{圣父}这个名号本身显明：圣父与圣子同存。",
+    "p0031": "但我不愿你讨论天主圣父如何生了圣子，也不要过分好奇地窥探那深奥的奥秘，免得你过于急切地窥探不可接近的光明之辉煌，反而失去那藉天主恩宠赐予凡人的微弱一瞥。或者，如果你认为这是必须尽一切努力探究的题目，那么先向自己提出关乎我们自身的问题，然后，如果你能妥善处理它们，再从世俗之事飞升至天上之事，从可见的进至不可见的。首先，你若能，就确定：在你内的心智如何生成一个言语，以及其中记忆的性灵是什么；这些东西虽然在实在和运作上相异，但在本性或实质上又如何是一体；虽然它们出自心智，却从未与心智分离。如果这些东西虽然在我们之内、在我们自身灵魂的实质中，却因不能被肉眼看见而似乎向我们隐藏，那么让我们以更明显可见的事物作为探究对象。泉水如何从自身生出河流？藉着什么性灵它被带向湍急的溪流？如何发生：虽然河流与泉水是一体且不可分离，但河流既不能被理解为泉水，也不能被称为泉水，泉水也不是河流，然而看见河流的人也已看见了泉水？首先练习解释这些，你若能，就解释你手头的事物；然后你才能上升到更高的事理。然而，不要以为我要你一下子从地上升到天上：首先，若你允许，我要你注意这我们肉眼所见的穹苍，并请你解释，你若能，这可见之光的性质——那天火如何从自身生出光之辉煌，又如何产生热；虽然它们在实在上是三个，但在实质上如何是一。而如果你有能力探究其中的每一个，那么你仍须承认：神圣的生育奥秘是如此更加不同、更加超越，正如创造者比受造物更强大，工匠比他的作品更卓越，那永远存在者比那从无中开始存在者更崇高。",
+    "p0032": "那么，天主是祂独生圣子我们的主之父，这是应相信的，而非应讨论的；因为仆人无权争论他主人的出生。圣父从天上作证说：\\BibleQuote{这是我的爱圣子，我所喜悦的，你们要听祂。}圣父说祂是祂的圣子，并命令我们听祂。圣子说：\\BibleQuote{看见我的，就是看见了圣父}，以及\\BibleQuote{我与圣父原是一体}，以及\\BibleQuote{我从天主出来而来到世上。}谁能自居于圣父与圣子这些话之间作为争论者？谁能分割神性，分离其意志，分裂其实质，将圣神切成部分，并否认真理所说的为真？因此，天主是真实的圣父，作为真理之父，不是从外部生育，而是从祂自身生出圣子；也就是说，作为全智者，祂生出智慧；作为公义者，生出公义；作为永远者，生出永远；作为不死者，生出不死；作为不可见者，生出不可见者；因为祂是光，生出辉煌；祂是心智，生出圣言。",
+    "p0033": "5. 我们说过，东方教会在传授信经时说：\\Quote{唯一的天主，全能的圣父}和\\Quote{唯一的主}，这\\Quote{一}不应从数量上理解，而是绝对地理解。例如，若有人说\\Quote{一个人}或\\Quote{一匹马}，这里的\\Quote{一}是数量上的用法。因为可以有第二个人和第三个人，或第二匹马和第三匹马。但在不能添加第二或第三之处，若我们说\\Quote{一}，我们意指的并非数量上的，而是绝对的一。例如，若我们说\\Quote{一个太阳}，这里的意思是第二或第三不能被添加，因为只有一个太阳。更何况天主，当祂被称为\\Quote{一}时，被称为\\Quote{一}不是从数量上，而是绝对地，也就是说，祂之所以被称为一，是因为没有别的。同样，对主也应如此理解：祂是唯一的主，耶稣基督，天主圣父藉着祂或通过祂掌管万有，因此下一句称天主为\\Quote{全能者}。",
+    "p0034": "天主被称为\\Emph{全能者}，因为祂掌管并统治万有。但圣父藉着圣子掌管万有，正如宗徒所说：\\BibleQuote{藉着祂，万有被造，可见的与不可见的，无论是宝座、宰制者、首领或掌权者。}又于\\BibleBook{}{希伯来书}中写道：\\BibleQuote{藉着祂也创造了诸世界，}并\\BibleQuote{立祂为万有的继承者。}所谓\\Quote{立}我们应理解为\\Quote{生}。如今，如果圣父藉着祂创造了诸世界，万有都是藉着祂被造，而祂又是万有的继承者，那么祂也藉着祂掌管万有。因为如同光生于光，真理生于真理，同样，全能者生于全能者。正如\\BibleBook{若望}{默示录}中关于\\Person{色辣芬}的记载：\\BibleQuote{他们昼夜不得安息，不停地呼喊：圣、圣、圣、万军的上主，昔在、今在、将来永在的全能者。}那么，这位\\BibleQuote{将来永在的}便被称为\\BibleQuote{\\Emph{全能者}}。除了基督、天主子，还有谁是\\BibleQuote{将来永在的}呢？",
+    "p0035": "在上述内容之后，加入了\\Quote{\\Emph{不可见与不可受苦}}。我应当指出，这两个词并不存在于罗马教会的信经中。众所周知，它们是为了对抗沙贝利异端而被加入我们教会的，此异端我们称之为\\Quote{父受苦说}，即宣称圣父自己由童贞女所生而成为可见的，或主张祂在肉身内受苦。因此，为了排除对圣父的如此不虔敬，我们的先辈似乎加上了这些词，称圣父为\\Quote{不可见与不可受苦}。因为显而易见，降生成人并在肉身内出生的是圣子，而非圣父；并且从肉身出生开始，圣子便成为\\Quote{可见与可受苦的}。然而，就祂所拥有的、与圣父同一而不朽的天主性本体而言，我们必须相信圣父、圣子、圣神都不是\\Quote{可见或可受苦的}。但圣子，因祂屈尊取了肉身，便在肉身内被看见并受苦。先知也预言了这一点，说道：\\BibleQuote{这就是我们的天主，没有别的可比拟祂。祂寻得了知识的一切道路，将它赐给了祂的仆人雅各伯和祂所爱的以色列。此后，祂在地上显现，与人交谈。}",
+    "p0036": "6. 随后接着是：\\Quote{\\Emph{又信基督耶稣，祂的独生子，我们的主。}}\\Quote{耶稣}是希伯来语，意为\\Quote{救主}。\\Quote{基督}源于\\Quote{傅油}，即受膏。因为在\\BibleBook{}{梅瑟五书}中，我们读到\\Person{纳威的儿子奥些}，当他被选为领导民众时，名字从\\Quote{奥些}改为\\Quote{耶稣}，以表明这是王侯和将帅的合宜名字，即那些应\\Quote{拯救}跟随他们的人民的人。因此，两者都被称为\\Quote{耶稣}：一位引导那从埃及地领出、从旷野漂泊中得释放的人民进入应许之地；另一位引导那从无知的黑暗中领出、从世界的谬误中召回的人民进入天国。",
+    "p0037": "\\Quote{基督}是大司祭或君王的专名。因为从前大司祭和君王都用傅油膏来祝圣；但他们作为可朽坏的人，用的是物质和可朽坏的膏。耶稣成为基督，是因被圣神所傅油，正如圣经论及祂所说：\\BibleQuote{圣父以从天降下的圣神傅了祂。}依撒意亚也曾预表同样的事，以圣子的语气说：\\BibleQuote{上主的神在我身上，因为祂给我傅了油，派遣我去向贫穷人传报喜讯。}",
+    "p0038": "既然已指明\\Quote{耶稣}是什么——祂拯救自己的子民，以及\\Quote{基督}是什么——祂成为永远的大司祭，现在让我们看后续经文中这些话指谁：\\Quote{祂的独生子，我们的主。}这里教导我们，我们所说的这位耶稣、我们所解释其名义的这位基督，是\\Quote{天主的独生子}和\\Quote{我们的主。}免得你或许认为这些人性的名称具有属世的意义，因此加上祂是\\Quote{天主的独生子，我们的主。}因为祂是独一者所生的独一者，如同光有唯一的光辉，理智有独一的言语。非物质的生育并不落入复数，也不遭受分割，因为被生者与生者绝不分离。祂是\\Quote{独一的}，如同思想对于心智，智慧对于智者，言语对于理智，勇毅对于勇士。因为正如圣父被宗徒称为\\BibleQuote{独一智慧}，同样，独有圣子被称为智慧。因此，祂是\\Quote{独生子。}并且，虽然在光荣、永恒、德性、主权、能力方面，祂与圣父相同，但这一切祂并非像圣父那样无始而拥有，而是出于圣父，作为圣子，无始而平等；虽然祂是万有的元首，但圣父是祂的元首。因为经上记载：\\BibleQuote{基督的元首是天主。}",
+    "p0039": "7. 当你听到\\Quote{子}这个词时，不可想到肉身的出生；而要记住这是对非物质的、单纯而不复杂的本体的表述。因为，如我们上文所说，无论是理智生出言语，心智生出感觉，还是光从自身产生光明，在这一类生育中都不应寻求任何软弱或不完善的形象，那么我们对于这一切的创造者的观念，岂不应当更加纯净和神圣？",
+    "p0040": "但或许你会说：\\Quote{你所谈论的生成是一种无实体的生成。因为光不会产生有实体的光明，理智也不会产生有实体的言词；然而，据说天主圣子是实体性地生成的。} 对此我们首先答复：当在其他事物中使用比喻或例证时，相似之处不可能在每个细节上都成立，而只会在为使用该例证而设定的某一点上成立。例如，当在\\WorkTitle{福音}中记载说：\\BibleQuote{天国好比酵母，一个妇人把它藏在三斗面里}，难道我们认为天国在各方面都像酵母，以至于像酵母一样是可触摸、可腐朽、会变酸、不能使用的吗？显然，引用这个例证仅仅是为了说明：通过天主圣言的宣讲（这看似微小）如何能使人的心灵充满信德的酵母。同样，当记载说：\\BibleQuote{天国好比一张撒在海里的网，网罗各种鱼}，难道我们假设天国的实体在各方面都类似于网线的质地以及网眼的结扣吗？不，比较的唯一目的是要表明：正如网将鱼从深海带到岸边，同样，通过天国福音的宣讲，人的灵魂从今世错误的深渊中被解放出来。由此可见，比喻或例证并不在被用来示范或说明的事物的每一个细节上都相符。否则，如果它们在各方面都相同，就不再被称为比喻或例证，而是事物本身了。",
+    "p0041": "8. 此外还应注意到，没有一个受造物能与其创造者相同。因此，既然天主的本体或本质不容比较，神性也是如此。再者，每一个受造物都出自虚无。因此，如果一个火花（尽管如此无实体，但仍是火）从自身生出属于虚无的受造物，并在其中保持其源本质性的本性（即作为父亲火花之火），那么，那永恒之光（它始终存在，因为在其内没有非实体的东西）的本体为何不能从自身产生有实体的光明呢？因此，圣子被正确地称为\\Quote{独一}的、\\Quote{唯一}的。因为如此诞生的那位是\\Quote{独一}且\\Quote{唯一}的。唯一的事物不容比较。也不能说创造万物的那一位与其所创造的事物本质相似。因此，这就是耶稣基督，天主的独生子，也是我们的主。\\Quote{独一}可以同时指圣子和主。因为耶稣基督作为真正的圣子和唯一的主，是\\Quote{独一}的。因为所有其他被称为儿子的，是因收养的恩宠而被称为儿子，并非因本性的真实；而如果有其他被称为主的，是因被授予的权利，而非固有的。唯独基督是独一的圣子和独一的主，正如宗徒所说：\\BibleQuote{只有一个主耶稣基督，万物都是藉着祂而有的。} 因此，在信经按适当顺序陈述了圣子由圣父诞生那不可言喻的奥秘之后，现在下降到祂为了人的救恩而屈尊进入的救恩计划。对于刚才称之为\\Quote{天主的独生子}和\\Quote{我们的主}的那一位，信经现在说：",
+    "p0042": "9. \\Quote{ \\Emph{祂是由} \\Emph{（藉着）} \\Emph{圣神降孕，由童贞玛利亚诞生} } 这人类之中的诞生是救恩计划的方式，而之前的诞生属于天主的本体；一个是祂屈尊俯就的结果，另一个源于祂的本质本性。祂是由圣神降孕，由童贞玛利亚诞生。在此需要洁净的耳朵和纯洁的心灵。因为你们必须明白，如今在一位童贞女的子宫隐秘处，已为那一位（你们曾得知祂不可言喻地由圣父所生）建造了一座圣殿。正如在圣神的圣化中不容许有任何不完美的想法，同样在童贞女生子中也不应想象任何玷污。因为这一诞生是赐给这个世界的新生，且确实是新的。因为那位在天上是独生子的，自然地在地上也是独生子，并且是独一无二地诞生，诞生方式无与伦比，过去没有，将来也不可能有。",
+    "p0043": "先知们关于祂的话：\\BibleQuote{一位童贞女将怀孕生子}，是众所周知的，并屡次在福音中被引用。厄则克耳先知也预言了那诞生的奇妙方式，比喻性地称玛利亚为\\Quote{主的门}，即主进入世界所通过的门。因为他说：\\BibleQuote{那朝东的门要关闭，不可打开，没有人能通过，因为上主以色列的天主将由此通过，它将关闭。} 还有比这更明确地指向童贞女状态完好无损的保存吗？那童贞之门是关闭的；上主以色列的天主由此进入；祂由此从童贞女的子宫来到这个世界；而童贞状态被完好无损地保存，童贞女的门永远关闭。因此，圣神被说成是主肉身及其圣殿的创造者。",
+    "p0044": "10. 由此你也可理解圣神之威严。因为福音为祂作证：当天使对童贞女说：\\BibleQuote{你将生子，要给祂起名叫耶稣，因为祂要把自己的百姓从罪恶中拯救出来}时，她回答说：\\BibleQuote{这事怎么成就？因为我不认识男人。}天使便对她说：\\BibleQuote{圣神要临于你，至高者的能力要庇荫你，因此那要诞生的圣者，将称为天主子。}你看，天主圣三彼此合作。圣神被说成临于童贞女，至高者的能力荫庇她。这至高者的能力是什么？不就是基督自己，祂是天主的能力、天主的智慧么？这能力是谁的能力？至高者的能力。因此这里有至高者，也有至高者的能力，还有圣神。这就是天主圣三，处处隐藏又处处显现，名称和位格有别，但在天主性本体上不可分。虽然只有圣子从童贞女所生，但至高者也临在，圣神也临在，好使童贞女的受孕和生育得以圣化。",
+    "p0045": "11. 既然这些事有先知书作为凭据，或许能堵住犹太人，尽管他们不信且怀疑。但外邦人常嘲笑我们，听我们谈论童贞女生子。因此我们必须略作答复，反驳他们的责难。我想，每一次生育都取决于三个条件：必须有成年女子，她须与男子交合，她的子宫不能荒胎。在我们所谈论的这次生育中，这三个条件缺少了一个：男子。由于我们所谈论的那位不是地上的人，而是天上的人，这欠缺由天上的圣神补足了，同时母亲的童贞得以保持不受侵犯。然而，童贞女怀孕为何被视为奇事？众所周知，东方有一种鸟称为凤凰，它无需配偶而生，或者说重生，始终保持同一，不断通过生育或重生产生自身。蜜蜂不知嫁娶，也不生产后代。还有其他一些事物也被发现遵循某种类似的生育法则。那么，由天主的能力为了更新和恢复整个世界所行的事，既然在动物的生育中能见到实例，难道反倒被认为不可信吗？然而，外邦人认为这事不可能，实在奇怪，因为他们相信自己的密涅瓦是从朱庇特的头脑中生出来的。还有什么比这更难置信、更违反自然呢？这里有一位妇女，自然的秩序得以保持，有怀孕，有适时生育；那里没有女性，只有一个男人，却——生育了！为什么相信那一个的人却对这一个感到惊奇呢？再者，他们说巴克斯神是从朱庇特的大腿生出的。这又是一个奇事，却被人相信。还有维纳斯（他们称作阿佛洛狄忒）据信是从海水的泡沫中生出，正如她的复合名称所显示。他们断言卡斯托耳和波鲁克斯是从蛋中生出，密耳弥多涅人是从蚂蚁生出。还有其他千百种事，虽反自然，却被他们信以为真，例如丢卡利翁和皮拉投掷的石头以及由此生出的庄稼人。既然他们相信如此众多的神话，那么，一位成年女子未受男子玷污，却被圣神感孕而生下神圣的后裔，这一件事难道在他们看来不可能么？如果他们难以相信，原本就不该相信那些怪奇之事，因为它们既众多又卑劣；但如果他们相信那些事，那么他们更应该接受我们的信仰，它如此尊贵和神圣，而非他们那些如此不光彩和卑陋的事。",
+    "p0046": "12. 但他们或许会说：如果天主能使童贞女怀孕，也能使她生产，但他们认为如此伟大的存在不应以这种方式进入世界，即使没有与男子交合的玷污，分娩的过程仍会带来不体面。对此，我们简要回答，从他们的层次来回应：如果有人看见一个小孩在泥沼中将要窒息，而他自己——一个伟大有力的人——走进泥沼，几乎到了边缘，去拯救那垂死的孩子；你会指责这个人因踏进一点泥沼而被玷污呢，还是赞扬他为拯救一个垂死者的生命而怜悯呢？但所假设的是常人的情况。让我们回归到那位的本性。你认为太阳的本性比他低多少？毫无疑问，受造物比造物主低多少？现在请想：如果一束阳光照在泥沼上，它会受到任何污染吗？或者太阳因照耀污秽之物而受损吗？火也是如此，它的本性比我们所讨论的事物低多少？然而，任何物质，无论污秽或卑贱，如果接触火，都不会被认为污染火。既然物质界的情况如此明显，你能相信任何玷污和污染能够临到那超越一切火和一切光的卓越的、非物质的本质吗？最后，还要注意这一点：我们说，人是天主用地上的尘土造的。但如果天主被认为在寻求恢复祂自己的作品时被玷污，那么祂起初造物时更应被如此认为。你们无法指出祂为何做出如此违反我们羞耻感的事，却要问祂为何经历这些事，这是徒劳的。因此，使我们认为这些事如此的不是本性，而是普遍的见解。否则，身体中一切事物，既然从同一泥土形成，彼此的区别仅在于它们的用途和自然功能。",
+    "p0047": "13. 但在解答此问题时，我们不可忽略另一项考量，即：天主的实体完全是无形体的，除非先有一种精神实体作为媒介，能够接受天主的圣神，否则它不能被引入肉体或为肉体所接受。举例来说，若我们说光能照射身体的所有肢体，但除了眼睛，没有肢体能接受光，因为只有眼睛能接受光。同样，天主圣子由童贞女所生，起初并非仅与血肉结合，而是先有一个灵魂作为肉体与天主之间的媒介被生育。因此，在灵魂作为媒介、并在理性精神的隐秘堡垒中接受天主圣言的情况下，天主由童贞女所生，并无你所想象的任何贬损。所以，在圣神圣化之处，以及那能接受天主的灵魂也参与肉体之处，不可视为有任何卑贱或不体面。在至高者的大能临在之处，不可认为任何事为不可能。在天主性的圆满充满之处，不可存有人性软弱的想法。",
+    "p0048": "14. \\Emph{他在般雀·比拉多执政时被钉十字架，并被埋葬；他下降阴府。}宗徒保禄教导我们，我们应当有\\BibleQuote{我们心目的眼睛被光照}，\\BibleQuote{好叫我们明了，什么是高度、宽度和深度}。\\BibleQuote{高度、宽度和深度}是描述十字架：插入地中的部分他称之为深度，立在地上向上延伸的部分为高度，向左右伸展的部分为宽度。既然有如此多的死亡方式让人离世，为何宗徒希望我们心目的眼睛被光照，以明白为什么在所有死亡方式中，十字架被特别选为救主的死亡方式？那么我们必须知道，那十字架是一场凯旋，是一个得胜的旗帜。凯旋是战胜敌人的标记。当基督到来时，他立即将三个国度置于他的统治之下（这由他在\\BibleQuote{致使耶稣之名，一切天上、地上和地下的事物无不屈膝}这句话中所表明），并藉他的死亡征服了这一切，于是寻找了一种与奥迹相称的死亡，使他被高举在空中，制服空中的权势，并彰显他对这些超自然和属天权势的胜利。此外，圣先知说\\BibleQuote{他整日伸开双手}向着地上的人民，以便向不信者提出抗议，并邀请信者；最后，藉那插入地下的部分，他表明将阴间的国度也置于自己的统治之下。",
+    "p0049": "15. 此外——简略触及一些更深奥的主题——当初天主创造世界时，他设立并委任了某些属天德能的权势来治理和指引必死的人类。梅瑟在\\WorkTitle{申命纪}之歌中表明此事是这样进行的：\\BibleQuote{至高者划分万民时，他按照天主天使的数目，划定了万民的疆界。}但其中有些，如被称为\\OriginalTerm{此世的首领}{prince of this world}的，并没有按照他们领受时的律法行使天主所委托的权能，也没有教导人类遵守天主的诫命，反而教导他们追随自己邪恶的引导。因此我们被置于罪的锁链之下，因为正如先知所说：\\BibleQuote{我们被卖给了我们的罪。}因为人一旦顺从私欲，就是在收取自己灵魂的代价。因此，每个人都受那些最邪恶统治者的锁链束缚；基督到来时，撕毁了这同一锁链，剥夺了他们的权势。保禄在一个伟大奥迹中表明此事，论及他说：\\BibleQuote{他涂抹了那反对我们的债务文书，把它钉在十字架上，解除了率领者和掌权者的武装，公开羞辱了他们，藉着十字架向他们夸胜。}那些天主委派管理人类的统治者，变得悖逆和暴虐，开始攻击托付给他们的人，并在罪的冲突中彻底击败他们，正如厄则克耳先知神秘地暗示：\\BibleQuote{在那一天，天使们要急速出来消灭埃及，在埃及的日子中他们必有惊慌；因为看，他来了。}基督剥夺了他们的大能，据说他凯旋了，并将从他们手中夺回的能力交还给人，正如他自己在福音中对门徒所说：\\BibleQuote{看，我已给你们权柄，践踏蛇和蝎子，并制服仇敌的一切势力。}基督的十字架，使那些不正当地滥用所领受权威的人服从于先前被他们统治的人。至于我们，即人类，它首先教导我们要抵抗罪恶至死，并甘愿为宗教而死。其次，这同一十字架为我们树立了一个服从的榜样，正如它惩罚了那些曾是我们统治者的悖逆。请听宗徒如何藉基督的十字架教导我们服从：\\BibleQuote{你们该怀有基督耶稣所怀有的心情：他虽具有天主的形体，却没有以自己与天主同等为应当把持不舍的，反而空虚自己，取了奴仆的形体，成了人的模样；既有人的样貌，就贬抑自己，服从至死，且死在十字架上。}因此，正如一位完美的师傅同时以榜样和教训来教导，基督也藉着自己首先服从至死，来教导善良的人们应付出死亡来服从的服从。",
+    "p0050": "16. 但也许有人听到我们谈论祂的死亡会感到震惊，因为我们不久前还说祂与天主圣父是永存的，祂生于圣父的本体，并与天主圣父在主权、威严和永恒上是一体的。但不要惊慌，忠实的听者。马上你将会看到，你所听到其死亡的那一位再次成为不朽的；因为祂所屈从的死亡即将剥夺死亡。因为刚才我们所阐明的那降生成人的奥迹的目的，就是要使天主圣子的神性能力，好似隐藏在人性肉体的形状和样式下的钩子（祂正如宗徒保禄所说，\\BibleQuote{成了人的形状}），引诱这世界的王来争战；向祂献上祂的肉体作为饵，其下的神性就能用钩子抓住并牢牢钩住他，藉着倾流祂无玷的血。因为唯有祂，那位不知罪污的，摧毁了所有人的罪，至少是那些用祂的血标记了信仰门框的人。因此，正如一条鱼咬住带饵的钩子，它不仅没有把饵从钩上取下，反而被拉出水面，成为他人的食物；同样，那拥有死亡权势的，在死亡中抓住了耶稣的身体，没有觉察到内藏于其中的神性的钩子，但一旦吞下它，就立刻被捉住，地狱的门闩被打破，它仿佛被从深渊中拖出，成为他人的食物。这个结果早有厄则克耳先知以同样的形象预言说：\\BibleQuote{我要用我的钩子将你拉出，把你铺在地上；原野将被你充满，我要使空中所有的飞鸟都落在你身上，并且使地上所有的野兽都因你而饱饫。}达味先知也说：\\BibleQuote{你打碎了那大龙的头，把它给了埃塞俄比亚的百姓作食物。}约伯也以同样的方式为此奥迹作证，因为他在主对他说话的口吻中说：\\BibleQuote{你岂能用钩子将龙拉出，岂能在它的鼻子上放上嚼环？}",
+    "p0051": "17. 因此，基督在肉身上受苦，并非由于祂的神性有所损失或贬低，而是祂的神性藉着肉身降到死亡中，为要藉肉身的软弱成就救恩；不是要按死亡的律法被死亡拘禁，而是要藉着祂的复活亲自打开死亡的门户。这就好像一位君王前往监狱，进去打开牢门，解开镣铐，打碎锁链、门闩和插销，将囚犯带出来释放，并使那些坐在黑暗中、死荫里的人重得光明和生命。因此，君王确实可以说是进了监狱，但与被关押在那里的囚犯处境不同。他们进监狱是为受罚，祂进监狱却是为释放他们免受惩罚。",
+    "p0052": "18. 将信经传授给我们的人，以极大的远见指明了这些事情发生的时间——\\Quote{在般雀比拉多治下}——以免传统因模糊和不确定而动摇。但应当知道，\\Quote{祂下降阴府}这一句并未加在罗马教会的信经中，也未加在东方的教会中。不过，当说\\Quote{祂被埋葬}时，似乎已经隐含了这一点。然而，以你们对\\WorkTitle{圣经}的热爱和热忱，你们无疑会对我说：\\Quote{这些事情应当由\\WorkTitle{圣经}更明显的证据来证明。因为所当信的事情越重要，就越需要恰当而确凿的见证。}不错。但我们，因是对通晓法律的人说话，为求简洁，略去了一大片证言的森林。但如果这也要求，就让我们从许多中引用几个吧，因为我们知道，对于熟悉\\WorkTitle{圣经}的人来说，一片广阔的证言之海摆在他们面前。",
+    "p0053": "19. 首先，我们必须知道，十字架的教训并非在所有人眼中都一样。对外邦人是一回事，对犹太人又是另一回事，对基督徒又是另一回事；正如宗徒所说：\\BibleQuote{我们宣讲被钉十字架的基督——对犹太人来说是绊脚石，对外邦人来说是愚妄，但对那些蒙召的，无论是犹太人还是希腊人，基督是天主的德能和天主的智慧；}又在同一处说：\\BibleQuote{十字架的道理，为那些丧亡的人是愚妄，但为我们这些得救的人}，它就是\\BibleQuote{天主的德能。}犹太人因从法律中得知基督应永远存在，故为祂的十字架所绊倒，因为他们不愿相信祂的复活。对外邦人来说，天主竟顺从死亡，这显得是愚妄，因为他们不明白降生成人的奥迹。但基督徒既接受了祂在肉身中的诞生与受难以及祂从死者中复活，当然相信那是战胜死亡的天主德能。",
+    "p0054": "首先，因此，请听依撒意亚是如何预言这事的：犹太人——先知们曾向他们预言了这些事——不相信，而那些从未从先知们那里听说过的人却会相信。\\BibleQuote{未曾听闻祂的，将要看见；没有听过的，将要明白。}此外，同一位依撒意亚预言：那些从幼年到老年研读法律的人不相信，而一切奥秘都应传给外邦人。他说：\\Quote{万军的上主要在这座山上为万民设宴：他们要欢饮，他们要喝酒，他们要在这座山上敷油。把这些都交给万民。}这是全能者关于万民的计划。但是那些以法律知识自夸的人或许会对我们说：\\Quote{你们亵渎，竟说主遭受了死亡的败坏和十字架的痛苦。}那么，请读你在\\BibleBook{耶肋米亚}{哀歌}中所写的话：\\BibleQuote{我们鼻中的气息、主基督，在我们的败坏中被掳；我们曾说：我们要在祂的荫下生活于外邦人中。}你听到了先知如何说主基督被掳，并且为了我们，即为了我们的罪，被交于败坏。在祂的荫下，由于犹太人持续不信，他说外邦人安息，因为我们不是生活在以色列，而是在外邦人中。",
+    "p0055": "20. 但是，如果你们不厌倦，让我们尽可能简要地指出福音中具体的预言引文，以便那些受训于信仰基础的人将这些见证铭记在心，免得他们对自己所信之事产生任何怀疑。福音告诉我们，耶稣的朋友和同席者犹达斯出卖了祂。让我向你展示这在\\BibleBook{}{圣咏}中是如何预言的：\\BibleQuote{吃我面包的人，举脚踢我。}另一处：\\BibleQuote{我的朋友和邻人靠近我，并反对我。}再一处：\\BibleQuote{他的言语软如油，其实却是利器。}那么，他的言语软如油是什么意思？\\BibleQuote{犹达斯来到耶稣跟前，对祂说：\\InnerQuote{拉比，你好。}并亲吻了祂。}因此，通过亲吻的温柔谄媚，他植入了背叛的可憎利箭。主对他说：\\BibleQuote{犹达斯，你用亲吻来出卖人子吗？}你注意到，祂被叛徒的贪财估价为三十块银钱。关于这点，先知也说：\\BibleQuote{我对他们说：如果你们认为好，就给我工价；如果不，就算了。}紧接着：\\BibleQuote{我从他们那里收了三十块银钱，将之投入上主殿中的铸炉。}这不是福音所记载的吗？犹达斯\\BibleQuote{后悔自己所做的，把钱拿回来，丢在圣殿里，就出去了。}祂称其为祂的价钱，好像谴责和责备。因为祂在他们中间行了如此多的善事：使盲者看见，瘸子行走，瘫痪者行走，也使死者复生；为所有这些善事，他们用死亡作为祂的价钱，估价三十块银钱。福音中也记载祂被捆绑。这一点预言的话也通过依撒意亚预言了，说：\\BibleQuote{祸哉！他们的灵魂！因为他们图谋极恶的计谋来害自己，说：让我们捆绑义人，因为他对我们无益。}",
+    "p0056": "21. 但是有人会说：\\Quote{这些事能应验在主身上吗？主能被人拘禁并拖去受审吗？}关于这点，同一位先知也会说服你。因为他说：\\BibleQuote{上主亲自来到与民间的长老和首领的审判中。}那么，根据先知的见证，主受了审判，不仅受审判，还被鞭打，被人掌掴，被人吐唾沫，为我们忍受了一切侮辱和凌辱。因为所有听见宗徒们宣讲这些事的人都会极其惊讶，因此先知以他们的口吻喊道：\\BibleQuote{上主，谁相信了我们的报告？}因为说天主、天主子曾受这些苦难，是难以置信的。为此，先知们预言了这些事，以免那些将要相信的人产生任何怀疑。主基督因此亲自说：\\BibleQuote{我把我的背转给鞭打，我的面颊转给掌掴，我没有遮掩我的脸免受羞辱和唾沫。}此外，在祂的其他苦难中还记载，他们捆绑祂，把祂解送到比拉多那里。先知也预言了这事，说：\\BibleQuote{他们捆绑了祂，把祂作为\\OriginalTerm{友谊的保证}{xenium}送到雅林王那里。}但是有人反对：\\Quote{比拉多不是王。}那么请听福音接着叙述的：\\BibleQuote{比拉多听说祂是从加里肋亚来的，就把祂送到黑落德那里，后者当时是以色列的王。}先知正确地加上了\\Quote{雅林}之名，意思是\\Quote{野葡萄}，因为黑落德不是以色列家族的后裔，也不是那株主从埃及领出、\\BibleQuote{栽在极肥沃的山冈上}的以色列葡萄树，而是一株野葡萄，即外来的品种。因此，他被称为\\Quote{野葡萄}是完全正确的，因为他完全不是从以色列葡萄树的枝条生长出来的。先知用了\\Quote{\\OriginalTerm{友谊的保证}{xenium}}一词，这也符合，\\BibleQuote{因为黑落德和比拉多，}如福音所证，\\BibleQuote{由仇敌变成了朋友，}并且好像是他们和解的标志，双方都把捆绑的耶稣送给对方。这有何妨？只要耶稣作为救主，使不和者和解，恢复和平，并带来和谐！因此，关于这事在\\BibleBook{}{约伯传}中也写着：\\BibleQuote{愿主使地上君王的内心和好。}",
+    "p0057": "22. 据说当\\Person{比拉多}愿意释放祂时，全体民众喊道：\\Quote{钉死祂，钉死祂！}这也由\\Person{耶肋米亚}先知预言，他以主自己的口吻说：\\BibleQuote{我的产业对我好像林中的狮子。它发声反对我，因此我憎恶它。所以（祂说）我抛弃并离开了我的房屋。}又在另一处说：\\BibleQuote{你们向谁张口，向谁吐舌？}当祂站在审判官前时，经上记载\\Quote{祂默不作声。}许多圣经为这事作证。在\\BibleBook{}{圣咏}中写道：\\BibleQuote{我成了一个听不见的人，嘴里没有反驳。}又说：\\BibleQuote{我像一个聋子，听不见，像一个哑巴，不开口。}另一位先知又说：\\BibleQuote{如同羔羊在剪毛者前，祂不开口。在祂受辱时，祂的审判被剥夺了。}记载有人给祂戴上荆棘冠冕。关于这事，在\\BibleBook{}{雅歌}中听见天主圣父的声音，对\\Place{耶路撒冷}加于祂儿子的侮辱感到惊异：\\BibleQuote{\\Place{耶路撒冷}的众女子，你们出去看看，祂的母亲给祂加冕的冠冕。}此外，另一位先知论到荆棘说：\\BibleQuote{我指望它结葡萄，它却结了荆棘，且没有正义，只有哀号。}但为叫你明白这奥迹的秘密，那来除去世上罪过的一位，也必须将大地从因第一人的罪所承受的诅咒中解放出来，当时主说：\\BibleQuote{因你的劳作，土地要受诅咒：它要给你生出荆棘和蒺藜。}因此，耶稣被戴上荆棘冠冕，为赦免那最初的定罪判决。祂被领到十字架，全世界的生命悬在造它的木头上。我要指出这也由先知的见证所证实。你发现\\Person{耶肋米亚}如此说：\\BibleQuote{来，让我们把木头放在祂的食物里，将祂从活人之地剪除。}又，\\Person{梅瑟}哀悼他们说：\\BibleQuote{你的生命将悬在你眼前，你日夜恐惧，不信任你的生命。}但我们必须继续，因我们已经超过了所计划的简短篇幅，以冗长的论述延长了我们的\\Quote{简短话语}。然而我们还要加上几句话，免得我们似乎完全忽略了我们所承担的事。",
+    "p0058": "23. 经上记载，当耶稣的肋旁被刺透时，\\BibleQuote{祂流出了血和水。}这具有奥秘的意义。因为祂自己曾说过：\\BibleQuote{从祂腹中要流出活水的江河。}祂也流出血，犹太人曾求这血归到他们和他们的儿女身上。祂流出水，为洗濯信者；祂流出血，为定不信者的罪。然而，这也可以理解为预表圣洗圣事的双重恩宠：一种是藉着水的圣洗所赐的，另一种是藉着殉道流血而求得的，因为二者都称为圣洗。但若你进一步问，为何我们的主被说成从肋旁流出血液和水，而非从其他肢体，我以为肋旁的肋骨象征了女人。既然罪与死的泉源发自第一个女人，即第一个亚当的肋骨，那么救赎与生命的泉源便从第二个亚当的肋骨涌出。",
+    "p0059": "24. 经上记载，在我主受难时，从第六时辰到第九时辰，遍地黑暗。对此，你也会找到先知的见证：\\BibleQuote{你的太阳要在中午落下。}又有\\Person{匝加利亚}先知：\\BibleQuote{在那一天不再有光。那一天有寒冷和冰霜，那一天为天主所认识；它既不是白天，也不是黑夜，但到了晚上，要有光。}有什么比先知的话更明白，以致他的话似乎不是对未来的预言，而是对过去的叙述？他预言了寒冷和冰霜。因为\\Person{伯多禄}当时正在烤火取暖，因为天气寒冷；他感到寒冷，不仅是因为时间（早晨），也是因为他的信德。接着又说：\\BibleQuote{那一天为天主所认识；它既不是白天，也不是黑夜。}什么是\\Quote{既不是白天，也不是黑夜？}他难道不是明明说到白天中插入的黑暗，以及之后恢复的光明吗？那不是白天，因为它并非从日出开始；也不是完整的黑夜，因为在白天结束后，它并没有从起始得到应有的空间或延长至终点；但被恶人的罪行驱走的亮光，在晚上恢复了。因为在第九时辰之后，黑暗被驱散，太阳重新回到世界。另一位先知也为此作证：\\BibleQuote{在白天，光要在天上昏暗。}",
+    "p0060": "25. 福音接着叙述，兵士们分了耶稣的衣服，为祂的衣裳拈阄。圣神预先安排这事也由先知们预先作证，因为\\Person{达味}说：\\BibleQuote{他们分了我的衣服，为我的衣裳拈阄。}先知们甚至连那件紫红袍也没有沉默不语，据记载，兵士们曾戏弄地给祂穿上这件袍子。请听\\Person{依撒意亚}：\\BibleQuote{那从\\Place{厄东}而来，身穿染红衣服的，是谁？你的衣服为何是红的，你的衣裳好像从酒榨中踏出来的一样？}祂自己回答说：\\BibleQuote{我独自踏了酒榨，\\Place{熙雍}女子。}因为只有祂没有犯罪，并除去了世上的罪。因为如果因一人死亡能进入世界，那么因一人——同时也是天主——生命岂不更能复得？",
+    "p0061": "26. 又记载有人给祂饮醋，或搀了没药的酒，其苦甚于苦胆。且听先知对此的预言：\\BibleQuote{他们给我苦胆作食物，我渴时，他们给我醋喝。}与此一致，梅瑟当日也对百姓说：\\BibleQuote{他们的葡萄是索多玛的葡萄，他们的枝条是哥摩辣的枝条；他们的葡萄是苦胆的葡萄，他们的串是苦味的串。}再者，先知责备他们说：\\BibleQuote{愚昧无知的人民，你们就这样报答主吗？}此外，在\\BibleBook{}{雅歌}中也预言了同样的事，甚至指明了主被钉死的园子：\\BibleQuote{我进了我的园中，我的妹妹，我的新娘，我采摘了我的没药。}先知在此清楚地描述了主所饮的搀了没药的酒。",
+    "p0062": "27. 接下来记载：\\BibleQuote{祂交付了灵魂。}这也早已由先知预言，他在圣子的位格中对圣父说：\\BibleQuote{我把我的灵魂交在祢手中。}又记载祂被埋葬，一块大石头滚在墓门口。请听先知耶肋米亚对此的预言：\\BibleQuote{他们将我的性命投在坑中，又用石头压在我身上。}先知的话最清楚地指向祂的埋葬。另有经文：\\BibleQuote{义人被除去，免得看见邪恶；他的安息之所是平安。}在另一处：\\BibleQuote{我要将恶人作为祂的坟墓；}又说：\\BibleQuote{祂卧下如狮子，又如幼狮，谁能唤醒祂？}",
+    "p0063": "28. 祂下降阴府也在\\BibleBook{}{圣咏}中明确预言，其中说：\\BibleQuote{祢也将我带到了死亡的尘土中。}又说：\\BibleQuote{我的血有什么益处？当我下入朽坏之时？}又说：\\BibleQuote{我陷入深深的淤泥，没有立足之地。}此外，若翰说：\\BibleQuote{祢是那要来（无疑是指阴府）的一位，还是我们该等候另一位？}因此伯多禄也说：\\BibleQuote{基督在肉身被杀，但藉着住在祂内的圣神复活了，祂降去给那些在狱中的灵魂宣讲，他们曾在诺厄时代不信从。}这里也宣告了祂在阴府所行的事。再者，主藉先知说话，如同论及将来之事：\\BibleQuote{祢不会将我的灵魂撇在阴府，也不让祢的圣者见到朽坏。}同样，先知以预言的口吻论及已经实现的事：\\BibleQuote{主，祢把我的灵魂从阴府领出，祢拯救了我，免我下到深渊。}接下来——",
+    "p0064": "29. \\Emph{第三日祂从死者中复活。}基督复活的荣耀使先前一切显得软弱易碎之事都大放光彩。若你先前觉得一个不朽之神不可能死亡，如今你看见，那战胜死亡并复活者不可能再是必朽的。然而你要在此理解造物主的良善：你因犯罪而堕落到何等程度，祂便降生跟随你到何等程度。不要以为全能的天主没有能力，以为祂的工程止于堕入深渊，而祂的救赎目的不能触及。我们谈论下界和上界，是因为我们被身体的固定界限所包围，被限定在我们所被指定的区域之内。但对于处处临在、无处不临在的天主，什么是下界，什么是上界呢？然而，由于取了肉身，这些也有了意义。那曾被安放在坟墓中的肉身复活了，为应验先知所说：\\BibleQuote{祢不让祢的圣者见到朽坏。}因此，祂以胜利者从死者中归来，带领着阴府的掳物。因为祂领出了那些被死亡所囚禁的人，正如祂自己曾预言的：\\BibleQuote{当我从地上被举起来时，我要吸引众人归向我。}福音为此作证，它说：\\BibleQuote{坟墓开了，许多长眠的圣者的身体起来，显现给许多人，并进入了圣城。}无疑就是那城，宗徒所说的：\\BibleQuote{那在上面的耶路撒冷是自由的，她是我们的母亲。}正如他又对希伯来人说的：\\BibleQuote{原来那为万物所属、为万物所本的，要领许多儿子进入光荣，使他们救恩的元首因苦难而成为完全的，本是合宜的。}因此，祂坐在至高天上天主的右边，将那曾因第一人的过犯而死亡、却因复活之德而更新的人类肉身，经过苦难而成为完全的，安置在那里。因此宗徒也说：\\BibleQuote{祂使我们一同复活，一同坐在天上。}因为祂是陶工，正如先知耶肋米亚教导的：\\BibleQuote{祂亲手拿起那从祂手中坠落摔碎的器皿，又照祂眼中看为好的重新塑造。}祂看为好的是：祂所取的那必朽可坏的肉身，从石墓中复活，成为不朽不可坏的，如今不再安置在地上，而是在天上，在祂父的右边。旧约圣经充满这些奥迹。没有一位先知、一位立法者、一位圣咏作者是沉默的，几乎每一页圣经都论及它们。因此，滞留于收集证言似乎是多余的；但我们仍要引用少数几处，将那些渴望更多畅饮的人，引向神圣卷册本身的源泉。",
+    "p0065": "30. 在\\BibleBook{}{圣咏}中如此说：\\newline{}\\Quote{我躺下睡觉，我醒来了，因为主扶持了我。}\\newline{}\\newline{}又在另一处说：\\newline{}\\Quote{因了穷苦者的委屈和贫民的哀叹，现在我要起来，——上主说。}\\newline{}\\newline{}在别处，如我们以上所说：\\newline{}\\Quote{主啊，你把我的灵魂从地狱救出，你从下坑的人中救了我。}\\newline{}\\newline{}又在另一处：\\newline{}\\Quote{因为你转回而使我活过来，又从深渊把我提起。}\\newline{}\\newline{}在\\BibleRef{咏 87}中，祂被最明显地论及：\\newline{}\\Quote{祂成了无人帮助的人，在死者中自由。}\\newline{}\\newline{}不是说的\\Quote{一个人}，而是\\Quote{如同一个人}。因为祂下降地狱时，祂是\\Quote{如同一个人}；但祂是\\Quote{在死者中自由}，因为死亡不能禁锢祂。因此，在同一个性体中，显示了人性软弱的能力，另一个则显示了神圣威严的能力。\\newline{}\\newline{}欧瑟亚先知也最明确地论及第三日：\\newline{}\\Quote{两天后祂要医治我们；但在第三天我们必要起来，在祂面前生活。}\\newline{}\\newline{}这话是祂以那些与祂一同在第三天复活、从死亡中被召回生命的人的口吻说的。他们正是那些说\\Quote{在第三天我们要复活，在祂面前生活}的人。\\newline{}\\newline{}依撒意亚却明白地说：\\newline{}\\Quote{祂从地上领出了羊群的大牧者。}\\newline{}\\newline{}此外，妇女们要看见祂的复活，而经师和法利塞人及百姓却不信，这也是依撒意亚预言的话：\\newline{}\\Quote{你们这些从观看中出来的女子，来吧！因为这是一群没有智慧的百姓。}\\newline{}\\newline{}至于那些妇女，记载说她们在复活后去了坟墓，寻找祂却没有找到，如同玛利亚玛达肋纳，记载说她在天亮之前来到坟墓，没有找到祂，哭着对那里的天使说：\\Quote{他们把主搬走了，我不知道他们把祂放在哪里了}——连这事也在\\BibleBook{}{雅歌}中预表了：\\newline{}\\Quote{我在床上寻觅我心爱的；我在夜间寻觅祂，却没有找着。}\\newline{}\\newline{}至于那些找到祂并抱住祂脚的人，在同一书中预言说：\\newline{}\\Quote{我要抱住我心爱的，不放祂走。}\\newline{}\\newline{}这些经文是从许多经文中选取的少数；因我们追求简练，不能堆积更多。",
+    "p0066": "31.\\newline{}\\Emph{祂升了天，坐在圣父的右边：从那里祂要来审判生者死者}。\\newline{}\\newline{}这些条文以适当的简练方式出现在信经中论述圣子的部分之末。所说的是清楚的，但问题是如何和在何种意义上理解。因为\\Quote{升}、\\Quote{坐}和\\Quote{来}，除非你按照天主性尊严来理解这些词，否则似乎指向某种人性的软弱。因为在完成了地上应做之事，并把灵魂从地狱的囚禁中召回之后，祂被说成升到天上，正如先知所预言：\\Quote{祂上升高处，掳掠了俘虏，赐予人恩惠}——即那些恩惠，就是伯多禄在宗徒大事录中关于圣神所说的：\\Quote{祂既被举扬到天主的右边，就领受了所恩许的圣神，并倾注了你们所见所闻的恩惠。}祂将圣神的恩惠赐予人，因为基督藉着从死者中复活，将以前被魔鬼藉罪带入地狱的俘虏召回天上。\\newline{}\\newline{}因此祂升了天，不是到天主圣言以前不在的地方，因为祂永远在天上，且住在父内，而是到了圣言成血肉以前未曾坐过的地方。最后，因为进入天门对天朝的臣仆和王子来说似乎是新事，他们看见血肉之躯穿透天国的隐秘内室，便彼此说，正如充满圣神的达味所宣告的：\\Quote{城门，请高举你们的门楣，古老的门户，请高起，光荣的君王要进来。谁是这位光荣的君王？是英勇有力的上主，是战争中的勇者。}这些话不是指着天主性的能力说的，而是指着血肉上升至天主右边的新奇事。同一位达味在别处说：\\Quote{天主在欢呼声中上升，上主在号角声中上升。}因为胜利者惯于在号角声中从战场归来。关于祂，也说道：\\Quote{祂在天上建造自己的上升。}又：\\Quote{祂上升于革鲁宾之上，驾着风的翅膀飞行。}",
+    "p0067": "32. 坐在圣父的右边是降生成人奥迹的一部分。因为那无形体的本性，在没有取得肉身的情况下，是不适宜的；天上的座位之尊荣，不是为求于天主性，而是求于人性。因此经上论及祂说：\\Quote{天主，祢的宝座从那时起就已预备；祢从永远就有。} 所以，主耶稣将要坐的宝座，从永远就已预备好了，\\Quote{因耶稣之名，一切在天上的、地上的和地底下的，无不屈膝叩拜；众口皆明认耶稣基督是主，以光荣天主圣父。} 达味也这样论及祂说：\\Quote{上主对我主说：你坐在我右边，等我使你的仇敌作你的脚凳。} 主在福音中论及这些话，对法利塞人说：\\Quote{那么，达味在圣神内怎会称祂为主，祂又怎能是达味之子？} 由此祂显示：按圣神，祂是主，按肉身，祂是达味之子。因此主又在另一处说：\\Quote{我实在告诉你们：从今以后，你们要看见人子坐在天主大能的右边。} 宗徒伯多禄论及基督说：\\Quote{祂已升天，坐在天主的右边。} 保禄写信给厄弗所人也说：\\Quote{祂已使基督从死者中复活，叫祂坐在自己的右边。}",
+    "p0068": "33. 祂将要审判活人死人，我们由许多圣经的见证得知。但在我们引用先知们关于这点的言论之前，我们认为有必要提醒你们：这信德的道理要我们每日对审判者的来临保持警醒，好使我们如此行事，如同要向那临近的审判者交账一样。这正是先知论及那有福之人所说的：\\Quote{他在审判中安排自己的言语。} 然而，当祂被说成审判活人死人时，这并不意味着有些人还活着而另一些人已经死了，有些人将来接受审判；而是祂将审判灵魂和身体两者，其中灵魂意指\\Quote{活人}，身体意指\\Quote{死人}；正如主自己在福音中所说：\\Quote{你们不要害怕那些能杀死身体，却不能杀害灵魂的；却要害怕那能使灵魂和身体都丧亡在地狱中的。}",
+    "p0069": "34. 现在，我愿简要向你表明，这些事早已由先知们预言了。你若愿意，自可从更丰富的圣经中收集更多。\\Person{玛拉基亚}先知说：\\Quote{看，全能的上主将来到，谁能忍受他来临的日子，谁能承受看见他的情景？因为他来临有如炼金之人的火，又像漂布之人的碱。他必坐下，如同炼净金银的人。} 但为使你更确切地知道所说的是哪一位主，请听\\Person{达尼尔}先知也预言说：\\Quote{我看见，}他说，\\Quote{在夜间的异象中，看，有一位像\\OriginalTerm{人子}{Son of Man}的，乘着天上的云而来，他走近\\OriginalTerm{万古常存者}{Ancient of days}，被引到他面前；他便赐给他统治权、尊荣和国度。一切民族、部族、语言都事奉他。他的统治是永远的统治，不消逝；他的国度永不灭亡。} 这些话不仅教导我们他的来临和审判，也教导他的统治和国度：他的统治是永恒的，他的国度是不可摧毁的，没有终结；正如信经所说：\\Quote{他的国度将没有终结。} 因此，若有人说基督的国度终有一日会结束，那就离信德甚远。然而，我们应当知道，仇敌惯常以狡猾的欺诈，假冒基督这救恩的来临，以欺骗信徒，并代替那在父的威严中期待来临的\\OriginalTerm{人子}{Son of Man}，准备那\\OriginalTerm{丧亡之子}{Son of Perdition}，行奇迹和虚假征兆，以便将\\OriginalTerm{假基督}{Antichrist}引入世界，取代基督；主自己在福音中预先警告了犹太人：\\Quote{我因我父的名而来，你们却不接待我；另有一个会因自己的名而来，你们反要接待他。} 又说：\\Quote{当你们看见\\Person{达尼尔}先知所说的\\OriginalTerm{招致荒凉的可憎之物}{abomination of desolation}，立于圣地时，读者须要明白。} 因此，\\Person{达尼尔}在他的异象中非常详尽地述说了那\\OriginalTerm{欺骗}{delusion}的来临；但没有必要再举例，因为我们已足够扩展；因此，任何愿意了解更多这些事的人，可自行查阅那些异象。宗徒自己也说：\\Quote{不要让任何人以任何方式欺骗你们，因为那日子不会来，除非先有背叛之事，且那\\OriginalTerm{罪恶的人}{man of sin}被启示出来，那\\OriginalTerm{丧亡之子}{Son of Perdition}，他反对并高举自己超过一切称为神或受人敬拜的，以致坐在天主的殿中，显示自己好像是神。} 不久之后：\\Quote{那时那不法者将被启示出来，主耶稣要以口中的气息杀死他，并以来临的荣光消灭他：他的来临是出于撒殚的运作，具有一切权能、征兆和欺骗的奇迹。} 又过不久：\\Quote{因此，主要把强烈的\\OriginalTerm{欺骗}{delusion}送到他们中间，使他们相信谎言，使所有不信真理的人都受审判。} 因此，这\\Quote{\\OriginalTerm{欺骗}{delusion}}由先知、福音作者和宗徒们的话预先告知我们，以免有人将\\OriginalTerm{假基督}{Antichrist}的来临误认为基督的来临。但正如主自己所说：\\Quote{当他们对你们说：看，基督在这里，或看，他在那里，你们不要相信。因为许多假基督和假先知将要起来，欺骗许多人。} 然而，让我们看他如何指明真基督的审判：\\Quote{如同闪电从东方闪到西方，\\OriginalTerm{人子}{Son of Man}的来临也将如此。} 因此，当真主耶稣基督来临时，他必坐下设立审判的宝座。如他在福音中所说：\\Quote{他要把绵羊和山羊分开，}即义人与不义之人；正如宗徒所写：\\Quote{我们都必须站在\\OriginalTerm{基督的审判台}{judgment-seat of Christ}前，好使每人按他在身体上所行的，或善或恶，领取应得的赏报。} 此外，审判不仅针对行为，也针对思想，如同一位宗徒所说：\\Quote{他们的思想互相控告或辩护，在天主审判人隐秘事的日子。} 但关于这些，说这些就够了。信德顺序接着是——",
+    "p0070": "35. \\Emph{及在圣神内}。之前关于基督较为详尽的论述，涉及他降生成人及苦难的奥迹，并且由于这样插入，属于他的位格，而稍微延迟了提及圣神。否则，如果只考虑天主性，如同在信经开头我们所说\\Quote{我信全能的天主圣父}，随后\\Quote{在耶稣基督、他的独生子、我们的主内}，同样我们加上\\Quote{及在圣神内}。但上述关于基督的一切细节，如我们所说，都与\\OriginalTerm{肉身的安排}{dispensation of the flesh}（即他的降生成人）有关。借着提及圣神，\\OriginalTerm{天主圣三}{Trinity}的奥迹得以完成。因为既然提到一位圣父，且没有别的圣父；一位\\OriginalTerm{独生子}{only-begotten Son}被提到，且没有别的独生子；同样，有一位\\OriginalTerm{圣神}{Holy Ghost}，且不能有另一位圣神。因此，为使\\OriginalTerm{位格}{Persons}可以区分，表达关系的术语（属性）各有不同，由此第一位被理解为圣父，万物来自他，他本身也没有父；第二位是圣子，由圣父所生；第三位是圣神，\\OriginalTerm{由父和子所共发}{proceeding from both}，并圣化一切。但为在圣三中显示同一个天主性，既然冠以介词\\Quote{在}，我们说我们相信\\Quote{\\Emph{在}天主圣父内}，同样我们也说\\Quote{\\Emph{在}基督、他的圣子内}，同样\\Quote{\\Emph{在}圣神内}。但我们的意思在后续中将更加清楚。因为信经接着是说——",
+    "p0071": "36. \\Quote{\\Emph{圣而公教会；罪的赦免，肉身的复活}}。经文不说：\\Quote{信圣而公教会}，也不说：\\Quote{信罪的赦免}，也不说：\\Quote{信肉身的复活}。因为若加了\\Quote{信}这一介词，它就会与前几款具有同样的效力。但在如今这些宣示关于天主性的信仰的条款中，我们却说：\\Quote{信天主圣父}、\\Quote{信耶稣基督祂的圣子}和\\Quote{信圣神}；而在其余涉及非天主性、而是受造物和奥迹的条款中，则不加\\Quote{信}这一介词。我们不说：\\Quote{我们信圣而公教会}，而是说：\\Quote{我们信圣而公教会}，不是作为天主，而是作为聚集归于天主的教会；我们相信有\\Quote{罪的赦免}，不说：\\Quote{我们信罪的赦免}；我们相信将有\\Quote{肉身的复活}，不说：\\Quote{我们信肉身的复活}。因此，正是通过这个单音节介词，造物主与受造物得以区分，属神的事与属人的事得以分离。",
+    "p0072": "这圣神在旧约中默感了法律和先知，在新约中默感了福音和宗徒书信。因此宗徒也说：\\Quote{\\BibleQuote{凡受天主默感所写的圣经，有益于教诲}}。故此，在此处依从教父的传统，列出新旧约中那些根据先辈传承、被认为是受圣神默感并交付给基督的教会的经书，似乎恰如其分。",
+    "p0073": "37. 因此，旧约首先传下来的是梅瑟五书：\\BibleBook{}{创世纪}、\\BibleBook{}{出谷纪}、\\BibleBook{}{肋未纪}、\\BibleBook{}{户籍纪}、\\BibleBook{}{申命纪}；接着是\\BibleBook{}{若苏厄书}（努恩之子若苏厄）、\\BibleBook{}{民长纪}连同\\BibleBook{}{卢德传}；然后是四卷\\BibleBook{}{列王纪}（统治纪），希伯来人将其算作两卷；遗漏之书，即\\BibleBook{}{编年纪}（日纪），以及两卷\\BibleBook{}{厄斯德拉书}（\\BibleBook{}{厄斯德拉}和\\BibleBook{}{乃赫米雅}），希伯来人将其算作一卷，还有\\BibleBook{}{艾斯德尔传}；先知书方面：\\BibleBook{}{依撒意亚}、\\BibleBook{}{耶肋米亚}、\\BibleBook{}{厄则克耳}和\\BibleBook{}{达尼尔}；此外，十二小先知合为一卷；\\BibleBook{}{约伯传}和\\BibleBook{}{达味圣咏}各为一卷。\\Person{撒罗满}给予教会三卷书：\\BibleBook{}{箴言}、\\BibleBook{}{训道篇}、\\BibleBook{}{雅歌}。这些涵盖了旧约的经书。",
+    "p0074": "新约则有四福音：\\BibleBook{玛窦}{福音}、\\BibleBook{马尔谷}{福音}、\\BibleBook{路加}{福音}、\\BibleBook{若望}{福音}；\\BibleBook{路加}{宗徒大事录}，由\\Person{路加}撰写；\\Person{保禄}宗徒的十四封书信、\\Person{伯多禄}宗徒的两封信、\\Person{雅各伯}——主的兄弟和宗徒——的一封信、\\Person{犹达}的一封信、\\Person{若望}的三封信、\\BibleBook{若望}{默示录}。这些是教父们纳入正典的经书，并愿我们从中推导出我们信仰的证据。",
+    "p0075": "38. 但应当知道，还有其他一些经书，教父们不称之为\\OriginalTerm{正典}{Canonical}，而称为\\OriginalTerm{教会书}{Ecclesiastical}：即\\BibleBook{}{智慧篇}，称为\\WorkTitle{撒罗满的智慧}；另一\\BibleBook{}{智慧篇}，称为\\WorkTitle{西拉赫之子的智慧}，拉丁文统称为\\BibleBook{}{德训篇}，这名称并非指书的作者，而是指写作的性质。同属这一类的还有\\BibleBook{}{多俾亚传}、\\BibleBook{}{友弟德传}、\\BibleBook{}{玛加伯书}。在新约中，有一本小书称为\\WorkTitle{赫尔马牧者书}，[以及]所谓的\\WorkTitle{两条路}或\\WorkTitle{伯多禄的审判}；所有这些书，教父们愿意在教会中诵读，但不可用于教义的确认。其他著作则称为\\OriginalTerm{伪经}{Apocrypha}，他们不愿在教会中诵读。",
+    "p0076": "这些是教父们传给我们的传统，如前所述，我认为在此处阐明它们时机恰当，为的是教导那些正在学习教会和信仰基本知识的人，使他们知道应从哪些天主圣言的泉源汲取活水。",
+    "p0077": "39. 按照信仰的次序，接下来我们论及\\Emph{圣而公教会}。我们已在前面提及，为何信经在此处不像前一款那样说\\Quote{信圣而公教会}。因此，那些在上文受教，在圣三奥迹中信一天主的人，也必须相信这一点：有一个圣而公教会，其中有同一个信仰、同一个圣洗，其中信一天主圣父、一主耶稣基督祂的圣子、一圣神。这圣而公教会是毫无玷污或皱纹的。因为有许多其他人聚集教会，如\\Person{马西翁}、\\Person{瓦伦提努}、\\Person{厄俾翁}、\\Person{摩尼}和\\Person{亚略}，以及所有其他异端者。但那些教会并非毫无不信的玷污或皱纹。因此先知论及他们说：\\Quote{\\BibleQuote{我恼恨好党的集会，也决不与恶人同席}}。但论到这保存基督完整信仰的教会，请听圣神在\\BibleBook{}{雅歌}中说的：\\Quote{\\BibleQuote{我的鸽子，我的完人，只有一个}}。那么，凡在教会中领受这信仰的人，不要让他在虚妄的集会中转向，也不要与那些行不义的人同流。",
+    "p0078": "因为马西昂的集会是一个\\OriginalTerm{虚妄的集会}{Council of vanity}，他否认基督的父是天主、造物主，祂藉自己的圣子创造了世界。厄比雍的集会是一个虚妄的集会，因为他教导说，我们信基督的同时，还必须遵守肉身的割损礼、安息日的停工、惯常的祭献以及法律字面上的所有其他规条。摩尼的集会是一个虚妄的集会，就其教导而言：首先他称自己为\\OriginalTerm{护慰者}{Paraclete}，其次他说世界是由一个邪恶的神创造的，否认天主造物主，拒绝旧约，主张两种本性，一善一恶，彼此对立，断言人的灵魂与天主同永恒，按照毕达哥拉斯派学说，它们通过各种出生的循环进入牛、动物和野兽，否认我们肉身的复活，坚持主的受难和诞生不是在肉身的真实中，而只是表象。当撒摩撒塔的保禄和他的继任者福提诺后来教导说，基督不是由圣父在万世之前所生，而是从玛利亚开始的，他们不信祂是神而成为人，而是从人成为神，这是虚妄的集会。当亚略和欧诺弥教导说，天主子不是从圣父的实体本身所生，而是从无中受造，并且天主子有一个开始，且低于圣父，这是虚妄的集会；此外他们还断言圣神不仅低于圣子，而且是一个服役之神。那些承认圣子确实出于圣父的实体，却区分并分离圣神的人，他们的集会也是虚妄的，然而救主在福音中显示圣三的能力和神性是同一的，说：\\BibleQuote{你们要去使万民成为门徒，因父、及子、及圣神之名给他们授洗}，而人将天主所结合的分离，显然是亵渎。那由顽固恶毒的争辩从前聚集起来的集会也是虚妄的，它肯定基督确实取了人的肉身，却没有同时取理性的灵魂，因为基督将同一救恩赐予了肉身、动物的灵魂以及人的理智和心灵。那多纳图在整个非洲召集的集会也是虚妄的，他以\\OriginalTerm{交付圣书者}{traditorship}的罪名控告教会；诺瓦都也用这集会扰乱人心，他否认对跌倒者赐予悔改，并谴责第二次婚姻，尽管可能是不得已而缔结的。所有这些，都要躲避，如同恶人的集会。还有那些人，若有的话，据说断言天主子看不见也不认识圣父，如同祂自己被圣父认识看见一样；或者基督的王国将有终结；或者肉身不会在其本体的完全恢复中复活；那些人还否认天主对所有人有公义的审判，并断言魔鬼将被免除其应受的永罚之刑。对所有这些，我再说，让信徒充耳不闻。但要持守圣教会，她承认全能的天主圣父、祂的独生子耶稣基督我们的主、以及圣神，具有同一和谐一致的本体，相信天主子由童贞女所生，为人的救恩而受苦，在祂所生的同一肉身中从死者中复活；最后，盼望祂将作为众人的审判者降临，藉着祂，也宣讲了\\Emph{罪过的赦免与肉身的复活}。",
+    "p0079": "40. 至于\\Emph{罪过的赦免}，简单的相信就足够了。因为当一位君王施恩时，谁会问其原因或理由呢？当一位人间君主的宽厚不宜被讨论时，人的鲁莽岂可讨论天主的慷慨？因为异教徒常嘲笑我们，说我们自欺，以为行为所犯的罪行可以藉言语洗净。他们说：\\Quote{难道杀人者可以不再是杀人者，犯奸者可以算不是犯奸者吗？那么，犯这类罪的人怎能一下子成为圣洁呢？}但对此，如我所说，我们藉信德而非理性来回答更好。因为应许此事的是万王之王，保证此事的是天地的主宰。你难道要我拒绝相信，那位用地上的尘土造我为人，能使我有罪的人成为无罪？那位当我瞎时使我看见，聋时使我听见，瘸时使我行走，能为我恢复失去的纯洁吗？再诉诸自然的证言——杀人并非总是有罪的，但出于恶意、不依法而杀人，那是有罪的。因此，在这些事上，定我罪的并非行为，因为有时行为是正确的，而是心灵的恶意。如果我的心灵曾变得有罪，罪在其中起源，如今被改正了，那么为什么在你看来，我以前有罪，现在就不能成为无罪呢？因为如果我已表明，罪行不在于行为而在于意志，正如一个邪恶的意志，受到恶神的驱使，使我有罪并该死，那么，受到善神的驱使，意志转为良善，便使我恢复纯洁与生命。在其他所有罪行中也是如此。这样，我们的信德与自然理性之间毫无冲突，因为罪过的赦免不归于行为——行为一旦作出便不能改变——而归于心灵，可以肯定，心灵能从恶转向善。",
+    "p0080": "41. 这最后一条，肯定\\Emph{肉身的复活}，以简洁的言辞总结了所有圆满的总和。虽然在这一端上，教会的信仰也受到攻击，不仅来自外邦人，也来自异端者。因为瓦伦提努斯完全否认肉身的复活，摩尼教徒也是如此，正如我们上面所表明的。但他们拒绝听从依撒意亚先知的话，他说：\\BibleQuote{死去的人要复活，在坟墓里的人要兴起。}或最明智的达尼尔，他宣告：\\BibleQuote{那时，许多睡在尘土中的人要醒来，这些要进入永生，而那些要蒙受羞辱和混乱。}然而，即使在福音书中（他们似乎接受福音），他们也应该从我们的主和救主那里学到，当祂教训撒杜塞人时说：\\BibleQuote{关于死人的复活：你们没有读过天主在荆棘中对你们所说的吗？我是亚巴郎的天主，依撒格的天主，雅各伯的天主。他不是死人的天主，而是活人的天主。}在那里，在前文中祂宣告了复活的光荣是何等伟大，说：\\BibleQuote{但在死人的复活中，他们不娶也不嫁，而是如同天上的天使一样。}但复活的功能赋予人天使般的状态，使他们从地上复活后不再与牲畜一起生活在地上，而是与天使一起在天上——只是那些更纯洁的生活使他们适合于此的人——即那些即使在现在，也以贞洁保全他们灵魂的肉身，并使它服从于圣神，从而借着圣化的能力，除去了所有罪的污秽，转化为属灵的光荣，有资格被接纳进入天使的团体。",
+    "p0081": "42. 但不信的人喊叫说：\\Quote{那已经腐烂、分解、变为尘土、有时被大海吞没、被波浪冲散的肉，怎能再被聚集，再次成为一体，人身体从其中重新形成呢？}对这些人，我们的第一个回答是保禄的话：\\BibleQuote{愚昧的人啊！你所播种的，若不先死，就不会活过来。你所播种的，不是那将来要长成的形体，只是赤裸的谷粒，或是麦子，或是别的种子；但天主随自己的心意给它一个形体。}难道你不相信，你每年看见发生在你撒在地里的种子中的事，也要发生在你的肉身上（这肉身按天主的法律被种在地里）吗？请问，你为什么对天主的能力有如此低下的看法，以致不相信可能将构成每个人肉身的散落尘土重新收集并恢复其原来的结构？当你看到凡人的智慧寻找深埋地下的金属矿脉，有经验的眼睛发现黄金，而无经验的人以为只是泥土时，你难道拒绝承认这一事实吗？我们为什么拒绝将这些事归于创造人的天主，而祂所造的人却能做到这么多？当凡人的智慧发现黄金有其特有的矿脉，银有另一种，铜有远为不同的矿脉，铁和铅有各异且分明的矿脉隐藏在那看似泥土的表层之下时，难道神圣的能力被认为无法发现和区分属于每个人肉身的组成微粒，即使它们似乎已经分散了吗？",
+    "p0082": "43. 但让我们尽力通过自然的理由帮助那些信仰软弱的灵魂。假如有人将不同种类的种子混合在一起，随意撒在地里，那么每一种谷粒，无论撒在哪里，不都会在适当的时候，按照其自身的特定本性发芽，以再现其自身形状和自身身体的状态吗？",
+    "p0083": "因此，每个个别肉身的实体，虽然其微粒已经以各种不同的方式分散，但其中有一个不朽的原则，因为它是永生灵魂的肉身，而在天主按其善意所定的时间，它自己的组成微粒将从地上被收集并吸引过来，将恢复成死亡先前所解散的那个形状。这样，每个灵魂将恢复的，不是一个混乱的或异己的身体，而是它活着时所拥有的自己的身体，为了使肉身连同自己的灵魂，为现世生命的斗争，要么因无玷而受冠冕，要么因污秽而受惩罚。因此，我们的教会，在传授信仰时，不用其他教会所传的\\WorkTitle{信经}中\\Quote{肉身的复活}一词，而是谨慎地加上了代词\\Quote{这个}——\\Quote{\\Emph{这个}肉身的复活}。\\Quote{这个}无疑是指那宣认\\WorkTitle{信经}的人，他一边念这个词，一边在额头上画十字圣号，使每个信徒知道：他的肉身，若在罪中保持洁净，将成为荣誉的器皿，为主有用，预备行各样的善事；但若被罪污秽，则将成为义怒的器皿，注定毁灭。",
+    "p0084": "但现在，关于复活的荣耀以及天主以自身所许诺的伟大，若有人愿意更详尽地知晓，他几乎能在所有神圣经卷中找到相关论述；我们从这些经卷中，仅以提醒的方式，在此处提及几段，然后就结束你所托付的这部作品。宗徒保禄在断言会死的肉身将要复活时，使用了如下的论证：\\BibleQuote{若死者不复活，基督也就没有复活。若基督没有复活，我们的宣讲便是空的，你们的信德也是空的。}紧接着：\\BibleQuote{但是现今基督已从死者中复活，成为安眠者的初果。因为死亡既由一人而来，死者的复活也由一人而来。就如所有的人都因亚当而死，同样所有的人都因基督而活。但各人要按自己的次序：基督是初果，以后是那些属于基督的，在祂来临时；再后才是结局。}随后他又说：\\BibleQuote{看，我告诉你们一个奥秘：我们固然都要复活，但不全都改变；}或按其他抄本：\\BibleQuote{我们固然都要安眠，但不全都改变；在一刹那，一眨眼之间，在最后的号角声中；因为号角一响，死者将以不朽坏的身体复活，我们也要改变。}然而，无论哪一个才是正确的经文，他在给得撒洛尼人的书信中写道：\\BibleQuote{弟兄们，关于安眠的人，我不愿你们不知道，以免你们忧伤，像那些没有希望的人一样。因为我们若信耶稣死了，也复活了，同样，那些通过耶稣安眠的人，天主也必把他们与耶稣一同带来。我们凭主的话告诉你们这一点：我们这些活着存留到主来临时的人，绝不会在安眠的人之先。因为主必亲自从天降下，有呼喊声，有总领天使的声音，并有天主的号角；那些在基督内死了的人要先复活；然后我们这些活着存留的人，将同他们一起被提到云中，在空中迎接基督，这样我们就常与主在一起。}",
+    "p0085": "44. 但为使你不以为这是保禄独有的新教义，我也要引述厄则克耳先知藉圣神所预言的话。他说：\\BibleQuote{看，我要打开你们的坟墓，把你们从你们的坟墓里领出来。}再让我回忆约伯，他充满奥秘言语，是如何明白地预言死者的复活。\\BibleQuote{树木还有希望；因为若被砍下，它还会发芽，它的嫩枝决不会止息。但若它的根在土中衰老，它的树干在尘土中死去，然而一闻到水气，它就会重新发旺，如同新栽的植物一样。但人若死了，他就离去了吗？会死的人若倒下了，他就不再有了吗？}你难道没有看见，在这些话中，他仿佛是在诉诸人的羞耻感，说：\\Quote{人类竟如此愚蠢，当他们看到被砍下的树桩又从地中发芽，枯木又重新复活，却以为自己的情况与树木全无相似之处吗？}但为使你相信约伯的话应作为问句来读，当他说：\\BibleQuote{但会死的人倒下了，难道他不再起来吗？}请从下文取这个明证；因为他随即加上：\\BibleQuote{但人若死了，他还能活吗？}紧接着他又说：\\BibleQuote{我要等候，直到我重新被造；}随后他又重复同样的话：\\BibleQuote{那如今正承受这苦杯的我的皮肤，谁能在世上使它再起来呢？}",
+    "p0086": "45. 以上足够证明我们在信经中所宣认的\\Quote{这个肉身的复活}。至于添加\\Quote{这个}一词，看它与我们从圣经中所引证的一切是多么一致。约伯在他上面所解释的经文\\BibleQuote{祂将再举起我的皮肤，就是如今正承受这苦杯的}——即正在经受这些苦难的——又指明了别的什么呢？他岂不是明说这个肉身的复活，即现在正经历极端考验和患难的这肉身吗？此外，当宗徒说：\\BibleQuote{这必朽坏的必须穿上不朽坏的，这必死的必须穿上不死的}，他的话岂不像是触摸自己的身体、用手指着它说的吗？因此，这个现在必朽坏的身体，将因复活的恩宠成为不朽坏的；这个现在必死的，将穿上不死的德能，以使\\BibleQuote{基督从死者中复活，不再死，死亡再不能管辖祂}；同样，那些在基督内复活的人，将永不再感到腐朽或死亡，并非因为肉身的本性被抛弃，而是因为其状态和品质已被改变。因此，将有一个身体从死者中复活，是不朽坏、不死的，不仅对义人如此，对罪人也如此；对义人，使他们能永远与基督同在；对罪人，使他们无终地承受应受的惩罚。",
+    "p0087": "46. 义人将永远与我们的主基督同在，这一点我们已在上面证明，在那里我们指出，宗徒说：\\Quote{然后我们这些活着存留的人，将同他们一起被提到云中，在空中与基督相遇，这样我们就常与主同在。} 不要惊奇，圣人们的肉躯将在复活时被改变成如此光荣的状态，以致被提到空中与天主相遇，悬在云中，飘在空中，因为同一位宗徒阐述天主赐予爱祂之人的伟大事物时说：\\Quote{祂将改变我们卑贱的身体，使之与祂的光荣身体相似。} 因此，若说圣人们的身体被升到空中，这绝无荒谬之处，因为他们被说成是依照基督身体的肖像而更新，而基督的身体坐在天主的右边。但圣宗徒还补充了这一点，不论是指他自己，还是指与他同地位或同功勋的其他人：\\Quote{祂将使我们与基督一同复活，一同坐在天上。} 因此，既然天主的圣人们拥有这些关于义人复活的应许以及无数类似的应许，那么现在相信先知们所预言的也就不难了，即：\\Quote{义人将在天主的国里发光如同太阳，如同穹苍的光辉。} 因为，谁会觉得这困难呢？那些将来在天上被预备享有天主天使的生命和交往的人，或者那些被描述为将来要相似于基督身体荣耀的人，他们怎么能没有太阳的光辉，不能以星辰和穹苍的灿烂为装饰呢？关于这荣耀，救主亲口应许了，圣宗徒说：\\Quote{播种的是属魂的身体，复活的是属神的身体。} 因为如果这是真的——它确实是真的——天主将赏赐每一位义人和圣人与天使为伴，那么祂也必定会将他们的身体改变成属神身体的荣耀。",
+    "p0088": "47. 不要让你觉得这个应许与身体的自然构造相悖。因为如果按经上所载，我们相信天主取地上的泥土造了人，我们身体的起源是天主用泥土变化成了肉，那么，基于同样的原理，既然泥土被说成是提升到属魂的身体，那么属魂的身体反过来又被相信是提升到属神的身体，这为什么在你看来是荒谬或不合情理的呢？这些事以及许多类似的事，你会在神圣的圣经中找到，关于义人的复活。复活时，罪人也将得到不朽和不死的状态，正如我们上面所说的，为的是天主将这状态赐给义人作为永远的荣耀，而赐给罪人作为羞耻和惩罚的延长。因为上文我们引用过的先知的话也清楚地说：\\Quote{许多人将从地上的尘土中起来，有的进入永生，有的进入羞耻和永远的耻辱。}",
+    "p0089": "48. 如果我们已理解，全能的天主以何等庄严的意义被称为圣父，我们的主耶稣基督以何等奥秘的含义被认为是祂的独生子，祂的圣神以何等圆满的意义被称为圣神，以及天主圣三如何是同一本体却有关系与位格的区分；还有，由童贞女的诞生是什么，圣言在肉身上的诞生是什么，十字架的奥秘是什么，我们主下降阴府的目的何在，复活的荣耀是什么，灵魂从阴间的囚禁中被解救是什么，祂的升天是什么，审判者的来临是什么；此外，如何应承认圣教会与虚妄的集会相对立，圣卷的数目是多少，异端的集会应当避免，在罪的赦免中，天主的自由与人的自然理性之间并无任何对立，以及如何不仅神圣的神谕，而且主和救主自身的榜样以及自然理性的结论，都确认我们肉身复活的真理——如果我说，我们按照前面阐述的传统规则明智地依次理解了这些，那么我们恳求主赐予我们和所有听到这些话的人，使我们保持所领受的信德，完成我们的赛程之后，能等待为我们存留的正义之冠，并被算在那些复活进入永生的人中，从羞耻和永远的耻辱中被拯救出来，藉着我们的主基督，藉着祂，荣耀与权能归于全能的天主圣父及圣神，至于永远。阿们。"
+  }
+}

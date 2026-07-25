@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "360202051",
+    "title": "Book II, Letter 51",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 51",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 51",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To All Bishops.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all bishops in the matter of the Three Chapters.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have received your letters with the utmost gratification: but I shall have far abundant joy, if it should be my lot to rejoice in your return from error. Now the forefront of your Epistle notifies that you suffer severe persecution. But persecution, if endured irrationally, is of no profit at all unto salvation. For it is impious in any one to expect a recompense of reward for sin. For you ought to know, as the blessed Cyprian says, that it is not the suffering that makes the martyr, but the cause for which he suffers. This being so, it is exceedingly incongruous for you to glory in the persecution whereof you speak, seeing that you are not thereby at all advanced towards eternal rewards. Let, then, purity of faith bring your Charity back to your mother church who bare you; let no bent of your mind dissociate you from the unity of concord; let no persuasion deter you from seeking again the right way. For in the synod which dealt with the three chapters it is distinctly evident that nothing pertaining to faith was subverted, or in the least degree changed; but, as you know, the proceedings had reference only to certain individuals; one of whom, whose writings evidently deviated from the rectitude of the Catholic Faith, was not unjustly condemned.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Moreover, as to what you write about Italy among other provinces having been especially scourged since that time, you ought not to twist this into a reproach, since it is written, <em>Whom the Lord loves he chastens, and scourges every son whom he receives</em> {{BIBLE:heb 12:6}} . If, then, it is as you say, Italy has been since that time the more loved by God, and in all ways approved, having been counted worthy of enduring the scourge of the Lord. But, since it is not as you try to make out by way of insulting over her, attend to reason.",
+        "scripture": [
+          "heb 12:6"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "After the Pope Vigilius of illustrious memory, having been appointed in the royal city , promulgated a sentence of condemnation against Theodora, then empress, or against the Acephali , the city of Rome was then attacked and captured by enemies. Does it follow from this that the Acephali had a good case, or that they were unjustly condemned, because such things happened after their condemnation? Away with the thought! For it is not fit that either any one of you, or any others who have been instituted in the mysteries of the Catholic Faith, should say or in any way acknowledge this. This then being recognized, retire even now at length from the determination you have come to. Wherefore, that full satisfaction may be infused into your minds, and all doubt removed, with respect to the three chapters, I have judged it of advantage to send you the book which my predecessor of holy memory, Pope Pelagius, had written on this subject. Which book if you should be willing to read again and again, putting aside the spirit of wilful self-defence, I have confidence that you will follow it in all respects, and, notwithstanding all, return to union with us. But if henceforth, after perusal of this book, you should decide to persist in your present determination, you will doubtless show that you gave yourselves up not to reason but to obstinacy. Wherefore once more, in a spirit of compassion, I admonish your Charity, that, inasmuch as under God the purity of our faith has remained inviolate in the matter of the Three Chapters, you put away from you all swelling of mind, and return to your mother the Church, who expects and invites her sons; and this all the more speedily as you know that she expects you daily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202051.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202051.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "《第二卷，第五十一封书信》",
+    "p0002": "\\Emph{致全体主教}",
+    "p0003": "国瑞致全体主教，论 \\OriginalTerm{三章}{Three Chapters} 事宜。",
+    "p0004": "我极其欣慰地收到了你们的信函；然而，若我有幸能因你们从谬误中回转而欢喜，那将是更大的喜悦。你们的信函开头告知你们正遭受严重的迫害。但迫害若出于非理性，对救恩便毫无益处。因为任何人指望因罪恶而得赏报，实属不敬。你们应当知道，正如真福西彼廉所言，并非受苦使人成为殉道者，而是受苦的原因。既然如此，你们所提及的迫害，你们以此夸耀，是极不恰当的，因为你们并未因此更接近永恒的赏报。因此，愿信德的纯洁引导你们的爱德回归生养你们的母亲教会；愿你们的心意不因任何偏执而与和好的合一分离；愿没有任何劝说能阻止你们再次寻求正道。因为在处理三章的大公会议中，显然没有任何关乎信仰的事被推翻或丝毫改变；但是，正如你们所知，会议只涉及某些个人；其中一人，其著作明显偏离大公信仰的正直，被定罪并非不公。",
+    "p0005": "此外，关于你们所写的自那时起意大利在诸省中尤其遭受鞭笞一事，你们不应将此曲解为一种责难，因为经上记载：\\Emph{\\Quote{主所爱的，祂必管教；凡所接纳的儿子，都必鞭打他}}（\\BibleRef{希 12:6}）。那么，若果真如你们所言，意大利自那时起便更加为天主所爱，并得以完全蒙受悦纳，因为它堪当承受主的鞭打。然而，事实并非如你们所试图藉以侮辱她的那样，请听理性的声音。",
+    "p0006": "自可敬的教宗维吉吕受命于皇城颁定罪罚判决反对当时的皇后狄奥多拉，或反对 \\OriginalTerm{无首派}{Acephali} 之后，罗马城随即遭敌人攻击并攻陷。那么，这是否意味着无首派有理，或者他们被不公定罪，因为定罪后发生了这些事？绝无此理！因为无论是你们中的任何人，还是其他曾领受大公信仰奥迹的人，都不应该说或在任何方面承认这点。既然明此，现在也请你们最终从已作出的决定中退出。因此，为使你们心中充满完全的满足，并除去对三章的一切疑虑，我认为有益于将我先教宗、神圣记忆的教宗佩拉吉关于此主题所写的书寄给你们。若你们愿意反复阅读此书，摒弃固执己见的精神，我相信你们会完全遵循它，并无论如何回归与我们的合一。但若今后在阅读此书后，你们决定坚持目前的决定，无疑将表明你们是屈服于固执而非理性。因此，我再次以怜悯之心劝诫你们的爱德：既然在天主之下，我们的信仰纯洁在三章之事上仍保持完好，你们应除去一切心高气傲，回归期待并召唤其子女的母亲教会；并且越早越好，因为你们知道她每日都在期待你们。"
+  }
+}

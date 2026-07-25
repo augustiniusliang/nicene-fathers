@@ -1,0 +1,106 @@
+{
+  "source": {
+    "source_id": "1801013",
+    "title": "Exposition on Psalm 13",
+    "breadcrumbs": "Home > Fathers of the Church > Expositions on the Psalms (Augustine) > Psalm 13",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Exposition on Psalm 13",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Unto the end, a psalm of David.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. <quote>For Christ is the end of the law to every one that believes.</quote> {{BIBLE:rom 10:4}} <quote>How long, O Lord, will You forget me unto the end?</quote> {{BIBLE:psa 12:1}} that is, put me off as to spiritually understanding Christ, who is the Wisdom of God, and the true end of all the aim of the soul. <quote>How long will You turn away Your face from me?</quote> As God does not forget, so neither does He turn His face away: but Scripture speaks after our manner. Now God is said to turn away His face, when He does not give to the soul, which as yet has not the pure eye of the mind, the knowledge of Himself.",
+        "scripture": [
+          "rom 10:4",
+          "psa 12:1"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. <quote>How long shall I place counsel in my soul?</quote> {{BIBLE:psa 12:2}} . There is no need of counsel but in adversity. Therefore <quote>How long shall I place counsel in my soul?</quote> is as if it were said, How long shall I be in adversity? Or at least it is an answer, so that the meaning is this, So long, O Lord, will You forget me to the end, and so long turn away Your face from me, until I shall place counsel in my own soul: so that except a man place counsel in his own soul to work mercy perfectly, God will not direct him to the end, nor give him that full knowledge of Himself, which is <quote>face to face.</quote> <quote>Sorrow in my heart through the day?</quote> How long shall I have, is understood. And <quote>through the day</quote> signifies continuance, so that day is taken for time: from which as each one longs to be free, he has sorrow in his heart, making entreaty to rise to things eternal, and not endure man's day.",
+        "scripture": [
+          "psa 12:2"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "3. <quote>How long shall mine enemy be exalted over me?</quote> either the devil, or carnal habit.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "4. <quote>Look on me, and hear me, O Lord my God</quote> {{BIBLE:psa 12:3}} . <quote>Look on me,</quote> refers to what was said, <quote>How long</quote> dost <quote>Thou turn away Your face from me.</quote> <quote>Hear,</quote> refers to what was said, <quote>How long will You forget me to the end? Lighten my eyes, that I sleep not in death.</quote> The eyes of the heart must be understood, that they be not closed by the pleasurable eclipse of sin.",
+        "scripture": [
+          "psa 12:3"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "5. <quote>Lest at any time mine enemy say, I have prevailed against him</quote> {{BIBLE:psa 12:4}} . The devil's mockery is to be feared. <quote>They that trouble me will exult, if I be moved;</quote> the devil and his angels; who exulted not over that righteous man, Job, when they troubled him; because he was not moved, that is, did not draw back from the steadfastness of his faith. {{BIBLE:job 2:3}}",
+        "scripture": [
+          "psa 12:4",
+          "job 2:3"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "6. <quote>But I have hoped in Your mercy</quote> {{BIBLE:psa 12:5}} . Because this very thing, that a man be not moved, and that he abide fixed in the Lord, he should not attribute to self: lest when he glories that he has not been moved, he be moved by this very pride. <quote>My heart shall exult in Your salvation;</quote> in Christ, in the Wisdom of God. <quote>I will sing to the Lord who has given me good things;</quote> spiritual good things, not belonging to man's day. <quote>And I will chant to the name of the Lord most high</quote> {{BIBLE:psa 12:6}} ; that is, I give thanks with joy, and in most due order employ my body, which is the song of the spiritual soul. But if any distinction is to be marked here, <quote>I will sing</quote> with the heart, <quote>I will chant</quote> with my works; <quote>to the Lord,</quote> that which He alone sees, but <quote>to the name of the Lord,</quote> that which is known among men, which is serviceable not for Him, but for us.",
+        "scripture": [
+          "psa 12:5",
+          "psa 12:6"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by an anonymous scholar. From Nicene and Post-Nicene Fathers, First Series, Vol. 8. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1801013.htm>.",
+    "metadata": {
+      "srctrans": "Translated by an anonymous scholar.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1801013.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "《圣咏第十三篇释义》",
+    "p0002": "\\Quote{交与乐官，达味圣咏。}",
+    "p0003": "1. \\Quote{因为基督是法律的终向，使所有信者获得成义。}\\BibleRef{罗 10:4}\\Quote{上主，祢忘记我要到何时？} \\BibleRef{咏 12:1} 也就是说，祢将我从属灵上理解基督——祂是天主的智慧，是灵魂一切追求的真正终向——推迟到何时？\\Quote{祢转面不顾我，要到何时？} 正如天主不忘记，祂也不转面：但圣经是按我们的方式说话。当天主不将祂自己的知识赐给那尚未拥有纯洁心灵之眼的灵魂时，就说祂转面不顾。",
+    "p0004": "2. \\Quote{我心中筹算，要到何时？}\\BibleRef{咏 12:2} 只有在逆境中才需要筹算。因此，\\Quote{我心中筹算，要到何时？} 就像是在说：我要处在逆境中到何时？或者至少这是一个回答，意思是：上主，祢忘记我直到终局，并转面不顾我，要等到我在自己灵魂中筹算为止：除非人在自己灵魂中筹算，以完全施行仁慈，否则天主不会引导他到终局，也不会赐予他那圆满的自我认识，即\\Quote{面对面}的认知。\\Quote{我心中终日悲伤？} 要理解\\Quote{我要有……到何时}。而\\Quote{终日}表示持续，即\\Quote{日}被当作时间：每个人都渴望从这时间中解脱，因此他心中悲伤，恳求升至永恒的事物，不再忍受人的时日。",
+    "p0005": "3. \\Quote{我的仇敌高居我上，要到何时？} 或是魔鬼，或是肉欲的习性。",
+    "p0006": "4. \\Quote{上主，我的天主，求祢俯视我，应允我。}\\BibleRef{咏 12:3} \\Quote{俯视我}指的是所说的\\Quote{祢转面不顾我，要到何时？}\\Quote{应允我}指的是所说的\\Quote{祢忘记我要到何时？}\\Quote{求祢光照我的眼睛，免得我沉睡于死亡。} 必须理解心灵的眼睛，免得它们被罪孽的愉悦蒙蔽而闭合。",
+    "p0007": "5. \\Quote{免得我的仇敌说：我战胜了他。}\\BibleRef{咏 12:4} 魔鬼的嘲笑是可怕的。\\Quote{如果我被摇动，那迫害我的人必会欢欣。} 魔鬼和他的天使；他们虽迫害那义人约伯，却没有在他身上欢欣，因为他没有被摇动，即没有从信德的坚定中退缩。\\BibleRef{约 2:3}",
+    "p0008": "6. \\Quote{但我依靠祢的仁慈。}\\BibleRef{咏 12:5} 因为人没有被摇动、坚定地持守于主内这件事本身，他不应归功于自己：免得当他夸耀自己没有被摇动时，反因这骄傲而被摇动。\\Quote{我的心因祢的救恩而欢欣。} 在基督内，在天主的智慧内。\\Quote{我要歌颂上主，因祂厚赐于我。} 属灵的恩赐，不属于人的时日。\\Quote{我要歌颂至高上主的名。}\\BibleRef{咏 12:6} 也就是说，我以喜乐感恩，并极其适当地运用我的身体，这是属灵灵魂的歌咏。但如果在这里要区分什么的话，\\Quote{我要歌颂}是用心，\\Quote{我要歌咏}是用我的行动；\\Quote{歌颂上主}是指祂独自看见的，而\\Quote{歌颂上主的名}是指人中所知的，这并非为祂有益，而是为我们有益。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "1602102",
+    "title": "The Harmony of the Gospels, Book I",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book I, Chapter 2",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book I",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 2. On the Order of the Evangelists, and the Principles on Which They Wrote.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "3. Now, those four evangelists whose names have gained the most remarkable circulation over the whole world, and whose number has been fixed as four—it may be for the simple reason that there are four divisions of that world through the universal length of which they, by their number as by a kind of mystical sign, indicated the advancing extension of the Church of Christ—are believed to have written in the order which follows: first Matthew, then Mark, thirdly Luke, lastly John. Hence, too, [it would appear that] these had one order determined among them with regard to the matters of their personal knowledge and their preaching [of the gospel], but a different order in reference to the task of giving the written narrative. As far, indeed, as concerns the acquisition of their own knowledge and the charge of preaching, those unquestionably came first in order who were actually followers of the Lord when He was present in the flesh, and who heard Him speak and saw Him act; and [with a commission received] from His lips they were dispatched to preach the gospel. But as respects the task of composing that record of the gospel which is to be accepted as ordained by divine authority, there were (only) two, belonging to the number of those whom the Lord chose before the passover, that obtained places—namely, the first place and the last. For the first place in order was held by Matthew, and the last by John. And thus the remaining two, who did not belong to the number referred to, but who at the same time had become followers of the Christ who spoke in these others, were supported on either side by the same, like sons who were to be embraced, and who in this way were set in the midst between these two.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "4. Of these four, it is true, only Matthew is reckoned to have written in the Hebrew language; the others in Greek. And however they may appear to have kept each of them a certain order of narration proper to himself, this certainly is not to be taken as if each individual writer chose to write in ignorance of what his predecessor had done, or left out as matters about which there was no information things which another nevertheless is discovered to have recorded. But the fact is, that just as they received each of them the gift of inspiration, they abstained from adding to their several labours any superfluous conjoint compositions. For Matthew is understood to have taken it in hand to construct the record of the incarnation of the Lord according to the royal lineage, and to give an account of most part of His deeds and words as they stood in relation to this present life of men. Mark follows him closely, and looks like his attendant and epitomizer. For in his narrative he gives nothing in concert with John apart from the others: by himself separately, he has little to record; in conjunction with Luke, as distinguished from the rest, he has still less; but in concord with Matthew, he has a very large number of passages. Much, too, he narrates in words almost numerically and identically the same as those used by Matthew, where the agreement is either with that evangelist alone, or with him in connection with the rest. On the other hand, Luke appears to have occupied himself rather with the priestly lineage and character of the Lord. For although in his own way he carries the descent back to David, what he has followed is not the royal pedigree, but the line of those who were not kings. That genealogy, too, he has brought to a point in Nathan the son of David, which person likewise was no king. It is not thus, however, with Matthew. For in tracing the lineage along through Solomon the king, he has pursued with strict regularity the succession of the other kings; and in enumerating these, he has also conserved that mystical number of which we shall speak hereafter.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602102.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602102.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐 卷一}",
+    "p0002": "第二章  论福音作者的次序及他们写作的原则。",
+    "p0003": "3.  现在，那四位福音作者的名字已传遍全世界，他们的人数被定为四——或许仅仅是因为这个世界有四部分，而他们以人数如同一种神秘的标记，表明基督教会正在扩展并遍及整个世界——据信是按以下次序写作：首先是\\Person{玛窦}，其次是\\Person{马尔谷}，第三是\\Person{路加}，最后是\\Person{若望}。因此，[似乎]他们之间有一个确定的次序，关于他们个人所知和宣讲（福音）之事，但关于撰写书面叙述的任务，则有不同的次序。确实，就他们获取自己的知识和受命宣讲而言，那些在主带着肉身在世时实际追随祂、亲耳听祂说话、亲眼见祂行动的人，无疑是首先的；他们从主口中接受了使命，并被派遣去宣讲福音。但就撰写那应当被接受为神圣权威所定的福音记录而言，在主逾越节前所选的人中，只有两位获得了一席之地——即第一位和最末位。按次序，第一位是\\Person{玛窦}，最末位是\\Person{若望}。因此，其余两位，虽不属于上述之列，但已成为在他人中说话之基督的门徒，他们如同要被拥抱的儿子，被这两位所支持，并被安置在两者之间。",
+    "p0004": "4.  在这四位中，确实只有\\Person{玛窦}被认为用希伯来文写作；其余的人用希腊文。尽管他们每人似乎都保持了自己特定的叙述次序，但这当然不应理解为每位作者选择在不知其前任所做之事的情况下写作，或遗漏了那些别人显然已记录的事件，仿佛这些事没有信息。事实是，正如他们各人领受了灵感的恩赐，他们避免在其各自的劳作中添加任何多余的合作作品。因为\\Person{玛窦}被认为着手按照王室谱系来建构主降生成人的记录，并讲述祂大部分言行，这些言行涉及人类今世的生活。\\Person{马尔谷}紧随其后，他的著作看起来像是\\Person{玛窦}的随从和缩影。因为在他的叙述中，他没有与\\Person{若望}一同记载任何其他作者没有记载的事；他单独记载的很少；他与\\Person{路加}一起而不同于其余作者记载的更少；但与\\Person{玛窦}一致时，他有大量的段落。他叙述时，许多地方几乎用了与\\Person{玛窦}相同的字词和数目，这些一致之处或仅与那位福音作者，或与他与其他作者一起。另一方面，\\Person{路加}似乎更多专注于主的司铎的谱系和身份。因为他虽然按自己的方式将谱系追溯到\\Person{达味}，但他遵循的不是王室谱系，而是非王者的谱系。他也将谱系带到\\Person{达味}之子\\Person{纳堂}那里，此人同样不是国王。然而\\Person{玛窦}并非如此。因为他在谱系中一路沿着\\Person{撒罗满}王，严格而规律地追溯其他君王的继承；在列举这些时，他也保持了那神秘的数目，我们以后会谈到。"
+  }
+}

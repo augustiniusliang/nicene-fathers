@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102081",
+    "title": "From Jerome to Augustine (A.D. 405)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 81",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Jerome to Augustine (A.D. 405)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Augustine, My Lord Truly Holy, and Most Blessed Father, Jerome Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Having anxiously inquired of our holy brother Firmus regarding your state, I was glad to hear that you are well. I expected him to bring, or, I should rather say, I insisted upon his giving me, a letter from you; upon which he told me that he had set out from Africa without communicating to you his intention. I therefore send to you my respectful salutations through this brother, who clings to you with a singular warmth of affection; and at the same time, in regard to my last letter, I beg you to forgive the modesty which made it impossible for me to refuse you, when you had so long required me to write you in reply. That letter, moreover, was not an answer from me to you, but a confronting of my arguments with yours. And if it was a fault in me to send a reply (I beseech you hear me patiently), the fault of him who insisted upon it was still greater. But let us be done with such quarrelling; let there be sincere brotherliness between us; and henceforth let us exchange letters, not of controversy, but of mutual charity. The holy brethren who with me serve the Lord send you cordial salutations. Salute from us the holy brethren who with you bear Christ's easy yoke; especially I beseech you to convey my respectful salutation to the holy father Alypius, worthy of all esteem. May Christ, our almighty God, preserve you safe, and not unmindful of me, my lord truly holy, and most blessed father. If you have read my commentary on Jonah, I think you will not recur to the ridiculous gourd-debate. If, moreover, the friend who first assaulted me with his sword has been driven back by my pen, I rely upon your good feeling and equity to lay blame on the one who brought, and not on the one who repelled, the accusation. Let us, if you please, exercise ourselves in the field of Scripture without wounding each other.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102081.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102081.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\Person{热罗尼莫}致\\Person{奥斯定}（公元405年）",
+    "p0002": "\\Emph{致\\Person{奥斯定}，我真正圣洁的\\OriginalTerm{主}{my lord}，至为有福的教父，\\Person{热罗尼莫}谨在主内致候。}",
+    "p0003": "我急切地向我们的圣洁弟兄\\Person{菲尔穆斯}询问您的近况，得知您安好，我甚为欣慰。我本期待他带来，更确切地说，我坚持要他带给我一封您的信；他却告诉我，他动身离开\\Place{非洲}时并没有告知您他的打算。因此，我透过这位以特别温暖的感情依恋您的兄弟，向您致以我的敬意；同时，关于我的上一封信，我恳请您原谅我因谦逊，在您长期要求我回信时，竟未能拒绝您。再者，那封信并非我对您的答复，而是把我的论据与您的论据加以对照。如果说，寄出回信是我的过错（我恳请您耐心听我说），那么坚持要我回信之人的过错就更大了。但让我们摒弃这些争论吧；让我们之间保持真诚的兄弟情谊；从此以后，我们彼此往来的书信，不再是争辩，而是出于相互\\OriginalTerm{爱德}{charity}的书信。与我一同侍奉主的圣洁弟兄们，向您致以衷心的问候。请代我们问候那些与您一同背负基督轻轭的圣洁弟兄们；尤其我恳请您，向极堪尊敬的圣洁的教父\\Person{阿利比乌斯}转致我的敬意。愿基督，我们全能的天主，保护您安康，并记念我，我真正圣洁的\\OriginalTerm{主}{my lord}，至为有福的教父。如果您读过我的\\WorkTitle{约纳注释}，我想您就不会再提起那可笑的葫芦之争了。再者，如果那位率先挥剑攻击我的朋友，已被我的笔击退，我仰赖您的善意与公正，会将指责归咎于那挑起事端者，而非那予以回击者。如果您愿意，让我们在圣经的园地中锻炼自己，彼此不加伤害。"
+  }
+}

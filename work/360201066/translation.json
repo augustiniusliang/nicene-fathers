@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201066",
+    "title": "Book I, Letter 66",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 66",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 66",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Felix, Bishop of Messana (Messene).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Felix, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Customs which are found to bring a burden upon churches it becomes us in our consideration to discontinue, lest any should be forced to contribute to quarters from which they ought rather to look for contributions. Accordingly, it is your duty to preserve intact the custom of the clergy and others, and to transmit to them every year what has been accustomed: but for the future we forbid you to transmit anything to us. And, since we take no delight in presents (<em>xeniis</em>) , we have received with thanks the Palmatianæ which your Fraternity has sent us, but have caused them to be sold for an adequate price, which we have transmitted separately to your Fraternity, for fear lest you should have felt the expense. Further, since we have learned that your Charity is desirous of coming to us, we admonish you by the present letter not to take the trouble of coming: but pray for us, that the more we are separated by length of way, the more we may be joined one to another in mind, with the help of Christ, by charity; to the end that, aiding each other by mutual supplication, we may resign our office unimpaired to the Judge that is to come.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201066.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201066.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷·第六十六封信",
+    "p0002": "\\Emph{致\\Place{墨西拿}（\\Place{梅塞内}）主教\\Person{费利克斯}。}",
+    "p0003": "\\Signature{额我略致费利克斯等。}",
+    "p0004": "那些我们发现给教会带来负担的习俗，我们理应出于关怀予以废止，以免任何人被迫向那些他们本应指望得到捐助的地方做出贡献。因此，您的职责是保持圣职人员及其他人的惯例完好无损，并每年向他们转交所惯常的：但今后我们禁止您向我们转交任何东西。并且，既然我们不喜爱\\OriginalTerm{礼物}{xeniis}，我们已感谢地接受了您兄弟情谊送给我们的\\OriginalTerm{帕尔马提亚特产}{Palmatianæ}，但已按合理价格将其出售，并将售价另行转交给您的兄弟情谊，以免您感到开销。此外，既然我们得知您的爱德渴望来到我们这里，我们通过本信劝告您不必劳烦前来：但请为我们祈祷，以便我们虽因路途遥远而分离，却因爱德在基督的帮助下在心灵上更加团结；为的是通过彼此代祷互相帮助，我们得以将未曾损坏的职务交还给那将要来临的审判者。"
+  }
+}

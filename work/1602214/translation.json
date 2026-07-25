@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602214",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 14",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 14. Of the Words or the Voice that Came from Heaven Upon Him When He Had Been Baptized.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "31. Thereafter Matthew proceeds thus: <quote>And Jesus, when He was baptized, went up straightway out of the water; and, lo, the heavens were opened unto Him, and He saw the Spirit of God descending like a dove, and lighting upon Him; and, lo, a voice from heaven saying, This is my beloved Son, in whom I am well pleased.</quote> This incident is also recorded in a similar manner by two of the others, namely Mark and Luke. But at the same time, while preserving the sense intact, they use different modes of expression in reproducing the terms of the voice which came from heaven. For although Matthew tells us that the words were, <quote>This is my beloved Son,</quote> while the other two put them in this form, <quote>You are my beloved Son,</quote> these different methods of speech serve but to convey the same sense, according to the principle which has been discussed above. For the heavenly voice gave utterance only to one of these sentences; but by the form of words thus adopted, namely, <quote>This is my beloved Son,</quote> it was the evangelist's intention to show that the saying was meant to intimate specially to the hearers there [and not to Jesus] the fact that He was the Son of God. With this view, he chose to give the sentence, <quote>You are my beloved Son,</quote> this turn, <quote>This is my beloved Son,</quote> as if it were addressed directly to the people. For it was not meant to intimate to Christ a fact which He knew already; but the object was to let the people who were present hear it, for whose sakes indeed the voice itself was given. But furthermore now, with regard to the circumstance that the first of them puts the saying thus, <quote>In whom I am well pleased,</quote> the second thus, <quote>In You I am well pleased;</quote> and the third thus, <quote>In You it has pleased me;</quote> — if you ask which of these different modes represents what was actually expressed by the voice, you may fix on whichever you will, provided only that you understand that those of the writers who have not reproduced the self-same form of speech have still reproduced the identical sense intended to be conveyed. And these variations in the modes of expression are also useful in this way, that they make it possible for us to reach a more adequate conception of the saying than might have been the case with only one form, and that they also secure it against being interpreted in a sense not consonant with the real state of the case. For as to the sentence, <quote>In whom I am well pleased,</quote> if any one thinks of taking it as if it meant that God is pleased with Himself in the Son, he is taught a lesson of prudence by the other turn which is given to the saying, <quote>In You I am well pleased.</quote> And on the other hand, if, looking at this last by itself, any one supposes the meaning to be, that in the Son the Father had favour with men, he learns something from the third form of the utterance, <quote>In You it has pleased me.</quote> From this it becomes sufficiently apparent, that whichever of the evangelists may have preserved for us the words as they were literally uttered by the heavenly voice, the others have varied the terms only with the object of setting forth the same sense more familiarly; so that what is thus given by all of them might be understood as if the expression were: In You I have set my good pleasure; that is to say, by You to do what is my pleasure. But once more, with respect to that rendering which is contained in some codices of the Gospel according to Luke, and which bears that the words heard in the heavenly voice were those that are written in the Psalm, <quote>You are my Son, this day have I begotten You;</quote> although it is said not to be found in the more ancient Greek codices, yet if it can be established by any copies worthy of credit, what results but that we suppose both voices to have been heard from heaven, in one or other verbal order?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602214.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602214.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音合参卷二}",
+    "p0002": "第14章 论他受洗后从天上来的话语或声音",
+    "p0003": "31. 此后，玛窦这样记载：\\BibleQuote{耶稣受洗后，立时从水里上来；忽然天为他开了，他看见天主圣神有如鸽子降下，来到他上面；又有声音由天上说：\\InnerQuote{这是我的爱子，我所喜悦的。}} 其他两位，即马尔谷和路加，也以类似方式记载了这件事。但同时，他们在忠实原意的情况下，以不同的措辞重现了来自天上的声音。因为虽然玛窦说那话是\\BibleQuote{这是我的爱子}，而其他两位则写成\\BibleQuote{祢是我的爱子}，但这些不同的表达方式只是传达了同一意义，根据前面讨论过的原则。因为天上的声音只发出了其中一句话；但通过采用\\BibleQuote{这是我的爱子}这样的措辞，福音作者意在表明，这话是特别向在场的听众（而不是对耶稣）启示他是天主子的事实。出于这个观点，他选择了将\\BibleQuote{祢是我的爱子}这一句转述为\\BibleQuote{这是我的爱子}，仿佛是直接对人民说的。因为这话并非要向基督启示他已经知道的事实；而是要让在场的人民听见，为他们的缘故，那声音本身才发出。此外，关于第一位将这话表述为\\BibleQuote{我所喜悦的}，第二位表述为\\BibleQuote{在祢身上我所喜悦的}，第三位表述为\\BibleQuote{在祢身上我得了喜悦}——如果你问这些不同形式中哪一种代表了声音实际说出的话，你可以选择你认为合适的一种，只要明白那些没有重复同样措辞的作者仍然传达了同样的意义。这些措辞的变化也有其用处：它们使我们能比只有一种形式时更充分地理解这句话，并且确保它不被解释为与实际情况不符。因为对于\\BibleQuote{我所喜悦的}这句话，如果有人以为它意味着天主在圣子内自我悦纳，那么另一句\\BibleQuote{在祢身上我所喜悦的}会教导他谨慎。另一方面，如果单看后一句，有人以为意思是圣父在圣子身上获得了人的喜爱，那么第三句\\BibleQuote{在祢身上我得了喜悦}会让他有所领悟。由此充分表明，无论哪一位福音作者为我们保留了天上声音的逐字原话，其他人都只是以更熟悉的措辞来传达同一意义；这样，他们所有人给出的这句话可以被理解为：在祢身上我定了我的喜悦；也就是说，藉着祢来成就我的喜悦。此外，关于路加福音某些抄本中所包含的另一段记载，即天上的声音所说的话是圣咏中写的\\BibleQuote{祢是我的儿子，我今日生了祢}；虽然据说在更古老的希腊抄本中找不到，但如果它可以得到任何可信抄本的证实，那么结论岂不是我们假定有两个声音从天上发出，以某种顺序说出？"
+  }
+}

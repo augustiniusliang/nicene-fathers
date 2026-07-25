@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2707078",
+    "title": "Letter 78",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 78",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 78",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Eusebius, Bishop of Persian Armenia.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Whenever anything happens to the helmsman, either the officer in command at the bows, or the seaman of highest rank, takes his place, not because he becomes a self-appointed helmsman, but because he looks out for the safety of the ship. So again in war, when the commander falls, the chief tribune assumes the command, not in the attempt to lay violent hands on the place of power, but because he cares for his men. So too the thrice blessed Timothy when sent by the divine Paul took his place. It is therefore becoming to your piety to accept the responsibilities of helmsman, of captain, of shepherd, gladly to run all risk for the sake of the sheep of Christ, and not to leave His creatures abandoned and alone. It is rather yours to bind up the broken, to raise up the fallen, to turn the wanderer from his error, and keep the whole in health, and to follow the good shepherds who stand before the folds and wage war against the wolves. Let us remember too the words of the patriarch Jacob; <quote>In the day the drought consumed me and the frost by night and my sleep departed from my eyes. The rams of your flock I have not eaten. That which was born of beasts I brought not unto you. I bare the loss of it. Of my hand did you require it, whether stolen by day or stolen by night.</quote> These are the marks of the shepherd; these are the laws of the tending of the sheep. And if of brute cattle the illustrious patriarch had such care, and offered this defence to him who trusted them to his charge, what ought not we to do who are entrusted with the charge of reasonable sheep, and who have received this trust from the God of all, when we remember that the Lord for them gave up His life? Who does not fear and tremble when he hears the word of God spoken through Ezekiel? <quote>I judge between shepherd and sheep because you eat the fat and clothe yourselves with the wool and you feed not the flocks.</quote> And again, <quote>I have made you a watchman unto the house of Israel; when you speak not to warn the wicked from his wicked way, the same wicked man shall die in his iniquity but his blood shall I require at your hand.</quote> With this agree the words spoken in parables by the Lord. <quote>You wicked and slothful servant...You ought to have put my money to the exchangers, and then at my coming I should have received the same with usury.</quote> Up then, I beseech you, let us fight for the Lord's sheep. Their Lord is near. He will certainly appear and scatter the wolves and glorify the shepherds. <quote>The Lord is good unto them that wait for Him, to the soul that seeks Him.</quote> Let us not murmur at the storm that has arisen for the Lord of all knows what is good for us. Wherefore also when the Apostle asked for release from his trials He would not grant his supplication but said, <quote>My grace is sufficient for you, for my strength is made perfect in weakness.</quote> Let us then bravely bear the evils that befall us; it is in war that heroes are discerned; in conflicts that athletes are crowned; in the surge of the sea that the art of the helmsman is shown; in the fire that the gold is tried. And let us not, I beseech you, heed only ourselves, let us rather have forethought for the rest, and that much more for the sick than for the whole, for it is an apostolic precept which exclaims <quote>Comfort the feeble minded, support the weak.</quote> Let us then stretch out our hands to them that lie low, let us tend their wounds and set them at their post to fight the devil. Nothing will so vex him as to see them fighting and smiting again. Our Lord is full of loving-kindness. He receives the repentance of sinners. Let us hear His own words: <quote>As I live says the Lord I have no pleasure in the death of the wicked, but that the wicked turn from his way and live.</quote> So He prefaced His words with an oath, and He who forbids oaths to others swore Himself to convince us how He desires our repentance and salvation. Of this teaching the divine books, both the old and the new, are full, and the precepts of the holy Fathers teach the same.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "But not as though you were ignorant have I written to you; rather have I reminded you of what you know, like those who standing safe upon the shore succour them that are tossed by the storm, and show them a rock, or give warning of a hidden shallow, or catch and haul in a rope that has been thrown. <quote>And the God of peace shall bring Satan under your feet shortly</quote> and shall gladden our ears with news that you have passed from storm to calm, at His word to the waves <quote>Peace be still.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "And do you too offer prayers for us, for you who have undergone peril for His sake can speak with greater boldness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707078.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707078.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书函 七八}",
+    "p0002": "\\Emph{致亚美尼亚波斯的主教\\Person{欧瑟伯}。}",
+    "p0003": "每当舵手发生什么事，要么在前舷指挥的军官，要么级别最高的水手接替他的位置，并非因为他成了自命的舵手，而是因为他为船的安全着想。同样，在战争中，当指挥官倒下时，首席护民官接过指挥权，并非企图以暴力夺取权位，而是因为他关心他的士兵。同样，那三位有福的\\Person{弟茂德}，当被神圣的\\Person{保禄}派遣时，也接替了他的位置。因此，你的虔诚应当接受舵手、船长、牧人的责任，甘愿为基督的羊群冒一切风险，不让祂的受造物被遗弃和孤独。你反而应当包扎破碎的，扶起跌倒的，使迷途者从错误中转回，保持全体健康，并跟随那些站在羊圈前与豺狼争战的好牧人。让我们也记住先祖\\Person{雅各伯}的话：\\BibleQuote{白日受尽炎热，黑夜受尽寒霜，睡眠也离我而去。你羊群中的公羊，我没有吃过。被野兽撕裂的，我没有带给你；我自己赔偿了损失。无论是白日被偷的，或是黑夜被偷的，你都向我索讨。}这些是牧人的标志；这些都是牧放羊群的法则。如果著名的先祖对没有理性的牲畜如此关心，并向托付给他的人如此辩护，那么我们这些受托管理理性羊群、并从万有的天主领受这托付的人，当记起主为它们舍了生命，我们岂不应做更多？谁不恐惧战兢，当他听见天主藉\\Person{厄则克耳}所说的这句话：\\BibleQuote{我要在牧人和羊之间施行审判，因为你们吃脂油，穿羊毛，却不牧放羊群。}又说：\\BibleQuote{我立了你作以色列家的警醒者；你若没有去警戒那恶人离开他的恶道，那恶人必死在他的罪孽之中，我却要向你追讨他的血债。}主在比喻中所说的话与此一致：\\BibleQuote{你这又恶又懒的仆人……你应当把我的银子交给兑换银钱的人，到我回来时，我就可以连本带利收回。}所以，起来吧，我恳求你，让我们为天主的羊群而战。他们的主就在近处。祂必定显现，驱散豺狼，荣耀牧人。\\BibleQuote{上主善待等候祂的人，善待寻求祂的灵魂。}让我们不要抱怨已经兴起的风暴，因为万有的主知道什么对我们有益。因此，当宗徒请求脱离他的考验时，主不肯允准他的恳求，却说：\\BibleQuote{我的恩宠为你足够了，因为我的德能在软弱中才得以成全。}让我们勇敢地承受临到我们的灾祸；正是在战争中才能识别英雄；在竞技中运动员才获得冠冕；在海浪的冲击中才显出舵手的技艺；在火中金子才被试验。我恳求你，不要只顾自己，倒要多为其他人着想，尤其是为患病的人多于为健康的人，因为宗徒的训言大声疾呼：\\BibleQuote{安慰那怯懦的，扶持那软弱的。}让我们向那些躺卧的人伸出双手，让我们包扎他们的伤口，并让他们重新站立，去与魔鬼争战。没有什么比看见他们争战并还击更能使魔鬼烦恼。我们的主满有慈爱。祂接纳罪人的悔改。让我们听听祂自己的话：\\BibleQuote{我指着我的永生起誓——主上主说——我决不喜欢恶人死亡，而喜欢恶人离开他的道而生存。}所以祂以誓言作前言，而祂是禁止别人起誓的，自己却发誓，为使我们相信祂多么渴望我们的悔改和得救。神圣的经卷，无论是旧约还是新约，都充满了这样的教训，并且圣教父们的训导也教导同样的道理。",
+    "p0004": "但我写信给你，并非因为你无知；而是提醒你所知道的，就像那些安全站在岸上的人救助被风暴颠簸的人，给他们指出一块岩石，或警告一个隐藏的浅滩，或接住并拉回抛出的绳索。\\BibleQuote{赐平安的天主快要将撒殚践踏在你们脚下。}并要因你们从风暴转向平静的消息而喜乐我们的耳朵，那时祂对海浪说：\\BibleQuote{静默吧，安静吧。}",
+    "p0005": "你也要为我们祈祷，因为你曾为祂的缘故经历危险，所以可以更加大胆地说话。"
+  }
+}

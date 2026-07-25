@@ -1,0 +1,53 @@
+{
+  "source": {
+    "source_id": "0103307",
+    "title": "Against Heresies (Book III, Chapter 7)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book III, Chapter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book III, Chapter 7)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. As to their affirming that Paul said plainly in the Second [Epistle] to the Corinthians, <quote>In whom the god of this world has blinded the minds of them that believe not,</quote> {{BIBLE:2co 4:4}} and maintaining that there is indeed one god of this world, but another who is beyond all principality, and beginning, and power, we are not to blame if they, who give out that they do themselves know mysteries beyond God, know not how to read Paul. For if any one read the passage thus— according to Paul's custom, as I show elsewhere, and by many examples, that he uses transposition of words— <quote>In whom God,</quote> then pointing it off, and making a slight interval, and at the same time read also the rest [of the sentence] in one [clause], <quote>has blinded the minds of them of this world that believe not,</quote> he shall find out the true [sense]; that it is contained in the expression, <quote>God has blinded the minds of the unbelievers of this world.</quote> And this is shown by means of the little interval [between the clause]. For Paul does not say, <quote>the God of this world,</quote> as if recognising any other beyond Him; but he confessed God as indeed God. And he says, <quote>the unbelievers of this world,</quote> because they shall not inherit the future age of incorruption. I shall show from Paul himself, how it is that God has blinded the minds of them that believe not, in the course of this work, that we may not just at present distract our mind from the matter in hand, [by wandering] at large.",
+        "scripture": [
+          "2co 4:4"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. From many other instances also, we may discover that the apostle frequently uses a transposed order in his sentences, due to the rapidity of his discourses, and the impetus of the Spirit which is in him. An example occurs in the [Epistle] to the Galatians, where he expresses himself as follows: <quote>Wherefore then the law of works? It was added, until the seed should come to whom the promise was made; [and it was] ordained by angels in the hand of a Mediator.</quote> {{BIBLE:gal 3:19}} For the order of the words runs thus: <quote>Wherefore then the law of works? Ordained by angels in the hand of a Mediator, it was added until the seed should come to whom the promise was made,</quote>— man thus asking the question, and the Spirit making answer. And again, in the Second to the Thessalonians, speaking of Antichrist, he says, <quote>And then shall that wicked be revealed, whom the Lord Jesus Christ shall slay with the Spirit of His mouth, and shall destroy him with the presence of his coming; [even him] whose coming is after the working of Satan, with all power, and signs, and lying wonders.</quote> {{BIBLE:2th 2:8}} Now in these [sentences] the order of the words is this: <quote>And then shall be revealed that wicked, whose coming is after the working of Satan, with all power, and signs, and lying wonders, whom the Lord Jesus shall slay with the Spirit of His mouth, and shall destroy with the presence of His coming.</quote> For he does not mean that the coming of the Lord is after the working of Satan; but the coming of the wicked one, whom we also call Antichrist. If, then, one does not attend to the [proper] reading [of the passage], and if he do not exhibit the intervals of breathing as they occur, there shall be not only incongruities, but also, when reading, he will utter blasphemy, as if the advent of the Lord could take place according to the working of Satan. So therefore, in such passages, the <em>hyperbaton</em> must be exhibited by the reading, and the apostle's meaning following on, preserved; and thus we do not read in that passage, <quote>the god of this world,</quote> but, <quote>God,</quote> whom we do truly call God; and we hear [it declared of] the unbelieving and the blinded of this world, that they shall not inherit the world of life which is to come.",
+        "scripture": [
+          "gal 3:19",
+          "2th 2:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103307.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103307.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第三卷，第七章）",
+    "p0002": "1. 至于他们声称，\\Person{保禄}在《\\WorkTitle{格林多后书}》中明确说：\\BibleQuote{在他们身上，这世界的神明蒙蔽了不信者的心意}\\BibleRef{格后 4:4}，并坚持确实有一位这世界的神，但另有一位超越一切元首、元始和权能的神，那么，如果那些自称知道天主之外的奥秘的人，竟不知道如何阅读\\Person{保禄}，这并不归咎于我们。因为若有人按\\Person{保禄}的习惯——正如我在别处用许多例子所表明的，他常用倒装词序——如此读这段经文：\\Quote{在他们身上，天主}，然后停顿一下，稍作间歇，同时将剩余部分读作一个子句：\\Quote{蒙蔽了这世界不相信之人的心意}，他就会发现真义，即这句话包含的意思是：\\Quote{天主蒙蔽了这世界不信者的心意}。这一点正由那小小的间歇所表明。因为\\Person{保禄}并没有说\\Quote{这世界的神明}，好像承认在他之外另有别神；而是承认天主确实是天主。他说\\Quote{这世界的不信者}，因为他们不会继承未来不朽的世代。我将在本著作中从\\Person{保禄}本人那里表明，天主是如何蒙蔽了不信者的心意，以便我们现在不因广泛游移而分散对当前问题的注意力。",
+    "p0003": "2. 从许多其他例子中，我们也可以发现，宗徒由于他讲论的急促和他内里圣神的推动，常在他的句子中使用倒装词序。例如在《\\WorkTitle{迦拉达书}》中，他这样表达：\\BibleQuote{那么，为什么有行为的律法呢？它是加添的，直到那应许的后裔来到；由天使藉着中保之手所制定的。}\\BibleRef{迦 3:19} 因为词序是这样：\\Quote{那么，为什么有行为的律法呢？由天使藉着中保之手所制定的，它是加添的，直到那应许的后裔来到}——人这样发问，圣神作出回答。此外，在《\\WorkTitle{得撒洛尼后书}》中，论及假基督，他说：\\BibleQuote{那时，那无法无天的人将要显露出来，主耶稣将以口中的气息杀死他，并以他的来临的显现消灭他；他的来临是依照撒殚的运作，具有一切异能、征兆和欺骗的奇迹。}\\BibleRef{得后 2:8} 现在在这些句子中，词序是这样：\\Quote{那时，那无法无天的人将要显露出来，他的来临是依照撒殚的运作，具有一切异能、征兆和欺骗的奇迹，主耶稣将以口中的气息杀死他，并以他的来临的显现消灭他。} 因为他不是说主的来临是依照撒殚的运作，而是那无法无天之人的来临，我们也称他为假基督。因此，若有人不注意经文的正确读法，不按呼吸的间歇停顿，那么不仅会产生矛盾，而且读的时候还会说出亵渎的话，仿佛主的来临可能依照撒殚的运作。所以，在这类经文中，必须通过朗读来展现\\Emph{倒装法}，并保持宗徒的意思连贯；因此我们在那段经文中所读的不是\\Quote{这世界的神明}，而是\\Quote{天主}，我们确实称他为天主；我们听到的是说这世界的不信者和被蒙蔽者，他们将不会继承那将要来临的生命之世。"
+  }
+}

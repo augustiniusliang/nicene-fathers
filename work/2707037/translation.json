@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707037",
+    "title": "Letter 37",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 37",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 37",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Salustius the Governor. </em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "When rulers keep the scales of justice true, and let them hang in even balance, they confer all kinds of benefits upon their subjects; if they are also gifted with prudence and further show loving-kindness to him that needs it, manifold advantages accrue from their rule to them that live under it. Having enjoyed these good things through your excellency, and having experienced them in your former administration, they have now been moved with joy at the information that to your munificence the helm of government has been entrusted. I pray that they may gain yet greater good, that your excellency may win still higher praise, and that the encomiums of your eulogists may be vindicated by the addition to all your other honourable titles to fame of that colophon of good things— true religion. As I was compelled to pass several days in Hierapolis I hoped to have the pleasure of meeting your excellency, and persistently enquired of new comers if the insignia of office had been conveyed to you. But I was compelled by the divine feast of salvation to return in haste to the city entrusted to me. Now however that I have received your excellency's letter, with very great pleasure I return your salutation, and without delay have sent, as you requested, the honourable and pious deacon who is by God's grace a water-finder. May the Lord in His loving kindness grant him both to do good service to the city and increase your excellency's glory.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707037.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707037.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "信函三十七",
+    "p0002": "\\Emph{致总督萨路斯提乌斯。}",
+    "p0003": "当统治者使公义的天平保持正直，并使其均匀平衡时，他们便为臣民带来种种益处；若他们还赋有明智，并对有需要者显示慈惠，那么他们的统治便会为治下之人带来多方面的利益。因着尊驾，百姓已享有这些善事，并在您先前的治理中体验了它们；如今，他们获悉治理的舵柄已托付给您的慷慨，心中充满喜乐。我祈求他们能获得更大的善，尊驾能赢得更高的赞誉，而颂扬者们的赞美词，能因在您所有其他可敬的荣衔之上，加上这善事的圆满——即真宗教，而得以印证。由于我被迫在\\Place{希埃拉波利斯}停留数日，本希望有幸与尊驾会面，并不断向新来者询问官印是否已送达给您。然而，我因着神圣的救恩庆节，不得不匆匆赶回托付给我的城市。如今，我收到了尊驾的信函，怀着极大的喜悦回复您的问候，并已按您的要求，毫不迟延地派遣了那位可敬且虔敬的执事——他靠着天主的恩宠，是一位能寻找水源的人。愿主以祂的慈惠，使他能为该城提供良好的服务，并增加尊驾的光荣。"
+  }
+}

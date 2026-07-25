@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360203001",
+    "title": "Book III, Letter 1",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 1",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 1",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, Subdeacon of Campania.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What a crime has been committed in the Lucullan fort against our brother and fellow bishop Paul the account which has been sent to us has made manifest. And, inasmuch as the magnificent Scholasticus, judge of Campania, happens at the present time to be with us here, we have especially enjoined on him the duty of visiting the madness of so great perversity with strict correction. But, since the bearer of the aforesaid account has requested us to send some one to represent ourselves, we therefore send the subdeacon Epiphanius, who, together with the aforesaid judge, may be able to investigate and ascertain by whom the sedition was raised or investigated, and to visit it with suitable punishment. Let your Experience then make haste to give aid in this case with all your power, to the end both that the truth may be ascertained, and that vengeance may proceed against the guilty parties. Wherefore, since the slaves of the glorious Clementina are said to have had to do with this same crime, and to have used language calculated to stir up the sedition, do thou subject them strictly to immediate punishment, nor let your severity be relaxed in consideration of her person, since they ought to be smitten all the more as they have transgressed out of mere pride as being the servants of a noble lady. But you ought also to make thorough enquiry whether the said lady was privy to so atrocious a crime, and whether it was perpetrated with her knowledge, that from our visitation of it all may learn how dangerous it is not only to lay hands on a priest, but even to transgress in words against one. For, if anything should be done remissly or omitted in this case, know that thou especially wilt have to bear the blame and the risk; nor will you find any plea for excuse with us. For in proportion as this business will commend you to us if it be most strictly investigated and corrected, know that our indignation will become sharp against you, if it be smoothed over.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Moreover, for the rest, if any slaves from the city should have taken refuge in the monastery of Saint Severinus, or in any other church of this same fort, as soon as this has come to your knowledge, by no means allow them to remain there, but let them be brought to the church within the city; and, if they should have just cause of complaint against their masters, they must needs leave the church with suitable arrangements made for them. But, if they should have committed any venial fault, let them be restored without delay to their masters, the latter having taken oath to pardon them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203001.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203001.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷，第一封信",
+    "p0002": "\\Emph{致副执事伯多禄。}",
+    "p0003": "\\Person{额我略}致\\Place{坎帕尼亚}的副执事\\Person{伯多禄}。",
+    "p0004": "送交我们的报告已经清楚表明，在\\Place{卢库鲁斯堡垒}内，对我们的弟兄和同为主教的\\Person{保禄}犯下了何等罪行。而且，由于\\Place{坎帕尼亚}的可敬法官\\Person{斯高拉提库斯}目前恰与我们同在，我们已特别委托他严格纠正如此大的悖逆之疯狂。但是，由于上述报告的送交者请求我们派遣某人代表我们，因此我们派遣副执事\\Person{埃丕法尼乌斯}，他将与上述法官一同调查并查明骚乱是由谁煽动或调查的，并处以适当的惩罚。那么，愿你的经验全力以赴协助此案，以便查明真相，并对有罪者进行惩罚。因此，既然光荣的\\Person{克莱门提娜}的奴隶据说与此同一罪行有关，并使用了煽动骚乱的言论，你要立即严格地惩罚他们，你的严厉不可因顾及她本人而松懈，因为他们既是高贵的妇女的仆人，因纯粹骄傲而犯罪，更应受到打击。但你也应当彻底调查，上述妇女是否知悉如此残暴的罪行，以及是否在她知晓下实施的，以便通过我们的巡视，所有人都能学习到：不仅对司铎动手，甚至在言语上冒犯司铎是多么危险。因为，如果此事处理松懈或有遗漏，要知道你将特别承担责备和风险；你在我们面前找不到任何借口。因为此事若得到最严格的调查和纠正，就会使你得到我们的认可；反之，若被轻描淡写，要知道我们的愤怒会加剧反对你。",
+    "p0005": "此外，至于其他方面，如果有城内的奴隶逃往圣\\Person{塞味利诺}隐修院或同一堡垒内的任何其他圣堂，一旦你得知此事，绝不可允许他们留在那里，而应将他们带到城内的圣堂；如果他们对自己的主人有正当的抱怨，必须在为他们做出适当安排后离开圣堂。但若他们犯了小罪，应立即使他们回到主人那里，主人应宣誓宽恕他们。"
+  }
+}

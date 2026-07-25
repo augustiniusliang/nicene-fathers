@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360206006",
+    "title": "Book VI, Letter 6",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 6",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 6",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To King Childebert.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Childebert, King of the Franks.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As much as royal dignity is above that of other men, so much in truth does the high position of your kingdom excel that of the kingdoms of other nations. And yet to be a king is not extraordinary, there being others also; but to be a Catholic, which others are not counted worthy to be, this is enough. For as the splendour of a great lamp shines by the clearness of its light in the darkness of earth's night, so the clear light of your faith glitters and flashes amid the dark perfidy of other nations. Whatever the other kings glory in having you have. But they are in this regard exceedingly surpassed, because they have not the chief good thing which you have. In order, then, that they may be overcome in action as well as in faith, let your Excellence always show yourself kind to your subjects. And, if there are any things such as to offend your mind, punish them not without enquiry. For then you will the more please the King of kings, that is the Almighty Lord, if, restraining your power, you feel that you may not do all that you can.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now that you keep purity of faith both in mind and deed, the love that is in you of the blessed Peter, Prince of the apostles, evidently shows, whose property has been so far well governed and preserved under the sway of your supremacy. But since Dynamius the Patrician, who on our recommendation looked after this property, is not able, as we have learned, to govern it now, lest the little patrimony which is in your parts should be ruined from neglect, we have therefore sent the bearer of these presents, our most beloved son the presbyter Candidus to govern it, whom we commend in all respects to your Excellency, greeting you in the first place with paternal charity, with the request that, if by any chance any wrong has been done there, or if the property of the same little patrimony is detained by any one, the matter may be set right, and what has been alienated may be restored to its original ownership; that so your equity, as well as your faith, may shine forth to all nations, which will be something very glorious and laudable.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Moreover we have sent to your Excellency Saint Peter's keys, containing a portion of his chains, to protect you from all evils, when hung on your neck.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206006.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206006.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷，第六封信",
+    "p0002": "\\Emph{致希尔德贝尔特王。}",
+    "p0003": "\\Person{额我略}致\\Person{法兰克王希尔德贝尔特}。",
+    "p0004": "君王的高贵超出常人多少，事实上，您的王国的崇高地位也超出其他民族的王国多少。然而，做王并不稀奇，因为还有其他王；但做一位\\OriginalTerm{公教信徒}{Catholic}，却是别人不配做的，这已足够。因为正如一盏大灯的光辉在尘世之夜的黑暗中以其光明闪耀，同样，您信德的明光也在其他民族的黑暗背信之中闪烁发光。其他君王所夸耀的一切，您都拥有。但他们在这方面远远不及，因为他们没有您所拥有的首要善物。那么，为使他们在行为上也如在信德上一样被超越，但愿您的尊威常向您的臣民显示仁慈。若有任何触怒您的事情，未经调查不要惩罚。因为您越是克制自己的权力，感到自己不可为所欲为，就越能中悦万王之王，即全能的主。",
+    "p0005": "如今，您对真福宗徒之长\\Person{伯多禄}的爱德显然表明您在心志和行为上持守了信德的纯洁，因为在他的产业上，在您至高权柄的治理之下，至今得到良好的管理并保存。但由于贵族\\Person{迪纳缪斯}——我们曾推荐他照管这份产业——据我们所知，如今无法管理它，唯恐在您地区的这份小产业因疏忽而毁坏，因此我们派遣了本函的呈递人，我们至爱的儿子司铎\\Person{坎迪杜斯}前去管理。我们恳请您以慈父之爱首先向他致意，并在各方面举荐他，请求：若该处有任何不公正之事，或同一份小产业的任何财物被某人扣留，愿您加以纠正，并将被转移之物归还原主；如此，您的公正与信德将在万民面前闪耀，这将是极其光荣和可赞美的。",
+    "p0006": "此外，我们向您的尊威遣送了\\Person{圣伯多禄}的钥匙，其中含有他锁链的一部分，以便挂在您的颈上时，保护您免受一切邪恶。"
+  }
+}

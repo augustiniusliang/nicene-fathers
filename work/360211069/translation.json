@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "360211069",
+    "title": "Book XI, Letter 69",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 69",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 69",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Brunichild, Queen of the Franks.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Brunichild, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Since it is written, <em>Righteousness exalts a nation; but sin makes peoples miserable</em> {{BIBLE:pro 14:34}} , a kingdom is then believed to be stable when a fault that is known of is quickly amended. Now it has come to our ears by the report of many, what we cannot mention without exceeding affliction of heart, that certain priests in those parts live so immodestly and wickedly that it is a shame for us to hear of it and lamentable to tell it. Lest, then, now that the rumour of this iniquity has extended as far as here, the wrong doing of others should smite either our soul or your kingdom with the dart of its sin, we ought to arise with ardour to avenge these things, lest the wickedness of a few should be the perdition of many. For bad priests are the cause of the ruin of a people. For who may offer himself as an intercessor for a people's sins, if the priest who ought to have prayed for it commits more grievous offenses? But, since those whose place it is to prosecute these things are stirred neither by care to enquire into them nor by zeal to punish them, let letters from you be addressed to us, and let us send over, if you order it, a person with the assent of your authority, who together with other priests may search into these things thoroughly, and amend them according to the will of God. For indeed what we speak of is not a thing to be winked at, since one who can amend a fault and neglects to do so without doubt makes himself partaker in it. See therefore to your own soul, see to your grandsons, whom you wish to reign happily, see to the provinces; and, before our Creator stretches out His hand to smite, take most earnest thought for the correction of this wickedness, lest He afterwards smite by so much the more sharply as He now waits longer and more mercifully. Know moreover that you will offer a great sacrifice of expiation to our God, if you cut off speedily from your territories the infection of so great a sin.",
+        "scripture": [
+          "pro 14:34"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211069.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211069.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷·第六十九书",
+    "p0002": "\\Emph{致法兰克王后布伦希尔德}",
+    "p0003": "\\Signature{额我略致布伦希尔德等}",
+    "p0004": "经上记载：\\BibleQuote{正义使邦国高升，罪恶令人民蒙羞。}（\\BibleRef{箴 14:34}）由此可见，当已知的过失迅速被纠正时，王国便被认为是稳固的。如今，我们因许多人的报告而闻知——此事我们提及时不能不心怀极大忧苦——某些地区的司铎生活如此不端、行为如此邪恶，以至我们听闻感到羞耻，述说更令人悲痛。唯恐此不义的传闻既已远播至此，他人的恶行会以罪恶之箭刺伤我们灵魂或您的王国，我们当以热忱奋起报复这些事，以免少数人的邪恶成为多数人的丧亡。因为不良的司铎是人民败亡的根源。若司铎本应为人民的罪祈祷，却犯下更重的过犯，谁还能为人民的罪献上代祷？然而，那些本应追究这些事的人，既无调查的热心，亦无惩罚的热忱，故请您赐函于我。若蒙您许可，我们将派遣一位获得您权威同意的人，与其它司铎一同彻底调查此事，并按天主的旨意予以纠正。因为我们所谈论之事绝不可视而不见；能改正过失却忽略不做的人，无疑使自己成为共犯。因此，请您为您的灵魂着想，为您希望幸福统治的孙儿们着想，为各省着想；在我们的造物主伸手击打之前，请以最大的热忱思量此恶行的纠正，免得祂因长久仁慈的等待而日后责打更严厉。此外，您要知道，若您从您的领土上迅速剪除如此大罪的毒害，您将为我们的天主献上一份伟大的赎罪祭献。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707114",
+    "title": "Letter 114",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 114",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 114",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Andiberis.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The reverend presbyter Peter is distinguished not only by his priestly rank, but also by his wise practice in medicine. During his long residence with us he has won all hearts by his conciliatory manners. On learning of my departure he has now determined to leave Cyrus; I therefore commend him to your excellency, and hope that, fully capable as he is of doing good service to the city—for when he lived at Alexandria he practised the same profession—he will meet with kindness at your hands.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707114.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707114.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一一四封书信",
+    "p0002": "致\\Person{安迪贝里斯}。",
+    "p0003": "尊敬的司铎\\Person{伯多禄}不仅在司铎品位上卓尔不凡，而且以其精湛的医术著称。他在我们这里长久居住期间，以其和解的态度赢得了所有人的心。得知我将离开，他现在决定离开\\Place{居鲁士}；因此我将他推荐给您阁下，希望他——他在\\Place{亚历山大}居住时曾行医——完全有能力为城市提供良好服务，并能在您手中得到善待。"
+  }
+}

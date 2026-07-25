@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1801039",
+    "title": "Exposition on Psalm 39",
+    "breadcrumbs": "Home > Fathers of the Church > Expositions on the Psalms (Augustine) > Psalm 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Exposition on Psalm 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. The title of this Psalm, which we have just chanted and proposed to discuss, is, <quote>On the end, for Idithun, a Psalm for David himself.</quote> Here then we must look for, and must attend to, the words of a certain person who is called Idithun; and if each one of ourselves may be Idithun, in that which he sings he recognises himself, and hears himself speak. For you may see who was called Idithun, according to the ancient descent of man; let us, however, understand what this name is translated, and seek to comprehend the Truth in the translation of the word. According therefore to what we have been able to discover by enquiry in those names which have been translated from the Hebrew tongue into the Latin, by those who study the sacred writings, Idithun being translated is <quote>over-leaping them.</quote> Who then is this person <quote>over-leaping them</quote>? Or who those whom he has <quote>over-leaped</quote>?...For there are some persons, yet clinging to the earth, yet bowed down to the ground, yet setting their hearts on what is below, yet placing their hopes in things that pass away, whom he who is called <quote>over-leaping them</quote> has <quote>over-leaped.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. You know that some of the Psalms are entitled, <quote>Songs of Degrees;</quote> and in the Greek it is obvious enough what the word <greek>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.E. Tweed. From Nicene and Post-Nicene Fathers, First Series, Vol. 8. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1801039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.E. Tweed.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1801039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{圣咏集第三十九篇释义}",
+    "p0002": "1. 这首圣咏的标题，我们刚刚咏唱并提议讨论的，是\\Quote{论终末，为\\Person{依杜通}，\\Person{达味}自己的圣咏。}因此，我们必须寻找并留意一个被称为\\Person{依杜通}之人的话语；如果我们每个人自己就是\\Person{依杜通}，那么在他所咏唱的中，他认出自己，并听见自己说话。因为你们可以看到，按照人类的古老传承，谁被称为\\Person{依杜通}；然而，让我们理解这个名字的翻译，并试图在词语的翻译中领悟真理。因此，根据我们从那些研究圣经的人那里，在从希伯来语译为拉丁语的名字中能够探询发现的，\\Person{依杜通}被翻译为\\Quote{超越他们}。那么，这个\\Quote{超越他们}的人是谁？或者，他所\\Quote{超越}的是谁？…因为有些人仍紧贴大地，仍俯伏于地，仍将心放在低下之处，仍将希望寄托在消逝的事物上，那个被称为\\Quote{超越他们}的人已经\\Quote{超越}了他们。",
+    "p0003": "2. 你们知道有些圣咏的标题是\\Quote{登阶之歌}；而在希腊文中，这个词是很明显的。"
+  }
+}

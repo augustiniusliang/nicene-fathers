@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202071",
+    "title": "Letter 71",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 71",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 71",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Basil to Gregory</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. I have received the letter of your holiness, by the most reverend brother Helenius, and what you have intimated he has told me in plain terms. How I felt on hearing it, you cannot doubt at all. However, since I have determined that my affection for you shall outweigh my pain, whatever it is, I have accepted it as I ought to do, and I pray the holy God, that my remaining days or hours may be as carefully conducted in their disposition towards you as they have been in past time, during which, my conscience tells me, I have been wanting to you in nothing small or great. [But that the man who boasts that he is now just beginning to take a look at the life of Christians, and thinks he will get some credit by having something to do with me, should invent what he has not heard, and narrate what he has never experienced, is not at all surprising. What is surprising and extraordinary is that he has got my best friends among the brethren at Nazianzus to listen to him; and not only to listen to him, but as it seems, to take in what he says. On most grounds it might be surprising that the slanderer is of such a character, and that I am the victim, but these troublous times have taught us to bear everything with patience. Slights greater than this have, for my sins, long been things of common occurrence with me. I have never yet given this man's brethren any evidence of my sentiments about God, and I have no answer to make now. Men who are not convinced by long experience are not likely to be convinced by a short letter. If the former is enough let the charges of the slanderers be counted as idle tales. But if I give license to unbridled mouths, and uninstructed hearts, to talk about whom they will, all the while keeping my ears ready to listen, I shall not be alone in hearing what is said by other people; they will have to hear what I have to say.]",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I know what has led to all this, and have urged every topic to hinder it; but now I am sick of the subject, and will say no more about it, I mean our little intercourse. For had we kept our old promise to each other, and had due regard to the claims which the Churches have on us, we should have been the greater part of the year together; and then there would have been no opening for these calumniators. Pray have nothing to say to them; let me persuade you to come here and assist me in my labours, particularly in my contest with the individual who is now assailing me. Your very appearance will have the effect of stopping him; directly you show these disturbers of our home that you will, by God's blessing, place yourself at the head of our party, you will break up their cabal, and you will shut every unjust mouth that speaks unrighteousness against God. And thus facts will show who are your followers in good, and who are the halters and cowardly betrayers of the word of truth. If, however, the Church be betrayed, why then I shall care little to set men right about myself, by means of words, who account of me as men would naturally account who have not yet learned to measure themselves. Perhaps, in a short time, by God's grace, I shall be able to refute their slanders by very deed, for it seems likely that I shall have soon to suffer somewhat for the truth's sake more than usual; the best I can expect is banishment, or, if this hope fails, after all Christ's judgment-seat is not far distant. [If then you ask for a meeting for the Churches' sake, I am ready to betake myself wherever you invite me. But if it is only a question of refuting these slanders, I really have no time to reply to them.]",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202071.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202071.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第七十一书}",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Emph{\\Person{巴西略}致\\Person{额我略}}.",
+    "p0004": "1. 我已收到圣座经由最可敬的\\Person{赫肋纽斯}兄弟送来的信函，凡你所暗示之事，他已原原本本地告诉我。对于此事我作何感受，你绝无可疑。然而，我已决定我对你的情谊应超越一切痛苦，无论这痛苦如何，我都已照我所当行的方式接受了它。我祈求神圣的天主，使我在余下的时日或时刻中，对待你的态度能与往昔一样谨慎无误；在此期间，我的良心告诉我，我从未在大小事上亏缺于你。[但那个自夸如今才开始窥视基督徒生活的人，以为与我有所来往便可获得些许声誉，竟捏造他未曾听闻之事，讲述他从未经历过之事，这丝毫不令人惊讶。令人惊讶而非同寻常的是，他竟能使我在\\Place{纳西盎}的弟兄中的几位挚友听信于他；不仅听信，而且似乎接受了他说的话。从许多方面看，诽谤者竟是这般品性，而我竟成为受害者，这或许令人惊讶；但这些动荡的时代已教导我们耐心忍受一切。因我的罪，比这更甚的轻慢久已成为我的家常便饭。我从未向此人的弟兄们显明我对天主的看法，如今我也不作回答。那些不为长久经验所说服的人，恐怕也不会为短短一封信所说服。若前者已足够，就让诽谤者的指控如同虚妄之言。但若我任由放肆的口舌和未受教的心灵随意议论他们所欲议论之人，而自己却始终竖耳恭听，那么我将不是唯一听到他人谈论的人；他们也将不得不听到我的回应。]",
+    "p0005": "2. 我深知导致这一切的原因，并已想尽种种话题试图阻止；但如今我已厌倦这个话题，不再多言，我指的是我们那少许的交往。因为若我们彼此坚守旧日承诺，并适当顾及教会对我们的要求，我们本该一年中有大部分时间共处；这样就不会给这些诽谤者留下可乘之机。恳请你切勿理会他们；让我说服你前来帮我从事劳作，尤其是在我正与那个攻击我的人的争战中。你的出现本身就会使他住手；一旦你向这些扰乱我们家园之人表明，你将因天主的降福，亲自领导我们一方，你便会瓦解他们的结党，封闭每一个不义之口，那说那不义之言反对天主的口。这样，事实将表明，谁是你追随者中的良善者，谁是蹒跚而行、怯懦地背叛真理之言者。然而，若教会遭背叛，那么我将无需费心用言语为自己辩护，因为那些尚未学会衡量自己的人，对我的看法自是如此。或许，藉天主的恩宠，不日之内，我就能以实际行为驳斥他们的诽谤；因为我似乎很快将为真理遭受比平时更大的苦楚；我所能期望的最好结果便是流放；若此希望落空，毕竟基督的审判席已近在咫尺。[你若为教会的缘故要求会面，我随时准备前往你所邀请的任何地方。但若仅是为驳斥这些诽谤，我实无时间予以回应。]"
+  }
+}

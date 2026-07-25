@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707072",
+    "title": "Letter 72",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 72",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 72",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Hermesigenes the Assessor.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "At the time when men were whelmed in the darkness of ignorance, all did not keep the same feasts, but celebrated distinct ceremonies in different cities. In Ælis were the Olympian games, at Delphi the Pythian, at Sparta the Hyacinthian, at Athens the Panathenaic, the Thesmophoria, and the Dionysian. These were the most remarkable, and further some men celebrated the revel feast of some dæmons and some of others. But now that those mists have been scattered by intellectual light, in every land and sea mainlanders and islanders together keep the feast of our God and Saviour, and wherever any one may wish to travel abroad, journey he either towards rising or towards setting sun, everywhere he will find the same celebration observed at the same time. There is no longer necessity, in obedience to the law of Moses which was adapted to the infirmity of the Jews, to come together into one city and keep the feast in memory of our blessings, but every town, every village, the country and the farthest frontiers, are filled with the grace of God, and in every spot divine shrines and precincts are consecrated to the God of all. So through every town we observe our several festivals and communicate with one another in the feast. It is the same God and Lord who is honoured in our hymns and to whom our mystic sacrifices are offered. On this account, as is well known, we neighbours address one another by letter and signify the joy that comes to us in the feast. So now do I to you and offer the festal salutation to your excellency. You will without doubt reply and honour the custom of the feast.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707072.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707072.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七十二封书信",
+    "p0002": "\\Emph{致助理法官\\Person{赫莫西涅斯}}",
+    "p0003": "当人们被无知黑暗所淹没的时候，并非所有人都遵守同样的庆节，而是在不同的城市举行不同的礼仪。在\\Place{埃利斯}有奥林匹亚竞技会，在\\Place{德尔斐}有皮提亚竞技会，在\\Place{斯巴达}有海阿辛斯节，在\\Place{雅典}有泛雅典娜节、地母节和狄俄尼索斯节。这些是最著名的；此外，有些人庆祝某些邪神的狂欢节，另一些人则庆祝别的。但现在，这些迷雾已被理智之光驱散，在每一片陆地和海洋上，大陆居民和岛民共同庆祝我们天主和救主的庆节。无论任何人想要外出旅行，无论是向日出之地还是向日落之地，处处都会发现同一庆节在同一天被遵守。不再需要为了服从那适应犹太人软弱的梅瑟法律而聚集到一座城中庆祝我们福分的纪念，而是每个城镇、每个村庄、乡间和最远边疆，都充满了天主的恩宠，在每一处都为万有的天主祝圣了神圣的神殿和圣地。因此，在每个城镇，我们各自庆祝我们的庆节，并在庆节中彼此相通。同一的天主和主在我们的赞歌中被尊崇，我们的奥迹祭献也是向祂奉献的。有鉴于此，众所周知，我们邻人之间彼此以书信致意，宣示在庆节中临到我们的喜乐。现在，我也如此向您致意，并献上节日的问候。您无疑会回复，并尊重庆节的惯例。"
+  }
+}

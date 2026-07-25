@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3202129",
+    "title": "Letter 129",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 129",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 129",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Meletius Bishop of Antioch</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. I knew that the charge which had lately sprung up against the loquacious Apollinarius would sound strange in the ears of your excellency. I did not know myself, till now, that he was accused; at the present time, however, the Sebastenes, after search in some quarter or another, have brought these things forward, and they are carrying about a document for which they are specially trying to condemn me on the ground that I hold the same sentiments. It contains the following phrases. <quote>Wherefore it is everywhere necessary to understand the first identity in conjunction with, or rather in union with, the second, and to say that the second and the third are the same. For what the Father is firstly, the Son is secondly, and the Spirit thirdly. And, again, what the Spirit is firstly, the Son is secondly, in so far as the Spirit is the Lord; and the Father thirdly, in so far as the Spirit is God. And, to express the ineffable with greatest force, the Father is Son in a paternal sense, and the Son Father in a filial sense, and so in the case of the Spirit, in so far as the Trinity is one God.</quote> This is what is being bruited about. I never can believe it to have been invented by those through whom it has been published, although, after their slanders against me, I can regard nothing as beyond their audacity. For writing to some of their party, they advanced their false accusation against me, and then added the words I have quoted, describing them as the work of heretics, but saying nothing as to the author of the document, in order that it might vulgarly be supposed to have come from my pen. Nevertheless, in my opinion, their intelligence would not have gone far enough in putting the phrases together. On this account, in order to repudiate the growing blasphemy against myself, and show to all the world that I have nothing in common with those who make such statements, I have been compelled to mention Apollinarius as approximating to the impiety of Sabellius. Of this subject I will say no more.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I have received a message from the court that, after the first impulse of the Emperor, to which he was impelled by my calumniators, a second decree has been passed, that I am not to be delivered to my accusers, nor given over to their will, as was ordered at the beginning; but that there has been in the meanwhile some delay. If then this obtains, or any gentler measure is determined on, I will let you know. If the former prevails, it shall not be so, without your knowledge.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. Our brother Sanctissimus has certainly been with you a long time, and you have learned the objects he has in view. If, then, the letter to the Westerns seems to you to contain at all what is requisite, be so good as to have it written out and conveyed to me, that I may get it signed by those who think with us, and may keep the subscription ready, and written out on a separate paper, which we can fasten on to the letter which is being carried about by our brother and fellow presbyter. As I did not find in the minute anything conclusive, I was in a difficulty on what point to write to the Westerns. Necessary points are anticipated, and it is useless to write what is superfluous, and on such points would it not be ridiculous to show feeling? One subject, however, did appear to me to be hitherto untouched, and to suggest a reason for writing, and that was an exhortation to them not indiscriminately to accept the communion of men coming from the East; but, after once choosing one side, to receive the rest on the testimony of their fellows, and not to assent to every one writing a form of creed on the pretext of orthodoxy. If they do so, they will be found in communion with men at war with one another, who often put forward the same formulæ, and yet battle vehemently against one another, as those who are most widely separated. To the end, then, that the heresy may not be the more widely kindled, while those who are at variance with one another mutually object to their own formulæ, they ought to be exhorted to make a distinction between the acts of communion which are brought them by chance comers, and those which are duly drawn up according to the rule of the Church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202129.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202129.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一二九封信",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Emph{致\\Place{安提约基雅}主教\\Person{默肋提乌斯}}",
+    "p0004": "1. 我知道最近对多嘴的\\Person{阿波利纳里}提出的指控，在阁下听来必定感到奇怪。我自己直到现在才知道他受到了指控；然而，当前，\\Place{塞巴斯特人}在某处搜罗之后，将这些事情拿了出来，并且他们正流传着一份文件，他们特别试图据此指控我持有相同的主张。文件中包含以下语句：\\Quote{因此，处处都必须将第一次同一性理解为与第二次同一性相连，更确切地说，与第三次同一性合一，并宣称第二次与第三次是相同的。因为圣父首先是什么，圣子其次就是什么，圣神第三就是什么。反之，圣神首先是什么，圣子其次就是什么，只要圣神是主；圣父第三就是什么，只要圣神是天主。并且，为最有力地表达那不可言说的，圣父是按父义而言的圣子，圣子是按子义而言的圣父，对于圣神也是如此，只要天主圣三是独一天主。}这就是正在流传的言论。我绝不相信这是由那些公布它的人杜撰的，尽管在他们对我的诽谤之后，我认为没有什么超出他们的胆量。因为写信给他们同党中的某些人时，他们对我提出了虚假的指控，然后加上了我引用的那些话，称其为异端者的作品，却对文件的作者只字不提，以便让普通人认为它是出自我的手笔。然而，在我看来，他们的智慧不足以将这些短语组合在一起。为此，为了驳斥针对我日益增长的亵渎，并向全世界表明我与那些说这些话的人毫无共同之处，我不得不提到\\Person{阿波利纳里}，因为他近似于\\Person{撒伯里乌}的邪恶。关于这个话题，我不再多说。",
+    "p0005": "2. 我从宫廷收到消息，在皇帝最初的冲动（这是由我的诽谤者促成的）之后，通过了第二道法令，即我不得被交给我的控告者，也不得任由他们处置，如同最初命令的那样；但在此期间有些拖延。如果这一法令得以保持，或者决定了任何更温和的措施，我会通知你。如果前者占据上风，那也不会是你不知道的。",
+    "p0006": "3. 我们的兄弟\\Person{桑克提西穆斯}一定在你那里已经很久了，你已了解他此行的目的。因此，如果致西方人的信对你来说似乎包含了任何必要的东西，请费心将它写出来并转交给我，以便我能让与我们意见相同的人签名，并保持签署预备好，且写在另一张纸上，我们可以将其附在我们的弟兄和同司铎所携带的信上。由于我在备忘录中没有发现任何结论性的东西，我对于该向西方人写些什么感到困难。必要之点已被预先处理，写多余的东西是无用的，而且在这类问题上表示情绪岂不荒谬？然而，有一个主题在我看来至今尚未触及，并提供了一个写作的理由，那就是劝告他们不要不加区别地接受来自东方的共融；而是在选择一边之后，根据同证者的见证接纳其余的人，并且不要同意每个以正统为借口撰写\\OriginalTerm{信经}{creed}的人。如果他们这样做，他们将发现与互相争斗的人共融，这些人常常提出相同的公式，却彼此激烈争战，如同那些最疏远的人。因此，为使\\OriginalTerm{异端}{heresy}不至更加蔓延，而那些彼此争执的人相互反对各自的公式，应当劝告他们区分偶然到来者带给他们的共融行为，以及根据教会规则适当起草的共融行为。"
+  }
+}

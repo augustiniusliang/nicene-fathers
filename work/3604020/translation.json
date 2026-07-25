@@ -1,0 +1,63 @@
+{
+  "source": {
+    "source_id": "3604020",
+    "title": "Letter 20",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 20",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "He thanks him for his information about the revival of Nestorianism and commends his zeal.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Leo, the bishop, to his dearly-beloved son, Eutyches, presbyter. {{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Eutyches was an abbot in Constantinople."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You have brought to our knowledge, beloved, by your letter that through the activity of some the heresy of Nestorius has been again reviving. We reply that your solicitude in this matter has pleased us, since the remarks we have received are an indication of your mind. Wherefore do not doubt that the Lord, the Founder of the Catholic Faith, will befriend you in all things. And when we have been able to ascertain more fully by whose wickedness this happens, we must make provision with the help of God for the complete uprooting of this poisonous growth which has long ago been condemned. God keep you safe, my beloved son. Dated 1st June, in the consulship of the illustrious Postumianus and Zeno (448).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604020.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604020.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二十封书信",
+    "p0002": "他感谢对方提供关于聂斯多略主义复兴的信息，并称赞其热忱",
+    "p0003": "\\Person{良}主教致其爱子\\Person{欧提克斯}司铎。\\EditorialNote{欧提克斯是\\Place{君士坦丁堡}的一位隐修院院长。}",
+    "p0004": "亲爱的，你通过来信让我们知悉，有些人活动起来，使\\Person{聂斯多略}的异端再次复兴。我们回复说，你对此事的关切令我们欣慰，因为从我们所收到的言语中可以看出你的心意。因此，你不要怀疑，主、大公信仰的创立者，必将在一切事上眷顾你。而当我们能够更充分地查明此事是因谁的恶行而发生时，我们必须在天主的助佑下设法彻底根除这种早已受到谴责的毒草。愿天主保佑你平安，我亲爱的儿子。签署于显赫的\\Person{波斯图米亚努斯}与\\Person{芝诺}执政之年（448年）六月一日。"
+  }
+}

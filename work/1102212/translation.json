@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102212",
+    "title": "Letter 212 (A.D. 423)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 212",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 212 (A.D. 423)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Quintilianus, My Lord Most Blessed and Brother and Fellow Bishop Deservedly Venerable, Augustine Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Venerable father, I commend to you in the love of Christ these honourable servants of God and precious members of Christ, Galla, a widow (who has taken on herself sacred vows), and her daughter Simplicia, a consecrated virgin, who is subject to her mother by reason of her age, but above her by reason of her holiness. We have nourished them as far as we have been able with the word of God; and by this epistle, as if it were with my own hand, I commit them to you, to be comforted and aided in every way which their interest or necessity requires. This duty your Holiness would doubtless have undertaken without any recommendation from me; for if it is our duty on account of the Jerusalem above, of which we are all citizens, and in which they desire to have a place of distinguished holiness, to cherish towards them not only the affection due to fellow citizens, but even brotherly love, how much stronger is their claim on you, who reside in the same country in this earth in which these ladies, for the love of Christ, renounced the distinctions of this world! I also ask you to condescend to receive with the same love with which I have offered it my official salutation, and to remember me in your prayers. These ladies carry with them relics of the most blessed and glorious martyr Stephen: your Holiness knows how to give due honour to these, as we have done.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102212.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102212.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第212封信（公元423年）",
+    "p0002": "\\Emph{致\\Person{昆体良努斯}，我最为有福的主、兄弟及同为主教，当受尊敬者，\\Person{奥思定}谨致问候。}",
+    "p0003": "可敬的父亲，我在基督的爱内将这几位可敬的天主仆婢与基督的宝贵肢体托付于您：寡妇\\Person{加拉}（她已誓发圣愿）和她的女儿\\Person{辛普利西亚}，一位献身于主的贞女，她因年龄而服从母亲，但因其圣德而高于母亲。我们已尽所能以天主的圣言滋养了她们；并藉此信函，如同亲手将她们交托给您，请您在她们所需或急难中，以各种方式安慰并扶助她们。您圣善的主教即使没有我的推荐，也无疑会承担此责任；因为倘若由于那在天上的\\OriginalTerm{耶路撒冷}{Jerusalem above}（我们都是其公民，而她们切愿在其中获得卓越圣善的位份），我们当对她们怀有不仅公民间应有的情谊，甚至弟兄般的友爱，那么她们在您身上的要求岂不更为迫切？您居住在这尘世的同一国度，而这两位女士为了基督的爱已弃绝了此世的荣华。我也请您不吝以我献上此函时的同等爱德，收受我作为主教身份的致意，并在您的祈祷中记念我。这几位女士随身携有最可颂及光荣的殉道者\\Person{斯德望}的\\OriginalTerm{圣髑}{relics}：您圣善的主教知道如何给予它们应有的敬礼，一如我们所行。"
+  }
+}

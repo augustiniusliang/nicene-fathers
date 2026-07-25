@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360203030",
+    "title": "Book III, Letter 30",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 30",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 30",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Inasmuch as it is manifest that the Apostolic See is, by the ordering of God, set over all Churches, there is, among our manifold cares, special demand for our attention, when our decision is awaited with a view to the consecration of a bishop. Now on the death of Laurentius, bishop of the church of Mediolanum, the clergy reported to us that they had unanimously agreed in the election of our son Constantius, their deacon. But, their report not having been subscribed, it becomes necessary, that we may omit nothing in the way of caution, for you to proceed to Genua (<em>Genoa</em>), supported by the authority of this order. And, inasmuch as there are many Milanese at present there under stress of barbarian ferocity, you must call them together, and enquire into their wishes in common. And, if no diversity of opinion separates them from the unanimity of the election— that is to say, if you ascertain that the desire and consent of all continues in favour of our aforesaid son, Constantius,— then you are to cause him to be consecrated by his own bishops, as ancient usage requires, with the assent of our authority, and the help of the Lord; to the end that through the observance of such custom both the Apostolic See may retain the power belonging to it, and at the same time may not diminish the rights which it has conceded to others.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203030.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203030.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷，第三十函",
+    "p0002": "\\Emph{致副执事\\Person{若望}。}",
+    "p0003": "\\Person{额我略}致\\Person{若望}等。",
+    "p0004": "既然宗座是因天主的安排而统管众教会，那么在我们多重的关怀中，当决定主教祝圣之事而等待我们的裁决时，更需我们特别留意。现今，在\\Place{米兰}教会的主教\\Person{劳伦提乌斯}去世后，该教会的圣职人员向我们报告说，他们一致同意选举我们的儿子、他们的执事\\Person{君士坦提乌斯}。然而，他们的报告未经签署，故为避免任何疏忽，有必要让你持此命令的权柄前往\\Place{热那亚}。并且，由于目前有许多\\Place{米兰}人因野蛮人的凶暴而避难至彼处，你应召集他们，共同询问他们的意愿。若没有意见分歧破坏选举的共识——即若你确知众人仍一致希望并同意由上述我们的儿子\\Person{君士坦提乌斯}继任——那么，你应依古代惯例，由他自己的主教们祝圣他，同时附上我们的权柄许可，并藉主的助佑；如此，既遵守了这一惯例，宗座得以保持其权力，同时也不削减它已授予他人的权利。"
+  }
+}

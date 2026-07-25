@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707141",
+    "title": "Letter 141",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 141",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 141",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Marcellus, Archimandrite of the Acoemetæ.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Bright is made your holiness by your goodly life, exhibiting on earth the image of the conversation of the angels, but it is made still brighter by your zeal for the apostolic faith. As keel to boat, as corner-stone to house, so to them that choose to live in piety is the truth of the doctrines of the Gospel. For this truth when assailed you have bravely fought, not striving to protect it as though it were weak, but showing your godly disposition; for the teaching of our Master Christ is gifted with stability and strength, in accordance with the promise of the same Saviour, <quote>that the gates of hell shall not prevail against it.</quote> It is the loving and bountiful Lord who has thought right that I too should be dishonoured and slain on behalf of this doctrine. For truly we have reckoned dishonour honour, and death life. We have heard the words of the apostle <quote>For unto us it is given by God not only to believe in Him, but also to suffer for His sake.</quote> But the Lord arose like the sleeper, and stopped the mouths of them that uttered blasphemy against God and injustice against me. But He has made the tongues of the pious pour forth their fountains in their wonted message. I, however, am gathering the delightful fruits of rest; as I look at the agitation of the churches I am grieved, but I rejoice and am glad at being freed from cares. I have ever been gratified at your admirable piety, but heretofore I have not written, not from any lack of regard for the dictates of charity, but because I have waited for some suitable occasion. Just now, having fallen in with the most pious and prudent monks who have been sent by your holiness on other business, I have lost no time in carrying out my wish. I salute your godliness. I beg you in the first place to support me with your prayers, and further to cheer me by a letter, for by God's grace I have been attacked for the Gospel's sake.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707141.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707141.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一四一书信",
+    "p0002": "\\Emph{致阿科梅特\\OriginalTerm{隐修院}{Acoemetæ}\\OriginalTerm{院长}{Archimandrite}\\Person{马塞鲁斯}。}",
+    "p0003": "您的圣德因您圣善的生活而熠熠生辉，在地上显示出天使交往的图像，但因您对宗徒信仰的热忱而更加明亮。如同船之龙骨、房之基石，对于选择度虔敬生活的人，福音教义的真理也是如此。为了这真理，当它受到攻击时，您勇敢地战斗，并非试图保护它如同它软弱，而是彰显您的虔敬心志；因为我们的导师基督的教导赋有稳固和力量，按同一位救主的应许：\\BibleQuote{阴间的门决不能战胜她。}是那仁爱而慷慨的主认为我为了这道理也应当受辱并被杀。因为我们实在将羞辱视为荣誉，将死亡视为生命。我们听到了宗徒的话：\\BibleQuote{因为天主赐给我们的，不仅是信祂，而且也要为祂受苦。}但是主如同睡醒的人起来，阻止了那些对天主口出亵渎、对我不义之人的口。他却使虔敬者的舌头涌出他们惯常话语的泉源。而我，却收获着休息的美果；当我看到教会的动荡时，我悲伤，但我也因摆脱烦扰而欢喜快乐。我一直因您令人钦佩的虔敬而感到欣慰，但至今未曾写信，并非缺乏对爱德命令的尊重，而是因为我在等待合适的时机。刚才，我遇到了由您的圣德派遣办理其他事务的最虔敬而明智的隐修士们，便不失时机地实现了我愿望。我向您的虔敬致敬。我首先恳请您以祈祷支持我，并进一步通过书信使我欣慰，因为天主的恩宠，我为了福音的缘故而受攻击。"
+  }
+}

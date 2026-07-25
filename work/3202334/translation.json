@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202334",
+    "title": "Letter 334",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 334",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 334",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To a writer.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Write straight, and make the lines straight. Do not let your hand go too high or too low. Avoid forcing the pen to travel slantwise, like Æsop's crab. Advance straight on, as if following the line of the carpenter's rule, which always preserves exactitude and prevents any irregularity. The oblique is ungraceful. It is the straight which pleases the eye, and does not allow the reader's eyes to go nodding up and down like a swing-beam. This has been my fate in reading your writing. As the lines lie ladderwise, I was obliged, when I had to go from one to another, to mount up to the end of the last: then, when no connection was to be found, I had to go back, and seek for the right order again, retreating and following the furrow, like Theseus in the story following Ariadne's thread. Write straight, and do not confuse our mind by your slanting and irregular writing.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202334.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202334.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 334",
+    "p0002": "\\Person{圣巴西略（凯撒勒雅的）}",
+    "p0003": "致一位抄写员。",
+    "p0004": "写直了，并使线条保持平直。不要让手写得太高或太低。避免迫使笔斜着走，就像\\Person{伊索}的螃蟹那样。要径直向前，仿佛循着木匠的直尺线前进，这尺子始终精确，防止任何歪斜。斜线是不雅观的。直线才悦目，不会让读者的眼睛像摆杆一样上下摇晃。我在读你的字时就遭遇了这种命运。因为字母像梯子一样排列，当我不得不从一行移到下一行时，我得爬到前一行末尾；发现没有连接时，又得退回去重新寻找正确的顺序，就像故事中的\\Person{忒修斯}循着\\Person{阿里阿德涅}的线团一样后退着沿着犁沟走。写直了，不要用你歪斜不整的字迹使我们困惑。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202340",
+    "title": "Letter 340",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 340",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 340",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Libanius to Basil.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Had you been for a long time considering how best you could reply to my letter about yours, you could not in my judgment have acquitted yourself better than by writing as you have written now. You call me a sophist, and you allege that it is a sophist's business to make small things great and great things small. And you maintain that the object of my letter was to prove yours a good one, when it was not a good one, and that it was no better than the one which you have sent last, and, in a word that you have no power of expression, the books which you have now in hand producing no such effect, and the eloquence which you once possessed having all disappeared. Now, in the endeavour to prove this, you have made this epistle too, which you are reviling, so admirable, that my visitors could not refrain from leaping with admiration as it was being read. I was astonished that after your trying to run down the former one by this, by saying that the former one was like it, you have really complimented the former by it. To carry out your object, you ought to have made this one worse, that you might slander the former. But it is not like you, I think, to do despite to the truth. It would have been done despite to, if you had purposely written badly, and not put out the powers you have. It would be characteristic of you not to find fault with what is worthy of praise, lest in your attempt to make great things insignificant, your proceedings reduce you to the rank of the sophists. Keep to the books which you say are inferior in style, though better in sense. No one hinders you. But of the principles which are ever mine, and once were yours, the roots both remain and will remain, as long as you exist. Though you water them ever so little, no length of time will ever completely destroy them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202340.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202340.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第三四〇号",
+    "p0002": "\\Emph{\\Person{圣巴西略}}",
+    "p0003": "\\Person{利巴尼乌斯}致\\Person{巴西略}。",
+    "p0004": "若您长久思忖如何最佳回应我关于您信件的来信，依我判断，您不可能比现在所写的这封信表现得更好。您称我为诡辩家，并断言诡辩家之能事在于化小为大、化大为小。您又坚称，我那封信的目的是要证明您的那封信是佳作，而它本非佳作，且它并不比您最后寄来的那封更好——总而言之，您毫无表达能力，因为您手头钻研的书籍并未产生这种效果，您曾拥有的口才也已尽失。然而，为了证明这一点，您却使这封您正在贬斥的书信如此出色，以至于我的访客在听人诵读时，不禁跃起赞叹。我感到惊讶的是，您试图通过这封信来贬低前信，声称前信与它相似，实际上您却借此恭维了前信。要实现您的目的，您本该把这封信写得更糟，这样才能诋毁前信。但我认为，您不会违背真理。若您故意写得拙劣，而不发挥您的能力，那才是违背真理。您的作风应当是不去挑剔值得称赞的事物，以免在试图化大为小时，您的行为使自己沦入诡辩家的行列。请继续阅读您那些风格虽逊、意义却佳的著作。无人阻止您。至于那些永远属于我、也曾属于您的原则，其根基既已存留，也将继续存留，只要您存在。即使您浇灌它们甚微，任何漫长岁月也无法将它们彻底摧毁。"
+  }
+}

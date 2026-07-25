@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "0850",
+    "title": "Remains of the Second and Third Centuries.",
+    "breadcrumbs": "Home > Fathers of the Church > Fragments (Quadratus)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Remains of the Second and Third Centuries.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<smallcaps>Quadratus, Bishop of Athens. </smallcaps>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "[a.d. 126.] Quadratus is spoken of by Eusebius as a <quote>man of understanding and of Apostolic faith.</quote> And he celebrates Aristides as a man of similar character. These were the earliest apologists; both addressed their writings to Hadrian, and they were extant and valued in the churches in the time of Eusebius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "From the Apology for the Christian Religion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Our Saviour's works, moreover, were always present: for they were real, <em>consisting of</em> those who had been healed of their diseases, those who had been raised from the dead; who were not only seen while they were being healed and raised up, but were <em>afterwards</em> constantly present. Nor did they remain only during the sojourn of the Saviour <em>on earth</em>, but also a considerable time after His departure; and, indeed, some of them have survived even down to our own times.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by B.P. Pratten. From Ante-Nicene Fathers, Vol. 8. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0850.htm>.",
+    "metadata": {
+      "srctrans": "Translated by B.P. Pratten.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/0850.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二及第三世纪的遗作。",
+    "p0002": "\\Person{Quadratus}，雅典主教。",
+    "p0003": "[一二六年] \\Person{Eusebius}称\\Person{Quadratus}为\\Quote{有见识且有宗徒信德的人}。他又赞扬\\Person{Aristides}是一位具有类似品格的人。这些都是最早的护教者；两人都将著作呈递\\Person{Hadrian}，在\\Person{Eusebius}的时代，这些著作仍存留于各教会中，并受到珍视。",
+    "p0004": "摘自\\WorkTitle{为基督教辩护}。",
+    "p0005": "再者，我们救主的作为常是显明的：因为它们是真实的，\\Emph{由}那些病得痊愈、死里复活的人\\Emph{组成}；他们不仅在得医治和复活时被人看见，而且\\Emph{后来}也一直存在。他们不仅在救主居于\\Emph{世上}时存留，而且在他离去后相当长的时间内也仍存留；事实上，他们中有些人甚至一直存续到我们的时代。"
+  }
+}

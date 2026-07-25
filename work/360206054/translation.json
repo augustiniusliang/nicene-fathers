@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206054",
+    "title": "Book VI, Letter 54",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 54",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 54",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Desiderius and Syagrius, Bishops.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Desiderius of Vienna (<em>Vienne</em>), and Syagrius of Augustodunum (<em>Autun</em>), Bishops of Gaul. <em>A paribus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Having regard to your sincere charity we are well assured that out of love for Peter, the Prince of the apostles, you will devotedly afford your succour to our men; especially since the nature of the case requires you to give assistance even of your own accord, and the more when you see them labour. Wherefore we inform your Holiness that, the Lord so ordering it, we have dispatched Augustine, the servant of God, the bearer of these presents, whose zeal and earnestness are well known to us, with other servants of God, in behalf of souls in those parts; from whose account of things when you have fully learned what is enjoined on him, let your Fraternity bestow your succour on him in all ways which the case may require, that you may be able, as is becoming and fit, to be helpers of a good work. Let, then, your Fraternity study to show yourself so devoted in this matter that your action may prove to us the truth of the good report that we have heard of you. We commend to you in all respects our most beloved common son, Candidus the presbyter, to whom we have committed the patrimony of our Church situated in those parts.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206054.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206054.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷·第五十四书",
+    "p0002": "\\Emph{致\\Person{德西德留}与\\Person{塞亚格留}二位主教}",
+    "p0003": "\\Person{格列高利}致维也纳的\\Person{德西德留}与奥古斯托杜努姆（即\\Place{欧坦}）的\\Person{塞亚格留}，乃高卢地区主教。\\Emph{\\OriginalTerm{同类}{A paribus}}。",
+    "p0004": "鉴于你们的真诚爱德，我们深信你们出于对宗徒之长伯多禄的敬爱，必将慷慨援助我们的属下；尤其是鉴于事情的性质，即使没有请求，你们也应自愿给予援助，更何况见到他们辛勤劳苦。故此，我们通知尊驾，在主安排之下，我们派遣了天主的仆人、持此信者\\Person{奥斯定}——他的热忱与勤勉我们深知——连同其他天主的仆人，为拯救那些地区的灵魂前往。当你们从他的陈述中充分了解他所领受的使命后，请你们的兄弟之谊在一切必要之事上予以援助，以便你们能够合宜适当地成为善工的协助者。为此，愿你们的兄弟之谊努力在此事上显示如此的热忱，使你们的行动能向我们证明我们对你们的美好听闻确属实情。我们在此将我们最亲爱的共同之子司铎\\Person{坎迪杜斯}全然托付给你们，我们已委托他管理本教会位于那些地区的产业。"
+  }
+}

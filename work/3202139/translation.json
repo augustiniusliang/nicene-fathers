@@ -1,0 +1,70 @@
+{
+  "source": {
+    "source_id": "3202139",
+    "title": "Letter 139",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 139",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 139",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Alexandrians</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. I have already heard of the persecution in Alexandria and the rest of Egypt, and, as might be expected, I am deeply affected. I have observed the ingenuity of the devil's mode of warfare. When he saw that the Church increased under the persecution of enemies and flourished all the more, he changed his plan. He no longer carries on an open warfare, but lays secret snares against us, hiding his hostility under the name which they bear, in order that we may both suffer like our fathers, and, at the same time, seem not to suffer for Christ's sake, because our persecutors too bear the name of Christians. With these thoughts for a long time we sat still, dazed at the news of what had happened, for, in sober earnest, both our ears tingled on hearing of the shameless and inhuman heresy of your persecutors. They have reverenced neither age, nor services to society, nor people's affection. They inflicted torture, ignominy, and exile; they plundered all the property they could find; they were careless alike of human condemnation and of the awful retribution to come at the hands of the righteous Judge. All this has amazed me and all but driven me out of my senses. To my reflections has been added this thought too; can the Lord have wholly abandoned His Churches? Has the last hour come, and is <quote>the falling away</quote> thus coming upon us, that now the lawless one <quote>may be revealed, the son of perdition who opposes and exalts himself above all that is called God and is worshipped</quote>? {{BIBLE:2th 2:4}} But if the temptation is for a season, bear it, you noble athletes of Christ. If the world is being delivered to complete, and final destruction, let us not lose heart for the present, but let us await the revelation from heaven, and the manifestation of our great God and Saviour Jesus Christ. If all creation is to be dissolved, and the fashion of this world transformed, why should we be surprised that we, who are apart of creation, should feel the general woe, and be delivered to afflictions which our just God inflicts on us according to the measure of our strength, not letting us <quote>be tempted above that we are able, but with the temptation giving us a way to escape that we may be able to bear it</quote>? {{BIBLE:1co 10:13}} Brothers, martyrs' crowns await you. The companies of the confessors are ready to reach out their hands to you and to welcome you into their own ranks. Remember how none of the saints of old won their crowns of patient endurance by living luxuriously and being courted; but all were tested by being put through the fire of great afflictions. <quote>For some had trial of cruel mockings and scourgings, and others were sawn asunder and were slain with the sword.</quote> These are the glories of saints. Blessed is he who is deemed worthy to suffer for Christ; more blessed is he whose sufferings are greater, since <quote>the sufferings of this present time are not worthy to be compared with the glory that shall be revealed in us.</quote> {{BIBLE:rom 8:18}}",
+        "scripture": [
+          "2th 2:4",
+          "1co 10:13",
+          "rom 8:18"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Had it but been possible for me to travel to you I should have liked nothing better than to meet you, that I might see and embrace Christ's athletes, and share your prayers and spiritual graces. But now my body is wasted by long sickness, so that I can scarcely even leave my bed, and there are many who are lying in wait for me, like ravening wolves, watching the moment when they may be able to rend Christ's sheep. I have therefore been compelled to visit you by letter; and I exhort you first of all most earnestly to pray for me, that for the rest of my remaining days or hours I may be enabled to serve the Lord, in accordance with the gospel of His kingdom. Next I beg you to pardon me for my absence and for my delay in writing to you. I have only with great difficulty found a man able to carry out my wishes. I speak of my son, the monk Eugenius, by whom I beseech you to pray for me and for the whole Church, and to write back news of you so that, when I hear, I may be more cheerful.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202139.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202139.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一三九函",
+    "p0002": "\\Emph{\\Person{圣巴西略}（\\Place{凯撒勒雅}）}",
+    "p0003": "\\Emph{致\\Place{亚历山大里亚}人}。",
+    "p0004": "1. 我已经听说在亚历山大里亚和埃及其他地区的迫害，正如所料，我深感震动。我观察到魔鬼作战方式的巧妙。当他看到教会在敌人的迫害下反而增长，更加兴旺时，他就改变了策略。他不再进行公开的战争，而是为我们设下隐秘的陷阱，用他们（迫害者）所承载的名字来掩盖敌意，以至于我们既像我们的父辈一样受苦，同时又似乎不是为基督受苦，因为我们的迫害者也带着基督徒的名字。怀着这些思绪，我们久久静坐，对发生的事感到茫然，因为说实话，在听到你们迫害者的无耻和非人的异端时，我们耳朵都在发痒。他们不尊重年龄，不尊重对社会服务，也不尊重人民的爱戴。他们施加酷刑、侮辱和流放；他们掠夺所能找到的一切财产；他们既不在乎人的谴责，也不在乎公义审判者手中那可怕的未来报应。这一切使我惊愕，几乎使我失去理智。我的思考中还加上了这个念头：难道主已经完全抛弃了他的教会吗？末时到了吗？那\\Quote{背叛}就这样临到我们，使那\\BibleQuote{无法无天者，即那敌对者，且高举自己在一切称为神或受人敬拜者以上的，那丧亡之子，得以显露出来}\\BibleRef{得后 2:4}吗？但如果这考验是暂时的，那么你们这些基督的高贵战士，要忍受。如果这世界将被交付于完全的、最终的毁灭，让我们不要灰心，而要等待从天上来的启示，和我们的伟大天主和救主耶稣基督的显现。如果所有受造物都要消解，这个世界的形态也要改变，为什么我们作为受造物的一部分，会为承受普遍的灾祸而惊讶，并被交付给我们公义的天主按我们力量的程度所加给我们的苦难，他\\BibleQuote{不让我们受超过我们能力的试探，但在试探中给我们开一条出路，使我们能忍受得住}\\BibleRef{格前 10:13}呢？弟兄们，殉道者的冠冕在等着你们。宣认者的队伍已准备好伸手向你们，欢迎你们进入他们的行列。请记住，古代圣人中，没有一个人是靠奢华生活、受人奉承而赢得忍耐的冠冕的；他们都是经过大苦难的火炼而受到考验的。\\Quote{因为有些人受了戏弄和鞭打的酷刑，有些人被锯断，被刀杀。}这些是圣人的荣耀。能够为基督受苦的人是有福的；受苦更大的人更有福，因为\\BibleQuote{现在的苦楚微不足道，无法与将来要显示给我们的光荣相比}\\BibleRef{罗 8:18}。",
+    "p0005": "2. 如果我能够前往你们那里，我最高兴的莫过于与你们相会，好让我看到并拥抱基督的运动员，分享你们的祈祷和神恩。但如今我的身体因长病而衰弱，几乎离不开床，又有许多像饿狼一样的人埋伏着，等待时机撕裂基督的羊群。因此我不得不以书信来探访你们；我首先极力劝你们为我祈祷，使我在余下的日子或时辰里，能够按天主国的福音侍奉主。其次，我请求你们原谅我的缺席和迟未写信。我好不容易才找到一个能完成我心意的人。我指的是我的儿子、隐修士\\Person{欧仁}，我藉着他恳求你们为我并为整个教会祈祷，并回信告诉我你们的消息，好使我听到后更加愉快。"
+  }
+}

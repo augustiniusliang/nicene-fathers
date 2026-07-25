@@ -1,0 +1,41 @@
+{
+  "source": {
+    "source_id": "101601",
+    "title": "Commentary on the Gospel of Matthew (Book I)",
+    "breadcrumbs": "Home > Fathers of the Church > Commentary on Matthew (Origen > Book I",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Commentary on the Gospel of Matthew (Book I)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Concerning the four Gospels which alone are uncontroverted in the Church of God under heaven, I have learned by tradition that the Gospel according to Matthew, who was at one time a publican and afterwards an Apostle of Jesus Christ, was written first; and that he composed it in the Hebrew tongue and published it for the converts from Judaism. The second written was that according to Mark, who wrote it according to the instruction of Peter, who, in his General Epistle, acknowledged him as a son, saying, <quote>The church that is in Babylon, elect together with you, salutes you; and so does Mark my son.</quote> {{BIBLE:1pe 5:13}} And third, was that according to Luke, the Gospel commended by Paul, which he composed for the converts from the Gentiles. Last of all, that according to John.",
+        "scripture": [
+          "1pe 5:13"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by John Patrick. From Ante-Nicene Fathers, Vol. 9. Edited by Allan Menzies. (Buffalo, NY: Christian Literature Publishing Co., 1896.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/101601.htm>.",
+    "metadata": {
+      "srctrans": "Translated by John Patrick.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 9.",
+      "srced": "Edited by Allan Menzies.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1896.",
+      "srcurl": "<http://www.newadvent.org/fathers/101601.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{玛窦福音注释（卷一）}",
+    "p0002": "关于天下天主教会中无可争议的四部福音，我由传统得知：\\BibleBook{玛窦}{福音}——他原是一个税吏，后来成为耶稣基督的宗徒——是首先写成的；他用希伯来语撰写，并为从犹太教皈依的人而发表。第二部写成的，是\\BibleBook{马尔谷}{福音}，他按照伯多禄的指示撰写；伯多禄在他的公函中称他为儿子，说：\\BibleQuote{在巴比伦与你们一同蒙选的教会向你们问安，我儿子马尔谷也向你们问安。} \\BibleRef{伯前 5:13} 第三部，是\\BibleBook{路加}{福音}，是保禄所称赞的，他为从外邦人中皈依的人而撰写。最后一部，是\\BibleBook{若望}{福音}。"
+  }
+}

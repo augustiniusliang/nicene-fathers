@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360202019",
+    "title": "Book II, Letter 19",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 19",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 19",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To all the Bishops of Dalmatia.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all the bishops constituted throughout Dalmatia.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Though desiring to visit your Fraternity frequently through the intercourse of letters, yet, when some special case demands our attention, we wish to take the opportunity of fulfilling two duties at once, so as both to refresh our brotherly souls in the way of visitation and to explain accurately matters that come up for notice, lest ignorance of them should leave the mind confused. Now when our brother Natalis, bishop of the city of Salona, wished to advance the archdeacon Honoratus to the order of the priesthood, who thereupon declined being advanced to a higher order, the latter demanded my predecessor of holy memory, in a petition that he sent, that he should not be so advanced against his will. For he alleged that the thing was attempted, not for the sake of promoting him, but in consequence of displeasure against him. Thereupon our predecessor of holy memory addressed letters to Natalis, our brother and fellow bishop, interdicting him from promoting the archdeacon Honoratus against his will, or retaining in his heart the soreness of the displeasure which he had conceived against him. And when we too had laid the same interdiction on the said Natalis, he, not only disregarding the commands of God, but also setting at naught our letters, attempted, it is said, craftily to degrade the aforesaid archdeacon, in a way contrary to custom, under colour of promoting him to a higher dignity. Thus it was contrived that, having removed him from the archdeaconry, he might call in another person to minister in the place of the deposed archdeacon. Now we think that this Honoratus may have fallen under the displeasure of his bishop on account of having prevented him from giving sacred vessels to his relations: and both my predecessor of holy memory formerly and I now have wished to investigate the case accurately; but he, conscious of what he had done, has put off sending a representative with a view to its trial, lest the truth with respect to his doings might appear. We therefore, now that he has been already so often admonished by letter, and has so far been pertinaciously obstinate, have taken order for his being admonished once more in letters sent to him through the bearer of these presents, to the end that he may, immediately on the arrival of the bearer of these presents, receive the archdeacon Honoratus into his former place. And if, with heart still hardened, he should contumaciously defer restoring him to the said position, we order that for his contumacy so many times exhibited he be deprived of the use of the pallium granted to him by this See. But if, even after loss of the pallium, he should persevere in the same pertinacity, we order him to be debarred from participation in the body and blood of the Lord. For it is right that he should find those severe in justice whom he set at naught when they approached him in charity. Wherefore neither do we now deviate from the path of justice, which the aforesaid bishop has despised; but, when he whose guilt has by no means been made apparent to us has been restored to his place, we enjoin the bishop Natalis to send to us a person with instructions, who may be able by his allegations to prove to us the right intentions of the said bishop. For we have caused also the said archdeacon to come to us, that, having heard the assertions of both parties, we may decide whatever may be just, whatever may be well pleasing to Almighty God. For we defend no one on the ground of personal love, but, God helping us, keep the rule of justice without respect to any man's person.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202019.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202019.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二卷，第十九封信",
+    "p0002": "\\Emph{致\\Place{达尔马提亚}所有主教。}",
+    "p0003": "\\Person{额我略}致在整个\\Place{达尔马提亚}的众主教。",
+    "p0004": "虽然我们渴望通过书信的往来频繁地探望你们的兄弟之情，但当某些特殊情况需要我们关注时，我们愿意借此机会同时履行两项职责：既在探望中振作兄弟般的灵魂，又准确解释那些提请注意的事项，以免因无知而使心灵困惑。如今，我们的兄弟、\\Place{萨洛纳}城的主教\\Person{纳塔利斯}，希望将总执事\\Person{奥诺拉图斯}擢升到司铎品位，而\\Person{奥诺拉图斯}却拒绝被提升到更高的品位，他以所呈递的请愿书要求我那位神圣纪念的前任教宗，不应违背其意愿被提升。他声称此事并非为了促进他，而是出于对他的不满。因此，我那位神圣纪念的前任教宗写信给我们的兄弟和主教同事\\Person{纳塔利斯}，禁止他违背\\Person{奥诺拉图斯}的意愿提升他，或在他心中保留对他所怀的不满之痛。当我们也对这位\\Person{纳塔利斯}施加同样的禁令时，他不仅无视天主的命令，而且藐视我们的信函，据说他狡猾地试图以降级的方式贬黜上述总执事，却借口提拔他到更高的尊位，这有违惯例。由此策划的是，在将他从总执事职位上撤除后，他可能召请另一个人来代替被撤职的总执事履行职务。现在，我们认为这位\\Person{奥诺拉图斯}可能是因阻止主教将圣器给予他的亲属而招致主教的不满：我的前任教宗（神圣纪念者）从前和我现在都希望准确调查此事；但他（指主教）自知所为，却拖延派遣代表接受审判，唯恐其行为的真相暴露。因此，鉴于他已被多次书面劝诫，却始终顽固，我们已安排通过本函持信人再次送信劝诫他，以便本函持信人一到，他立即将总执事\\Person{奥诺拉图斯}收回原位。如果他仍心怀硬化，乖戾地拖延不恢复其职位，我们命令，因他多次表现出的顽抗，剥夺他曾由本座授予的披带使用权。但是，如果在丧失披带后，他仍然坚持同样的顽固，我们命令禁止他分领主的身体和血。因为应当如此：他卑视那些以爱德接近他的人，现在却要面对公义中的严厉惩罚。因此，我们现在也不偏离那被上述主教所藐视的公义之道；但是，当那位在我们看来其罪责尚未明显的人被恢复原位时，我们责令\\Person{纳塔利斯}主教派遣一位有训示的代表前来，能够通过其陈词向我们证明该主教的正直意图。因为我们也已命令上述总执事前来我们这里，以便在听取双方陈述后，我们决定任何公正的事，任何全能的天主所悦纳的事。因为我们不因私爱而偏袒任何人，而是依靠天主的助佑，不徇情面地持守公义之规。"
+  }
+}

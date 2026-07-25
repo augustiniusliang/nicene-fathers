@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360213018",
+    "title": "Book XIII, Letter 18",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 18",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To certain Bishops of Sicily.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Leo, Secundinus, John, Donus, Lucidus, Trajan, bishops of Sicily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Even as we are admonished through the speech of the apostles to impart one to another spiritual aids—so, in matters that by God's ordering we may have to settle in virtue of the government imposed on us for administration of the affairs of the poor, it is fit that priestly succour be not wanting. Accordingly in sending the bearer of these presents, Adrian our <em>Chartularius</em> , to govern the patrimony of our Church, to wit in the Syracusan district, we have thought it necessary to commend him to your Fraternity, that, wherein custom may demand it, you may afford him your succour, to the end that, while he is supported by you with bodily aid for doing his work, and with the spiritual aid of your prayers for carrying out with facility whatever he may undertake, he may be able, God also working with him, to accomplish prosperously what has been by us enjoined on him. But, as for yourselves, you should so acquit yourselves in good works before the face of Almighty God that there be not found in your doings anything that may be smitten by the judgment of God, or for which you may be accused by any man whatever lying in wait against you. For we have charged our aforesaid <em>Chartularius</em> that, if he should come to know of any inordinate doings on the part of our most reverend brethren the bishops, he should first himself take them to task by private and modest admonition; and, that, if such things are not amended, he should inform us of them speedily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, it has been reported to us that in the times of our predecessor of holy memory it was arranged by the deacon Servusdei, who then had charge of the ecclesiastical patrimony, that the priests of your several dioceses, when you go forth to seal infants , should not be immoderately burdened. For a certain sum had been fixed, and this, as I hear, with your consent, to be given by the same priests for the services of the clerks (<em>clericorum</em>). And this, which was then approved of, is said to be by no means kept to now. Wherefore I admonish your Fraternity to endeavour not to be burdensome to your subjects, and, if they have any grievances, to abate them, seeing also that you ought not to have departed from what had once been determined. For you will be seeing to your own interest both in the future and the present life, if you keep those who have been committed to you free from grievance.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213018.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213018.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第十八封信",
+    "p0002": "\\Emph{给西西里的某些主教}",
+    "p0003": "\\Signature{格里高利致西西里主教莱奥、塞孔迪努斯、若望、多努斯、卢奇杜斯、特拉扬。}",
+    "p0004": "正如我们受到宗徒言论的劝诫，彼此分享属灵的助佑——同样，在天主安排下我们因被赋予管理穷人事务的治理职责而必须处理的事宜上，司铎的援助也不应缺席。因此，在派遣持信者、我们的\\OriginalTerm{书记官}{Chartularius}阿德里安前往治理我们教会的产业，即锡拉库萨地区时，我们认为有必要将他推荐给各位主教，以便在习俗要求之处，你们能给予他帮助；如此，当他蒙你们以身体的援助支持其工作，并以你们祈祷的属灵助佑使他顺利执行所承担的一切时，在天主与他合作下，他就能圆满完成我们所托付给他的事。至于你们自己，应当在全能天主面前以善行如此行事，以至在你们的作为中找不到任何可被天主的审判击打之处，或可被任何伺机攻击你们的人指控之处。因为我们已命令我们上述的书记官，若他得知我们至可敬的弟兄主教们有任何不当行为，他应先私下以谦逊的劝诫责备他们；若这些事未得改正，他应迅速告知我们。",
+    "p0005": "此外，据报告给我们，在我们可敬的前任时代，由当时负责教会产业的执事\\OriginalTerm{天主的仆人}{Servusdei}安排，你们各教区的司铎，当你们出去给婴儿施行坚振时，不应受到过重的负担。因为已设定了一笔固定的金额，据我所知，经你们同意，由同一些司铎为\\OriginalTerm{神职人员}{clericorum}的服务而支付。而这曾获批准的做法，据说如今全然未被遵守。因此我劝告各位主教，努力不成为属下之人的负担，且若有任何怨言，要予以减轻，况且你们也不应偏离已经作出的决定。因为如果你们使托付给你们的人免受怨言，你们就是在为今生和来世自己的利益着想。"
+  }
+}

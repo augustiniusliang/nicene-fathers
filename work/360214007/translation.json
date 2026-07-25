@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360214007",
+    "title": "Book XIV, Letter 7",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIV, Letter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIV, Letter 7",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Alcyson, Bishop of Corcyra.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Alcyson, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Not undeservedly does the ambition of an elated heart require to be quelled, when, disregarding the force of the sacred canons, the excess of rash presumption in coveting unlawfully what belongs to others is shown to be not only harmful in causing expense, but also opposed to the peace of the Church. Having, then, perused your Fraternity's epistles, we have learned what has been done formerly or of late by the bishop of the City of Euria with regard to the camp of Cassiopus , which is situated in your diocese, and we are distressed that those who should have been debtors to your Church for charity bestowed upon them, should rather become its enemies, no shame restraining them; and at last that, in a way contrary to ecclesiastical arrangement, contrary to priestly moderation, contrary to the ordinances of the sacred canons, they should attempt to withdraw the aforesaid camp from your jurisdiction and subject it to their own power, so as to become as it were masters where they had before been received as strangers. Concerning which matter, seeing that Andrew, our brother of venerable memory, Metropolitan of Nicopolis, with the support also of an imperial order whereby the cognizance of this case had been enjoined on him, is known to have determined in a sentence promulged by him, as has been made manifest to us, that the aforesaid camp of Cassiopus should remain under the jurisdiction of your Church as it always has been, we, approving of the form of that sentence, confirm it, as justice approves, by the authority of the Apostolic See, and decree that it remain firm in all respects. For no reason of equity, no canonical order, sanctions that one person should in any way occupy the parish of another. Wherefore, though the guilt of this contentiousness seems to require no slight strictness of treatment, in that they have returned evil for good, nevertheless care should be taken that kindness be not overcome by excess, nor that what is due to strange brethren, when they are suffering constraint too, be denied them, lest charity should be judged to have no operation in the minds of bishops, if those to whom great compassion is due should be left without the remedy of consolation. It is right, then, that the priests and clergy of the city of Euria be not repelled from habitation of the aforesaid camp of Cassiopus, but that they should have leave also to deposit with due reverence the holy and venerable body of the blessed Donatus, which they have brought with them, in one of the churches of the aforesaid place such as they may choose. Yet so that protection be procured for your Love, in whose diocese this camp is situate, by the issue of a security whereby the bishop of Euria shall promise not to claim for himself any power therein, or any privilege, or any jurisdiction, or any authority in future, as though he were cardinal bishop; but that, peace being restored by the favour of God, they shall return by all means to their own places, taking away with them, if they will, the venerable body of Saint Donatus. So, this promise being kept in mind, neither may they dare on any pretext whatever to claim further to themselves any right of rule there, but acknowledge themselves guests there at all times, nor may the Church of your Fraternity in any degree incur prejudice to its rights and privileges.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360214007.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360214007.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十四卷，书信七",
+    "p0002": "\\Emph{致\\Place{科尔丘拉}主教\\Person{阿尔基松}。}",
+    "p0003": "\\Person{额我略}致\\Person{阿尔基松}等。",
+    "p0004": "一颗高傲之心的野心并非不应被压制，因为当它不顾神圣教规的效力，冒昧地觊觎属于他人的东西时，这种冒失的过分表现不仅证明有害并造成花费，而且也违背了教会的和平。在阅读了您的弟兄之书信后，我们得知了\\Place{欧里亚}城主教在过去或最近关于\\Place{卡西奥普斯}营地（该营地位于您的教区内）所做的事。我们感到难过的是，那些本应因您教会所施予的爱心而成为欠债者的人，反而成为了教会的敌人，毫无羞耻地约束自己；最终，以一种违反教会安排、违反司铎节制、违反神圣教规条例的方式，他们企图将上述营地从您的管辖下撤走，并置于他们自己的权力之下，从而成为像主人一样的人，而他们先前是被当作客人接待的。关于此事，因我们可敬的弟兄、\\Place{尼科波利斯}总主教\\Person{安德肋}，在皇帝命令（该命令责成他审理此案）的支持下，已知在他颁布的判决中确定（正如我们已经了解的那样），上述\\Place{卡西奥普斯}营地应当像一直以来的那样，留在您教会的管辖之下。我们赞同这一判决的形式，并按照正义的认可，以宗座的权威确认它，并裁定它在各方面保持有效。因为没有任何公平的理由，没有任何教规的秩序，允许一个人以任何方式占据另一个人的堂区。因此，尽管这种争论的罪责似乎需要相当严厉的处理，因为他们以恶报善，但仍应注意，不要以过分压倒仁爱，也不要拒绝给予那些处于困境中的陌生弟兄所应得的，以免爱德被认为在主教的心里没有作用，如果那些应得极大同情的人被剥夺了安慰的补救。因此，\\Place{欧里亚}城的司铎和圣职人员不应被驱逐出上述\\Place{卡西奥普斯}营地的住所，而且他们还应被允许以应有的敬意，将他们所带来的\\Person{真福多纳图}的圣洁可敬遗体，安放在上述地点中他们可能选择的某一座圣堂里。但应以这样的方式，为您（您的爱德）获得保障，即（营地位于您的教区内）通过出具一份保证书，\\Place{欧里亚}主教在其中承诺，将来不为自己索要其中的任何权力、任何特权、任何管辖权或任何权威，如同他是首席主教一样；但是，一旦蒙天主恩宠恢复和平，他们无论如何都应返回自己的地方，如果他们愿意，则带走\\Person{圣多纳图}的可敬遗体。因此，只要铭记这一承诺，他们既不可借口任何理由为自己进一步索要任何统治权，而应始终承认自己是那里的客人；您的弟兄的教会也不得在任何程度上对其权利和特权造成损害。"
+  }
+}

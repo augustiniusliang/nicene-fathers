@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360208003",
+    "title": "Book VIII, Letter 3",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 3",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 3",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Donus, Bishop of Messana (in Sicily).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Donus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The most eloquent man, our son Faustinus, has come to us and complained that his late father Peltrasius left some things which were not his own to your Church for his burial. And indeed he knows himself, and we have heard, what the secular law is in such a case; namely, that the heir is bound to pay if his father has bequeathed what was not his own. But, as we know that your Fraternity lives by the law of God and not of the world, it seems to me very unjust that an amber cup, and a boy who is said to be of a certain church situate on his property in the diocese of Consentia, should be detained by your Fraternity. For, when the most reverend Palumbus, now bishop, but then archdeacon, had testified that things were as I have said, you certainly ought to have taken his word, and restored what was not your own. Further, you ought in my opinion to have considered the golden brooch, which would be his whole substance were there anything for the sustenance of those he had left behind him, and accepted it at that time for his burial. Nevertheless, you know our ordinance, how that we have entirely forbidden the old custom in our Church, nor give our assent to any one being allowed to acquire burial-places for a human body for a price. For, if the men of Sichem, who were as we suppose Gentiles, offered without charge to Abraham sepulture for the dead Sara to be buried in a place of her own, and were hardly prevailed upon by his great importunity to receive a price for her place of burial, ought we, who are called bishops, to make any charge for burying the bodies of the faithful? This, then, we commit to the judgment of your Fraternity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The aforesaid most eloquent man complains also of this; that Sisinnius, the guardian (<em>defensor</em>) of your Church, unreasonably detains slaves in his possession: concerning whom also he asserts that it had been decided by the judgment of bishop Maximianus of holy memory that the detainer of them should give them up, but that he has so far wilfully put off their restitution. We therefore exhort your Fraternity that, if the case has manifestly been adjudged, what was ordained be carried out. Otherwise, some one being deputed to act in the case, cause him to resort to the parts of our brother and fellow bishop Secundinus for judgment, that, when it shall have been declared by his sentence to whom the slaves in question belong, neither the one party may appear to suffer prejudice nor the other bear a grudge.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208003.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208003.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷 第三封信",
+    "p0002": "\\Emph{致\\Place{梅西纳}（\\Place{西西里}）主教\\Person{多努斯}。}",
+    "p0003": "\\Person{格列高利}致\\Person{多努斯}等。",
+    "p0004": "最有口才的人，我们的儿子\\Person{福斯蒂诺}来到我们这里，抱怨说他的已故父亲\\Person{佩尔特拉修斯}将一些不属于他自己的东西留给您的教会作为他埋葬的代价。他本人知道，我们也听说了，世俗法律在此类案件中的规定；即，如果父亲遗赠了不属于他自己的东西，继承人有义务支付。但是，由于我们知道您的弟兄之爱是依照天主的法律而非世界的法律生活，在我看来，非常不公的是，一个琥珀杯和一个据说属于他产业上某座位于\\Place{科森扎}教区内的教堂的男童，竟被您的弟兄之爱扣留。因为，当现任主教、当时是总执事的最可敬的\\Person{帕伦布斯}证实事情正如我所说时，您本应当相信他的话，并归还不属于您的东西。此外，在我看来，您本应考虑那枚金胸针——若是有任何东西可以供养他身后遗下的人，这几乎是他的全部财产——并当时就接受它作为他的埋葬费用。尽管如此，您知道我们的训令，即我们已经完全禁止了我们教会中的旧习，也不赞同任何人被允许为获得埋葬人身体的墓地而支付代价。因为，如果舍根人——我们假定他们是外邦人——曾无偿向\\Person{亚巴郎}提供埋葬死去的\\Person{撒辣}的墓地，使她能葬在她自己的地方，并且\\Person{亚巴郎}再三恳求，他们才勉强接受了她墓地的价格；那么我们这些被称为主教的人，难道应该为埋葬信友的遗体而收费吗？因此，我们将此事交付您的弟兄之爱裁决。",
+    "p0005": "上述最有口才的人也抱怨此事：您的教会的监护人（\\OriginalTerm{监护人}{defensor}）\\Person{西西尼乌斯}无理地扣押属于他所有的奴隶；关于这些奴隶，他还断言，依可敬的\\Person{马克西米安}主教的判决，扣押者应予交出，但他至今故意拖延交还。因此，我们劝勉您的弟兄之爱，若案件已明确判决，则应按所定执行。否则，应指派某人处理此案，让他到我们的兄弟和同僚主教\\Person{塞昆迪努斯}的辖区寻求裁决，以便当他的判决宣告这些奴隶属于谁时，一方面不会使一方似乎受损，另一方面也不会使另一方心怀怨恨。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360210010",
+    "title": "Book X, Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Romanus, Guardian (Defensorem).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Romanus, our guardian in Sicily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has been reported to us that our most reverend brother the bishop Basilius is occupied in legal suits as though he were one of the last of the people, and unprofitably attends the courts. Now, since this thing both renders the man himself vile and does away with the reverence due to priests, let your Experience, immediately on receiving this order, so compel him by strict execution of it to return to his duty that, through your insistency, a delay of five days be not under any excuse allowed him; lest, if you should in any way permit him to make such delay, you with him should come to be gravely culpable before us. Given in the month of December, Indiction 3.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十卷，第十封信",
+    "p0002": "\\Emph{致\\Person{罗玛诺}\\OriginalTerm{护院}{Defensorem}。}",
+    "p0003": "\\Person{格里高利}致西西里护院\\Person{罗玛诺}。",
+    "p0004": "有人向我们报告，我们最可敬的兄弟\\Person{巴息略}主教好像平民百姓一样忙于诉讼，无益地出入法庭。既然此事既使他本人卑贱，又损害了司铎应有的尊敬，愿你的经验一接到此命令，立即以严格执行的方式迫使他返回职责，使他在你的坚持之下，不得以任何借口延迟五天；免得你若以任何方式允许他如此延迟，你与他一起在我们面前成为严重有罪之人。颁布于十二月，小纪第三。"
+  }
+}

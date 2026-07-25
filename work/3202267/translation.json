@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202267",
+    "title": "Letter 267",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 267",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 267",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Barses, bishop of Edessa, in exile.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "For the sake of the affection which I entertain for you, I long to be with you, to embrace you, my dear friend, in person, and to glorify the Lord Who is magnified in you, and has made your honourable old age renowned among all them that fear Him throughout the world. But severe sickness afflicts me, and to a greater degree than I can express in words, I am weighed down by the care of the Churches. I am not my own master, to go whither I will, and to visit whom I will. Therefore I am trying to satisfy the longing I have for the good gifts in you by writing to you, and I beseech your reverence to pray for me and for the Church, that the Lord may grant to me to pass the remaining days or hours of my sojourn here without offense. May He permit me to see the peace of His Churches. Of your fellow-ministers and fellow-athletes may I hear all that I pray for, and of yourself that you are granted such a lot as the people under you seek for by day and by night from the Lord of righteousness. I have not written often, not even so often as I ought, but I have written to your reverence. Possibly the brethren to whom I committed my greetings were not able to preserve them. But now that I have found some of my brethren travelling to your excellency, I have readily entrusted my letter to them, and I have sent some messages which I beg you to receive from my humility without disdain, and to bless me after the manner of the patriarch Isaac. {{BIBLE:gen 27:27}} I have been much occupied, and have had my mind drowned in a multiplicity of cares. So it may well be that I have omitted something which I ought to have said. If so, do not reckon it against me; and do not be grieved. Act in all things up to your own high character, that I, like every one else, may enjoy the fruit of your virtue. May you be granted to me and to the Church, in good health, rejoicing in the Lord, praying for me.",
+        "scripture": [
+          "gen 27:27"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202267.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202267.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 267",
+    "p0002": "\\OriginalTerm{圣巴西略·凯撒勒雅}{ST. BASIL OF CAESAREA}",
+    "p0003": "致在流放中的厄德萨主教巴尔塞斯。",
+    "p0004": "我因对您怀有的情感，渴望与您相会，亲爱之友，亲爱地拥抱您，并光荣那在您身上受显扬的主，祂使您可敬的晚年得以在天下敬畏祂的人中闻名。然而，沉重的病痛折磨着我，我因对教会的挂虑而更加沉重，甚至无法用言语表达。我不能自主，随心所欲地前往或探访任何我想见的人。因此，我试图通过书信来满足我对您内里美善的渴望，并恳请尊座为我并为教会祈祷，求主恩赐我在余下的时日或寄居此世的时刻中无过犯生活。愿祂使我得见祂教会的平安。至于您的同工与同道，愿我得知我所祈求的一切，也得知您得蒙属地人民日夜向正义之主祈求的福分。我写信不多，甚至不及当写的次数，但我已给尊座写信。或许，我所托付弟兄们保存的问候未能得以保存。如今，我得知有些弟兄正前往尊座之处，便欣然将书信托付给他们，并附上一些嘱托，恳请尊座不弃我卑微，并请依圣祖依撒格的榜样为我祝福。\\BibleRef{创 27:27}我事务繁多，心思多虑，或许有所遗漏而未曾言及。若有，求您不算为过，亦请不要因此忧伤。愿您行事处处合乎您的高尚品格，使我能与他人同享您美德的果实。愿您安康，喜悦于主，为我祈祷，与我及教会同在。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202306",
+    "title": "Letter 306",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 306",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 306",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Governor of Sebasteia</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am aware that your excellency is favourably receiving my letters, and I understand why. You love all that is good; you are ready in doing kindnesses. So whenever I give you the opportunity of showing your magnanimity, you are eager for my letters, because you know that they furnish an occasion for good deeds. Now, once more, behold an occasion for your showing all the signs of rectitude, and at the same time for the public exhibition of your virtues! Certain persons have come from Alexandria for the discharge of a necessary duty which is due from all men to the dead. They ask your excellency to give orders that it may be permitted them to have conveyed away, under official sanction, the corpse of a relative who departed this life at Sebasteia, while the troops were quartered there. They further beg that, as far as possible, aid may be given them for travelling at the public expense, so that, of your bounty, they may find some help and solace in their long journey. The tidings of this will travel as far as to great Alexandria, and will convey there the report of your excellency's astonishing kindness. This you well understand without my mentioning it. I shall add gratitude for this one more favour to that which I feel for all which you have done me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202306.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202306.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信 306}",
+    "p0002": "\\Emph{\\Person{圣巴西略}（\\Place{凯撒勒雅}）}",
+    "p0003": "\\Emph{致\\Place{塞巴斯特亚}总督.}",
+    "p0004": "我知道阁下欣然接受我的信件，也明白原因。您热爱一切善事，乐于行善。因此，每当我给您机会展示您的宽宏大量时，您都急切地期待我的信件，因为您知道它们为善行提供了机会。现在，再一次，请看一个机会，让您展现一切正直的标记，同时公开彰显您的德行！有几个人从\\Place{亚历山大}前来，为了履行众人对死者应尽的必要义务。他们请求阁下下令，允许他们在官方许可下，将一位在\\Place{塞巴斯特亚}去世的亲属的遗体运走，当时军队驻扎在那里。他们进一步恳求，尽可能给予他们公费旅行的帮助，以便因您的慷慨，他们在长途旅行中得到一些帮助和安慰。这个消息将远传至伟大的\\Place{亚历山大}，并在那里传播阁下惊人仁慈的报道。这一点您很清楚，无需我赘言。我将为这一额外的恩惠，对您为我所做的一切表示感激。"
+  }
+}

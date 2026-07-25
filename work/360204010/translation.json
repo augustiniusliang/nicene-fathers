@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360204010",
+    "title": "Book IV, Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To All the Bishops of Dalmatia.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to all the bishops through Dalmatia.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It behooved your Fraternity, having the eyes of the flesh closed out of regard to Divine judgment, to have omitted nothing that appertains to God and to a right inclination of mind, nor to have preferred the countenance of any man whatever to the uprightness of justice. But now that your manners have been so perverted by secular concerns, that, forgetting the whole path of the sacerdotal dignity that is yours, and all sense of heavenly fear, you study to accomplish what may please yourselves and not God, we have held it necessary to send you these specially strict written orders, whereby, with the authority of the blessed Peter, Prince of the apostles, we enjoin that you presume not to lay hands on any one whatever in the city of Salona, so far as regards ordination to episcopacy, without our consent and permission; nor to ordain any one in the same city otherwise than as we have said.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But if, either of your own accord, or under compulsion from any one whatever, you should presume or attempt to do anything contrary to this injunction, we shall decree you to be deprived of participation of the Lord's body and blood, that so your very handling of the business, or your very inclination to transgress our order, may cut you off from the sacred mysteries, and no one may be accounted a bishop whom you may ordain. For we wish no one to be rashly ordained whose life can be found fault with. And so, if the deacon Honoratus is shown to be unworthy, we desire that a report may be sent us of the life and manners of him who may be elected, that whatever is to be done in this matter we may allow to be carried out salubriously with our consent.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "For we trust in Almighty God that, as far as in us lies, we may never suffer to be done what may damage our soul; never what may damage your Church. But, if the voluntary consent of all should so fix on one person that by the favour of God he may be proved worthy, and there should be no one to dissent from his being ordained, we wish him to be consecrated by you in this same church of Salona under the license granted in this present epistle; excepting notwithstanding the person of Maximus, about whom many evil reports have reached us: and, unless he desists from coveting the higher order, it remains, as I think, that after full enquiry, he should be deprived also of the very office which he now holds.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷·第十封书信",
+    "p0002": "\\Emph{致达尔马提亚诸位主教}",
+    "p0003": "\\Person{额我略}致达尔马提亚诸位主教。",
+    "p0004": "诸位兄弟本应出于对天主审判的敬畏而闭上肉性的眼睛，不应忽略任何有关天主和心灵正直的事，也不应因任何人的情面而偏离正义的直道。但如今你们的行为被世俗事务如此扭曲，以至于忘记了你们所拥有的司祭尊荣的全部路径和一切对天主的敬畏，只图谋取悦你们自己而不取悦天主，因此我们认为有必要向你们下达这些特别严格的书面命令，借着真福\\Person{伯多禄}、宗徒之长的权威，我们命令：未经我们的同意和许可，不得在\\Place{撒罗纳}城擅自为任何人覆手祝圣主教；也不得在该城祝圣任何人，除非按照我们所说的方式。",
+    "p0005": "但是，如果你们出于自愿或因任何人的强迫，竟敢或试图做出任何违背此禁令的事，我们将判定你们被剥夺领受主圣体圣血的权分，从而使你们对事务的处理或违反我们命令的倾向，将你们与神圣奥迹隔绝，并且你们所祝圣的人不得被视为主教。因为我们不希望任何人被鲁莽地祝圣，如果其生活有可指责之处。因此，如果执事\\Person{奥诺拉图斯}被证明是不配的，我们希望将可能当选者的生活和品行报告给我们，以便我们同意后可以妥善办理。",
+    "p0006": "因为我们信赖全能天主，尽我们所能，绝不容许做任何损害我们灵魂的事；也绝不容许做任何损害你们的教会的事。但是，如果众人的自愿同意一致选定一个人，且因天主的恩宠他被证实堪当，并且无人反对其祝圣，我们希望你们在此\\Place{撒罗纳}同一教会内，凭本信所授予的许可祝圣他；但排除\\Person{马克西姆斯}这个人，关于他有许多恶报传到我们这里：除非他停止贪求更高的圣秩，依我看来，在充分调查后，他连现在所拥有的职位本身也应被剥夺。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206048",
+    "title": "Book VI, Letter 48",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 48",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 48",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Urbicus, Abbot.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Urbicus, Abbot of Saint Hermes, which is situated in Panormus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Whosoever, incited by divine inspiration, hastens to leave the employments of this world and to be converted to God should so be received with charity, and refreshed in all ways with kind consolations, that, by the help of God, he may delight in all ways to persevere in the state of life which he has chosen. Since, then, Agatho, the bearer of these presents, desires to be converted in your Love's monastery, we exhort you to receive him with all sweetness and love, and by assiduous exhortation kindle his longing for eternal life, and study to be diligently solicitous for his soul's salvation; to the end that, while by your admonition he shall persist with devoted mind in the service of our God, it may both profit him to have left the world, and his conversion may be to the increase of your own reward. Know, however, that he is to be so received only if his wife also should wish to be similarly converted. For, when the bodies of both have been made one by the tie of wedlock, it is unseemly that part should be converted and part remain in the world.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206048.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206048.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷·第四十八封信",
+    "p0002": "\\Emph{致乌尔比库斯，院长。}",
+    "p0003": "\\Person{额我略}致\\Person{乌尔比库斯}，\\Place{圣赫尔梅斯隐修院}院长，该院位于\\Place{帕诺尔穆斯}。",
+    "p0004": "凡受天主灵感激励，急忙离开今世工作而皈依天主者，应以爱德接待，以仁慈安慰多方慰藉，俾因天主助佑，乐于在其所选生活状态中恒心持守。既然呈函者\\Person{阿加托}渴望在您的爱德之隐修院内皈依，我们劝您以一切温柔和爱心接纳他，并以勤勉劝勉激发他对永生的渴望，悉心关切他灵魂的救恩；为使因您的训导，他以虔敬之心恒心事奉我们的天主，这既有助于他离弃世俗，亦使他的皈依成为您自己赏报的增加。然而，惟当他的妻子也愿同样皈依时，方可如此接纳。因为，当两人身体因婚姻之结合而成一体时，部分皈依而部分留于世俗，实为不当。"
+  }
+}

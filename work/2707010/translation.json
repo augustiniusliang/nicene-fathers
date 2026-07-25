@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707010",
+    "title": "Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Learned Elias.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Legislators have made laws in aid of the oppressed, and advocates have practised the orator's arts to help them that stand in need of fair defence. You, my friend, have studied eloquence and the law. Now put your art in practice, and by it put down the oppressors, help them that are put down by them, and defend them with the law as with a shield. Let no guilty client enjoy the benefit of your advocacy, even though he be your friend.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Now one of these guilty men is that villain Abraham. After being settled for a considerable time on an estate belonging to the church, he then took several partners in his rascality, and has had no hesitation in owning his proceedings. I have sent him to you with an account of his doings, the parties he has wronged, and the reverend sub-deacon Gerontius. I do not want you to deliver the guilty man to the authorities, but in the hope that when his victims have told you all they have had to put up with, and have made you, my learned friend, feel sympathy for their case, you may be induced to compel the wicked fellow to restore what he has stolen.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十封信",
+    "p0002": "\\Emph{致博学之士\\Person{埃利亚斯}。}",
+    "p0003": "立法者为受压迫者制定了法律，辩护士为需要公正辩护的人运用了演说技艺。而你，我的朋友，既研习了雄辩术也研习了法律。现在，请将你的技艺付诸实践，借此压制压迫者，帮助被他们压制的人，并以法律作为盾牌捍卫他们。不要让任何有罪的当事人因你的辩护而受益，即使他是你的朋友。",
+    "p0004": "如今，这些有罪者之一是那个恶棍亚巴郎。他在属于教会的一块田产上定居了相当长一段时间之后，又找了几个同伙一起行恶，并且毫不迟疑地承认了自己的所作所为。我把他连同他的所作所为、他侵害过的当事人以及可敬的副执事\\Person{格隆提乌斯}一并交给了你。我不是要你将这个有罪之人送交官府，而是希望当他的受害者们向你诉说了他们不得不忍受的一切，并让你——我博学的朋友——对他们的境况感到同情时，你或许会被促使去强迫那个邪恶的家伙归还他所偷窃的东西。"
+  }
+}

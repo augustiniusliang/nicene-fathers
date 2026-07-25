@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3001062",
+    "title": "Letter 62",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 62",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 62",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Tranquillinus</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Tranquillinus, one of Jerome's Roman friends, had written (1) to tell him of the stand that Oceanus was making against the Origenists at Rome, and (2) to ask whether any parts of Origen's works might be studied with safety and profit. Jerome welcomes the tidings about Oceanus and answers the question of Tranquillinus in the affirmative. He classes Origen with Tertullian, Apollinaris and others whose works continued to be read in spite of their heresies. Written in 396 or 397 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Though I formerly doubted the fact, I have now proved that the links which bind spirit to spirit are stronger than any physical bond. For you, my reverend friend, cling to me with all your soul, and I am united to you by the love of Christ. I speak simply and sincerely to your spotless heart: the very paper on which you write, the very letters which you have formed— voiceless though they are— inspire in me a sense of your affection.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. You tell me that many have been deceived by the mistaken teaching of Origen, and that that saintly man, my son Oceanus, is doing battle with their madness. I grieve to think that simple folk have been thrown off their balance, but I am rejoiced to know that one so learned as Oceanus is doing his best to set them right again. Moreover you ask me, insignificant though I am, for an opinion as to the advisability of reading Origen's works. Are we, you say, to reject him altogether with our brother Faustinus, or are we, as others tell us, to read him in part? My opinion is that we should sometimes read him for his learning just as we read Tertullian, Novatus, Arnobius, Apollinarius and some other church writers both Greek and Latin, and that we should select what is good and avoid what is bad in their writings according to the words of the Apostle, <quote>Prove all things: hold fast that which is good.</quote> {{BIBLE:1th 5:21}} Those, however, who are led by some perversity in their dispositions to conceive for him too much fondness or too much aversion seem to me to lie under the curse of the Prophet:— <quote>Woe unto them that call evil good and good evil; that put bitter for sweet and sweet for bitter!</quote> {{BIBLE:isa 5:20}} For while the ability of his teaching must not lead us to embrace his wrong opinions, the wrongness of his opinions should not cause us altogether to reject the useful commentaries which he has published on the holy scriptures. But if his admirers and his detractors are bent on having a tug of war one against the other, and if, seeking no mean and observing no moderation, they must either approve or disapprove his works indiscriminately, I would choose rather to be a pious boor than a learned blasphemer. Our reverend brother, Tatian the deacon, heartily salutes you.",
+        "scripture": [
+          "1th 5:21",
+          "isa 5:20"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001062.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001062.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\newline{}第六十二封书信",
+    "p0002": "\\newline{}\\Emph{致\\Person{特兰奎利努斯}}",
+    "p0003": "\\newline{}\\EditorialNote{特兰奎利努斯是热罗尼莫的一位罗马朋友，他曾写信（1）告诉热罗尼莫欧坎努斯在罗马反奥利振派的立场，以及（2）询问奥利振的著作是否有某些部分可以安全有益地研读。热罗尼莫对欧坎努斯的消息表示欢迎，并肯定地回答了特兰奎利努斯的问题。他将奥利振与戴尔都良、阿波利纳里等人并列，这些人的著作虽然有异端观点，但仍被继续阅读。写于公元396或397年。}",
+    "p0004": "\\newline{}1．尽管我以前对此有所怀疑，但现已证实，联系精神与精神的纽带比任何物质联系都要坚固。因为你，我尊敬的朋友，以你全部的灵魂紧贴着我，而我也因基督的爱与你联合。我坦率而真诚地向你无瑕的心灵说：你写信的纸张，你所写下的文字——尽管无声——却让我感受到你的深情。",
+    "p0005": "\\newline{}2．你告诉我，有许多人被奥利振的错误教导所迷惑，而那位圣洁的人，我儿欧坎努斯，正与他们的疯狂搏斗。我痛心于那些淳朴的人失去了平衡，但也欣喜于像欧坎努斯这样博学的人正尽力使他们回归正轨。再者，你向我这个微不足道的人询问意见，关于阅读奥利振著作的适宜性。你是说，我们是否应与我们的兄弟福斯提努斯一起完全拒绝他，还是如其他人所说，部分地阅读他？我的意见是，我们有时可以为了学识而阅读他，正如我们阅读戴尔都良、诺瓦图斯、阿尔诺比乌、阿波利纳里以及其他一些希腊和拉丁教会作家的作品一样，并且应当根据宗徒的话来选择其著作中的善而避免恶：\\BibleQuote{凡事考验，好的，要持守。}\\BibleRef{得前 5:21}然而，那些因性情乖僻而对他过分偏爱或过分厌恶的人，在我看来，正应验了先知的话：\\BibleQuote{祸哉，那些称恶为善，称善为恶，以苦为甜，以甜为苦的人！}\\BibleRef{依 5:20}因为，他的教导能力不应使我们接受他的错误观点，但他的错误观点也不应使我们完全拒绝他关于圣经所作的有益注释。但如果他的崇拜者和贬损者执意彼此较劲，并且不讲中庸、不守节制，非要一概赞成或反对他的著作，那么我宁愿做一个虔诚的粗人，也不做一个有学问的亵渎者。我们可敬的兄弟，执事塔提安，衷心问候你。"
+  }
+}

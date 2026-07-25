@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360211040",
+    "title": "Book XI, Letter 40",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 40",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 40",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Marinianus, Bishop of Ravenna.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Marinianus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Great infirmity constrains us, dearest brother, from which if we were free, we should seem justly blamable. But since, while we are in this fragile body, we cannot subsist but by subservience to its weaknesses, we ought not to blush for what necessity imposes on us. And so, since physicians all say that to those who suffer from eruption of blood fasts are injurious, we exhort your Fraternity by this present address that, recalling to mind what you have been accustomed to endure from sickness, you by no means impose on yourself the labour of fasting . If, however, by the mercy of God, you know yourself to be so far improved in health as to have sufficient strength, we permit you to fast once or twice in the week. But of this it befits you before all things to take care, that you in no wise subject yourself to any feeling of irritation, lest the sickness, which is believed to be now lighter and as it were suspended, should be experienced afterwards more heavily through exasperation.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211040.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211040.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷，第四十封信",
+    "p0002": "\\Emph{致\\Place{拉文纳}主教\\Person{马里尼亚诺}}",
+    "p0003": "\\Person{额我略}致\\Person{马里尼亚诺}等",
+    "p0004": "极大的软弱束缚着我们，至爱的弟兄。如果我们能摆脱它，我们似乎就应受到责备。然而，既然在这脆弱的身体内，我们只有顺从它的软弱才能存活，我们就不应以必须之事为耻。因此，既然医生们都说，对出血患者而言，斋戒是有害的，我们藉本次信函劝勉你的贤弟：你要记住你过去因疾病所受的苦，绝不可将斋戒的劳苦强加于自己。然而，若因天主的仁慈，你自知健康状况大有改善，以致有足够的力量，我们允许你每周斋戒一两次。但在这一切事上，你首先应当注意，绝不可使自己陷入任何恼怒的情绪，免得那被认为现已减轻、暂缓的疾病，因激怒而以后更重地发作。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360204005",
+    "title": "Book IV, Letter 5",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 5",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 5",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Boniface, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Boniface, Bishop of Regium (<em>Reii</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It is a shame for priests to be admonished about matters of divine worship. For they are then to their disgrace required to do what they ought themselves to require to be done. Yet lest, as I do not suppose, your Fraternity should neglect in any respect the things that pertain to the work of God, we have thought fit to exhort you specially on this very head. We therefore admonish you that the clergy of the city of Regium be to no extent released by the indulgence of your Fraternity in duties demanded by their office. But in the things that pertain to God let them be most instantly and most earnestly compelled. We desire you also to study the reputation of the aforesaid clergy, that nothing bad, nothing that at all contravenes ecclesiastical discipline, be heard of them; seeing that it is to its adornment, not to foulness of deeds, that their office appertains. Further, we decree that what we determined in the case of the Sicilians be observed by your subdeacons ; nor may thou suffer this our decision to be infringed by the contumacy or temerity of any one whatever; that so, as we believe will be the case, all that has been said above being most strictly kept in force by you, you may neither prove a transgressor of our admonition, nor be accused as guilty of remissness in the order of pastoral rule which has been committed to you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204005.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204005.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷 第五封信",
+    "p0002": "\\Emph{致\\Person{邦尼法爵}主教。}",
+    "p0003": "\\Person{额我略}致\\Person{邦尼法爵}，\\Place{雷吉乌姆}主教（\\Emph{\\Place{雷伊}}）。",
+    "p0004": "司铎在有关神圣敬礼的事上受到劝诫，是件可耻的事。因为那时他们反被要求去做他们本应要求别人做的事。然而，为了免得阁下在有关天主的工作上有所疏忽（虽然我并不认为如此），我们认为特别就这一点劝诫你是合适的。因此，我们告诫你：绝不可因阁下的宽纵，让\\Place{雷吉乌姆}城的圣职人员在他们的职务所要求的职责上有所松懈。反而，在有关天主的事上，要最立即、最热切地督促他们。我们也希望你留意上述圣职人员的声誉，以免传出任何不好的、违反教会纪律的事；因为他们的职务属于教会的装饰，而非污秽的行为。此外，我们规定：我们在西西里人所决定的事，也要由你的\\OriginalTerm{副执事}{subdeacons}们遵守；也不可容许任何人因傲慢或鲁莽而违反我们的这项决定；这样，正如我们相信将会如此，上述一切被你最严格地执行，你就既不会成为我们劝诫的违犯者，也不会因对所托付的牧职规则有所懈怠而被指控有罪。"
+  }
+}

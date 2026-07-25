@@ -1,0 +1,117 @@
+{
+  "source": {
+    "source_id": "340961",
+    "title": "Letter 61",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Ambrose) > Letter 61",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 61",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "St. Ambrose explains his absence from Milan on the arrival of the Emperor Theodosius after his victory over Eugenius, and after expressing his thankfulness for that success he promises obedience to the Emperor's will, and while commending his piety urges him to be merciful to the conquered."
+          }
+        ]
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Ambrose, to the Emperor Theodosius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. You thought, most blessed Emperor, so far as I gathered from your letter, that I kept away from the city of Milan, because I believed that your cause was forsaken by God. But I was not so wanting in foresight, nor so unmindful in my absence of your virtue and merits, as not to anticipate that the aid of Heaven would be with your piety, with which you would rescue the Roman Empire from the cruelty of a barbarian robber, and the dominion of an unworthy usurper.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I therefore made haste to return there, as soon as I knew that he, whom I thought it right to avoid, was now gone, for I had not deserted the Church of Milan, entrusted to me by the judgment of God, but avoided the presence of him who had involved himself in sacrilege. I returned, therefore, about the Calends of August, and have resided here since that day. Here, too, O Augustus, your letter found me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. Thanks be to our Lord God, Who responded to your faith and piety, and has restored the form of ancient sanctity, suffering us to see in our time that which we wonder at in reading the Scriptures, namely, such a presence of the divine assistance in battle, that no mountain heights delayed the course of your approach, no hostile arms were any hindrance.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "4. For these mercies you think that I ought to render thanks to the Lord our God, and being conscious of your merits, I will do so willingly. Certainly that offering will be acceptable to God which is offered in your name, and what a mark of faith and devotion is this! Other emperors, immediately upon a victory, order the erection of triumphal arches, or other monuments of their triumphs; your Clemency prepares an offering for God, and desires that oblation and thanksgiving should be presented by the priests to the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "5. Though I be unworthy and unequal to such an office and the offering of such acknowledgments, yet will I describe what I have done. I took the letter of your Piety with me to the altar. I laid it upon the altar. I held it in my hand while I offered the Sacrifice; so that your faith might speak by my voice, and the Emperor's letter discharge the function of the priestly oblation.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "p",
+        "text": "6. In truth, the Lord is propitious to the Roman Empire, since He has chosen such a prince and father of princes, whose virtue and power, established on such a triumphant height of dominion, rests on such humility, that in valour he has surpassed emperors and priests in humility. What can I wish? What can I desire? You have everything, and therefore I will endeavour to gain the sum of my desires. You, O Emperor, are pitiful, and of the greatest clemency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0010",
+        "kind": "p",
+        "text": "7. And for yourself, I desire again and again an increase of piety, than which God has given nothing more excellent, that by your clemency the Church of God, as it delights in the peace and tranquillity of the innocent, so, too, may rejoice in the pardon of the guilty. Pardon especially those who have not offended before. May the Lord preserve your Clemency. Amen.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by H. de Romestin, E. de Romestin and H.T.F. Duckworth. From Nicene and Post-Nicene Fathers, Second Series, Vol. 10. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1896.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/340961.htm>.",
+    "metadata": {
+      "srctrans": "Translated by H. de Romestin, E. de Romestin and H.T.F. Duckworth.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 10.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1896.",
+      "srcurl": "<http://www.newadvent.org/fathers/340961.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信六十一",
+    "p0002": "\\EditorialNote{圣安博罗削解释自己在狄奥多西皇帝战胜尤金尼乌斯后抵达米兰时缺席的原因，在表达对那次胜利的感激之后，他许诺服从皇帝的意愿，并在赞扬其虔诚的同时，敦促他对被征服者施以仁慈。}",
+    "p0003": "\\Person{安博罗削}致\\Person{狄奥多西}皇帝",
+    "p0004": "1. 您认为，至福的皇帝，——我从您的来信中得知——我远离米兰城，是因为相信您的事业已被天主所弃。但我既非如此短视，也未在远离之际忘记您的德行与功德，以至于不能预先想到上天的助佑必与您的虔诚同在，您将借此从蛮族盗匪的残暴和不配篡位者的统治下拯救罗马帝国。",
+    "p0005": "2. 因此，我一得知那位我认为应躲避的人已经离去，便急速返回那里；我并未离弃天主审判所托付给我的米兰教会，而是躲避了那陷于亵圣罪行的人。所以，我大约在\\OriginalTerm{八月朔日}{Calends of August}返回，并从那天起一直住在这里。奥古斯都啊，您的信也在这里找到了我。",
+    "p0006": "3. 感谢我们的主天主，祂回应了您的信德和虔诚，并恢复了古代圣德的样式，使我们在我们的时代得以目睹我们在阅读圣经时所惊叹的事：即在战斗中天主的助佑如此临在，以致没有高山能延缓您前进的步伐，也没有敌军的武器构成任何障碍。",
+    "p0007": "4. 您认为我理应为这些恩惠向主我们的天主致谢，而鉴于您的功德，我乐意如此行。那以您的名义献上的祭品必然为天主所悦纳，这是何等信德与虔敬的标记！别的皇帝在胜利之后，立即下令建造凯旋门或其他纪念其胜利的纪念碑；而您的仁慈却为天主预备祭品，并希望司铎们向主献上奉献和感恩祭。",
+    "p0008": "5. 虽然我不配且不堪担当此职，也不堪献上这样的谢恩，但我仍要述说我所行的。我将您虔敬之函带到祭台前，放在祭台上，在献圣祭时手持此信；好使您的信德借我的声音说话，并使皇帝的信函履行司铎祭献的职责。",
+    "p0009": "6. 确实，主恩待罗马帝国，因为祂拣选了这样一位君王和君王之父，他的德行与权能，立于如此崇高而凯旋的统治顶峰，却安于如此的谦卑；他在勇力上超越了皇帝，在谦卑上超越了司铎。我还能期望什么？还能渴求什么？您拥有一切，因此我将努力达成我渴望的总和。皇帝啊，您是慈悲的，且极具仁慈。",
+    "p0010": "7. 至于您本人，我愿一再祈求您虔敬的增长，天主所赐没有比这更卓越的；愿您的仁慈使天主的教会，既因无辜者的和平与安宁而欢欣，也因有罪者的得蒙宽恕而喜乐。尤其要宽恕那些以前未曾冒犯的人。愿主保全您的仁慈。阿们。"
+  }
+}

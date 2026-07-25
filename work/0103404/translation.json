@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "0103404",
+    "title": "Against Heresies (Book IV, Chapter 4)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book IV, Chapter 4",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book IV, Chapter 4)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Further, also, concerning Jerusalem and the Lord, they venture to assert that, if it had been <quote>the city of the great King,</quote> {{BIBLE:mat 5:35}} it would not have been deserted. This is just as if any one should say, that if straw were a creation of God, it would never part company with the wheat; and that the vine twigs, if made by God, never would be lopped away and deprived of the clusters. But as these [vine twigs] have not been originally made for their own sake, but for that of the fruit growing upon them, which having come to maturity and been taken away, they are left behind, and those which do not conduce to fructification are lopped off altogether; so also [was it with] Jerusalem, which had in herself borne the yoke of bondage (under which man was reduced, who in former times was not subject to God when death was reigning, and being subdued, became a fit subject for liberty), when the fruit of liberty had come, and reached maturity, and been reaped and stored in the barn, and when those which had the power to produce fruit had been carried away from her [i.e., from Jerusalem], and scattered throughout all the world. Even as Esaias says, <quote>The children of Jacob shall strike root, and Israel shall flourish, and the whole world shall be filled with his fruit.</quote> {{BIBLE:isa 27:6}} The fruit, therefore, having been sown throughout all the world, she (Jerusalem) was deservedly forsaken, and those things which had formerly brought forth fruit abundantly were taken away; for from these, according to the flesh, were Christ and the apostles enabled to bring forth fruit. But now these are no longer useful for bringing forth fruit. For all things which have a beginning in time must of course have an end in time also.",
+        "scripture": [
+          "mat 5:35",
+          "isa 27:6"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Since, then, the law originated with Moses, it terminated with John as a necessary consequence. Christ had come to fulfil it: wherefore <quote>the law and the prophets were</quote> with them <quote>until John.</quote> {{BIBLE:luk 16:16}} And therefore Jerusalem, taking its commencement from David, and fulfilling its own times, must have an end of legislation when the new covenant was revealed. For God does all things by measure and in order; nothing is unmeasured with Him, because nothing is out of order. Well spoke he, who said that the unmeasurable Father was Himself subjected to measure in the Son; for the Son is the measure of the Father, since He also comprehends Him. But that the administration of them (the Jews) was temporary, Esaias says: <quote>And the daughter of Zion shall be left as a cottage in a vineyard, and as a lodge in a garden of cucumbers.</quote> {{BIBLE:isa 1:8}} And when shall these things be left behind? Is it not when the fruit shall be taken away, and the leaves alone shall be left, which now have no power of producing fruit?",
+        "scripture": [
+          "luk 16:16",
+          "isa 1:8"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. But why do we speak of Jerusalem, since, indeed, the fashion of the whole world must also pass away, when the time of its disappearance has come, in order that the fruit indeed may be gathered into the garner, but the chaff, left behind, may be consumed by fire? <quote>For the day of the Lord comes as a burning furnace, and all sinners shall be stubble, they who do evil things, and the day shall burn them up.</quote> {{BIBLE:mal 4:1}} Now, who this Lord is that brings such a day about, John the Baptist points out, when he says of Christ, <quote>He shall baptize you with the Holy Ghost and with fire, having His fan in His hand to cleanse His floor; and He will gather His fruit into the garner, but the chaff He will burn up with unquenchable fire.</quote> {{BIBLE:mat 3:11}} For He who makes the chaff and He who makes the wheat are not different persons, but one and the same, who judges them, that is, separates them. But the wheat and the chaff, being inanimate and irrational, have been made such by nature. But man, being endowed with reason, and in this respect like to God, having been made free in his will, and with power over himself, is himself the cause to himself, that sometimes he becomes wheat, and sometimes chaff. Wherefore also he shall be justly condemned, because, having been created a rational being, he lost the true rationality, and living irrationally, opposed the righteousness of God, giving himself over to every earthly spirit, and serving all lusts; as says the prophet, <quote>Man, being in honour, did not understand: he was assimilated to senseless beasts, and made like to them.</quote>",
+        "scripture": [
+          "mal 4:1",
+          "mat 3:11"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103404.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103404.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第四卷，第四章）",
+    "p0002": "1. 此外，关于耶路撒冷和主，他们竟敢断言，如果耶路撒冷曾是\\BibleQuote{伟大君王的城，}\\BibleRef{玛 5:35}就不会被遗弃。这就如同有人说，如果稻草是天主的受造物，就绝不会与麦子分离；葡萄藤的枝条，如果是天主所造的，就绝不会被剪掉而失去果实。但是，这些枝条原本不是为自身而造，而是为了它们上面的果实；这果实一旦成熟并被摘取，枝条就被留下；那些不结果实的枝条则被完全剪掉。同样，耶路撒冷也是如此——她曾背负着奴役的轭（人曾被置于这轭下，从前死亡作王时，人不服从天主，被征服后，才适于获得自由）；当自由的果实来临、成熟、被收割并储存在仓里，当那些有能力结果实的已从她（耶路撒冷）那里被带走，并分散到全世界时，正如\\Person{依撒意亚}所说，\\BibleQuote{雅各伯的子孙必将生根，以色列必将开花，全世界必充满他的果实。}\\BibleRef{依 27:6}因此，当果实已播种到全世界后，她（耶路撒冷）理应被遗弃，那些从前丰结果实的东西也被带走；因为从这些，按照肉身，基督和宗徒得以结果实。但现在这些东西对结果实不再有用。因为一切在时间中有开端的事物，当然也必须在时间中有终结。",
+    "p0003": "2. 那么，既然法律始于\\Person{梅瑟}，它必然终于\\Person{若翰}。基督来是要成全法律，因此\\BibleQuote{法律和先知}与他们同在\\BibleQuote{直到若翰。}\\BibleRef{路 16:16}所以，耶路撒冷始于\\Person{达味}，满了它的时候，当新盟约被启示出来时，必须有立法的终结。因为天主以度量和秩序行一切事；祂没有什么是不度量的，因为没有什么是不合秩序的。那说不可测量的圣父在圣子内受到度量的人说得很好；因为圣子是圣父的尺度，因为圣子也包含圣父。但关于他们（犹太人）的管理是暂时的，\\Person{依撒意亚}说：\\BibleQuote{熙雍的女儿必剩下，像葡萄园中的草棚，像瓜田中的茅舍。}\\BibleRef{依 1:8}什么时候这些事被遗弃？岂不是当果实被取走，只剩叶子，而叶子不再有能力结果实的时候吗？",
+    "p0004": "3. 但我们何必提耶路撒冷？既然全世界的样式也必过去，当它消失的时刻来到之时，为的是让果实被收进仓里，而剩下的糠秕被火烧尽？\\BibleQuote{因为主的日子来临，如同燃烧的火炉，所有罪人，即那些作恶的人，都是碎秸，那日子要烧毁他们。}\\BibleRef{拉 4:1}谁是那带来这样的一天的主呢？\\Person{若翰洗者}指出，论到基督时说：\\BibleQuote{祂要用圣神和火给你们施行洗礼；祂手里拿着簸箕，要扬净祂的禾场，将麦粒收在仓里，将糠秕用不灭的火烧尽。}\\BibleRef{玛 3:11}因为使糠秕和使麦子的不是不同的人，而是同一位，祂审判他们，即把他们分开。但麦子和糠秕，无生命无理智，按其本性被造成这样。但人，被赋予了理智，在这方面相似天主，具有自由意志，自己掌权，就是他自己有时成为麦子、有时成为糠秕的原因。因此，他也应受公正的定罪，因为他虽被造为理性存在，却失去了真正的理性，无理地生活，反对天主的正义，将自己交付给每个属地的灵，服事一切情欲；正如先知所说：\\BibleQuote{人纵然受尊崇，却不能领悟；他竟与无理性的牲畜相似，变成与它们一样。}"
+  }
+}

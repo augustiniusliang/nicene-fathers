@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202104",
+    "title": "Letter 104",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 104",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 104",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the prefect Modestus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Merely to write to so great a man, even though there be no other reason, must be esteemed a great honour. For communication with personages of high distinction confers glory upon all to whom it is permitted. My supplication, however, is one which I am driven by necessity to make to your excellency, in my great distress at the condition of my whole country. Bear with me, I beg you, kindly and in accordance with your own characters and reach a helping hand to my country, now beaten to the knee. The immediate object of my entreaty is as follows. By the old census, the clergy of God, presbyters and deacons, were left exempt. The recent registrars, however, without any authority from your lordship, have enrolled them, except that in some cases a few were granted immunity on the score of age. I ask, then, that you will leave us this memorial of your beneficence, to preserve through all coming time your good fame; that in accordance with the old law the clergy be exempt from contribution. I do not ask the remission to be conceded personally and individually to those who are now included, in which case the grace will pass to their successors, who may not always be worthy of the sacred ministry. I would suggest that some general concession be made to the clergy, according to the form in the open register, so that the exemption may be given in each place to ministers by the rulers of the Church. This boon is sure to bring undying glory to your excellency for your good deeds, and will cause many to pray for the imperial house. It will also really be profitable to the government, if we afford the relief of exemption, not generally to all the clergy, but to those who from time to time are in distress. This, as any one who chooses may know, is the course we actually pursue when we are at liberty.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202104.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202104.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一〇四书",
+    "p0002": "\\Emph{\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致\\Person{莫德斯图}总督。}",
+    "p0004": "仅向如此伟大之人致函，即使别无他故，亦当视为莫大荣耀。因与高位者通信，凡获准者均得荣光。然而，今我因全乡境况之极度忧患，不得不向尊驾陈情。恳求您仁慈相待，依您自身品性，向我现已屈膝之乡土伸出援手。我恳求之直接缘由如下：按旧有户籍，天主的圣职人员，即\\OriginalTerm{司铎}{presbyters}与\\OriginalTerm{执事}{deacons}，皆获豁免。然近期登记官未得阁下授权，竟将彼等列入册籍，惟少数因年迈获免。故我请求您留此善举之纪念，使您美名永存万世：即依旧律，圣职员免于赋役。我并非请求仅对现今在册者个别施恩，因恩惠将传于其继任者，而继任者未必常堪\\OriginalTerm{圣职}{sacred ministry}。我建议对圣职员作普遍让步，按公开登记册之形式，使各地教会管理者得以豁免其属下职员。此恩惠必将为尊驾善行带来不朽荣耀，且促使多人祈求皇室。亦实有益于政府，若我们并非普惠全体圣职员，而仅对每遇困窘者施以免役之惠。此乃凡愿知之者皆可明晓，乃我们得自由时所行之道。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102117",
+    "title": "Letter 117 (A.D. 410)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 117",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 117 (A.D. 410)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>From Dioscorus to Augustine.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To you, who esteem the substance, not the style of expression, as important, any formal preamble to this letter would be not only unnecessary, but irksome. Therefore, without further preface, I beg your attention. The aged Alypius had often promised, in answer to my request, that he would, with your help, furnish a reply to a very few brief questions of mine in regard to the Dialogues of Cicero; and as he is said to be at present in Mauritania, I ask and earnestly entreat you to condescend to give, without his assistance, those answers which, even had your brother been present, it would doubtless have fallen to you to furnish. What I require is not money, it is not gold; though, if you possessed these, you would, I am sure, be willing to give them to me for any fit object. This request of mine you can grant without effort, by merely speaking. I might importune you at a greater length, and through many of your dear friends; but I know your disposition, that you do not desire to be solicited, but show kindness readily to all, if only there be nothing improper in the thing requested: and there is absolutely nothing improper in what I ask. Be this, however, as it may, I beg you to do me this kindness, for I am on the point of embarking on a voyage. You know how very painful it is to me to be burdensome to any one, and much more to one of your frank disposition; but God alone knows how irresistible is the pressure of the necessity under which I have made this application. For, taking leave of you, and committing myself to divine protection, I am about to undertake a voyage; and you know the ways of men, how prone they are to censure, and you see how any one will be regarded as illiterate and stupid who, when questions are addressed to him, can return no answer. Therefore, I implore you, answer all my queries without delay. Send me not away downcast. I ask this that so I may see my parents; for on this one errand I have sent Cerdo to you, and I now delay only till he return. My brother Zenobius has been appointed imperial remembrancer, and has sent me a free pass for my journey, with provisions. If I am not worthy of your reply, let at least the fear of my forfeiting these provisions by delay move you to give answers to my little questions. May the most high God spare you long to us in health! Papas salutes your excellency most cordially.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102117.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102117.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第117封信（公元410年）",
+    "p0002": "\\Emph{\\Person{迪奥斯科鲁斯}致\\Person{奥古斯丁}}",
+    "p0003": "对你而言，重视的是内容而非辞藻的修饰，因此本信的任何正式开场白不仅不必要，而且令人生厌。因此，不再赘述，我便直接恳请留意。年迈的\\Person{阿利比乌斯}曾屡次应我的请求，答应我他将在你协助下，就我有关\\Person{西塞罗}的\\WorkTitle{对话录}的少数几个简短问题作出答复；而据说他目前身在\\Place{毛里塔尼亚}，故我请求并恳切央求你，能在没有他帮助的情况下屈尊赐予答复——即便令弟在场，无疑这些答复也理当由你来提供。我所求的不是金钱，也不是黄金；纵然你富有这些，我确信你也乐意为了任何正当目的而给予我。但我这一请求，你只需开口说话，便可毫不费力地应允。我本可长篇累牍地，并透过你许多挚友来强求于你；但我深知你的性情，你不喜别人再三恳求，却乐于向众人表示善意，只要所求之事并无不当：而我所求的绝无半点不当。然而无论如何，我恳请你施以援手，因为我即将登程远行。你知道，我何等不愿成为任何人的负担，尤其不愿成为像你这样坦诚之人的负担；但惟有天主知道，我提出此请求是出于何等不可抗拒的急需。因为，我将向你告别，并将自己托付于天主的护佑，动身远行；你知道世人的作风，他们极好挑剔，你也明白，当有人向一个人提出问题却得不到答复时，那人会被视为何等愚昧无知。因此，我恳求你，速速回答我所有的问题。不要让我失望而去。我恳求此事，为的是能见到我的双亲；因为正是为此差事，我才派遣\\Person{凯尔多}到你那里，而我现在也只为等他回来而耽搁。家兄\\Person{泽诺比乌斯}已被任命为御前记事官，并为我送来了一纸通行凭照及途中的给养。若我不配得到你的答复，那至少请你因担心我因延误而失去这些给养，从而动心回答我的小问题吧。愿至高天主长久保全你的健康，与我们同在！\\Signature{帕帕斯}谨向尊驾致以最诚挚的敬意。"
+  }
+}

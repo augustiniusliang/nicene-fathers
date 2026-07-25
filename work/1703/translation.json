@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "1703",
+    "title": "Soliloquies",
+    "breadcrumbs": "Home > Fathers of the Church > Soliloquies (Augustine)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Soliloquies",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book I</strong>\n<strong>Book II</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by C.C. Starbuck. From Nicene and Post-Nicene Fathers, First Series, Vol. 7. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1703.htm>.",
+    "metadata": {
+      "srctrans": "Translated by C.C. Starbuck.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 7.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1703.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{独语录}",
+    "p0002": "\\Emph{卷一}\\newline{}\\Emph{卷二}"
+  }
+}

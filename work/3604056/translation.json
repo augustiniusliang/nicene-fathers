@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3604056",
+    "title": "Letter 56",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 56",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 56",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "From Galla Placidia Augusta to Theodosius",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To the Lord Theodosius, Conqueror and Emperor, her ever august son, Galla Placidia, most pious and prosperous, perpetual Augusta and mother.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "When on our very arrival in the ancient city, we were engaged in paying our devotion to the most blessed Apostle Peter, at the martyr's very altar, the most reverend Bishop Leo waiting behind awhile after the service uttered laments over the Catholic Faith to us, and taking to witness the chief of the Apostles himself likewise, whom we had just approached, and surrounded by a number of bishops whom he had brought together from numerous cities in Italy by the authority and dignity of his position, adding also tears to his words, called upon us to join our moans to his own. For no slight harm has arisen from those occurrences, whereby the standard of the Catholic Faith so long guarded since the days of our most Divine father Constantine, who was the first in the palace to stand out as a Christian, has been recently disturbed by the assumption of one man, who in the synod held at Ephesus is alleged to have rather stirred up hatred and contention, intimidating by the presence of soldiers, Flavianus, the bishop of Constantinople, because he had sent an appeal to the Apostolic See, and to all the bishops of these parts by the hands of those who had been deputed to attend the Synod by the most reverend Bishop of Rome, who have been always wont so to attend, most sacred Lord and Son and adored King, in accordance with the provisions of the Nicene Synod. For this cause we pray your clemency to oppose such disturbances with the Truth, and to order the Faith of the Catholic religion to be preserved without spot, in order that according to the standard and decision of the Apostolic See, which we likewise revere as pre-eminent, Flavianus may remain altogether uninjured in his priestly office, and the matter be referred to the Synod of the Apostolic See, wherein assuredly he first adorned the primacy, who was deemed worthy to receive the keys of heaven: for it becomes us in all things to maintain the respect due to this great city, which is the mistress of all the earth; and this too we must most carefully provide that what in former times our house guarded seem not in our day to be infringed, and that by the present example schisms be not advanced either between the bishops or the most holy churches.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604056.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604056.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五十六封书信",
+    "p0002": "\\Person{加拉·普拉西狄亚}·奥古斯塔致\\Person{狄奥多西}",
+    "p0003": "给吾主\\Person{狄奥多西}，常胜皇帝，她的永远尊敬的皇儿，\\Person{加拉·普拉西狄亚}，最虔诚与最昌盛，永久的奥古斯塔及母亲。",
+    "p0004": "当我们抵达这座古老城市之际，正于最蒙福的宗徒\\Person{伯多禄}殉道者的祭台前献上我们的敬礼，最可敬的\\Person{利奥}主教在礼仪后稍作停留，向我等悲叹公教信仰，并同样以我们刚刚亲近的宗徒之长作证，身边围绕着许多他凭其地位之权威与尊严从\\Place{意大利}众多城市召集而来的主教，他还在话语中加上眼泪，吁请我们将我们的哀叹与他的哀叹联合。因为从那些事件中产生了不小的损害，以致自我们最神圣的父亲\\Person{君士坦丁}——他是皇宫中首位以基督徒身份出现者——的时代以来长久守护的公教信仰的准则，近日被一个人的僭越所扰乱，此人在\\Place{厄弗所}召开的会议中被指控反而煽动仇恨与纷争，以士兵在场恐吓\\Place{君士坦丁堡}主教\\Person{弗拉维亚诺}，因他曾通过最可敬的\\Place{罗马}主教所委派的代表之手（这些代表一贯按\\Place{尼西亚}大公会议的规定如此出席），向宗座及本地区所有主教发出上诉，最神圣的吾主、吾子及敬爱的皇帝啊。为此，我们恳求陛下的仁慈，以真理反对这样的纷扰，并命令保持公教信仰的准则无玷，以便依照宗座的准则与决定——我们同样尊崇其为至高无上的——\\Person{弗拉维亚诺}在其司铎职位上完全不受伤害，并将此事呈交宗座的大公会议，那确然是首先享有首席权者，就是被视为配得接受天堂的钥匙的那一位；因为我们在一切事上都应当维持对这座普世之主的伟大城市的敬重；并且我们也必须最谨慎地确保这一点，即我家从前所守护的，在我们时代似乎不被侵犯，且通过当前的例子，不在主教们或至圣教会之间助长分裂。"
+  }
+}

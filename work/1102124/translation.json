@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "1102124",
+    "title": "Letter 124 (A.D. 411)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 124",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 124 (A.D. 411)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Albina, Pinianus, and Melania</em>, <em>Honoured in the Lord, Beloved in Holiness and Longed for in Brotherly Affection, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. I Am, whether through present infirmity or by natural temperament, very susceptible of cold; nevertheless, it would not be possible for me to suffer greater heat than I have done throughout this exceptionally dreadful winter, having been kept in a fever by distress because I have been unable, I do not say to hasten, but to fly to you (to visit whom it would have been fitting for me to fly across the seas), after you had been settled so near to me, and had come from so remote a land to see me. It may be, also, that you have supposed the rigorous weather of this winter to be the only cause of my suffering this disappointment; I pray you, beloved, give no place to this thought. For what inconvenience, hardship, or even danger, can these heavy rains bring, which I would not have encountered and endured in order to make my way to you, who are such comforters to us in our great calamities, and who, in the midst of a crooked and perverse generation, are lights kindled into vehement flame by the Supreme Light, raised aloft by lowliness of spirit, and deriving more glorious lustre from the glory which you have despised? Moreover, I would have enjoyed participation in the spiritual felicity vouchsafed to my earthly birthplace, in that it has been permitted to have you present, of whom when absent its citizens had heard much— so much, indeed, that although giving charitable credence to the report of what you were by nature and had become by grace, they feared, perchance, to repeat it to others, lest it should be disbelieved.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. I shall therefore tell you the reason why I have not come, and the trials by which I have been kept back from so great a privilege, that I may obtain not only your forgiveness, but also, through your prayers, the mercy of Him who so works in you that you live to Him. The congregation of Hippo, whom the Lord has ordained me to serve, is in great measure, and almost wholly, of a constitution so infirm, that the pressure of even a comparatively light affliction might seriously endanger its well-being; at present, however, it is smitten with tribulation so overwhelming, that, even were it strong, it could scarcely survive the imposition of the burden. Moreover, when I returned to it recently, I found it offended to a most dangerous degree by my absence; and you, over whose spiritual strength we rejoice in the Lord, can with healthful taste relish and approve the saying of Paul: <quote>Who is weak, and I am not weak? Who is offended, and I burn not?</quote> {{BIBLE:2co 11:29}} I feel this especially because there are many here who by disparaging us attempt to excite against us the minds of the others by whom we seem to be loved, in order that they may make room in them for the devil. But when those whose salvation is our care are angry with us, their strong determination to take vengeance on us is only an unreasonable desire for bringing death to themselves—not the death of the body, but of the soul, in which the fact of death discovers itself mysteriously by the odour of corruption before it is possible for our care to foresee and provide against it.",
+        "scripture": [
+          "2co 11:29"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Doubtless you will readily excuse this anxiety on my part, especially because, if you were displeased and wished to punish me, you could perhaps invent no severer pain than what I already suffer in not seeing you at Thagaste. I trust, however, that, assisted by your prayers, I may be permitted when the present hindrance has been removed with all speed to come to you, in whatsoever part of Africa you may be, if this town in which I labour is not worthy (and I do not presume to pronounce it worthy) to be along with us made joyful by your presence.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102124.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102124.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信一二四（主后四一一年）",
+    "p0002": "\\Emph{致\\Person{阿尔比娜}、\\Person{皮尼亚努斯}和\\Person{梅拉尼娅}}，\\Emph{主内可敬、圣洁可爱、以兄弟之情所思念的，\\Person{奥古斯丁}在主内致候。}",
+    "p0003": "1. 我，无论是出于目前的病弱还是天生的体质，极易感寒；然而，在这异常可怕的冬季，我所受的炎热之苦却不可能更甚，因为我因忧苦而发烧，以致无法——我不说赶往，而是飞往——你们那里（去拜访你们，我本该飞越大海才是），在你们既已定居于我近旁，又从如此遥远的地方来看我之后。也许你们还会以为，今冬严酷的天气是我遭受这一失望的唯一原因；亲爱的各位，我恳求你们，勿作此想。因为这些倾盆大雨所能带来的不便、艰辛甚至危险，哪一样我不会迎受和忍受，以便前往你们那里？你们在我们巨大的灾难中给予了我们如此大的安慰，你们在这弯曲悖谬的世代中，是由至高之光点燃的强烈火焰的明灯，因心灵的谦卑而被高举，又因你们所轻看的荣耀而散发出更辉煌的光芒。此外，我本可享受那赐给我尘世故乡的灵性福乐，因它获允有你们在场，而你们的声名在你们缺席时已为同乡人所耳闻——所闻如此之多，以致他们虽因爱德而相信了关于你们本性及因恩宠所成为的报道，却或许不敢向他人复述，以免不被相信。",
+    "p0004": "2. 因此，我将告诉你们我未能前来的原因，以及使我被阻不得享有如此殊恩的试炼，好使我不仅能获得你们的宽恕，也能经由你们的祈祷，获得那位在你们内工作使你们为祂而生活者的慈悲。\\Place{希波}的会众，主立定我服侍的，大部分且几乎全都是如此软弱的体质，即使遭遇相对轻微的磨难也可能严重危及它的安宁；然而目前，它正遭受如此沉重的苦难打击，即使它坚强，也几乎难以承受这重担的加诸。而且，当我最近返回时，我发现它因我的离开而被冒犯到了极危险的程度；你们，我们在主内因你们的灵性力量而欢欣的，能凭着健康的品味喜爱并赞同\\Person{保禄}的话：\\BibleQuote{谁软弱，我不软弱？谁跌倒，我不心焦？}\\BibleRef{格后 11:29} 我对此感受尤深，因为这里有许多人通过贬损我们，试图煽动那些看似爱我们的人来反对我们，好为魔鬼在他们中腾出地方。但当那些我们顾念其救恩的人生我们的气时，他们对我们报复的强烈决心，不过是一种为他们自己带来死亡的不理性欲望——不是肉身的死亡，而是灵魂的死亡，其中死亡的事实借着败坏的臭气神秘地显露出来，远在我们的关心能够预见和防备之前。",
+    "p0005": "无疑，你们会欣然原谅我这份焦虑，尤其是因为，如果你们不高兴并想惩罚我，你们或许想不出比我未能与你们在\\Place{塔加斯特}见面更严厉的痛苦了。但我相信，借着你们的祈祷相助，当目前的阻碍尽速消除后，我可得允前来你们这里，无论你们在\\Place{阿非利加}的哪一部分，如果我所劳苦的这城镇不配得（我也并不自以为它能配得）与我们一同因你们的临在而欢欣的话。"
+  }
+}

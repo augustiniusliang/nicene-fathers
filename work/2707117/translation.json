@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707117",
+    "title": "Letter 117",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 117",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 117",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Bishop Florentius.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Truly the grace of our God and Saviour has not yet abandoned the human race, but has left us a seed in your holiness <quote>lest we should become as Sodom, and be made like Gomorrha.</quote> This seed suffers us not altogether to faint, but charges us to wait for the passing away of the dire storm; this renders us hopeful.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have therefore sent to your holiness the very godly presbyters Hypatius and Abramius, chorepiscopi, and Alypius, exarch of our monks, that you may put an end to the disaster which has befallen the churches of the East; that in the first place you may confirm the faith handed down to us from the first by the holy Apostles, may proscribe the heresy that has started up, and openly convict the men who have the hardihood to debase the preaching of the Œconomy; and secondly may fight as champion of them who are being attacked for the truth's sake. For it is in the cause of the apostolic Faith, most holy, that we have undergone that unrighteous massacre, because we refused to abandon the truth of the Gospel doctrines. Now it behooves your holiness not to overlook the unjust persecution of men of like mind with yourself, but by your just help to put a stop to injustice, and teach the assailants of the truth that men who strive to act unscrupulously at their own good pleasure cannot be allowed to work out their ends.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707117.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707117.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一一七书",
+    "p0002": "\\Emph{致弗洛伦提乌斯主教。}",
+    "p0003": "诚然，我们的天主和救主的恩宠尚未抛弃人类，却在您的圣德中为我们留下了一个遗民，\\Quote{免得我们变成索多玛，变得像哥摩辣。}这遗民不容我们完全沮丧，却吩咐我们等候那可怕风暴的过去；这使我们充满希望。",
+    "p0004": "为此，我们将极其虔诚的司铎、\\OriginalTerm{乡村主教}{chorepiscopi}希帕提乌斯和阿布拉米乌斯，以及我们隐修士的\\OriginalTerm{修院院长}{exarch}阿利比乌斯派往您的圣德，以便您能结束降临东方教会的那场灾祸：首先，确认最初由圣宗徒传授给我们的信德，谴责那兴起的异端，并公开指控那些胆敢贬损\\OriginalTerm{救恩经济}{Œconomy}宣讲的人；其次，为那些因真理而受攻击的人作斗士，保卫他们。因为正是为了宗徒信德，至圣的，我们遭受了那不义的屠杀，因为我们不肯放弃福音教义的真理。如今，您的圣德不应该忽视那些与您同心合意的人所受的不义迫害，而应通过您正义的援助制止不义，教导真理的袭击者：那些试图按自己的私欲任意妄为的人，不能让他们达成目的。"
+  }
+}

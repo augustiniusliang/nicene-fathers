@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206024",
+    "title": "Book VI, Letter 24",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 24",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Marinianus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Marinianus, Bishop of Ravenna.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have received by the deacon Virgilius the letter of your Fraternity, in which you inform us that certain of the clergy and people have cried out that it is contrary to the laws and canons that the cause between your Church and the abbot Claudius should be examined and decided here. But, had they paid attention to ecclesiastical order and to the persons between whom the case is pending, they would by all means have abstained from needless complaint; especially as the cause could not be pleaded there, where the aforesaid abbot has complained of having endured injustice from your predecessor and of still suffering from it. For the objection might perhaps have been made if he had not appealed to a superior authority, and sought to have the rights of his case determined before it. Nay, but do you not yourself know that the case which arose on the part of the presbyter John against John of Constantinople, our brother and fellow bishop, came before the Apostolic See, and was decided by our sentence? If, then, a cause was brought under our cognizance from that city where the prince is, how much more should an affair between you have the truth about it ascertained and be terminated here? But as for you, let not the words of foolish men there move you, and believe not that through us any detriment to your Church is caused. For, if you will enquire of the servant of God Secundinus your deacon and of Castorius our notary, you will learn from them how your predecessor had already desired to arrange this case. But your Fraternity has done wisely in sending persons hither for this business, and in not listening to vain words. Now we trust in Almighty God that this cause may be terminated in a way well-pleasing to God, so that no room may be left for renewed complaint and that neither party may be aggrieved unjustly. The sword which our most beloved son Peter, then deacon and guardian (<em>defensor</em>) in your parts, had left for us with your predecessor, please to send to us by the servant of God Secundinus, and Castorius the notary, the bearers of these presents.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206024.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206024.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷，第二十四封信",
+    "p0002": "\\Emph{致\\Person{马里尼亚努斯}主教。}",
+    "p0003": "\\Person{格里高利}致\\Place{拉文纳}主教\\Person{马里尼亚努斯}。",
+    "p0004": "我们已通过执事维吉利乌斯收到您弟兄的来信，信中您告知我们，某些神职人员和民众喧嚷说，在贵教会与院长克劳狄之间的案件在此审理和裁决是违反法律和教规的。但是，如果他们留意教会秩序以及案件所涉当事人的身份，他们本应完全避免无谓的抱怨；尤其是因为该案件无法在那里进行辩护，因为上述院长在那里抱怨曾受到您前任的不公正对待，且仍遭受此不公。或许，如果他没有向更高权威上诉并寻求让其案件的权利在此得到裁决，这一异议或许可以成立。然而，您自己难道不知道，司铎约翰针对我们的弟兄和同袍主教君士坦丁堡的约翰所提起的案件，曾提交至宗座，并由我们裁决？那么，如果连来自君王所在之城的案件都能由我们审理，您二人之间的事务岂不更应在查明真相后在此了结？至于您，切勿被那里愚人之言所动，切勿相信通过我们会对贵教会造成任何损害。因为，如果您询问您的执事、天主的仆人塞昆迪努斯，以及我们的公证人卡斯托里乌斯，您将从他们那里了解到，您前任曾多么希望解决此案。但您弟兄明智地派人前来处理此事，并未听从虚言。现在我们信赖全能的天主，愿此案能以悦乐天主的方式了结，使抱怨再无余地，双方均不受不公之苦。您那里的前执事和\\OriginalTerm{保护人}{defensor}、我们最亲爱的儿子彼得所留下的剑，已交付您前任，请通过天主的仆人塞昆迪努斯和公证人卡斯托里乌斯（持信者）送还我们。"
+  }
+}

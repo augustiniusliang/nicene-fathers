@@ -1,0 +1,186 @@
+{
+  "source": {
+    "source_id": "3001120",
+    "title": "Letter 120",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 120",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 120",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Hedibia. </strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "At the request of Hedibia, a lady of Gaul much interested in the study of scripture, Jerome deals with the following twelve questions. It will be noticed that several of them belong to the historical criticism of our own day.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "(1) How can anyone be perfect? And How ought a widow without children to live to God?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "(2) What is the meaning of Matt. xxvi. 29?",
+        "scripture": [
+          "mat 26:29"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "(3) How are the discrepancies in the evangelical narratives to be accounted for? How can Matt. xxviii. 1 be reconciled with Mark 16:1, 2.",
+        "scripture": [
+          "mat 28:1"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "(4) How can Matt. xxviii. 9 (Saturday evening) be reconciled with John xx. 1-18 (Sunday morning)?",
+        "scripture": [
+          "mat 28:9",
+          "joh 20:1"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "(5) How can Matt. xxviii. 9 be reconciled with Joh. xx. 17?",
+        "scripture": [
+          "mat 28:9",
+          "joh 20:17"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "p",
+        "text": "(6) How was it that, if there was a guard of soldiers at the sepulchre, Peter and John were allowed to go in freely? {{BIBLE:mat 27:66}}",
+        "scripture": [
+          "mat 27:66"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0010",
+        "kind": "p",
+        "text": "(7) How is the statement of Matthew and Mark that the apostles were ordered to go into Galilee to see Jesus there to be reconciled with that of Luke and John who make Him appear to them in Jerusalem?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0011",
+        "kind": "p",
+        "text": "(8) What is the meaning of Matthew 27:50, 51?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0012",
+        "kind": "p",
+        "text": "(9) How is the statement of John xx. 22 that Jesus breathed on his apostles the Holy Ghost to be reconciled with that of Luke {{BIBLE:luk 24:49}} that He would send it to them after His ascension?",
+        "scripture": [
+          "joh 20:22",
+          "luk 24:49"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0013",
+        "kind": "p",
+        "text": "(10) What is the meaning of the passage, Rom. ix. 14-29?",
+        "scripture": [
+          "rom 9:14"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0014",
+        "kind": "p",
+        "text": "(11) What is the meaning of 2 Cor. ii. 16?",
+        "scripture": [
+          "2co 2:16"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0015",
+        "kind": "p",
+        "text": "(12) What is the meaning of 1 Thes. v. 23?",
+        "scripture": [
+          "1th 5:23"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0016",
+        "kind": "p",
+        "text": "The date of the letter is 406 or 407 A.D.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001120.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001120.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一二〇封书信}",
+    "p0002": "\\Emph{致\\Person{赫迪比亚}。}",
+    "p0003": "应高卢一位热心研究\\WorkTitle{圣经}的女士\\Person{赫迪比亚}的请求，\\Person{热罗尼莫}处理以下十二个问题。值得注意的是，其中几个问题属于我们今日的历史批判学。",
+    "p0004": "(1) 人如何能成为完美的？以及没有子女的寡妇应如何为天主而生活？",
+    "p0005": "(2) \\BibleRef{玛 26:29} 的含义是什么？",
+    "p0006": "(3) 福音记载的差异如何解释？如何调和\\BibleRef{玛 28:1}与\\BibleRef{谷 16:1-2}？",
+    "p0007": "(4) 如何调和\\BibleRef{玛 28:9}（星期六傍晚）与\\BibleRef{若 20:1-18}（星期天早晨）？",
+    "p0008": "(5) 如何调和\\BibleRef{玛 28:9}与\\BibleRef{若 20:17}？",
+    "p0009": "(6) 若墓前有士兵看守，\\Person{伯多禄}和\\Person{若望}怎么能自由进入？\\BibleRef{玛 27:66}",
+    "p0010": "(7) 如何调和\\Person{玛窦}和\\Person{马尔谷}记载的宗徒被吩咐往\\Place{加里肋亚}见耶稣，与\\Person{路加}和\\Person{若望}记载的主在\\Place{耶路撒冷}显现给他们这二者？",
+    "p0011": "(8) \\BibleRef{玛 27:50-51} 的含义是什么？",
+    "p0012": "(9) 如何调和\\BibleRef{若 20:22}所记耶稣向宗徒嘘气赐予圣神，与\\BibleRef{路 24:49}所记主将在升天后将圣神赐下二者？",
+    "p0013": "(10) \\BibleRef{罗 9:14-29} 这段经文含义是什么？",
+    "p0014": "(11) \\BibleRef{格后 2:16} 的含义是什么？",
+    "p0015": "(12) \\BibleRef{得前 5:23} 的含义是什么？",
+    "p0016": "这封书信写于公元406年或407年。"
+  }
+}

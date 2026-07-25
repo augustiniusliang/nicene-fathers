@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202109",
+    "title": "Letter 109",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 109",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 109",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Count Helladius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I shrink from troubling your good nature, on account of the greatness of your influence, for fear of seeming to make an unwarrantable use of your friendship; however, the necessity of the case prevents my holding my peace. Our sister, who is a relative of mine, and now in the sorrowful position of a widow, has to look after the affairs of her orphan boy. On seeing her above measure oppressed by intolerable responsibilities, I felt great compassion for her, and, feeling deeply on the subject, I have hastened to invoke your aid, in order that you may, if possible, deign to support the messenger whom she has sent, to the end that when she has paid what she promised in person in my presence, she may be freed from any further pressure. She had agreed that she should be relieved from the interest on payment of the capital. Now, however, those who are looking after the affairs of her heirs are trying to exact the payment of the interest as well as that of the capital. The Lord, you know, makes the care of widows and orphans His own, and so do you strive to use your best endeavours in this matter, in the hope of the recompense which God Himself will give you. I cannot help thinking that, when our admirable and kindly prefect has heard of the discharge of the capital, he will feel for this afflicted and unhappy house now stricken to the knee, and no longer able to cope with the injuries inflicted upon it. Pardon, then, the necessity which compels me to intrude upon you; and give your help in this matter, in proportion to the power which Christ has given you, good and true man as you are, and using your talents for the best.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202109.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202109.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第一〇九}",
+    "p0002": "\\Emph{\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致\\Person{赫拉迪乌斯伯爵}}",
+    "p0004": "因君之高位，吾常不敢以琐事相扰，恐有滥用友誼之嫌；然而事势所迫，不得不陈情。吾之亲属，今为寡妇，哀痛之中，须照料其孤儿之产业。见其不胜重负，吾心甚怜，故急求援手，望君俯允扶持其所遣之人，俾其偿清当面承诺之本金后，不再受逼迫。彼曾同意，还本则免息。然而今管理其继承人产业者，欲并征本息。主，如你所知，亲自将照顾孤儿寡妇视为己事，君亦当尽力而为，冀获天主之报偿。窃思吾等可敬之仁慈总督，闻本金已清，必怜此遭难不幸之家，今已力竭，不能再御所加之损害。恕我冒昧，恳请君按基督所赐之权能；君是良善忠实之人，善用君之才能，助成此事。"
+  }
+}

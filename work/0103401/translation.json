@@ -1,0 +1,51 @@
+{
+  "source": {
+    "source_id": "0103401",
+    "title": "Against Heresies (Book IV, Chapter 1)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book IV, Chapter 1",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book IV, Chapter 1)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Since, therefore, this is sure and steadfast, that no other God or Lord was announced by the Spirit, except Him who, as God, rules over all, together with His Word, and those who receive the Spirit of adoption, that is, those who believe in the one and true God, and in Jesus Christ the Son of God; and likewise that the apostles did of themselves term no one else as God, or name [no other] as Lord; and, what is much more important, [since it is true] that our Lord [acted likewise], who did also command us to confess no one as Father, except Him who is in the heavens, who is the one God and the one Father;— those things are clearly shown to be false which these deceivers and most perverse sophists advance, maintaining that the being whom they have themselves invented is by nature both God and Father; but that the Demiurge is naturally neither God nor Father, but is so termed merely by courtesy (<em>verbo tenus</em>), because of his ruling the creation, these perverse mythologists state, setting their thoughts against God; and, putting aside the doctrine of Christ, and of themselves divining falsehoods, they dispute against the entire dispensation of God. For they maintain that their Æons, and gods, and fathers, and lords, are also still further termed heavens, together with their Mother, whom they do also call <quote>the Earth,</quote> and <quote>Jerusalem,</quote> while they also style her many other names.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Now to whom is it not clear, that if the Lord had known many fathers and gods, He would not have taught His disciples to know [only] one God, {{BIBLE:joh 17:3}} and to call Him alone Father? But He did the rather distinguish those who by word merely (<em>verbo tenus</em>) are termed gods, from Him who is truly God, that they should not err as to His doctrine, nor understand one [in mistake] for another. And if He did indeed teach us to call one Being Father and God, while He does from time to time Himself confess other fathers and gods in the same sense, then He will appear to enjoin a different course upon His disciples from what He follows Himself. Such conduct, however, does not bespeak the good teacher, but a misleading and invidious one. The apostles, too, according to these men's showing, are proved to be transgressors of the commandment, since they confess the Creator as God, and Lord, and Father, as I have shown— if He is not alone God and Father. Jesus, therefore, will be to them the author and teacher of such transgression, inasmuch as He commanded that one Being should be called Father, {{BIBLE:mat 23:9}} thus imposing upon them the necessity of confessing the Creator as their Father, as has been pointed out.",
+        "scripture": [
+          "joh 17:3",
+          "mat 23:9"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103401.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103401.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第四卷，第一章）",
+    "p0002": "1. 既然这事是确实而坚定的，即除了那作为天主统管万有的、连同祂的圣言，以及那些领受义子的圣神（即相信唯一真天主和祂的子耶稣基督的人）的那一位之外，圣神并未宣告任何别的天主或主；同样，宗徒们自己也不称任何别人为天主，或名为［别的］主；而且，更为重要的是，［既然这是真的］我们的主［也如此行］，祂曾命令我们只承认在天上的那一位为圣父，祂是唯一的天主和唯一的圣父——那么，这些欺骗者和最邪恶的诡辩家所提出的主张显然就是虚假的，他们坚持说，他们自己所虚构的那一位按其本性既是天主也是父；而巨匠造物主按其本性既不是天主也不是父，只是出于礼貌（\\OriginalTerm{字面上}{verbo tenus}）才这样称呼，因为祂统治受造物，这些邪恶的神话编造者如此说，以他们的思想反对天主；并且，他们抛弃基督的教训，自己臆造谎言，反对天主的整个救恩计划。因为他们坚持说，他们的永世、神祇、父和主，还被进一步称为诸天，连同他们的母亲，他们也称她为\\Quote{地}和\\Quote{耶路撒冷}，还给她取了其他许多名字。",
+    "p0003": "2. 现在，有谁不清楚，如果主曾知道许多父和神，祂就不会教导祂的门徒认识［唯一］天主（\\BibleRef{若 17:3}）并只呼祂为圣父了？然而，祂宁可把那些仅在口头上（\\OriginalTerm{字面上}{verbo tenus}）被称为神的，与那真正为天主的区分开来，使他们不致在祂的教训上犯错，也不致将一位误认为另一位。如果祂确实教导我们称一位为圣父和天主，而祂自己有时又以同样的意义承认别的父和神，那么祂就会显得是在给门徒规定一条与祂自己所行不同的道路。但这样的行为并不表明是一位好老师，而是一位误导和嫉妒的老师。按照这些人的说法，宗徒们也被证明违犯了诫命，因为他们承认造物主为天主、主和圣父，正如我已指出的——如果祂不是唯一的天主和圣父。那么，耶稣对于他们来说，就会是这种违犯的创始者和老师，因为祂命令只称一位为圣父（\\BibleRef{玛 23:9}），从而迫使他们不得不承认造物主为他们的圣父，正如已经指出的。"
+  }
+}

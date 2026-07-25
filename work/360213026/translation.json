@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360213026",
+    "title": "Book XIII, Letter 26",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 26",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 26",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Anthemius, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Anthemius, Subdeacon of Campania.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has reached our ears that our brother and fellow bishop Paschasius is so idle and negligent in all ways that he is in no respect recognised as bishop; and that so neither his own Church, nor the monasteries, nor any, whether the sons of the Church , or the oppressed poor, are conscious of any earnestness of love on his part towards them; nor does he afford any help in what is just to those who supplicate him, and (what is a still more serious thing to say) he cannot bear on any account to receive the counsels of the wise and of such as admire what is right, so that he might at any rate learn from another what he cannot attend to of himself; but, passing over the things that pertain to a pastor's charge, he occupies himself with his whole attention unprofitably in the building of ships. Whence, as is reported, it has come to pass that he has already lost four hundred solidi, or more. This also is added to his faults, that he is said to go down daily to the sea with one or two clerics in so mean a guise as to be the talk among his own people, and to scent to strangers so vile and despicable that he is judged to have nothing in him of the character or venerableness of a bishop. If this be so, know that it is not without fault of yours, who has delayed to rebuke and restrain him, as is fit. Seeing, then, that all this not only discredits him, but also evidently brings reproach on the office of the priesthood, we desire you to summon him for this thing before other priests , or some of his noble sons , and exhort him that, shaking off the vice of sluggishness, he be not idle, but vigilant in the care of his Church and of the monasteries, exhibit fatherly charity to his sons, stand up for the defence of the poor with discretion in cases that are commended by justice, and receive gladly the counsels of the wise, to the end that both that city may be comforted by his solicitude, and he himself succeed in covering the faults of his idleness. If however, as we do not believe will be the case, after this our exhortation he should venture to be negligent after his accustomed manner, he must by all means be sent to us, that in our presence he may learn what it becomes a priest to do, and how to do it, after the fear of God. Given in the month of March, Indiction 6.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213026.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213026.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "Book XIII, Letter 26",
+    "p0002": "\\Emph{致副执事\\Person{安提米乌斯}。}",
+    "p0003": "\\Person{格列高利}致\\Place{坎帕尼亚}副执事\\Person{安提米乌斯}。",
+    "p0004": "我们听说，我们的弟兄和同僚主教\\Person{帕斯卡西乌斯}多年来懒惰疏忽，以致在任何方面都不被承认为主教；并且，他的教会、隐修院，以及教会的子女或受压迫的穷人，都感受不到他对他们有任何爱德的热情；他也不向恳求他的人提供任何正义的帮助，而且（更严重的是）他无论如何都不能忍受听取智者和爱慕正义之人的劝告，以便他至少能从别人那里学到他自己不能注意的事；相反，他忽略牧者职责之事，全神贯注于造船，毫无益处。由此，据报告，他已经损失了四百索利多甚至更多。他的过失还加上这一点：据说他每天带着一两个圣职人员下到海边，衣着如此卑贱，以至成为他自己臣民的话题，而且给陌生人留下如此恶劣可鄙的印象，以至于被认为没有丝毫主教应有的品格或尊严。若果真如此，要知道这并非没有你们的过错，因为你们迟迟没有责备和约束他。那么，鉴于这一切不仅使他失去信誉，而且明显给司铎职位带来耻辱，我们希望你为此事召集他，在其他司铎或他的一些尊贵的子女面前，并劝诫他：摆脱懒惰的恶习，不要闲散，而要警醒于照顾他的教会和隐修院，向他的子女展示父亲般的爱德，在正义所称赞的案件中谨慎地挺身而出为穷人辩护，并欣然接受智者的劝告；为的是那座城市能因他的关怀而得到安慰，而他自己也能成功地掩盖他怠惰的过失。然而，如果在我们这次劝诫之后，他竟敢像往常那样疏忽（我们不相信会发生这种情况），那么他必须被送到我们这里，以便在我们面前，他能在敬畏天主之下，学会一个司铎该做什么以及如何去做。\\Signature{颁于三月，征收期第六年。}"
+  }
+}

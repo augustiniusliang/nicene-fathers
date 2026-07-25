@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360201009",
+    "title": "Book I, Letter 9",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 9",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 9",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter the Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Gregory, a servant of God, presbyter and abbot of the monastery of Saint Theodore in the province of Sicily constituted in the territory of Panormus, has given us to understand that men of the farm of Fulloniacus, which belongs to the holy Roman Church, are endeavouring to encroach on the boundaries of the farm of Gerdinia, bordering on the said farm of the holy Roman Church, which they [<em>i.e. monks of St. Theodore</em>] have possessed without dispute for innumerable years. And for this cause we desire you to go to the city of Panormus, and investigate the question in such sort (with the view of the right of possession remaining with those who have had it heretofore) that, if you shall find that the aforesaid monastery of Saint Theodore has possessed the boundaries concerning which the dispute has arisen without disturbance for forty years, you shall not allow it to suffer any damage, even though it were to the advantage of the holy Roman Church, but provide in all ways for its undisturbed security. But, if the agents of the holy Roman Church should show that the monastery has not been in possession without dispute of its right for forty years, but that any question has been raised within that time concerning the said boundaries, let it be set at rest peaceably and legally by arbitrators chosen for the purpose. For not only do we wish that questions of wrong-doing that have never yet been mooted should be raised, but also that such as have been raised by others than ourselves should be speedily set at rest. Let your experience, therefore, cause all to be so effectively adjusted, that no question relating to this matter may be hereafter referred to us again. Further, we desire that the testament of Bacauda, late <em>Xenodochus</em>, continue valid as when first made.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "The month of November: ninth Indiction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201009.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201009.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第九封信",
+    "p0002": "\\Emph{致副执事\\Person{伯多禄}。}",
+    "p0003": "\\Person{额我略}致\\Person{伯多禄}等。",
+    "p0004": "\\Person{额我略}，天主的仆人，司铎暨隐修院院长，该院位于西西里省\\Place{帕诺尔莫斯}境内的圣\\Person{德奥多禄}隐修院，告知我等：属于圣罗马教会的\\Place{富洛尼阿库斯}农庄的人正试图侵犯与上述圣罗马教会农庄相邻的\\Place{格尔迪尼亚}农庄的边界，而他们（\\EditorialNote{即圣德奥多禄的隐修士们}）已无争议地拥有该农庄无数年。为此，我等希望你前往\\Place{帕诺尔莫斯}城，以如下方式调查此事（以维护此前占有者的权利），即：如果你发现上述圣\\Person{德奥多禄}隐修院无扰地拥有争议边界已达四十年，则不得允许其遭受任何损害，即使有利于圣罗马教会，也应以一切方式保障其不受干扰。但是，如果圣罗马教会的代理人能够证明该隐修院并非无争议地拥有其权利达四十年，而是在此期间曾就所述边界提出过任何问题，则应通过为此选定的仲裁人和平且合法地予以解决。因为我们不仅希望提出从未被争论的不当行为问题，也希望能迅速解决由他人而非我们提出的问题。因此，请你的经验使得一切调整得当，以致日后不再有与此事相关的问题提交给我们。另外，我们希望已故的招待所主管（\\OriginalTerm{招待所主管}{Xenodochus}）\\Person{巴卡乌达}的遗嘱，继续如同最初订立时那样有效。",
+    "p0005": "十一月：第九\\OriginalTerm{小纪}{Indiction}。"
+  }
+}

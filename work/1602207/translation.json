@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602207",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 7. Of the Two Herods.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "20. But with respect to the mention of Herod, it is well understood that some are apt to be influenced by the circumstance that Luke has told us how, in the days of John's baptizing, and at the time when the Lord, being then a grown man, was also baptized, Herod was tetrarch of Galilee; whereas Matthew tells us that the boy Jesus returned from Egypt after the death of Herod. Now these two accounts cannot both be true, unless we may also suppose that there were two different Herods. But as no one can fail to be aware that this is a perfectly possible case, what must be the blindness in which those persons pursue their mad follies, who are so quick to launch false charges against the truth of the Gospels; and how miserably inconsiderate must they be, not to reflect that two men may have been called by the same name? Yet this is a thing of which examples abound on all sides. For this latter Herod is understood to have been the son of the former Herod: just as Archelaus also was, whom Matthew states to have succeeded to the throne of Judæa on the death of his father; and as Philip was, who is introduced by Luke as the brother of Herod the tetrarch, and as himself tetrarch of Ituræa. For the Herod who sought the life of the child Christ was king; whereas this other Herod, his son, was not called king, but tetrarch, which is a Greek word, signifying etymologically one set over the fourth part of a kingdom.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602207.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602207.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐，第二卷}",
+    "p0002": "第七章　论两位黑落德",
+    "p0003": "20. 但关于\\Person{黑落德}的提及，人们很容易理解，有些人会受到以下情况的影响：\\Person{路加}告诉我们，在\\Person{若翰}施洗的那些日子，当那时已是成人的主也受洗时，\\Person{黑落德}是\\Place{加里肋亚}的\\OriginalTerm{分封侯}{tetrarch}；而\\Person{玛窦}告诉我们，\\Person{耶稣}孩童时期在\\Person{黑落德}死后从\\Place{埃及}回来。现在，这两个记载不能同时为真，除非我们还可以设想有两个不同的\\Person{黑落德}。但既然没有人会不知道这是一个完全可能的情况，那么那些急于对福音真理提出虚假指控的人，在他们疯狂的愚行中所表现出的盲目性该有多大；而他们又是多么可怜地轻率，不去思考两个人可能被称作同一个名字？然而，这是一个随处可见的例子。因为后一位\\Person{黑落德}被认为是前一位\\Person{黑落德}的儿子；就像\\Person{阿赫劳斯}一样，\\Person{玛窦}说他在父亲死后继承了\\Place{犹大}的王位；也像\\Person{斐理伯}一样，\\Person{路加}将他介绍为\\OriginalTerm{分封侯}{tetrarch}\\Person{黑落德}的兄弟，他自己是\\Place{依突勒雅}的\\OriginalTerm{分封侯}{tetrarch}。因为那寻求孩童\\Person{基督}性命的\\Person{黑落德}是王；而他的儿子，另一位\\Person{黑落德}，却不被称为王，而是\\OriginalTerm{分封侯}{tetrarch}，这是一个希腊词，词源上意为被派治理王国四分之一的人。"
+  }
+}

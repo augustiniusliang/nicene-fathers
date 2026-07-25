@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206053",
+    "title": "Book VI, Letter 53",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 53",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 53",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Virgilius, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Virgilius, Bishop of Arelate (<em>Arles</em>), Metropolitan.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although we are confident that your Fraternity is intent on good works, and that you come forward of your own accord in causes well-pleasing to God, we nevertheless deem it advantageous to address you with fraternal charity, that, being provoked also by our letters, you may increase the solace which it becomes you voluntarily to bestow. And accordingly we inform your Holiness that we have sent Augustine, the servant of God, the bearer of these presents, with other servants of God, for the winning of souls in the parts whither he is going, as he will be able himself to inform you face to face. In these circumstances you must needs aid him with prayer and assistance, and, where need may require, afford him the support of your succour, and refresh him, as is fit, with fatherly and priestly consolation, to the end that, when he shall have obtained the succour of your Holiness, if he should succeed in winning any gain for God, as we hope he may, you too may be able to gain a reward along with him, having devoutly administered to his good works the abundance of your support. Moreover, as to Candidus the presbyter, our common son, and the little patrimony of our Church, let your Fraternity, as being of one mind with us, study to hold both as commended to you; that so, with the help of your Holiness, something may thence accrue for the sustenance of the poor. Inasmuch, then, as your predecessor held this patrimony for many years, and kept in his own hands the collected payments, let your Fraternity consider whose the moneys are, and to whom they should be paid, and restore them to us, handing them to the above-written presbyter Candidus, our son. For it is very execrable that what has been preserved by the kings of the nations should be said to be taken away by bishops.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206053.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206053.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷·书信五十三",
+    "p0002": "\\Emph{致\\Person{维吉利乌斯}主教。}",
+    "p0003": "\\Person{额我略}致\\Person{维吉利乌斯}，\\Place{阿雷拉特}（\\Place{阿尔勒}）主教兼总主教。",
+    "p0004": "虽然我们确信你的弟兄之爱致力于善工，并且你自动参与中悦天主的各种事业，但我们仍认为以弟兄般的爱德写信给你是有益的，这样，被我们的书信所激励，你或许会增加你自愿施予的慰藉。因此，我们通知你的圣德，我们已派遣天主的仆人奥斯定——本信的持信人——与其他天主的仆人一同前往，为在他将要到达的地区拯救灵魂，正如他能亲自当面告知你。在此情况下，你必须以祈祷和援助来协助他，并在需要时给予他你帮助的支持，并以父职和司铎的安慰适当地鼓励他，以便当他获得你圣德的帮助后，若他能（如我们所愿）为天主赢得任何收获，你也能因虔诚地以你的丰厚支持助益他的善工而与他一同获得赏报。此外，关于我们的共同之子——司铎坎迪杜斯，以及我们教会的小小产业，让你的弟兄之爱——因与我们同心——注意将两者视为托付给你的；这样，藉你圣德的帮助，从中可以有所增收以养活穷人。既然你的前任多年来掌管这一产业，并将收集的款项留在他自己手中，让你的弟兄之爱考虑这些款项属于谁，应该付给谁，并将它们归还给我们，交给上述我们的儿子——司铎坎迪杜斯。因为，各国国王所保存的，竟被说成被主教们夺走，这是极其可恶的。"
+  }
+}

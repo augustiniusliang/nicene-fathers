@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "3202131",
+    "title": "Letter 131",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 131",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 131",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Olympius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Truly unexpected tidings make both ears tingle. This is my case. These compositions against me, which are being carried about, have fallen upon ears by this time pretty well seasoned, on account of my having formerly received the letter, appropriate enough to my sins, but which I should never have expected to be written by those who sent it. Nevertheless what followed did seem to me so extraordinarily cruel as to blot out all that had gone before. How could I fail to be driven almost out of my senses when I read the letter addressed to the reverend brother Dazinas, full of outrageous insults and calumnies and of attacks against me, as though I had been convicted of much pernicious designs against the Church? Moreover proofs were immediately offered of the truth of the calumnies against me, from the document of whose authorship I am ignorant. Parts I recognise, I own, as having been written by Apollinarius of Laodicea. These I had purposely not even ever read, but I had heard of them from the report of others. Other portions I found included, which I had never either read or heard of from any one else; of the truth of this there is a faithful witness in heaven. How then can men who shun lies, who have learned that love is the fulfilling of the law, who profess to bear the burdens of the weak, have consented to bring these calumnies against me and to condemn me out of other men's writings? I have often asked myself this question, but I cannot imagine the reason, unless it be, as I have said from the beginning, that my pain in all this is a part of the punishment which is due to my sins.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. First of all I sorrowed in soul that truths were lessened by the sons of men; in the second place I feared for my own self, lest in addition to my other sins, I should become a misanthrope, believing no truth and honour to be left in any man; if indeed those whom I have most greatly trusted are proved to be so disposed both to me and to the truth. Be sure then, my brother, and every one who is a friend of the truth, that the composition is not mine; I do not approve of it, for it is not drawn up according to my views. Even if I did write, a good many years ago, to Apollinarius or to any one else, I ought not to be blamed. I find no fault myself if any member of any society has been cut off into heresy (and you know perfectly well whom I mean though I mention nobody by name), because each man will die in his own sin.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "This is my reply to the document sent me, that you may know the truth, and make it plain to all who wish not to hold the truth in unrighteousness. If it prove necessary to defend myself more at length on each separate count, I will do so, God being my helper. I, brother Olympius, neither maintain three Gods, nor communicate with Apollinarius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202131.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202131.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\newline{}\\WorkTitle{书信一三一}",
+    "p0002": "\\newline{}\\Emph{\\Person{圣凯撒勒雅的巴西略}}",
+    "p0003": "\\newline{}\\Emph{致\\Person{奥林比乌}}",
+    "p0004": "\\newline{}1. 真料想不到的消息令人双耳发鸣。我正是如此。那些针对我的作品正在四处流传，它们落入了我早已相当习以为常的耳中，因为我先前曾收到那封信——这信配得上我的罪过，但我从未料到它竟会由那些寄出它的人所写。然而，随后所发生的事，在我看来，竟是如此出奇的残忍，以致抹去了之前的一切。当我读到那封致可敬的弟兄\\Person{达齐纳}的信时，我怎能不几乎失去理智？那封信充满了无礼的侮辱、诽谤以及对我的攻击，仿佛我已被证实对教会怀有许多有害的阴谋。此外，他们立即拿出了证据，证明那些针对我的诽谤是真实的，这些证据来自一份我不知道作者是谁的文件。我承认，我认出其中一部分是由劳狄刻雅的\\Person{阿波里纳}所写。这些部分我甚至有意从未读过，只是从他人的传闻中听说过。我还发现其中包含了其他部分，这些部分我从未读过，也从未从任何其他人那里听说过；对此，天上有一位忠实的见证者。那么，那些回避谎言、知道爱是法律的满全、声称要承担软弱者重担的人，怎能同意将这些诽谤加诸于我，并依据他人的著作来定我的罪呢？我常常自问这个问题，但我想不出原因，除非如我一开始所说，我这所有的痛苦是我因罪过应受惩罚的一部分。",
+    "p0005": "\\newline{}2. 首先，我心灵悲伤，因为真理在人类之子中减少了；其次，我为自己担忧，唯恐在我其他罪过之上，我还变成一个厌世者，不再相信任何人心中存有真理和荣誉，如果我最为信任的那些人竟被证明对我及对真理持有如此态度的话。那么，我的弟兄，以及每一位真理的朋友，请确信：那篇作品不是我的；我不赞同它，因为它不是按我的观点写成的。即使我在许多年前曾写信给\\Person{阿波里纳}或其他任何人，我也不应受到责备。如果某个团体的任何成员被切断而陷入异端（你们完全知道我说的是谁，尽管我没有指名道姓），我本人并不挑剔，因为每个人都会因自己的罪恶而死。",
+    "p0006": "\\newline{}这就是我回复那份寄给我的文件的答复，好使你们知道真理，并让所有不愿存着不义而压制真理的人都明了。如果需要我在每一条上更详细地为自己辩护，在天主的助佑下，我必这样做。我，\\Person{奥林比乌}弟兄，既不主张三个天主，也不与\\Person{阿波里纳}共融。"
+  }
+}

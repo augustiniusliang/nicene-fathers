@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202111",
+    "title": "Letter 111",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 111",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 111",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em> To Modestus, the prefect</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Under any ordinary circumstances I should have lacked courage to intrude upon your excellency, for I know how to gauge my own importance and to recognise dignities. But now that I have seen a friend in a distressing position at having been summoned before you, I have ventured to give him this letter. I hope that by using it, as a kind of propitiatory symbol, he may meet with merciful consideration. Truly, although I am of no account, moderation itself may be able to conciliate the most merciful of prefects, and to win pardon for me. Thus if my friend has done no wrong, he may be saved by the mere force of truth; if he has erred, he may be forgiven through my entreaty.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "How we are situated here no one knows better than yourself, for you discern the weak parts in each man and rule all with your admirable forethought.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202111.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202111.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第111封信",
+    "p0002": "\\Emph{\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致总督\\Person{莫德斯图}}。",
+    "p0004": "在通常情况下，我不敢冒昧打搅阁下，因为我知道如何衡量自己的分量，也懂得尊重高位。但现在，我见到一位朋友因被传唤到您面前而陷入困境，便斗胆送上了这封信。我希望他以此信作为某种和好的象征，能得到仁慈的体恤。确实，尽管我微不足道，但谦逊本身或许能赢得最仁慈的总督的谅解，并为我求得宽恕。这样，若我的朋友并无过错，他仅凭真理的力量便可获救；若他犯了错，也可因我的恳求而得到宽恕。",
+    "p0005": "我们在此地的处境，没有人比您更清楚，因为您洞察每个人的弱点，并以您卓越的先见之明治下一切。"
+  }
+}

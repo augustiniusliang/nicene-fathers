@@ -1,0 +1,51 @@
+{
+  "source": {
+    "source_id": "1801108",
+    "title": "Exposition on Psalm 108",
+    "breadcrumbs": "Home > Fathers of the Church > Expositions on the Psalms (Augustine) > Psalm 108",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Exposition on Psalm 108",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. I have not thought that the <em>CVIII</em>th Psalm required an exposition; since I have already expounded it in the <em> LVII</em>th Psalm, and in the <em> LX</em>th, of the last divisions of which this Psalm consists. For the last part of the <em> LVII</em>th is the first of this, as far as the verse, <quote>Your glory is above all the earth.</quote> Henceforth to the end, is the last part of the <em>LX</em>th: as the last part of the <em>CXXXV</em>th is the same as that of the <em> CXV</em>th, from the verse, <quote>The images of the heathen are but gold and silver:</quote> as the <em> XIV</em> and <em> LIIId</em>, with a few alterations in the middle, have everything the same from the beginning to the end. Whatever slight differences therefore occur in this <em>CVIII</em>th Psalm, compared with those two, of parts of which it is composed, are easy to understand; just as we find in the <em>LVII</em>th, <quote>I will sing and give praise; awake, O my glory:</quote> here,<quote> I will sing and give praise, with my glory.</quote> Awake, is said there, that he may sing and give praise therewith. Also, there, <quote>Your mercy is great</quote> (or, as some translate, <quote>is lifted up</quote>) <quote>unto the heavens;</quote> but here, <quote>Your mercy is great above the heavens.</quote> For it is great unto the heavens, that it may be great in the heavens; and this is what he wished to express by <quote>above the heavens.</quote> Also in the <em>LX</em>th, <quote>I will rejoice, I will divide Shechem:</quote> here <quote>I will be exalted, and will divide Shechem.</quote> Where is shown what is signified in the division of Shechem, which it was prophesied should happen after the Lord's exaltation, and that this joy does refer to that exaltation; so that He rejoices, because He is exalted. Whence he elsewhere says, <quote>You have turned my heaviness into joy; You have put off my sackcloth and girded me with gladness.</quote> Also there <quote>Ephraim, the strength of my head:</quote> but here, <quote>Ephraim the taking up of my head.</quote> But strength comes from taking up, that is, He makes men strong by taking up, causing fruit in us; for the interpretation of Ephraim is, bearing fruit. But <quote>taking up</quote> may be understood of us, when we take up Christ; or of Christ, when He, who is Head of the Church, takes us up. And the words, <quote>them that trouble us,</quote> in the former Psalm, are the same with <quote>our enemies,</quote> in this.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. We are taught by this Psalm, that those titles which seem to refer to history are most rightly understood prophetically, according to the object of the composition of the Psalms....And yet this Psalm is composed of the latter portions of two, whose titles are different. Where it is signified that each concur in a common object, not in the surface of the history, but in the depth of prophecy, the objects of both being united in this one, the title of which is, <quote>A Song or Psalm of David:</quote> resembling neither of the former titles, otherwise than in the word David. Since, <quote>in many places, and in diverse manners,</quote> as the Epistle to the Hebrews says, <quote>God spoke in former times to the fathers through the Prophets;</quote> {{BIBLE:heb 1:1}} yet He spoke of Him whom He sent afterwards, that the words of the Prophets might be fulfilled: for <quote>all the promises of God in Him are yea.</quote> {{BIBLE:2co 1:20}}",
+        "scripture": [
+          "heb 1:1",
+          "2co 1:20"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.E. Tweed. From Nicene and Post-Nicene Fathers, First Series, Vol. 8. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1801108.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.E. Tweed.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1801108.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{圣咏第一百零八篇释义}",
+    "p0002": "我不认为\\Emph{第一〇八}篇圣咏需要释义，因为我已在\\Emph{第五十七}篇圣咏和\\Emph{第六十}篇圣咏中阐述过它，这篇圣咏是由后者的最后部分构成的。因为\\Emph{第五十七}篇的最后部分是这篇的开头，直到\\Quote{你的光荣高于整个大地}这句。从此处至结尾，是\\Emph{第六十}篇的最后部分；正如\\Emph{第一三五}篇的最后部分与\\Emph{第一一五}篇相同，从\\Quote{外邦人的偶像不过是金银}这句开始；又如\\Emph{第十四}篇和\\Emph{第五十三}篇，除中间略有改动外，从头到尾完全相同。因此，这篇第一〇八篇圣咏与构成它的那两篇相比，若有细微差异，都容易理解；正如我们在第五十七篇中看到：\\Quote{我要歌唱赞美；醒来吧，我的光荣}；而在此篇中是：\\Quote{我要用我的光荣歌唱赞美}。在那里说醒来，以便他用光荣歌唱赞美。同样，在那里说：\\Quote{你的仁慈伟大}（或如某些译本所译，\\InnerQuote{被高举}）\\Quote{直达诸天}；但在此篇说：\\Quote{你的仁慈伟大，高于诸天}。因为它是伟大直达诸天，为要在诸天中伟大；这正是他愿以\\Quote{高于诸天}所表达的意思。同样在第六十篇中说：\\Quote{我要欢欣，我将划分舍根}；在此篇说：\\Quote{我将被高举，并划分舍根}。这里显示了划分舍根所预表的意义，这预言的实现应发生在主被高举之后，而这份欢欣正是指向那高举；所以他欢欣，因为他被高举。因此他在别处说：\\Quote{你将我的哀叹变为舞蹈；你脱去我的麻衣，给我披上喜乐}。同样，那里说：\\Quote{厄弗辣因，我头的力量}；但在此篇说：\\Quote{厄弗辣因，我头的提升}。但力量来自提升，即他通过提升使人强壮，在我们内结出果实；因为厄弗辣因的意思是\\Quote{结果实}。但\\Quote{提升}可以理解为：当我们提升基督时，或当基督（他是教会的头）提升我们时。而前一篇圣咏中的\\Quote{困扰我们的人}与这篇中的\\Quote{我们的仇敌}相同。",
+    "p0003": "这篇圣咏教导我们，那些表面似乎与历史相关的标题，按照圣咏集的创作目的，最正确地被理解为先知性的……然而这篇圣咏是由两篇标题不同的圣咏的后部分构成的。这表示每篇都指向一个共同的目标，不是历史的外表，而是预言的深处，两者的目标在这篇中合而为一，其标题是\\Quote{达味的诗歌或圣咏}，除\\Quote{达味}一词外，与前两个标题都不相似。因为，\\Quote{多次并以多种方式}，正如\\WorkTitle{希伯来书}所说，\\BibleQuote{天主在古时，曾多次并以多种方式，藉着先知对祖先说过话；} \\BibleRef{希 1:1}；但祂谈论的是祂后来派遣的那一位，为使先知的话得以应验：因为\\BibleQuote{天主的恩许，在祂内都是是。} \\BibleRef{格后 1:20}。"
+  }
+}

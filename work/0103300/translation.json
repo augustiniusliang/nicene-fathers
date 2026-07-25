@@ -1,0 +1,41 @@
+{
+  "source": {
+    "source_id": "0103300",
+    "title": "Against Heresies (Book III, Preface)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book III, Preface",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book III, Preface)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "You have indeed enjoined upon me, my very dear friend, that I should bring to light the Valentinian doctrines, concealed, as their votaries imagine; that I should exhibit their diversity, and compose a treatise in refutation of them. I therefore have undertaken— showing that they spring from Simon, the father of all heretics— to exhibit both their doctrines and successions, and to set forth arguments against them all. Wherefore, since the conviction of these men and their exposure is in many points but one work, I have sent unto you [certain] books, of which the first comprises the opinions of all these men, and exhibits their customs, and the character of their behaviour. In the second, again, their perverse teachings are cast down and overthrown, and, such as they really are, laid bare and open to view. But in this, the third book I shall adduce proofs from the Scriptures, so that I may come behind in nothing of what you have enjoined; yea, that over and above what you reckoned upon, you may receive from me the means of combating and vanquishing those who, in whatever manner, are propagating falsehood. For the love of God, being rich and ungrudging, confers upon the suppliant more than he can ask from it. Call to mind then, the things which I have stated in the two preceding books, and, taking these in connection with them, you shall have from me a very copious refutation of all the heretics; and faithfully and strenuously shall you resist them in defence of the only true and life-giving faith, which the Church has received from the apostles and imparted to her sons. For the Lord of all gave to His apostles the power of the Gospel, through whom also we have known the truth, that is, the doctrine of the Son of God; to whom also did the Lord declare: <quote>He that hears you, hears Me; and he that despises you, despises Me, and Him that sent Me.</quote> {{BIBLE:luk 10:16}}",
+        "scripture": [
+          "luk 10:16"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103300.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103300.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥异端（第三卷，序言）}",
+    "p0002": "你实在嘱咐了我，我至亲爱的朋友，要把瓦伦廷教义——正如其信奉者所想象的那样隐藏着——揭示出来；要展示其多样性，并撰写一篇驳斥它们的论文。因此，我承担了这项工作——表明它们源自所有异端者的始祖西满——既要展示他们的教义与传承，也要提出反对所有他们的论据。因此，由于对这些人的定罪和揭露在许多方面只是一项工作，我已寄给你[某些]书卷，其中第一卷包含了所有这些人的意见，并展示了他们的习俗和行为特征。在第二卷中，再次将他们乖谬的教导摧毁和推翻，并按其真实面目暴露于光天化日之下。但在这一卷，即第三卷中，我将从圣经中提出证据，以便在你所嘱咐的事上毫无欠缺；是的，超过你所期望的，你从我这里得到与那些以各种方式散布谎言的人争战并战胜他们的方法。因为天主的爱，既丰富又不吝啬，赐予恳求者超过他能所求的。那么，请回想我在前两卷中所陈述的事，并将这些与它们联系起来，你将从我这里得到对所有异端者非常充分的驳斥；并且你要忠实地、奋力地抵抗他们，护卫那唯一真实而赋予生命的信仰，就是教会从宗徒们所领受并传授给她的子女的。因为万有的主将福音的能力赐给了祂的宗徒们，借着他们我们也认识了真理，即天主圣子的教导；主也曾向他们宣告：\\BibleQuote{听从你们的，就是听从我；拒绝你们的，就是拒绝我，并拒绝那派遣我的。}\\BibleRef{路 10:16}"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707162",
+    "title": "Letter 162",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 162",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 162",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Letter of Theodoretus to Andreas, Bishop of Samosata, written from Ephesus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Writing from Ephesus I salute your holiness, I congratulate you on your infirmity, and deem you dear to God, in that you have known what evil deeds have been going on here by report, and not by personal experience. Evil indeed! They transcend all imagination and all incidents of history; they compel a continual downpour of tears. The body of the Church is in peril of dismemberment;— nay, rather I may say it has received the first incision;— unless the wise Healer restore and re-connect the unsound and severed limbs. Once again the Egyptian is raging against God, and warring with Moses and Aaron His servants, and the more part of Israel are on the side of the foe; for all too few are the sound who willingly suffer for true religion's sake. Ancient principles are trodden under foot. Deposed men perform priestly functions, and they who have deposed them sit sighing at home. Men excommunicated by the same sentence as the deposed have relieved the deposed of their deposition of their own free will. Such is the mockery of a synod held by Egyptians, by Palestinians, by men from the Pontic and Asian dioceses, and by the West in their company.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What players in a pantomime, in the days of paganism, even in any farce so held up religion to ridicule? Indeed what farce-writer ever performed such a play? What dramatist ever wrote so sad a tragedy? Such and so great are the troubles that have beset God's Church, whereof I have narrated but a very small part.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707162.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707162.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信一百六十二",
+    "p0002": "\\Emph{\\Person{狄奥多勒}致\\Place{萨莫萨塔}主教\\Person{安德肋}的书信，写自\\Place{厄弗所}。}",
+    "p0003": "我自厄弗所致书问候你的圣德，我因你的病弱而祝贺你，认为你蒙天主珍爱，因为你通过报告而非亲身经验知道了这里发生的恶行。真是邪恶！它们超越所有想象和历史事件；它们迫使眼泪不断流淌。教会的身体有被肢解的危险；——不，我可以说它已经被切开了第一刀；——除非智慧的医生恢复并重新连接那些不健康和断裂的肢体。埃及人再次对天主发怒，与祂的仆人梅瑟和亚郎争战，以色列的大部分人站在敌人一边；因为愿意为真宗教受苦的健康之人实在太少。古老的原则被践踏。被撤职的人履行司铎职责，而撤职他们的人却坐在家中叹息。被相同判决逐出教会的人自行解除了被撤职者的撤职。这就是由埃及人、巴勒斯坦人、来自本都和亚细亚教区的人以及与他们为伴的西方人所举行的会议的笑话。",
+    "p0004": "在异教时代，有什么哑剧演员，甚至任何闹剧，如此嘲笑过宗教？实际上，有什么闹剧作家曾上演过这样的戏剧？有什么剧作家写过如此悲惨的悲剧？如此巨大而众多的烦恼困扰着天主的教会，我只叙述了其中极小一部分。"
+  }
+}

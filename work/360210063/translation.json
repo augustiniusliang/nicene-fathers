@@ -1,0 +1,81 @@
+{
+  "source": {
+    "source_id": "360210063",
+    "title": "Book X, Letter 63",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 63",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 63",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Dominicus, Bishop of Carthage.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Dominicus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have already learned what great pestilence has invaded the African parts; and, inasmuch as neither is Italy free from such affliction, doubled are the groans of our sorrows. But amid these evils and other innumerable calamities our heart, dearest brother, would fail from desperate distress, had not the Lord's voice fortified our weakness beforehand. For long ago to the faithful the trumpet of the Gospel lesson sounded, warning them that at the approach of the end of the world wars and many other things, which, as you know, are now feared, would come to pass {{NOTE:note1}} . We ought not, then, to be too much afflicted in suffering things that we knew of beforehand, as though they had been unknown. Frequently also, in our consideration of another's death, the kind of death may be an alleviation. For what manglings, what cruelties have we seen, where death was the only remedy, and life was a torment! Did not David, when a choice of deaths was offered him, refuse famine or the sword, and choose that his people should fall under the hand of God? Gather from this how great favour is granted to such as perish under Divine smiting, since they die by the call that was offered to the holy prophet for a boon. Wherefore let us return thanks to our Creator in all adversities, and, trusting in His mercy, bear all things patiently, since we suffer much less than we deserve. Since, however, we are so scourged temporally that we may not be left without the consolation of life eternal, it is needful (since we are not ignorant, through the announcements of these signs, that the Judge Who is to come is at hand) that we should so much the more, by zeal for good works and the wailing of penitence, make secure our accounts which we shall have to submit to His scrutiny; so that such great smitings may be to us, by the favour of His grace, not the beginning of damnation, but a purgation for our good.",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Matthew 24; Luke 21"
+          }
+        ]
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Since, however, the nature of our infirmity is such that we cannot but grieve for those who pass away, let the teaching of your Fraternity be a consolation to the afflicted. Instil into them that the good things which are promised will remain with them; so that, strengthened by a most sure hope, they may learn not to grieve for the loss of temporal things in comparison with the gift to come. Let your tongue, as indeed we believe it does, restrain them more and more from the perpetration of evil deeds; let it announce the rewards of the good, the punishments of the bad, so that those who have little love for good things may at least be greatly afraid of bad things, and keep themselves from the things which must be punished. For to commit things worthy of scourges when placed in the midst of scourges is to be peculiarly proud against the smiter, and provokes the incensed one to fiercer anger. And it is a prime kind of madness for any one to be unwilling to desist justly from his own evil, and to wish God to cease unjustly from His vengeance. But, since in all this there is need of Divine help, let us, beloved brother, with united prayers implore the clemency of Almighty God, that He would both grant unto us thus to acquit ourselves worthily, and mercifully stir the hearts of the people to perform such things; to the end that, while we order our actions wholesomely in His fear, we may be counted worthy both to be delivered from impending evils, and, by the leading of His grace, without which we can do nothing, to come to supernal joys.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "The month of August, Indiction 3.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210063.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210063.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷十，第六十三封书信",
+    "p0002": "\\Emph{致\\Person{多米尼库斯}，\\Place{迦太基}主教}",
+    "p0003": "\\Person{格列高利}致\\Person{多米尼库斯}等。",
+    "p0004": "我们已经得知多么大的瘟疫侵袭了非洲地区；而且，既然意大利也未能免于这样的苦难，我们悲伤的呻吟便加倍了。但是，在这些灾祸和无数的其他灾难中，最亲爱的兄弟，我们的心会因绝望而衰颓，若不是主的声预先坚固了我们的软弱。因为很久以前，福音教训的号角就已向信徒吹响，警告他们：在世界末日临近时，战争和许多其他事，正如你所知，现在正在恐惧中的事，会发生\\EditorialNote{见：玛窦福音24章；路加福音21章}。因此，我们不应该在遭受那些我们预先知道的事时过于悲痛，仿佛它们先前不为人知。并且，在我们思考他人的死亡时，死亡的方式常会是一种缓解。因为我们见过多少残害、多少残酷，在那里死亡是唯一的解救，而生命是一种折磨！当达味面前有选择死亡的方式时，他不是拒绝了饥荒或刀剑，而选择让他的子民落在天主的手中吗？由此可知，那些因天主的击打而灭亡的人获得了多大的恩宠，因为他们死于那作为恩赐赐给圣先知的呼求。因此，让我们在一切逆境中感谢我们的造物主，并信赖祂的仁慈，耐心忍受一切，因为我们所受的远少于我们应得的。然而，既然我们暂时受鞭打，好使我们不致失去永生的安慰，那么（既然我们通过这些征兆的宣告，不无知地知道即将来临的审判者已经近了），我们更应当以热心善工和忏悔的哀泣，使我们将来要呈交祂审查的账目稳妥；好使如此重大的击打，藉着祂恩宠的眷顾，对我们不是惩罚的开始，而是有益于我们的净化。",
+    "p0005": "然而，既然我们软弱的本性使我们不得不为逝去的人悲伤，愿你宗座的教导成为受苦者的安慰。把应许的美善之事将与他们同在的道理灌输给他们；好使他们因最确实的望德而坚强，学会不为暂时事物的损失而悲伤，与将来的恩赐相比。让你的口舌，正如我们相信它所做的，越来越多地约束他们行恶；让它宣布善人的赏报、恶人的惩罚，好使那些对善事缺乏爱德的人，至少对恶事大为恐惧，并远离那些必受惩罚的事。因为置身于鞭打之中还行该受鞭打的事，就是对鞭打者特别傲慢，更激怒震怒者。有人不肯公义地停止自己的恶行，却希望天主不公义地停止祂的报复，这乃是一种首要的疯狂。但由于这一切都需要天主的帮助，亲爱的兄弟，让我们以合一的祈祷恳求全能天主的仁慈，好使祂既恩赐我们如此相称地尽职，又仁慈地激动民众的心去做这些事；为使我们既在祂的敬畏中合宜地安排我们的行为，又堪当既脱离即将临头的灾祸，并在祂恩宠的引领下（没有这恩宠，我们什么也不能做），达至天上的喜乐。",
+    "p0006": "八月，小纪第三年。"
+  }
+}

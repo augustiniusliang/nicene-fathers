@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360213007",
+    "title": "Book XIII, Letter 7",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 7",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Theoderic, King of the Franks</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Theoderic, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We have received with joy your written address to us indicating your health and safety, and we thereby perceive that you so transcend your age in prudence as to make it evident that it is for the happiness of the nation of the Franks that the government of royal dominion has been committed by the favour of heavenly grace to your Excellency. And this in you among other things is enough to call for praise and admiration, that in such things as you know that our daughter your most excellent grandmother desires for the love of Almighty God, in these you make haste most earnestly to lend your aid, so that thereby you may reign both happily here, and in a future life with the angels . Seeing, then, that this comes, by the gift of God, from great discreetness of judgment, we have so speedily and gladly fulfilled what your Excellency desires as to show by the celerity of our execution how much your good deeds have pleased us.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, greeting you with paternal sweetness, we inform you that all the matters which you enjoined on the illustrious men your servants Burgoaldus and Varmaricarius, our sons, to be transacted with us have been disclosed to us in a private interview. And we praised you greatly, that you both attend wisely, as becomes you, to the present, and also make haste so to provide for security in the future by means of a lasting peace between you and the Republic that, being made one, you may extend the stability of your kingdom salutarily to all time. With regard to this we will announce to you in time to come what it may please God to order. For, as to us, whatever is proved to be advantageous and conducive to peace, we desire and strive that it should be brought to pass. The one thing is that, as our will is with regard to what is expedient, so should be the will of God, without whom we can do nothing. May the Holy Trinity make you to advance always in His fear, and so dispose your heart in moderation well-pleasing to Him as both to grant to your subjects now joy from you, and to you from Himself joy without end hereafter.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213007.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213007.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第七函",
+    "p0002": "\\Emph{致\\Place{法兰克}王\\Person{特奥多里克}。}",
+    "p0003": "\\Person{额我略}致\\Person{特奥多里克}等。",
+    "p0004": "我们怀着喜悦收到了您表示健康平安的书面致函，由此看出，您的智慧超乎年龄，显然，天上恩宠的眷顾将王权统治托付给阁下，实为法兰克民族的福气。您这一点，尤其在别的事上，足以博得称颂和赞叹：您知道我们女儿，即您卓越的祖母，因着对全能天主的爱而渴望之事，您便极其热心地迅速予以协助，从而既在此世幸福为君，又在来世与天使一同为王。既然这出自天主的恩赐，是伟大明智判断的结果，我们便如此迅速而乐意地满足了阁下所愿，以至我们执行的敏捷显出了您的善行何等令我们喜悦。",
+    "p0005": "此外，我们以慈父般的柔情向您致候，并告诉您，您托付您麾下的显贵人物，即我们之子\\Person{布尔戈阿尔杜斯}和\\Person{瓦尔马里卡里乌斯}，与我们交涉的一切事务，均已在一场私下会晤中向我们披露。我们极口称赞您，既明智地关注当前，如同您所当行，又急于通过您与共和国之间持久的和平，为未来的安全作出安排，使你们合而为一，从而有益地长久扩展您王国的稳固。关于此事，我们将在适当时候告知您天主乐意安排之事。因为就我们而言，凡经证明有利于和平之事，我们都渴望并力求实现。唯有一点：我们的意愿关乎适宜之事，天主的意愿亦当如此，离了祂我们什么也不能作。愿\\OriginalTerm{天主圣三}{Holy Trinity}使您常在其敬畏中前进，并如此依祂所悦纳的节制安排您的心怀，以致现今从您那里赐予您的臣民以喜乐，将来从祂自身赐予您以无尽的喜乐。"
+  }
+}

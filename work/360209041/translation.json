@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360209041",
+    "title": "Book IX, Letter 41",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 41",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 41",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Julianus, Scribo</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Julianus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "If in secular offices order and the discipline handed down by our ancestors is observed, who may bear to see ecclesiastical order confounded, to disregard such things when heard of, and postpone their amendment by improperly condoning them? And indeed you do well to love charity and to persuade to concord. But, since we are compelled by consideration of our position, and for God's sake, by no means to leave uninvestigated the things that have come to our knowledge, we shall take care, when Maximus comes, to require a strict account from him of the things that have been said about him. And we trust in the guardianship of our Creator, that we shall not be turned aside by either the favour or the fault of any man from maintenance of the canons and the straight path of equity, but willingly observe what is agreeable to reason. For if (which God forbid) we neglect ecclesiastical solicitude and vigour, indolence destroys discipline, and certainly harm will be done to the souls of the faithful, while they see such examples set them by their pastors. But with regard to your saying in your letter that the good will of the palace and the love of the people are not alienated from him, this circumstance does not recall us from our zeal for justice, nor shall it cause our determination to enquire into the truth to fail through sin of ours. Every one, then, should strive, magnificent son, to conciliate to himself the love of God. For without divine favour what can I say that human love will do for us hereafter, when even among ourselves it harms us the more?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209041.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209041.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷 第四十一封信",
+    "p0002": "\\Emph{致尤利安努斯书记官}。",
+    "p0003": "\\Person{额我略}致\\Person{尤利安努斯}等。",
+    "p0004": "如果在世俗官职中，我们祖先传下来的秩序和\\OriginalTerm{纪律}{discipline}被遵守，那么谁又能忍受看到教会的秩序被扰乱，听到这些事情时置之不理，并以不当的宽容推迟纠正呢？你确实做得很好，热爱\\OriginalTerm{爱德}{charity}并劝人和谐。但是，由于我们因职位的考量并为天主的缘故，不得不对已知之事进行彻底调查，当\\Person{马克西穆斯}到来时，我们将留意向他要求他所说的关于他的事件的严格交代。我们信赖我们的\\OriginalTerm{造物主}{Creator}的护佑，我们不会因任何人的好恶而偏离维护\\OriginalTerm{教规}{canons}和正直的公义之道，而是乐意遵行合乎理性之事。因为如果我们（但愿天主不许）忽视了教会的关切和热忱，懈怠就会摧毁纪律，而且必定会对信友的灵魂造成伤害，因为他们看到牧者们为他们树立了这样的榜样。至于你在信中说，宫廷的好意和人民的爱戴并未离开他，这一情况并不会使我们从对正义的热忱中退缩，也不会因我们的罪过而导致我们查究真理的决心落空。那么，尊贵的儿子，每个人都应当努力为自己赢得天主的爱。因为没有天主的眷顾，人世间的爱日后能为我们做什么呢？即使在我们中间，它反而更有害于我们。"
+  }
+}

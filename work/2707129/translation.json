@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707129",
+    "title": "Letter 129",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 129",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 129",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Magnus Antoninus the Presbyter.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Sailors at night are cheered by the sight of the harbour lights, and so are they who are in peril for the sake of the apostolic faith by the zeal of them that share the faith. We have great comfort in what we hear of your godliness's efforts on behalf of the divine doctrines, for this mind has been given you by the Giver of all good gifts and for the safe keeping of these doctrines you undergo every toil. Now I, comforted by your zeal, make an insignificant return, calling on you to persevere in your divine labours, to despise your adversaries as an easy prey, (for what is weaker than they who are destitute of the truth?) and to trust in Him who said <quote>I will not fail you nor forsake you,</quote> and <quote>Lo I am with you always even unto the end of the world.</quote> Help me too with your prayers that I may confidently say <quote>The Lord is on my side; I will not fear: what can man do unto me?</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707129.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707129.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一二九封書信}",
+    "p0002": "\\Emph{致司鐸\\Person{馬格努斯·安托宁}。}",
+    "p0003": "夜間的水手因看見港口的燈光而振奮，同樣，為宗徒信仰而冒險的人，也因同道者的熱忱而振奮。我們因聽到你的虔誠在神聖教義方面所作的努力而大得安慰，因為這心志是由一切美善恩賜的賜予者賜給你的，而你為了保守這些教義承受了一切勞苦。如今，我因你的熱忱得安慰，作微不足道的回報，勸你堅持你的神聖勞苦，藐視你的敵人如同容易捕捉的獵物（因為誰比那些缺乏真理的人更軟弱呢？），並信靠那曾說：\\BibleQuote{我決不離開你，決不拋棄你}，以及\\BibleQuote{看！我同你們天天在一起，直到今世的終結}的那一位。也請用你的祈禱幫助我，使我能夠自信地說：\\BibleQuote{主在我身邊，我無所畏懼；人能對我做什麼呢？}"
+  }
+}

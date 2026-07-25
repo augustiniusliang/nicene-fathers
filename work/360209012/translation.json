@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "360209012",
+    "title": "Book IX, Letter 12",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 12",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 12",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Bishop of Syracuse.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "One coming from Sicily has told me that some friends of his, whether Greeks or Latins I know not, as though moved by zeal for the holy Roman Church, murmur about my arrangements [i.e. of divine service], saying, How can he be arranging so as to keep the Constantinopolitan Church in check, when in all respects he follows her usage? And, when I said to him, What usages of hers do we follow? He replied; you have caused Alleluia to be said at mass out of the season of Pentecost ; you have made appointment for the sub-deacons to proceed disrobed , and for Kyrie Eleison to be said, and for the Lord's Prayer to be said immediately after the canon. To him I replied, that in none of these things have we followed another Church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "For, as to our custom here of saying the Alleluia, it is said to be derived from the Church of Jerusalem by the tradition of the blessed Jerome in the time of pope Damasus of blessed memory; and accordingly in this matter we have rather curtailed the former usage which had been handed down to us here from the Greeks.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, as to my having caused the sub-deacons to proceed disrobed, this was the ancient usage of the Church. But it pleased one of our pontiffs, I know not which, to order them to proceed in linen tunics. For have your Churches in any respect received their tradition from the Greeks? Whence, then, have they at the present day the custom of the subdeacons proceeding in linen tunics, except that they have received it from their mother, the Roman Church?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "Further, we neither have said nor now say the Kyrie Eleison, as it is said by the Greeks: for among the Greeks all say it together; but with us it is said by the clerks, and responded to by the people; and as often as it is said, Christe Eleison is said also, which is not said at all among the Greeks. Further, in daily masses we suppress some things that are usually said, and say only Kyrie Eleison, Christe Eleison, so as to devote ourselves a little longer to these words of deprecation. But the Lord's prayer (<em>orationem Dominicam</em>) we say immediately after the prayer (<em>mox post precem</em>) for this reason, that it was the custom of the apostles to consecrate the host of oblation to (<em>ad</em>) that same prayer only. And it seemed to me very unsuitable that we should say over the oblation a prayer which a scholastic had composed, and should not say the very prayer which our Redeemer composed over His body and blood . But also the Lord's Prayer among the Greeks is said by all the people, but with us by the priest alone. Wherein, then, have we followed the usages of the Greeks, in that we have either amended our own old ones or appointed new and profitable ones, in which, however, we are not shown to be imitating others? Wherefore, let your Charity, when an occasion presents itself, proceed to the Church of Catana; or in the Church of Syracuse teach those who you believe or understand may possibly be murmuring with respect to this matter, holding a conference there, as though for a different purpose, and so desist not from instructing them. For as to what they say about the Church of Constantinople, who can doubt that it is subject to the Apostolic See, as both the most pious lord the emperor and our brother the bishop of that city continually acknowledge? Yet, if this or any other Church has anything that is good, I am prepared in what is good to imitate even my inferiors, while prohibiting them from things unlawful. For he is foolish who thinks himself first in such a way as to scorn to learn whatever good things he may see.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209012.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209012.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第十二封信",
+    "p0002": "\\Emph{致锡拉库萨主教若望}",
+    "p0003": "额我略致若望等。",
+    "p0004": "有位来自西西里的人告诉我，他的一些朋友——不知是希腊人还是拉丁人——仿佛因对圣罗马教会的热忱而对我关于礼仪的安排有所怨言，\\Quote{他怎能如此安排以遏制君士坦丁堡教会，却在各方面追随她的用法？} 我对他说：\\Quote{我们追随了她的哪些用法？} 他答道：\\Quote{你们在五旬期以外的弥撒中诵念了阿肋路亚；你们命副执事不穿祭衣进行进；你们诵念垂怜经；并立即在正典后诵念天主经。} 我回答他说，在这些事中，我们没有一件是追随了其他教会。",
+    "p0005": "因为，我们这里诵念阿肋路亚的习惯，据说是由真福热罗尼莫的传统、在真福教宗达玛苏时代从耶路撒冷教会传来的；因此，在这件事上，我们反而缩减了先前从希腊人那里继承的用法。",
+    "p0006": "再者，关于我命副执事不穿祭衣进行进，这是教会的古老用法。但某位教宗——我不知道是哪位——曾命他们穿着亚麻长衣进行进。难道你们的教会曾从希腊人那里接受过任何传统吗？那么，如今副执事穿着亚麻长衣进行进的习惯，若不是从她们的母亲罗马教会领受的，又是从哪里来的呢？",
+    "p0007": "再者，我们过去和现在诵念垂怜经的方式都不像希腊人那样：因为希腊人是全体一起念；而在我们这里，是由圣职人员诵念，民众回应；每次诵念时也诵念基督垂怜，这在希腊人那里根本不念。此外，在日常弥撒中，我们省略了一些通常诵念的部分，只念垂怜经、基督垂怜，以便在这些恳求的言辞上稍作停留。至于\\OriginalTerm{天主经}{orationem Dominicam}，我们在\\OriginalTerm{祈祷后立刻}{mox post precem}诵念，原因是宗徒们的习惯是在同一祈祷中祝圣献祭的祭品。而我认为，由一位学者编撰的祈祷文用在祭品上，却不诵念我们的救赎主为祂的圣体圣血所作的祈祷，这是很不合适的。此外，天主经在希腊人中是由全体民众诵念，而在我们这里则只由司铎独念。那么，我们在哪方面追随了希腊人的习惯呢？我们要么修改了旧的习惯，要么制定了新的有益的习惯，但并未显示我们在模仿他人。因此，请你的爱德找机会前往卡塔尼亚教会；或在锡拉库萨教会中教导那些你相信或认为可能对此事有所怨言的人，在那里召开会议，仿佛为了另一目的，不要停止教导他们。因为关于他们对君士坦丁堡教会的言论，谁能怀疑那教会是隶属于宗座的呢？正如最虔诚的君主皇帝和我们那位身为兄弟的该城主教所不断承认的。然而，如果这个或其他教会有任何好的事物，我准备在好的事上甚至效法我的下属，同时禁止他们做非法的事。因为，那种自以为居首而耻于学习所见一切好事的人是愚蠢的。"
+  }
+}

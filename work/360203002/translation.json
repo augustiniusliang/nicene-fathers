@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360203002",
+    "title": "Book III, Letter 2",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 2",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 2",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Paulus, Bishop</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Paulus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although it has distressed us in no slight degree to hear of the injury that you have suffered, yet we have matter of consolation in learning that the affair is to your credit, in that, so far as the account sent to us has disclosed the facts, you have suffered in the cause of uprightness and equity. Wherefore, that it may redound to the greater glory of your Fraternity, this occurrence ought neither to shake your constancy nor turn you aside from the way of truth. For it is to the greater reward of priests if they continue in the path of truth even after injuries. But, lest the madness of such great impiety should remain unpunished, and pernicious insubordination break out to a worse degree, we have enjoined the magnificent Scholasticus, judge of Campania, who is at present here, that he should avenge what has been done with the repression it deserves. But, inasmuch as your men have requested us to commission some one to represent ourselves, know that we have for this reason sent to Naples the subdeacon Epiphanius, who may be able, with the judge above named, to investigate and ascertain the truth, to the end that by his instancy he may cause worthy vengeance to be executed on those who may be shown to have instigated or perpetrated so great a crime.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203002.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203002.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷，第二封信",
+    "p0002": "\\Emph{致\\Person{保禄}主教}。",
+    "p0003": "\\Person{额我略}致\\Person{保禄}等。",
+    "p0004": "虽然我们听说您所受的伤害，感到极大的痛心，但我们得知此事对您有利，仍感到安慰，因为据报给我们的事件经过揭示事实，您是为正直和公义而受害。所以，为使此事为您的弟兄带来更大的光荣，这次事件不应动摇您的坚定，也不应使您偏离真理之道。因为司铎若在受伤害后仍坚持真理之道，必获更大赏报。但是，为避免如此严重的邪恶的疯狂不受惩罚，且有害的违命行为变本加厉，我们已委托目前在座的尊贵的\\Place{坎帕尼亚}法官\\Person{斯柯拉斯提库斯}，应予以应得的压制，惩罚所行之事。但是，因您的人请求我们委派一位代表我们的人，故此，我们已为此派遣副执事\\Person{厄丕法尼}前往\\Place{那不勒斯}，他可与上述法官一同调查并查明真相，以便他能通过他的坚持，使那些被证实煽动或犯下如此重大罪行的人受到应有的惩处。"
+  }
+}

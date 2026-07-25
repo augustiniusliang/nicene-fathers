@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201056",
+    "title": "Book I, Letter 56",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 56",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 56",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Being exceedingly desirous of observing the festivals of saints, we have thought it needful to address this our letter of direction to your Experience, informing you that we have arranged for the dedication with all solemnity, with the help of the Lord, in the month of August, of the Oratory of the Blessed Mary lately built in the cell of brethren where the abbot Marinianus is known to preside, to the end that what we have begun may through the Lord's operation be completed. But, inasmuch as the poverty of that cell requires that we should assist in that day of festival, we therefore desire you to give for celebrating the dedication, to be distributed to the poor, ten <em>solidi</em> in gold, thirty <em>amphoræ</em> of wine, two hundred lambs, two <em>orcæ</em> of oil, twelve wethers, and a hundred hens, which may be afterwards charged in your accounts. Provide therefore for this being done at once without any delay, that our desires, God granting it, may take speedy effect.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201056.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201056.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一卷，第五十六封信}",
+    "p0002": "\\Emph{致副执事伯多禄。}",
+    "p0003": "额我略致伯多禄等。",
+    "p0004": "我们极其渴望庆祝圣人的庆节，认为有必要将这封指导信函寄给您的经验，通知您：我们已安排，在主的助佑下，于八月隆重举行祝圣典礼，对象是最近在弟兄们住所内建造的荣福玛利亚祈祷所——该住所由院长马里尼亚努斯管理——以便我们所开始的工作，能藉主的运作而完成。然而，由于该住所的贫困，我们在那个庆日需要予以援助，因此，我们愿您为庆祝祝圣典礼而提供给穷人：十枚金币（\\OriginalTerm{金币}{solidi}）、三十瓮（\\OriginalTerm{瓮}{amphoræ}）葡萄酒、二百只羔羊、两桶（\\OriginalTerm{桶}{orcæ}）油、十二只阉羊和一百只母鸡；这些日后可在您的账目中报销。请立即照办，不得有任何延误，好让我们的愿望，在天主恩准下，得以迅速实现。"
+  }
+}

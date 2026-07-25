@@ -1,0 +1,94 @@
+{
+  "source": {
+    "source_id": "3001043",
+    "title": "Letter 43",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 43",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 43",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Marcella</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Jerome draws a contrast between his daily life and that of Origen, and sorrowfully admits his own shortcomings. He then suggests to Marcella the advantages which life in the country offers over life in town, and hints that he is himself disposed to make trial of it. Written at Rome in 385 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Ambrose who supplied Origen, true man of adamant and of brass, with money, materials and amanuenses to bring out his countless books— Ambrose, in a letter to his friend from Athens, states that they never took a meal together without something being read, and never went to bed till some portion of Scripture had been brought home to them by a brother's voice. Night and day, in fact, were so ordered that prayer only gave place to reading and reading to prayer.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Have we, brute beasts that we are, ever done the like? Why, we yawn if we read for over an hour; we rub our foreheads and vainly try to suppress our languor. And then, after this great feat, we plunge for relief into worldly business once more.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "I say nothing of the meals with which we dull our faculties, and I would rather not estimate the time that we spend in paying and receiving visits. Next we fall into conversation; we waste our words, we attack people behind their backs, we detail their way of living, we carp at them and are carped at by them in turn. Such is the fare that engages our attention at dinner and afterwards. Then, when our guests have retired, we make up our accounts, and these are sure to cause us either anger or anxiety. The first makes us like raging lions, and the second seeks vainly to make provision for years to come. We do not recollect the words of the Gospel: <quote>You fool, this night your soul shall be required of you: then whose shall those things be which you have provided?</quote> {{BIBLE:luk 12:20}} The clothing which we buy is designed not merely for use but for display. Where there is a chance of saving money we quicken our pace, speak promptly, and keep our ears open. If we hear of household losses— such as often occur— our looks become dejected and gloomy. The gain of a penny fills us with joy; the loss of a half-penny plunges us into sorrow. One man is of so many minds that the prophet's prayer is: <quote>Lord, in your city scatter their image.</quote> For created as we are in the image of God and after His likeness, {{BIBLE:gen 1:26}} it is our own wickedness which makes us assume masks. Just as on the stage the same actor now figures as a brawny Hercules, now softens into a tender Venus, now shivers in the role of Cybele; so we— who, if we were not of the world, would be hated by the world {{BIBLE:joh 15:19}} — for every sin that we commit have a corresponding mask.",
+        "scripture": [
+          "luk 12:20",
+          "gen 1:26",
+          "joh 15:19"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "3. Wherefore, seeing that we have journeyed for much of our life through a troubled sea, and that our vessel has been in turn shaken by raging blasts and shattered upon treacherous reefs, let us, as soon as may be, make for the haven of rural quietude. There such country dainties as milk and household bread, and greens watered by our own hands, will supply us with coarse but harmless fare. So living, sleep will not call us away from prayer, nor satiety from reading. In summer the shade of a tree will afford us privacy. In autumn the quality of the air and the leaves strewn under foot will invite us to stop and rest. In springtime the fields will be bright with flowers, and our psalms will sound the sweeter for the twittering of the birds. When winter comes with its frost and snow, I shall not have to buy fuel, and, whether I sleep or keep vigil, shall be warmer than in town. At least, so far as I know, I shall keep off the cold at less expense. Let Rome keep to itself its noise and bustle, let the cruel shows of the arena go on, let the crowd rave at the circus, let the playgoers revel in the theatres and— for I must not altogether pass over our Christian friends— let the House of Ladies hold its daily sittings. It is good for us to cleave to the Lord, and to put our hope in the Lord God, so that when we have exchanged our present poverty for the kingdom of heaven, we may be able to exclaim: <quote>Whom have I in heaven but you? And there is none upon earth that I desire beside you.</quote> Surely if we can find such blessedness in heaven we may well grieve to have sought after pleasures poor and passing here upon earth. Farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001043.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001043.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四十三书",
+    "p0002": "\\Emph{致\\Person{玛尔塞拉}}",
+    "p0003": "\\EditorialNote{热罗尼莫将自己与奥力振的日常生活相对照，悲哀地承认自己的缺失。然后他向玛尔塞拉指出乡村生活相对于城市生活的优点，并暗示自己有意尝试一下。写于公元385年的罗马。}",
+    "p0004": "1. \\Person{盎博罗削}——这位向\\Person{奥力振}（真正的金刚石与铜铁般的人）提供金钱、材料与抄写员以出版其无数著作之人——在从\\Place{雅典}寄给朋友的一封信中写道，他们从未在没有诵读经文的情况下共同进餐，也从未就寝，除非有一位兄弟的声音将某段圣经读给他们听。事实上，日夜的安排是这样的：祈祷只为阅读让路，阅读又为祈祷让路。",
+    "p0005": "2. 我们这些畜牲般的人，何曾做过类似的事？我们若诵读超过一小时，便打哈欠；我们揉搓额头，徒劳地试图抑制倦怠。然后，在这番伟大功绩之后，我们为了缓解，再次投身于世务之中。",
+    "p0006": "我不谈那些使我们的心智迟钝的宴饮，也不愿估量我们花费在互相拜访上的时间。接着我们陷入交谈；我们浪费言语，在背后攻击他人，细数他们的生活方式，我们挑剔他们，也反过来被他们挑剔。这就是我们晚餐时及餐后所关注的\\Quote{佳肴}。然后，当宾客离去，我们结算账目，这些账目定然引起我们的愤怒或焦虑。前者使我们如咆哮的狮子，后者则徒然试图为未来多年做准备。我们不记得福音的话：\\BibleQuote{你这糊涂人，今夜就要索回你的灵魂；你所预备的一切，将归谁呢？}\\BibleRef{路 12:20}我们所买的衣服，不仅为实用，也为炫耀。一有机会省钱，我们便加快脚步，言辞敏捷，竖起耳朵。若听到家中的损失——此类事常发生——我们的面容便沮丧阴郁。一文钱的收益令我们欢喜；半文钱的损失使我们忧伤。一个人有如此多副面孔，以致先知祈祷说：\\Quote{主啊，在你的城中消散他们的形象。}因为我们本是按天主的肖像和模样受造的，\\BibleRef{创 1:26}却是我们的邪恶使我们戴上面具。正如在舞台上，同一个演员时而扮演强壮的赫拉克勒斯，时而柔化为温柔的维纳斯，时而又因扮演库柏勒而颤抖；同样，我们——若不属世界，就会被世界所恨，\\BibleRef{若 15:19}——每犯一罪，便有一副相应的面具。",
+    "p0007": "3. 因此，既然我们一生中大部分时间在汹涌的大海上航行，我们的船只时而因狂风巨浪而摇晃，时而在险恶的礁石上撞碎，那么，就让我们尽快驶向乡村宁静的港湾吧。在那里，像牛奶、家常面包和我们亲手浇水栽培的蔬菜这类乡间美味，将为我们供应粗糙却无害的食物。如此生活，睡眠不会将我们召离祈祷，饱足不会使我们放弃阅读。夏季，树荫将为我们提供幽静；秋季，清新的空气和脚下散落的树叶会邀我们驻足休息；春季，田野鲜花盛开，我们的圣咏因鸟儿的啁啾而更加动听。当冬季带着霜雪来临，我不必购买燃料，无论睡眠还是守夜，我都比城里更暖和。至少，就我所知，我将以更少的开支抵御寒冷。让罗马保留其喧嚣与忙乱，让竞技场的残酷表演继续，让群众在赛马场喧闹，让观众在剧院纵情，并且——我绝不能完全忽略我们的基督徒朋友——让贵妇之家举行其日常会议。我们紧紧依靠主，并将我们的希望寄托于上主天主，是有益的，这样，当我们以现今的贫穷换取天国时，我们便能高呼：\\BibleQuote{在天上除你以外，我还有谁？在地上除你以外，我也没有所爱慕的。}确实，若我们在天上能寻得如此福乐，我们便应悲叹曾在世上追求那贫乏而短暂的享乐。再会。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360204021",
+    "title": "Book IV, Letter 21",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 21",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 21",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Venantius, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Venantius, Bishop of Luna (<em>in Etruria</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has reached us by the report of many that Christian slaves are detained in servitude by Jews living in the city of Luna ; which thing has seemed to us by so much the more offensive as the sufferance of it by your Fraternity annoys us. For it was your duty, in respect of your place, and in your regard for the Christian religion, to leave no occasion for simple souls to serve Jewish superstition not through persuasion, but, in a manner, by right of authority. Wherefore we exhort your Fraternity that, according to the course laid down by the most pious laws, no Jew be allowed to retain a Christian slave in his possession. But, if any are found in their power, let liberty be secured to them by protection under the sanction of law. But as to any that are on the property of Jews, though they be themselves free from legal obligation, yet, since they have long been attached to the cultivation of their lands as bound by the condition of their tenure, let them continue to cultivate the farms they have been accustomed to do, rendering their payments to the aforesaid persons, and performing all things that the laws require of husbandmen or natives, except that no farther burden be imposed on them. But, whether any one of these should wish to remain in his servitude, or any to migrate to another place, let the latter consider with himself that he will have lost his rights as a husbandman by his own rashness, though he has got rid of his servitude by force of law. In all these things, then, we desire you to exert yourself so wisely that neither may thou be a guilty pastor of a dismembered flock, nor may your too little zeal render you reprehensible before us.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204021.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204021.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷，第二十一封书信",
+    "p0002": "\\Emph{致韦南修斯主教。}",
+    "p0003": "格里高利致卢纳（在\\Place{伊特鲁里亚}）主教\\Person{韦南修斯}。",
+    "p0004": "根据许多人的报告，我们得知居住在卢纳城中的犹太人拘留着基督徒奴隶。此事令我们愈感愤慨，因为你们的兄弟之谊对此容忍，令我们不安。依照您的职责及对基督宗教的敬意，您本应不留任何机会，让单纯的心灵（非经说服，而是以某种权威权利）服务于犹太人的迷信。因此，我们敦促您的兄弟之谊，依循最虔诚的法律所规定的途径，不许任何犹太人拥有基督徒奴隶。但若发现任何奴隶受其控制，应通过法律制裁的保护使其获得自由。至于犹太地产上的那些奴隶，尽管他们本身不受法律约束，但由于他们长期依附于土地，因租佃条件而有义务耕种，应允许他们继续耕种惯常的农田，向上述人士缴纳租金，并履行法律对佃农或本地居民所要求的一切，但不得再对他们施加额外负担。然而，若其中有人希望继续为奴，或有人愿意迁往别处，后者应自行考虑：他虽凭法律之力摆脱了奴役，却因自己的轻率而丧失了佃农的权利。在所有这些事情上，我们期望您如此明智地行事，既不让您成为一个失散羊群的有罪牧者，也不让您的懈怠在我们面前受到指责。"
+  }
+}

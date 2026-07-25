@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360207023",
+    "title": "Book VII, Letter 23",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 23",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 23",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Fortunatus and Anthemius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Fortunatus, bishop, and Anthemius, guardian (<em>defensori</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Catellus, the bearer of these presents, has informed us that his sister, who had been betrothed to one Stephen, has, through divine mercy moving her, been converted in a monastery at Naples, and that the same Stephen improperly detains a house and some other things belonging to her. And, inasmuch as legal decrees (<em>Caus.</em> 17, q. 2, c. 28) have appointed that a betrothed woman, should she wish to be converted, shall suffer no loss whatever, let your Fraternity, together with Anthemius the subdeacon, endeavour by diligent enquiry to investigate the truth. And if, as we have been informed, you find that the Stephen above-named is keeping a house or anything else unjustly, let him be urgently warned by your exhortation to restore without any delay or altercation what he unduly detains, and not to defer under any kind of excuse the restitution of what is not his own. And if perchance you find him neglect your exhortation, notify this to us, giving also an accurate account of the facts of the case, to the end that, when the merits of the case are known, he may be forced by other means, in accordance with equity, to make the restitution which he scorns to make of his own accord out of regard to honesty. Commending the bearer of these presents to your Fraternity, we exhort you to allow him no longer to suffer from delay on this account.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207023.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207023.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷，第二十三封书信",
+    "p0002": "\\Emph{致\\Person{福图纳图斯}与\\Person{安特弥乌斯}}",
+    "p0003": "\\Person{额我略}致\\Person{福图纳图斯}主教、\\Person{安特弥乌斯}\\OriginalTerm{守护者}{defensori}。",
+    "p0004": "持信人\\Person{卡泰路斯}告知我等：其妹曾与一位\\Person{斯德望}订婚，因天主的仁慈感动她，已在\\Place{那不勒斯}的一所隐修院内皈依，而同一\\Person{斯德望}不正当地扣留了属于她的一所房屋及若干其他物品。再者，鉴于法律法令\\EditorialNote{法律引文：Caus. 17, q. 2, c. 28}规定，若订婚女子愿意皈依，不应受任何损失，故请你们，偕同副执事\\Person{安特弥乌斯}，勤加查究，探明事实。若你们，如我们所闻，发现上述\\Person{斯德望}不正当地占有一所房屋或任何其他财物，则应以你们的劝诫切迫警告他，立即且毫无争论地归还不当扣留之物，不得以任何借口拖延归还非属己有之物。若你们见他忽视你们的劝诫，请将此事告知我们，并详述案件实情，以便在案情明了后，可按照公平，以其他手段强制他做出归还；他因顾全廉耻而轻蔑自行归还之事。我们将这持信人托付于你们，劝请你们不再让他因此事拖延而受苦。"
+  }
+}

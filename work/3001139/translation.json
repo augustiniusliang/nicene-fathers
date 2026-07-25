@@ -1,0 +1,92 @@
+{
+  "source": {
+    "source_id": "3001139",
+    "title": "Letter 139",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 139",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 139",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Apronius</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Of Apronius nothing is known; but from the mention of Innocent (for whom see Letter CXLIII.) it seems a fair inference that he lived in the West. Jerome here congratulates him on his steadfastness in the faith and exhorts him to come to Bethlehem. He then touches on the mischief done by Pelagius and complains that his own monastery has been destroyed by him or by his partisans. The date of the letter is A.D. 417."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I know not by what wiles of the devil it has come to pass that all your toil and the efforts of the reverend presbyter Innocent and my own prayers and wishes seem for the moment to produce no effect. God be thanked that you are well and that the fire of faith glows in you even when you are in the midst of the devil's wiles. My greatest joy is to hear that my spiritual sons are fighting in the cause of Christ; and assuredly He in whom we believe will so quicken this zeal of ours that we shall be glad freely to shed our blood in defence of His faith.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "I grieve to hear that a noble family has been subverted, for what reason I cannot learn; for the bearer of the letter could give me no information. We may well grieve over the loss of our common friends and ask Christ the only potentate and Lord {{BIBLE:1ti 6:15}} to have mercy upon them. At the same time we have deserved to receive punishment at God's hand for we have harboured the enemies of the Lord.",
+        "scripture": [
+          "1ti 6:15"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "The best course you can take is to leave everything and to come to the East, before all to the holy places; for everything is now quiet here. The heretics have not, it is true, purged the venom from their breasts, but they do not venture to open their impious mouths. They are <quote>like the deaf adder that stops her ear.</quote> Salute your reverend brothers on my behalf.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "As for our house, so far as fleshly wealth is concerned, it has been completely destroyed by the onslaughts of the heretics; but by the mercy of Christ it is still filled with spiritual riches. To live on bread is better than to lose the faith.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001139.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001139.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一三九封书信",
+    "p0002": "\\Emph{致阿普罗尼乌斯}",
+    "p0003": "\\EditorialNote{关于阿普罗尼乌斯，我们一无所知；但根据他对依诺森（参见第一四三封书信）的提及，可以合理推断他住在西方。热罗尼莫在此祝贺他信仰坚定，并劝他前往白冷。随后他提及贝拉基造成的危害，并抱怨自己的隐修院被他或其同伙摧毁。此信写于公元417年。}",
+    "p0004": "我不知道魔鬼用了何种诡计，致使你的一切辛劳、可敬的司铎依诺森的努力以及我本人的祈祷和心愿，眼下似乎都未生效。感谢天主，你安然无恙，且即使身陷魔鬼的诡计之中，信德之火仍在你内燃烧。我最大的喜乐是听说我的神子们为基督的事业而争战；我们信仰的那一位必定会激发我们的热忱，使我们欣然为捍卫祂的信德而流血。",
+    "p0005": "我悲伤地听说一个显赫的家族被颠覆，原因我无从得知；因为送信人无法告诉我任何情况。我们理应为失去共同的朋友而悲伤，并恳求基督，那唯一的掌权者和主（\\BibleRef{弟前 6:15}），怜悯他们。同时，我们理应受到天主的惩罚，因为我们庇护了主的敌人。",
+    "p0006": "你最好的选择是放下一切，来到东方，尤其是圣地；因为这里如今一切都平静。诚然，异端者们尚未清除胸中的毒液，但他们不敢张开不敬的口。他们\\Quote{像那堵住耳朵的聋虺}。请替我向你可敬的弟兄们致意。",
+    "p0007": "至于我们的住所，就世俗财富而言，已被异端者的攻击彻底摧毁；但藉基督的仁慈，它仍充满属灵的财富。靠面包而活，胜过失去信德。"
+  }
+}

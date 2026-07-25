@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360209009",
+    "title": "Book IX, Letter 9",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 9",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 9",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Callinicus, Exarch of Italy</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Callinicus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "In the midst of what you have announced to me of your victories over the Sclaves, know that I have been refreshed with great joy that the bearers of these presents, hastening to be joined to the unity of holy Church from the island of Capritana , have been sent by your Excellency to the blessed Peter, Prince of the Apostles. For hereby you will the more prevail over your enemies, if you recall under the yoke of the true Lord those whom you know to be the enemies of God; and you will prosecute your causes among men with all the more effect as with sincere and devout mind you maintain the causes of God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now as to your having desired that a copy should be shown me of the order that has been sent to you for the defence of the schismatic, your to me most sweet Excellency ought to have considered carefully how that, although that order has been elicited, you are still not therein enjoined to repel those who come to the unity of the Church, but only, at this unsettled time, not to compel those who are unwilling to come. Whence it is necessary for you with all speed to inform our most pious Emperors of these things, to the end that they may be aware how that in their times, through the succour of Almighty God and your exertions, schismatics are hastening to return of their own accord. What I have decided as to the ordering of things in the island of Caritana, your Excellency will learn through our most reverend brother and fellow bishop Marinianus . But I would have you know that this has caused me no slight distress; that your Majordomo, who took charge of the petition of the bishop who was wishing to return, declared that he had lost it, and that afterwards he was got hold of by the adversaries of the Church: which proceeding, in my opinion, was due not to his neglect but to his venality. Wherefore I wonder that your Excellency has not in any way visited his fault in him. And yet I soon blamed myself for wondering at this, for where the lord Justinus gives advice, there heretics cannot be arraigned.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Moreover you tell us that you wish to keep the anniversary of Peter, Prince of the apostles, in the city of Rome. And we pray Almighty God to protect you with His mercy, and grant you a fulfilment of your desires. But I beg that the aforesaid most eloquent man may come with you, or that, if he does not come, he may retire from attendance on you. Or certainly, if your Excellency should be unable to come owing to business that may arise, let him either communicate with the unity of holy Church, or I beg that he may not be a sharer of your counsels. For I hear of him as a good man, were he not in most mischievous error. As to the cause of Maximus, inasmuch as we can no longer stand against the importunity of your Sweetness, you will learn from Castorius, the notary, what we have determined.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209009.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209009.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷九，书信九",
+    "p0002": "\\Emph{致\\Person{卡利尼库斯}，意大利总督。}",
+    "p0003": "\\Person{额我略}致\\Person{卡利尼库斯}等。",
+    "p0004": "在你向我宣布的你战胜斯拉夫人的消息中，我知道自己因以下事而大感欣慰：这些信件的携带者，从\\Place{卡普里塔纳}岛赶来加入圣教会的合一，被阁下您送至真福\\Person{伯多禄}，\\OriginalTerm{宗徒之长}{Prince of the Apostles}。因为藉此您将更胜过仇敌，若您使那些您所知为天主仇敌的人屈服于真正的主的轭下；并且您以真诚虔敬的心维护天主的事业，将更有效地在人间办理您的事务。",
+    "p0005": "现在，关于您希望让我看到一份为分裂者辩护而发给您的命令副本，您这位对我最亲切的阁下应当仔细考虑：尽管那道命令已被争取到，您在其中仍未被命令拒绝那些前来加入教会合一的人，而只是在这动荡时期，不强迫那些不愿意来的人。因此，您必须尽快将这些事禀报我们最虔诚的皇帝，好让他们知道：在他们时代，藉全能天主的助佑和您的努力，分裂者们正自愿赶回归。关于我在\\Place{卡里塔纳}岛上事务安排的决定，阁下将通过我们最可敬的兄弟和同僚主教\\Person{马里尼亚努斯}得知。但我要您知道，这件事使我感到不小的忧虑：您的总管，他负责那位希望回归的主教的请愿书，声称他丢失了它，而且后来他被教会的反对者抓住了；依我之见，这一行为并非由于他的疏忽，而是由于他的贪婪。因此我感到奇怪，阁下竟完全没有追究他的过错。但我随即责备自己对此感到奇怪，因为哪里大人\\Person{尤斯提努斯}提供建议，哪里就不能控告异端者。",
+    "p0006": "此外，您告诉我们，您希望在\\Place{罗马}城举行\\Person{伯多禄}宗徒之长的周年纪念。我们祈求全能天主以祂的仁慈保护您，并成全您的愿望。但我恳求，上述那位极善辞令的人能与您同来，或者，如果他不来，他应退出对您的侍奉。或者，的确，如果阁下因可能发生的事务不能前来，要么让他与圣教会的合一共融，要么我恳求他不要参与您的议事。因为我听说他是一个好人，要不是陷入最有害的错误。至于\\Person{马克西姆}的案件，既然我们再也无法抵挡您的恳求，您将从公证人\\Person{卡斯托里乌斯}处得知我们的决定。"
+  }
+}

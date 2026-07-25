@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201012",
+    "title": "Book I, Letter 12",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 12",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 12",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Bishop of Urbs Vetus (Orvieto).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Agapitus, abbot of the monastery of St. George, informs us that he endures many grievances from your Holiness; and not only in things that might be of service to the monastery in time of need, but that you even prohibit the celebration of masses in the said monastery, and also interdict burial of the dead there. Now, if this is so, we exhort you to desist from such inhumanity, and allow the dead to be buried, and masses to be celebrated there without any further opposition, lest the aforesaid venerable Agapitus should be compelled to complain anew concerning the matters referred to.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201012.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201012.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第十二封书信",
+    "p0002": "\\Emph{致\\Place{旧城（奥尔维耶托）}主教\\Person{若望}}",
+    "p0003": "\\Person{额我略}致\\Person{若望}等。",
+    "p0004": "\\Place{圣乔治隐修院}院长\\Person{阿加皮托}告诉我们，他承受着来自阁下的许多委屈；不仅是在急需时可能对隐修院有所帮助的事情上，而且您甚至禁止在该隐修院举行弥撒，并阻止在那里埋葬死者。现在，如果情况如此，我们劝您停止这种不人道的行为，允许埋葬死者并在那里举行弥撒，不得再有反对，以免上述可敬的\\Person{阿加皮托}不得不就所涉事项再次申诉。"
+  }
+}

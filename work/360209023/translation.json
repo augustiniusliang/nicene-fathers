@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360209023",
+    "title": "Book IX, Letter 23",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 23",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 23",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Bishop of Syracuse.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Our son the glorious exconsul Leontius has made a serious complaint to us of our brother and fellow bishop Leo; and his complaint has altogether disturbed us, since a bishop ought not to have acted so precipitately and lightly. This case we have committed, to be thoroughly enquired into, to our Guardian (<em>defensoris</em>) Romanus when he comes to you. Further, the messenger who was sent by him (<em>i.e. by Leontius</em>) complains of your Fraternity, that in the defence of the illustrious physician Archelaus the interests of our brother and fellow bishop, the Metropolitan Domitian, suffer damage . And indeed your Fraternity ought justly to protect your sons, or it may be in this case the interests of holy Church, and to give no occasion for evil-speaking to adversaries. I doubt not, however, even while thus speaking, that you do take heed to this: yet we have enjoined on the same Romanus, when he comes to you, to arrange with you what is right with regard to this case also.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209023.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209023.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第二十三书",
+    "p0002": "\\Emph{致\\Person{若望}，\\Place{锡拉库萨}主教。}",
+    "p0003": "\\Person{额我略}致\\Person{若望}等。",
+    "p0004": "我们的儿子，显赫的\\OriginalTerm{前执政官}{exconsul}\\Person{莱昂提乌斯}向我们对我们的兄弟及同为主教\\Person{良}提出严重控诉；他的控诉使我们完全不安，因为一位主教不应如此轻率和鲁莽行事。此案我们已委托我们的\\OriginalTerm{护慰者}{defensoris}\\Person{罗马努斯}，当他到你那里时，详细调查。此外，由他（即\\Person{莱昂提乌斯}）所派的差役控诉你的爱德，称在辩护杰出的医生\\Person{阿基劳}时，我们的兄弟和同为主教，都主教\\Person{多米提安}的利益受损。你的爱德确实应当公正地保护你的儿子们，或在此案中保护圣教会的利益，不给仇敌诋毁的借口。然而，我毫不怀疑，即使我这样说，你也注意此事：但我们已吩咐同一位\\Person{罗马努斯}，当他到你那里时，与你一起安排妥善处理此案。"
+  }
+}

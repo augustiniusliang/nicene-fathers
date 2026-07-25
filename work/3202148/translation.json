@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202148",
+    "title": "Letter 148",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 148",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 148",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Trajan</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Even the ability to bewail their own calamities brings much comfort to the distressed; and this is specially the case when they meet with others capable, from their lofty character, of sympathizing with their sorrows. So my right honourable brother Maximus, after being prefect of my country, and then suffering what no other man ever yet suffered, stripped of all his belongings both inherited from his forefathers and collected by his own labours, afflicted in body in many and various ways, by his wanderings up and down the world, and not having been able to keep even his civil status free from attack, to preserve which freemen are wont to leave no labour undone, has made many complaints to me about all that has happened to him, and has begged me to give you a short description of the Iliad of woes in which he is involved. And I, being quite unable to relieve him in any other way in his troubles, have readily done him the favour shortly to relate to your excellency a part of what I have heard from him. He, indeed, seemed to me to blush at the idea of making a plain tale of his own calamity. If what has happened shows that the inflicter of the wrong is a villain, at all events it proves the sufferer to be deserving of great pity; since the very fact of having fallen into troubles inflicted by Divine Providence, seems in a manner to show that a man has been devoted to suffering. But it would be a sufficient comfort to him if you will only look at him kindly, and extend also to him that abundant favour which all the recipients of it cannot exhaust—I mean your clemency. We are all of us convinced that before the tribunal your protection will be an immense step towards victory. He who has asked for my letter as likely to be of service is of all men most upright. May it be granted me to see him, with the rest, proclaiming aloud the praises of your lordship with all his power.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202148.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202148.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一四八封信}",
+    "p0002": "\\Emph{\\Person{圣巴西略}\\Place{凯撒勒雅}}",
+    "p0003": "\\Emph{致\\Person{图拉真}}。",
+    "p0004": "即便是哀叹自身灾祸的能力，也能给受苦者带来极大的安慰；尤其当他们遇到那些因崇高品格而能同情其悲伤的人时，更是如此。因此，我尊贵的弟兄\\Person{玛克西穆斯}，在担任我国总督之后，遭受了前无古人的苦楚；他被剥夺了所有祖传和自积的财产，身体因在世界各地流浪而备受各种折磨，甚至无法保全其公民身份——为了保持这一身份，自由人通常不辞辛劳——他向我诉说了所遭遇的一切，并恳求我向您简要描述他所陷入的苦难的\\WorkTitle{伊利亚特}。而我，既然无法以其他方式减轻他的困苦，便欣然应允，将我所听到的一部分简要地向阁下您叙述。他对我而言，似乎因要直述自己的灾祸而羞愧。如果所发生的事表明施加不义者是恶人，那么至少也证明受难者值得极大的怜悯；因为陷入由天主眷顾所施加的患难这一事实，似乎在一定程度上表明此人已被指定为受苦者。但如果您能仁慈地垂顾他，并将那所有领受者都无法穷尽的丰盛恩惠——我指的是您的仁慈——也施予他，那对他来说就是足够的安慰了。我们都确信，在法庭上您的庇护将是迈向胜利的一大步。那恳求我的信函以求帮助的人，是所有人中最正直的。但愿我能看到他，与众人一起，竭尽全力高声歌颂您阁下的赞美。"
+  }
+}

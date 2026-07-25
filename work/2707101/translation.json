@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707101",
+    "title": "Letter 101",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 101",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 101",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Deaconess Celarina.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The flames of the war against us have been lit up again. After yielding awhile, the enemy of men has once more armed against us men nurtured in lies, who utter open slander against me, and say that I divide our one Lord Jesus Christ into two sons. I however know the distinction between Godhead and manhood, and confess one Son, God the Word made man. I assert that He is God eternal, who was made man at the end of days, not by the change of the Godhead, but by the assumption of the manhood. It is however needless for me to inform your piety of my sentiments, for you have exact knowledge of what I preach, and how I instruct the ignorant. I beseech you therefore since the workers of lies have poured their insults upon all the godly bishops of the East at once, and overwhelmed the churches with a storm, that your piety will show all possible zeal on behalf of the doctrines of the gospel and the peace of the churches. On this account the very godly bishops have left the churches shepherded by them, have disregarded the inclemency of winter, and endured the labours of their long journey, that they may calm the tempest which has arisen. I am sure that your godly excellency will regard them as champions of piety and governors of the churches.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707101.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707101.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一〇一封书信",
+    "p0002": "\\Emph{致女执事\\Person{塞拉里娜}。}",
+    "p0003": "反对我们的战争烈焰再次燃起。人类的仇敌在退却片刻之后，再次武装起那些在谎言中长大的人来攻击我，他们公开诽谤我，说我将我们唯一的主耶稣基督分割为两个儿子。然而，我明辨天主性与人性之间的区别，并宣认独一圣子，即降生成人的天主圣言。我断言祂是永恒的天主，在末世成了人，这并非因天主性的改变，而是通过人性的摄取。然而，我无需向您的虔敬禀告我的见解，因为您确切知道我所宣讲的，以及我如何教导无知的人。因此，我恳求您，既然谎言的作工人将他们侮辱倾倒在东方所有虔诚的主教身上，并以风暴淹没教会，愿您的虔敬为福音的教义和教会的和平展现一切可能的热情。为此，那些极其虔诚的主教们已经离开了他们牧养的教会，不顾冬天的严酷，忍受了他们漫长旅途的劳苦，以便他们能够平息已兴起的风暴。我相信您的神圣尊贵将视他们为虔诚的斗士和教会的治理者。"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202050",
+    "title": "Letter 50",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 50",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 50",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Bishop Innocentius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Whom, indeed, could it better befit to encourage the timid, and rouse the slumbering, than you, my godly lord, who have shown your general excellence in this, too, that you have consented to come down among us, your lowly inferiors, like a true disciple of Him Who said, <quote>I am among you,</quote> not as a fellow guest, but <quote>as he that serves.</quote> {{BIBLE:luk 22:27}} For you have condescended to minister to us your spiritual gladness, to refresh our souls by your honoured letter, and, as it were, to fling the arms of your greatness round the infancy of children. We, therefore, implore your good soul to pray, that we may be worthy to receive aid from the great, such as yourself, and to have a mouth and wisdom wherewith to chime in with the strain of all, who like you are led by the Holy Spirit. Of Him I hear that you are a friend and true worshipper, and I am deeply thankful for your strong and unshaken love to God. I pray that my lot may be found with the true worshippers, among whom we are sure your excellency is to be ranked, as well as that great and true bishop who has filled all the world with his wonderful work.",
+        "scripture": [
+          "luk 22:27"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202050.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202050.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信五十",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒利亚}}",
+    "p0003": "\\Emph{致\\Person{依诺增爵}主教。}",
+    "p0004": "确实，谁能比你更适合鼓励胆怯者、唤醒沉睡者呢？我敬爱的主，你已在此事上显出你的全面卓越，因为你甘愿降卑到你卑微的下属中间，如同那位说过\\BibleQuote{我在你们中间，不像同席者而是如同服事者。}\\BibleRef{路 22:27}因你已屈尊将属灵的喜乐服事给我们，用你尊贵的书信更新我们的灵魂，仿佛将你伟大的手臂环绕在孩童的幼稚之上。因此，我们恳求你善良的灵魂祈祷，使我们堪当从像你这样伟大的人那里获得援助，并能有口才与智慧，得以与所有像你一样被圣神引导的人一同应和。我听说你是他的朋友和真诚的朝拜者，我深为感谢你对天主坚定不渝的爱。我祈求我的份能与真诚的朝拜者一同找到，我们确信你的阁下必列于其中，连同那位以奇妙工作充满普世的伟大而真实的主教。"
+  }
+}

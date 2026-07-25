@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201028",
+    "title": "Book I, Letter 28",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 28",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 28",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Sebastian, Bishop of Rhisinum [in Dalmatia].</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Sebastian, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although I deserved to receive no letters from your Blessedness, yet I also do not forget my own forgetfulness; I blame my negligence, I stir up my sluggishness with goads of love, that one who will not pay what he owes of his own accord, may learn even under blows to render it. Furthermore, I inform you that I have prepared a full representation, with urgent prayers to our most pious lords, to the effect that they ought to have sent the most blessed Lord patriarch Anastasius, with the use of the pallium granted him, to the threshold of the blessed Peter, prince of the apostles, to celebrate with me the solemnities of Mass; to the end that, though he were not allowed to return to his See, he might at least live with me, retaining his dignity. But of the reason that has arisen for keeping back what I had thus written the bearer of these presents will inform you. Nevertheless, ascertain the mind of the said lord Anastasius, and inform me in your letters of whatever he may wish to be done in this business.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201028.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201028.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第二十八封信",
+    "p0002": "\\Emph{致里西农（在达尔马提亚）主教塞巴斯蒂安。}",
+    "p0003": "\\Signature{格列高利致塞巴斯蒂安等处。}",
+    "p0004": "尽管我理应未收到尊驾的任何书信，然而我亦不忘自己的疏忽；我责备自己的懈怠，以爱的激励鞭策自己的怠惰，使那不愿自愿偿还所欠之人，甚至能在打击下学会偿还。此外，我通知您，我已准备好一份完整的陈情书，以恳切的祈祷呈于我们至虔敬的主上们，即他们应当派遣至福的安纳斯塔修斯宗主教，使用赐予他的\\OriginalTerm{披肩}{pallium}，前往真福宗徒之长伯多禄的\\OriginalTerm{门槛}{threshold}，与我一同举行\\OriginalTerm{弥撒}{Mass}的隆重礼仪；以致尽管他未被允许返回自己的宗座，至少能在保留其尊位的情况下与我同住。但对于为何搁置我如此写就的内容，这封信的携带者将告知您。不过，请探明上述安纳斯塔修斯宗主教的心意，并以书信告知我他对此事希望如何处理。"
+  }
+}

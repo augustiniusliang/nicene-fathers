@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707081",
+    "title": "Letter 81",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 81",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 81",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Consul Nomus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "For but a brief portion of a day I enjoyed the society of your lordship, for I was deprived by unavoidable circumstances of what I so earnestly desired. I had hoped that our short interview would have kindled good will and friendly intercourse, but I was disappointed. I have now written you two letters, without receiving any reply; and by the imperial decree I am forbidden to travel beyond the boundaries of Cyrus. For this apparent punishment cause there is none, except the fact of my convening an episcopal synod. No indictment was published; no prosecutor appeared; the defendant was not convicted; but the sentence was given. We submit, for we know the reward of the wronged. I am aware however that Festus the Procurator who was entrusted with the government of the Jews when they demanded the death of the divine Paul, publicly replied, <quote>It is not lawful to us Romans to deliver any man before that he which is accused have the accusers face to face, and have license to answer for himself concerning the crime laid against him.</quote> Now these words were spoken by one who was no believer in our Master, Christ, but was a slave to the errors of polytheism. I was never asked whether I was assembling synods or not, or for what reason I was assembling them, or what umbrage this could give, either to the Church or to the government; yet just as though I had been a very guilty criminal I am prohibited from visiting other cities; while to every one else every city lies open, and that not only to Arians and Eunomians, but to Manichees and Marcionists, to them that are sick with the unsoundness of Valentinus and Montanus, aye to pagans and Jews, while I, a foremost champion of the teaching of the Gospels, am from every city excluded. Some however maintain that I do not adhere to it. Then let there be a council: let there be assembled there the godly bishops who are capable of judging: then let there be assembled those in office and in rank who have been instructed in divine lore. Let me state what I hold, and let the judges declare what opinion is agreeable to the teaching of the Apostles. I have not thus written from any desire to see the great city, nor from trying to travel to any other. In fact I rather love the quiet of them whose wish is to administer the churches in a monastic state. I should like your excellency to know that neither in the time of the blessed and sainted Theodotus, nor in that of John of blessed memory, nor in that of the very holy lord bishop Domnus, did I of my own accord enter Antioch; five or six times I was invited but I with difficulty assented, and when I did assent it was in obedience to the canon of the Church which orders him who is summoned to a synod and refuses to be present to be held guilty. And when I appeared, what thing unpleasing to God did I do? Was it that I removed from the sacred lists the names of such and such a man guilty of unspeakable wickedness? Was it that I ordained to the priesthood men of character and of honourable life? Was it that I preached the gospel to the people? If these things are worthy of indictment and punishment, I gladly welcome yet severer punishments for their sake. My accusers compel me to speak. Even before my conception my parents promised to devote me to God; from my swaddling-band, they devoted me according to their promise and educated me accordingly; the time before my episcopate I spent in a monastery and then was unwillingly consecrated bishop. Five and twenty years I so lived that I was never summoned to trial by any one nor ever brought accusation against any. Not one of the pious clergy who were under me ever frequented a court. In so many years I never took an obol nor a garment from any one. Not one of my domestics ever received a loaf or an egg. I could not endure the thought of possessing anything save the rags I wore. From the revenues of my see I erected public porticoes; I built two large bridges; I looked after the public baths. On finding that the city was not watered by the river running by it, I built the conduit, and supplied the dry town with water. But not to mention these matters I led eight villages of Marcionists with their neighbourhood into the way of truth; another full of Eunomians and another of Arians I brought to the light of divine knowledge, and, by God's grace, not a tare of heresy was left among us. All this I did not effect with impunity; many a time I shed my blood; many a time was I stoned by them and brought to the very gates of death. But I am a fool in my boasting, yet my words are spoken of necessity, not of consent. Once the thrice blessed Paul was compelled to act in the same way to stop the mouths of his accusers. Yet I put up with seeming ignominy and count it high honour, for I hear the voice of the Apostle crying, <quote>All that will live godly in Christ Jesus shall suffer persecution.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "But I beseech your excellency to give heed to the affairs of the Church, and calm the storm that has arisen, for in fact not even at the beginning of the dispute was the Church beset by such confusion. No one informs you of the greatness of the peril, of the lamentations of the Christians in Phœnicia and of the wails of our holiest monks. Wherefore I have written to you at some length, that on learning the agitation of the Church your excellency might stay it, and reap the fruits of the benefit which such action will produce.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707081.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707081.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八十一封书信",
+    "p0002": "致执政官\\Person{诺穆斯}。",
+    "p0003": "我只享受了与阁下交往的短暂时光，因为我被无法避免的环境剥夺了我如此渴望的东西。我曾希望我们的短暂会面能点燃善意和友好交往，但我失望了。我现在已写了两次信给你，但没有收到任何回音；根据皇帝谕旨，我被禁止离开\\Place{居鲁士}的疆界。这种表面惩罚的原因并不存在，除了我召集了主教会议这一事实。没有公布起诉书；没有出现控告者；被告未被定罪；但判决已经下达。我们服从，因为我们知道受冤者的赏报。然而我知道，当犹太人要求处死神圣的\\Person{保禄}时，受托管理犹太人的总督\\Person{斐斯托}公开回答说：\\BibleQuote{我们罗马人不能将任何人定罪，除非被告与原告当面对质，并获准就所控告的罪行进行申辩。}这些话出自一个不相信我们主人基督、而是多神论谬误的奴隶之口。从未有人询问我是否在召集会议，或者我为何召集会议，或者这可能给教会或政府带来什么不快；然而，好像我是一个非常有罪的罪犯，我被禁止访问其他城市；而对其他人而言，每座城市都是开放的，不仅对\\OriginalTerm{亚略派}{Arians}和\\OriginalTerm{欧诺弥派}{Eunomians}，也对\\OriginalTerm{摩尼派}{Manichees}和\\OriginalTerm{马西翁派}{Marcionists}，对那些患有\\OriginalTerm{华伦提努派}{Valentinus}和\\OriginalTerm{孟他努派}{Montanus}病症的人，甚至对异教徒和犹太人，而我，福音教义的首要捍卫者，却被从每座城市驱逐。然而有人认为我并未持守福音。那么，召开一次公议会吧！让那些有判断力的虔诚主教聚集在那里；然后让那些在神圣学识中受过教育的官员和显贵聚集起来。让我陈述我的主张，让裁判们宣告哪种意见符合宗徒的教导。我这样写，并非出于想见大城的渴望，也不是试图前往其他城市。事实上，我更喜欢那些希望以隐修方式管理教会之人的宁静。我希望殿下知道，无论在真福且已列圣品的\\Person{狄奥多托}时代，还是在有福纪念的\\Person{若望}时代，抑或在至圣的主教\\Person{多米诺斯}大人时代，我都未曾自愿进入\\Place{安提约基雅}；我曾被邀请五六次，但勉强同意；我同意时，也是遵守教会的教规，该教规命令被召集到会议却拒绝出席的人被视为有罪。当我出现时，我做了什么令天主不悦的事呢？难道是我将某些犯有不可言说之恶者的名字从神圣名单中删除？难道是我祝圣了一些品德高尚、生活可敬的人为司铎？难道是我向百姓宣讲了福音？如果这些事情应受控告和惩罚，我乐意为此迎接更严厉的惩罚。我的控告者迫使我发言。在我受孕之前，我的父母就应许将我奉献给天主；从襁褓之中，他们照此应许奉献了我，并相应地培养我；在我担任主教之前的时光，我在隐修院度过，然后不情愿地被祝圣为主教。二十五年中，我如此生活，从未被任何人传唤受审，也从未控告过任何人。我手下虔诚的圣职人员中，没有一人经常出入法庭。在这些年中，我从未从任何人那里收取过一枚奥博尔或一件衣服。我的仆人中也没有一人收过一片面包或一个蛋。我无法忍受拥有任何东西，除了我身穿的破衣。我用自己的教区收入建造了公共柱廊；修建了两座大桥；照管了公共浴场。发现城市没有被流经的河流供水时，我修建了水道，为干涸的城镇供水。但且不提这些事，我带领了八个\\OriginalTerm{马西翁派}{Marcionists}的村庄及其周边地区走上真理之路；又带领了另一个充满\\OriginalTerm{欧诺弥派}{Eunomians}的村庄和另一个\\OriginalTerm{亚略派}{Arians}的村庄归向神圣知识的真光，并且，靠着天主的恩宠，在我们中间没有留下一棵异端的莠子。这一切我并非未受惩罚而行；多次我流了血；多次我被他们用石头砸，被带到死亡的门口。但我是在自夸中的愚人，然而我的话是出于必要，而非自愿。有一次，三次有福的\\Person{保禄}被迫同样行事，以堵住控告者的口。然而我忍受表面的耻辱，视为极大光荣，因为我听见宗徒的声音呼喊说：\\BibleQuote{凡愿意在基督耶稣内虔敬度日的，都要遭受迫害。}",
+    "p0004": "但我恳请阁下关注教会的事务，平息已兴起的风暴，因为事实上即使在争论之初，教会也未曾被如此混乱困扰。没有人告知您危险之大，\\Place{腓尼基}基督徒的悲叹，以及我们最圣洁的隐修士们的哀号。因此我较长地写信给您，希望了解教会的动荡后，阁下能予以制止，并收获此善举带来的果实。"
+  }
+}

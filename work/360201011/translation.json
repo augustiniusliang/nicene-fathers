@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360201011",
+    "title": "Book I, Letter 11",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 11",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 11",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Clementina, Patrician</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Clementina, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Having received your Glory's letter speaking of the passing away of the late Eutherius of magnificent memory, we give you to understand that our mind no less than yours is disturbed by such a sorrow, in that we see how men of approved repute are by degrees removed from this world, whose ruin is already evidenced in the actual effects of the causes thereof. But it becomes us to withdraw ourselves from it by the wise precaution of conversion , lest it involve us too in its own ruin. And indeed our sorrow for the loss of friends ought to be the more tolerable as our condition of mortality requires from us that we should lose them. Nevertheless, for the loss of aid to our carnal life He Who granted permission for its removal is powerful to console, and to come Himself as a comforter into the vacant place.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "That we are unable to accede to your request that the deacon Anatholius should be sent to you is due to the circumstances of the case, and not to any rigorous austerity. For we have appointed him our steward , having committed our episcopal residence to his management.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201011.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201011.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷一 书信十一",
+    "p0002": "\\Emph{致贵族\\Person{克莱门蒂娜}}。",
+    "p0003": "\\Person{额我略}致\\Person{克莱门蒂娜}等。",
+    "p0004": "接奉阁下惠函，提及已故、值得怀念的\\Person{欧特里乌斯}之去世，兹告知：此一悲伤所扰动吾人之心，不亚于阁下。盖见备受赞誉之人渐次离世，而世界之倾颓已显于其因之果效。然吾人理当以皈依之明智慎虑，自世界抽身，免致同陷于其倾覆。诚然，丧失亲友之悲伤，当更可忍受，因吾人必死之处境本即需我们失去他们。尽管如此，对于肉体生活之援助的丧失，那位准许其离去的天主，有能力安慰，并亲自来填补空缺，成为安慰者。",
+    "p0005": "吾人未能应允阁下请求，派遣执事\\Person{阿纳托利乌斯}前往，乃因事理使然，非出于严格苛刻。盖吾人已任命其为管家，将主教府交其管理。"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "360206016",
+    "title": "Book VI, Letter 16",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 16",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 16",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Mauricius, Augustus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Mauricius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Seeing that in you, most Christian of princes, uncorrupt soundness of faith shines as a beam sent down from heaven, and that it is known to all that your Serenity embraces fervently and loves with entire devotion of heart the pure profession in which by God's favour you are powerful, we have perceived it to be very necessary to make request for those whom one and the same faith enlightens, to the end that the Piety of our lords may protect them with its favour, and defend them from all molestation. When certain men scorn the confession of faith of such persons they are shown to contradict the true faith. For, since the Apostle declares that confession of the mouth is made unto salvation, he who will not consent to believe a right profession accuses himself in rejecting others {{BIBLE:rom 10:10}} .",
+        "scripture": [
+          "rom 10:10"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now all the proceedings against John, presbyter of the church of Chalcedon, having been read in council and considered in order, we have found that he has suffered the greater injustice in that, when he declared and showed himself to be a Catholic, it was not his guilt, but an uncertain accusation of long standing, that crushed him; and this to such an extent that his accusers declared in their open reply that they did not know the heresy of the Marcionists which they referred to. And, whereas they ought therefore to have been rejected from the very beginning of the trial, they were allowed, vague as they were, to remain in court for his accusation. But, lest at any rate alleged report might injure him, he produced a written confession of his faith with the purpose of showing evidently that he was a professor and follower of the right faith. But this the judges deputed by the most holy John, our brother and fellow bishop, unjustly and unreasonably disregarded; and so, in doing all they could to put him down, showed themselves more to blame than he. For no one doubts that it is unfaithfulness not to have faith in the faithful. Seeing then that, everything having been thoroughly enquired into and considered, the decision of the holy Council with me, by the revealing grace of Divine power, has declared the above-written John the presbyter to be a Catholic, and that no spot of heretical pravity has been found in him, I entreat that the pious protection of your Serenity may order him to be kept unharmed from all annoyance, nor allow a professor of the Catholic faith to suffer any molestation. For not to believe one who professes truly is not to purge heresy, but to make it. If this should be allowed, occasion of infidelity will arise, and people will themselves incur the guilt which they would correct unwarily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "These things therefore let the most Serene lord with pious precaution consider, and, as I have already requested, with profuse entreaties I again implore, that he allow not an innocent man to be afflicted anew as though he were guilty; to the end that Almighty God, who sees your Clemency love and defend the purity of Catholic rectitude, may cause you both to rule over a pacified republic with your foes subdued, and to reign with His saints in life eternal.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206016.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206016.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷，第十六封书信",
+    "p0002": "\\Emph{致奥古斯都·\\Person{玛里齐乌斯}。}",
+    "p0003": "\\Person{格里高利}致\\Person{玛里齐乌斯}等。",
+    "p0004": "既因在您，最基督化的君王，不腐的正信光辉如从天降下的光柱照耀，且众所周知，陛下热切拥抱并全心热爱那纯正的宣认，因天主眷顾您在此宣认上有能力，我们感到十分必要为那些同被同一信仰光照的人恳求，以使君主们的虔诚能以恩宠保护他们，并护卫他们免受一切骚扰。当某些人轻视此类人的信仰宣认时，他们便显出是抵触真信仰。因为，既然宗徒宣告说口宣认是为得救恩，那不肯相信正确宣认的人，就在拒绝他人时控告了自己\\BibleRef{罗 10:10}。",
+    "p0005": "如今，关于对\\Place{加采东}教会司铎\\Person{若望}的一切诉讼，已在公会议上依次宣读并审议后，我们发现他遭受了更大的不公，因为当他声明并表明自己是一位天主教徒时，压垮他的不是他的罪过，而是一个长期悬而未决的模糊指控；以至于他的控告者在公开答复中声称，他们不知道他们所提及的\\OriginalTerm{马西昂派}{Marcionists}的异端。而且，虽然他们在审判一开始就应当被驳回，但他们却得以作为模糊不清的指控者留在法庭上控告他。但是，以免传闻可能伤害他，他提交了一份书面的信仰宣认，目的是清楚地表明他是正信的宣认者和追随者。然而，由我们最神圣的兄弟和同为主教者\\Person{若望}委任的审判官们，不公且无理地忽略了这一点；因此，当他们竭尽全力打压他时，反而显得比他更有罪。因为无人怀疑，对忠信者不信实即是不忠。既然一切已彻底查究并考虑，神圣公会议与我一起，藉天主德能的启示恩宠，已宣布上述司铎\\Person{若望}为天主教徒，且在他身上未发现任何异端邪恶的污点，我恳求陛下的虔诚保护，下令保护他免受一切烦扰，不容许一位天主教信仰的宣认者遭受任何骚扰。因为不相信真诚宣认的人，并非铲除异端，而是制造异端。若容忍此事，将产生不信的机会，人们自己将陷入他们不慎想要纠正的罪责。",
+    "p0006": "因此，愿最安宁的君王以虔诚的谨慎考虑这些事，并且，如我已恳求，我再次以恳切请求恳求，不要允许一个无辜的人好像有罪者一样再度受难；以使全能天主，祂见陛下热爱并捍卫天主教正直的纯洁，使您在征服敌人后，统治一个和平的共和国，并与祂的圣人们一同在永生中为王。"
+  }
+}

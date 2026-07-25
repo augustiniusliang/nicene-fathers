@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360212008",
+    "title": "Book XII, Letter 8",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XII, Letter 8",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XII, Letter 8",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Columbus, Bishop of Numidia</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Columbus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How serious, and intolerable even to be heard of, is the complaint of Donadeus, the bearer of these presents, who describes himself as having been a deacon, will be made manifest to your Fraternity by the petition presented by him, which is contained in what is subjoined below. But, since it has come to our ears that he had been deposed for bodily sin, let your Love make full enquiry into this, and, if it is so, let him be consigned to penance, that he may free himself by tears from the bond of the profligacy of which he has been guilty. If, however, he should be proved innocent of any such transgression, all that his petition contains must be enquired into with diligent examination by you, together with the primate of the council, and others our brethren and fellow bishops. And, if his complaint is supported by the truth, let both such strictness of canonical discipline be brought to bear on his bishop Victor , who has not lighted to commit so great a wickedness against God and his own priestly profession, that he may understand the wickedness of what he has done; and let the man himself be restored to his order: for it is indeed preposterous, and confessedly against ecclesiastical order, that any one whom his own fault or crime does not depose from the rank of the office which he fills should be deprived invalidly at the will of this or that person.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360212008.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360212008.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第十二卷 第八封信}",
+    "p0002": "\\Emph{致努米底亚主教哥伦布。}",
+    "p0003": "额我略致哥伦布等。",
+    "p0004": "持信人多纳德斯自称曾任执事，其所呈诉状（附录于后）之严重性，即令闻之亦不可容忍，此将由贵弟兄明鉴。然闻彼曾因肉体之罪而被罢免，务请详查此事；若果如此，当令其行补赎，俾以泪水自所犯淫乱之束缚中得释。若证实其未犯此等过犯，则其诉状所陈一切，须由尔会同会议首席及其他我等弟兄同为主教者，以勤勉审查加以探究。若其诉状属实，则对其主教维克托（彼竟未醒悟，犯下如此大恶，得罪天主及其自身司铎职守）须施以教会纪律之严厉制裁，使之明悟己行之恶；而该人自身则当恢复其品级。盖凡未因自身过失或罪行而罢免其所任职位之品级者，却因某人之意旨而无效地被剥夺，此诚悖理，且明违教会秩序。"
+  }
+}

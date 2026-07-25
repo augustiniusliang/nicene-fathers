@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201041",
+    "title": "Book I, Letter 41",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 41",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 41",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Peter, Subdeacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Peter, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The venerable Paulinus bishop of the city of Taurum (<em>Taurianum in Brutia</em>), has told us that his monks have been scattered by reason of barbaric invasions, and that they are now wandering through the whole of Sicily, and that, being without a ruler, they neither have a care of their souls, nor pay attention to the discipline of their profession. On this account we enjoin you to search out with all care and diligence, and collect together, these same monks, and to place them with the said bishop, their ruler, in the monastery of Saint Theodorus situate in the city of Messana, that both such as are there now, whom we find to be in need of a ruler, and those of his congregation whom you may have found and brought back, may be able, under his leadership, to serve the Almighty Lord together. Know also that we have signified this matter to the venerable Felix, bishop of the same city, lest anything ordained in the diocese committed to him should be disturbed without his knowledge.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201041.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201041.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第四十一封信",
+    "p0002": "\\Emph{致副执事伯多禄。}",
+    "p0003": "额我略致伯多禄等。",
+    "p0004": "托鲁姆城（\\Emph{布鲁提亚的托里亚诺姆}）可敬的保利努斯主教告诉我们，由于蛮族的入侵，他的隐修士们已经四散，如今正在整个西西里游荡，并且因为没有领导者，他们既不关心自己的灵魂，也不留意修会的纪律。因此，我们命令你以一切谨慎和勤勉寻找并集合这些隐修士，将他们与他们的领导者——该主教——一起安置在位于墨西拿城的圣德奥多禄隐修院中，以便那些现在在那里、我们发现有需要领导者的人，以及那些你可能已经找到并带回的属于他团体的隐修士，都能在他的领导下共同事奉全能的主。此外，请知悉我们已将此事通知了同一城市可敬的斐理伯主教，以免在他所管理的教区中任何规定在未经他知晓的情况下被打乱。"
+  }
+}

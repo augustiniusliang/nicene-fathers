@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202079",
+    "title": "Letter 79",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 79",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 79",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eustathius bishop of Sebastia</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Even before receiving your letter I knew what trouble you are ready to undergo for every one, and specially for my humble self because I am exposed in this struggle. So when I received your letter from the reverend Eleusinius, and saw him actually before my face, I praised God for bestowing on me such a champion and comrade, in my struggles on behalf of true religion by the aid of the Spirit. Be it known to your exalted reverence that I have hitherto sustained some attacks from high magistrates, and these no light ones; while both the prefect and the high chamberlain pleaded with sympathy for my opponents. But, so far, I have sustained every assault unmoved, by that mercy of God which supplies to me the aid of the Spirit, and strengthens my weakness through Him.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202079.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202079.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七十九书",
+    "p0002": "\\Emph{凯撒勒雅的圣巴西略}",
+    "p0003": "\\Emph{致\\Person{塞巴斯特亚主教欧斯塔修}。}",
+    "p0004": "甚至在我收到您的信函之前，我就知道您愿意为每个人承受怎样的困难，特别是为我这个卑微的人，因为在这场斗争中我暴露无遗。所以当我从可敬的\\Person{厄肋乌西尼}手中收到您的信函，并亲眼看到他本人时，我赞美天主，因祂赐予我这样一位斗士和同伴，在藉着圣神的助佑为真宗教而奋斗的过程中。请尊贵的您知晓，至今我承受了一些来自高级官员的攻击，而且并非轻微；总督和高级内侍都同情地为我对手求情。但是，到目前为止，我靠着天主的仁慈，没有被动摇，这仁慈藉着圣神赐予我助佑，并透过祂坚固我的软弱。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360211061",
+    "title": "Book XI, Letter 61",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 61",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 61",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Clotaire, King of the Franks</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Clotaire, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Among so many cares and anxieties which you sustain for the government of the peoples under your sway, it is to your exceeding praise and great reward that you are helpers of those who labour in the cause of God. And, since you have shown yourselves by the good things you have already done to be such that we may presume still better things of you, we are moved most gladly to request of you what will be to your own reward. Now certain monks, who had proceeded with our most reverend brother and fellow bishop Augustine to the nation of the Angli, have returned and told us with what great charity your Excellence refreshed this our brother when he was present with you, and with what supports you aided him on his departure. But, since the works of those who do not recede from the good they have begun are acceptable to our God, we beg of you, greeting you with fatherly affection, to hold as peculiarly commended to you the monks, bearers of these presents, whom we have sent to our aforesaid brother together with our most beloved sons, the presbyter Laurentius and the abbot Mellitus. And whatever kindness you before showed to him bestow ye on them also to the richer increase of your praise, to the end that, when through your provision they shall have accomplished without delay the journey they have begun, Almighty God may be the recompenser of your good deeds, and both your guardian in prosperity and your helper in adversity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, it has come to our ears that in your parts sacred orders are conferred with payment of money. And we are exceedingly distressed if the gifts of God are not attained by merit, but pounced upon by bribes. And, because this simoniacal heresy, which was the first to arise in the Church, was condemned by the authority of the apostles, we beg of you for your own reward to cause a synod to be assembled; to the end that, having been put down and eradicated by the definition of all the priests, it may in future find no power in your parts to endanger souls, nor be allowed henceforth to arise under any pretext whatever, that so our Almighty God may exalt you against your adversaries in proportion as He sees that you have zeal in fulfilling His commands, and as you take thought for the salvation of souls which had been in danger of perishing by the sword of this atrocity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211061.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211061.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷·第六十一封信",
+    "p0002": "\\Emph{致\\Place{法兰克}王\\Person{克洛塔尔}}。",
+    "p0003": "\\Person{格里高利}致\\Person{克洛塔尔}等。",
+    "p0004": "在您为治理治下民众而承受的如此众多的忧虑与焦虑之中，您堪受极大的赞誉与丰厚的赏报，因为您帮助那些为天主的事业而劳苦的人。既然您已借着已完成的善行表明自己如此，使我们能对您怀有更美好的期望，我们便极其乐意请求您那将为您自己赢得赏报的事。如今，某些与我们至为可敬的弟兄及同为主教的\\Person{奥古斯丁}一同前往\\Place{安格利}民族的隐修士已返回，并告诉我们，当我们的这位弟兄在您面前时，陛下以何等大的爱德款待了他，他离开时您又以何等支持援助了他。但是，既然那些不从已开始的善行退缩者的工作，在我们天主的眼中是悦纳的，我们以慈父般的深情向您致意，恳请您将这些书信的携带者——我们连同我们最钟爱的儿子，即司铎\\Person{劳伦提乌斯}与院长\\Person{梅利图斯}一起派往我们前述弟兄处的隐修士们——视为特别托付给您的人。您从前向他显示的任何善意，也请您向他们显示，使您的赞誉更加丰富，好使他们因您的供应而能无延迟地完成他们已开始的旅程，全能的天主便会成为您善行的报答者，在顺境中作您的护卫，在逆境中作您的援助者。",
+    "p0005": "再者，我们听说，在您的地区，神圣的品级是以金钱贿赂授予的。我们极其忧虑，天主的恩赐若不是因功绩而得，而是靠贿赂强夺。因这\\OriginalTerm{西蒙尼异端}{simoniacal heresy}，是首先在教会中兴起的，曾为宗徒的权威所谴责，我们为您的赏报恳请您召集一次主教会议，好使这异端被所有司铎的决议压制并根除，从此在您的地区不再有能力危害灵魂，也绝不允许将来以任何借口兴起。如此，全能的天主必会按照祂看到您在履行祂的命令时所怀的热忱，以及您对那些因这恶行的利剑而濒临丧亡的灵魂的救恩所怀的关切，而高举您以对抗您的仇敌。"
+  }
+}

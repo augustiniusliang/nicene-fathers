@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360209091",
+    "title": "Book IX, Letter 91",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 91",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 91",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Fortunatus, Bishop of Neapolis (Naples).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Fortunatus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Inasmuch as the Father of God's servants whom I had sent to the city of Naples has, by the ordering of God as it has pleased Him, departed this life, it has seemed good to me to send the bearer of these presents, the monk Barbatianus, for the government of the same monks. For the present we decide that he shall be Prior, so that, if his life should approve itself to your Fraternity, you may after a little time ordain him as their Father. For he has some good qualities that commend him. But he has this great fault, that he is exceedingly wise in his own conceit. And it is evidently known how many branches of sin may spring from this root. Let your Holiness, therefore, keep careful watch over him; and if you shall find him become wary in government and humble in his own mind, then, with the permission of God, advance him to the dignity of Abbot. But, if he makes little progress in humility, defer his ordination, and report to me .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209091.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209091.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第九卷，第九十一封书信}",
+    "p0002": "\\Emph{致\\Place{纳波里}（\\Place{拿波里}）主教\\Person{福图纳图斯}。}",
+    "p0003": "\\Person{额我略}致\\Person{福图纳图斯}等。",
+    "p0004": "既然我所派往\\Place{纳波里}城的天主仆人之父，已按天主的安排，如祂所愿，离世而去，我认为应当差遣持信者，隐修士\\Person{巴尔巴提亚努斯}，去管理同一批隐修士。目前我们决定他先担任\\OriginalTerm{副院}{Prior}，如此，倘他的生活能博得你的\\OriginalTerm{兄弟之爱}{Fraternity}的认可，你可稍后祝圣他为他们的\\OriginalTerm{院长}{Abbot}。因他有些好品质值得推荐。但他有一个大缺点，就是过于自以为聪明。显然可知，从这根源能生出多少罪的分支。因此，你的圣德要谨慎监督他；若你发现他治理有方且内心谦逊，那么，在得天主允准后，可擢升他至\\OriginalTerm{院长}{Abbot}尊位。但若他在谦逊上进步甚微，则应延迟他的祝圣，并向本人报告。"
+  }
+}

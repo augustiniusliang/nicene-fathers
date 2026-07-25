@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360211037",
+    "title": "Book XI, Letter 37",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 37",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 37",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Romanus, Guardian (Defensorem).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Romanus, Guardian of Sicily .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has come to our knowledge that, if any one has a suit against any clerics, you cause these clerics to be brought before you for judgment, setting at nought their bishops. If this be so, seeing that it is evidently very unsuitable, we order you by this our authority that you presume not to do it any more. But, if any one should have a suit against any cleric, let him go to his bishop, that either he may take cognizance himself, or at any rate that judges may be deputed by him; or, if it should be a case for arbitration, let the executive authority deputed by him compel the parties to choose a judge. But, if any cleric or lay person should have a suit against a bishop, then you ought to interpose, so that either you yourself may take cognizance of the matter between them or that on your admonition they may choose for themselves judges. For, if each single bishop has not his own jurisdiction reserved to him, what else is done but that ecclesiastical order is confounded through us by whom it ought to be guarded?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Further, it has been reported to us that, certain clerics having been sent into penance for fault requiring it by our most reverend brother bishop John, you have on your own authority, without his knowledge removed them from it. Now, if this is true, know that you have done a thing altogether unseemly, and calling for no light reproof. Wherefore restore these clerics without delay to their bishop. And beware of committing this fault in future: for, should you be inattentive, know that you will incur our anger in no slight degree.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211037.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211037.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷　书信三十七",
+    "p0002": "\\Emph{致\\OriginalTerm{护民官}{Defensorem}罗玛诺。}",
+    "p0003": "\\Person{额我略}致\\Place{西西里}护民官\\Person{罗玛诺}。",
+    "p0004": "我们得知，若有人对某位圣职人员提起诉讼，你竟将这些圣职人员带到你面前受审，无视他们的主教。倘若如此，此事显然极不合适，兹凭我们的权柄命令你，不得再如此妄为。但是，若有人对圣职人员提起诉讼，应前往该圣职人员的主教处，由主教亲自审理，或至少由他委派法官；如果是仲裁案件，则由他委派的行政当局强制当事人选择一位仲裁法官。但是，若有圣职人员或平信徒对主教提起诉讼，则你应当介入，或由你亲自审理他们之间的案件，或经你劝告让他们自行选择法官。因为，如果每位主教都不能保留自己的司法权，岂非正是由我们——本应维护教会秩序的人——使教会秩序陷入混乱？",
+    "p0005": "此外，有人向我们报告，我们可敬的弟兄\\Person{若望}主教曾将若干有过失的圣职人员处以补赎，而你却未告知他，便擅自将他们撤除补赎。倘若属实，须知你所行之事极不恰当，理应受到严厉斥责。因此，即刻将这些圣职人员交还给他们的主教。今后切勿再犯此过：你若疏忽，须知必将在极大程度上招致我们的愤怒。"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "2202",
+    "title": "Homilies on Second Corinthians",
+    "breadcrumbs": "Home > Fathers of the Church > Homilies on Second Corinthians (Chrysostom)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Homilies on Second Corinthians",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Homily 1</strong> 2 Corinthians 1:1-5\n<strong>Homily 2</strong> 2 Corinthians 1:6-11\n<strong>Homily 3</strong> 2 Corinthians 1:12-22\n<strong>Homily 4</strong> 2 Corinthians 1:23-2:11\n<strong>Homily 5</strong> 2 Corinthians 2:12-17\n<strong>Homily 6</strong> 2 Corinthians 3:1-6\n<strong>Homily 7</strong> 2 Corinthians 3:7-18\n<strong>Homily 8</strong> 2 Corinthians 4:1-7\n<strong>Homily 9</strong> 2 Corinthians 4:8-18\n<strong>Homily 10</strong> 2 Corinthians 5:1-10\n<strong>Homily 11</strong> 2 Corinthians 5:11-21\n<strong>Homily 12</strong> 2 Corinthians 6:1-10\n<strong>Homily 13</strong> 2 Corinthians 6:11-7:1\n<strong>Homily 14</strong> 2 Corinthians 7:2-7\n<strong>Homily 15</strong> 2 Corinthians 7:8-13\n<strong>Homily 16</strong> 2 Corinthians 7:13-8:6\n<strong>Homily 17</strong> 2 Corinthians 8:7-15\n<strong>Homily 18</strong> 2 Corinthians 8:16-24\n<strong>Homily 19</strong> 2 Corinthians 9:1-9\n<strong>Homily 20</strong> 2 Corinthians 9:10-15\n<strong>Homily 21</strong> 2 Corinthians 10:1-6\n<strong>Homily 22</strong> 2 Corinthians 10:7-18\n<strong>Homily 23</strong> 2 Corinthians 11:1-12\n<strong>Homily 24</strong> 2 Corinthians 11:13-21\n<strong>Homily 25</strong> 2 Corinthians 11:21-33\n<strong>Homily 26</strong> 2 Corinthians 12:1-10\n<strong>Homily 27</strong> 2 Corinthians 12:11-15\n<strong>Homily 28</strong> 2 Corinthians 12:16-21\n<strong>Homily 29</strong> 2 Corinthians 13:1-9\n<strong>Homily 30</strong> 2 Corinthians 13:10-14",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Talbot W. Chambers. From Nicene and Post-Nicene Fathers, First Series, Vol. 12. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1889.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2202.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Talbot W. Chambers.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1889.",
+      "srcurl": "<http://www.newadvent.org/fathers/2202.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "格林多后书讲道集",
+    "p0002": "\\Emph{讲道1} \\BibleRef{格后 1:1-5}\\newline{}\\Emph{讲道2} \\BibleRef{格后 1:6-11}\\newline{}\\Emph{讲道3} \\BibleRef{格后 1:12-22}\\newline{}\\Emph{讲道4} \\BibleRef{格后 1:23-2:11}\\newline{}\\Emph{讲道5} \\BibleRef{格后 2:12-17}\\newline{}\\Emph{讲道6} \\BibleRef{格后 3:1-6}\\newline{}\\Emph{讲道7} \\BibleRef{格后 3:7-18}\\newline{}\\Emph{讲道8} \\BibleRef{格后 4:1-7}\\newline{}\\Emph{讲道9} \\BibleRef{格后 4:8-18}\\newline{}\\Emph{讲道10} \\BibleRef{格后 5:1-10}\\newline{}\\Emph{讲道11} \\BibleRef{格后 5:11-21}\\newline{}\\Emph{讲道12} \\BibleRef{格后 6:1-10}\\newline{}\\Emph{讲道13} \\BibleRef{格后 6:11-7:1}\\newline{}\\Emph{讲道14} \\BibleRef{格后 7:2-7}\\newline{}\\Emph{讲道15} \\BibleRef{格后 7:8-13}\\newline{}\\Emph{讲道16} \\BibleRef{格后 7:13-8:6}\\newline{}\\Emph{讲道17} \\BibleRef{格后 8:7-15}\\newline{}\\Emph{讲道18} \\BibleRef{格后 8:16-24}\\newline{}\\Emph{讲道19} \\BibleRef{格后 9:1-9}\\newline{}\\Emph{讲道20} \\BibleRef{格后 9:10-15}\\newline{}\\Emph{讲道21} \\BibleRef{格后 10:1-6}\\newline{}\\Emph{讲道22} \\BibleRef{格后 10:7-18}\\newline{}\\Emph{讲道23} \\BibleRef{格后 11:1-12}\\newline{}\\Emph{讲道24} \\BibleRef{格后 11:13-21}\\newline{}\\Emph{讲道25} \\BibleRef{格后 11:21-33}\\newline{}\\Emph{讲道26} \\BibleRef{格后 12:1-10}\\newline{}\\Emph{讲道27} \\BibleRef{格后 12:11-15}\\newline{}\\Emph{讲道28} \\BibleRef{格后 12:16-21}\\newline{}\\Emph{讲道29} \\BibleRef{格后 13:1-9}\\newline{}\\Emph{讲道30} \\BibleRef{格后 13:10-14}"
+  }
+}

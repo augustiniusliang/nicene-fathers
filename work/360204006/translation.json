@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360204006",
+    "title": "Book IV, Letter 6",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 6",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 6",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Cyprian, Deacon.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Cyprian, Deacon and Rector of Sicily.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has been reported to us that a native of the province of Lucania, Petronilla by name, was converted through the exhortation of the bishop Agnellus, and that all her property, though she had it in her own power, she nevertheless bestowed on the monastery which she entered even by a special deed of gift: also that the aforesaid bishop died leaving half of his substance to one Agnellus, his son, who is said to be a notary of our Church, and half to the said monastery. But, when they had fled for refuge to Sicily because of the calamity impending on Italy, the above-named Agnellus is said to have corrupted her morals and defiled her, and, finding her with child, to have seduced her from the monastery, and to have taken away with her all her belongings, both those that had been her own and such as she might have had given her by his own father, and that, after perpetrating such and so great a crime, he claims these things as his own. We therefore exhort your Love to cause the aforesaid man, and the above-named woman, to be summarily brought before you, and to institute a most thorough enquiry into the case. And, if you should find it to be as reported to us, determine an affair defiled by so many iniquities with the utmost severity of expurgation; to the end that both strict retribution may overtake the above-named man, who has regarded neither his own nor her condition, and that, she having been first punished and consigned to a monastery under penance, all the property that had been taken away from the oft above-named place, with all its fruits and accessions, may be restored.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204006.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204006.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷 第六封信",
+    "p0002": "\\Emph{致执事西彼廉}",
+    "p0003": "\\Person{额我略}致\\Person{西彼廉}，执事及\\Place{西西里}总代理。",
+    "p0004": "有人向我们报告，\\Place{卢卡尼亚}省有一名女子，名叫\\Person{伯多禄尼拉}，通过\\Person{阿格内鲁斯}主教的劝勉而皈依；她虽拥有自己财产的管理权，却仍通过特别的赠与契据，将全部财产赠与她所进入的隐修院。此外，上述主教去世时，将其一半财产留给了他的儿子\\Person{阿格内鲁斯}，据称他是我们教会的公证员，另一半则给了上述隐修院。然而，因\\Place{意大利}面临的灾祸，他们逃往\\Place{西西里}避难，上述\\Person{阿格内鲁斯}却据说败坏她的道德并玷污了她，发现她怀孕后，诱使她离开隐修院，并带走了她所有的财物，包括她自己的以及她可能从他父亲那里得到的一切；在犯下如此重大的罪行之后，他竟声称这些东西归他所有。因此，我们敦促你的仁爱，将上述男子和上述女子立即带到你面前，并对该案进行最彻底的调查。如果你发现情况正如向我们报告的那样，就用最严厉的净化手段裁决这桩被如此众多不义玷污的案件；以使严格的报应降临到上述男子身上，他既不念及自己的身份也不念及她的处境；同时，她先受惩罚并被送往隐修院补赎，然后所有从上述地方取走的财产，连同其所有果实和增益，都应该归还。"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "1102068",
+    "title": "From Jerome to Augustine (A.D. 402)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 68",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Jerome to Augustine (A.D. 402)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Augustine, My Lord, Truly Holy and Most Blessed Father</em>, <em>Jerome Sends Greeting in Christ.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. When my kinsman, our holy son Asterius, subdeacon, was just on the point of beginning his journey, the letter of your Grace arrived, in which you clear yourself of the charge of having sent to Rome a book written against your humble servant. I had not heard that charge; but by our brother Sysinnius, deacon, copies of a letter addressed by some one apparently to me have come hither. In the said letter I am exhorted to sing the <greek>παλινωδία</greek>, confessing mistake in regard to a paragraph of the apostle's writing, and to imitate Stesichorus, who, vacillating between disparagement and praises of Helen, recovered, by praising her, the eyesight which he had forfeited by speaking against her. Although the style and the method of argument appeared to be yours, I must frankly confess to your Excellency that I did not think it right to assume without examination the authenticity of a letter of which I had only seen copies, lest perchance, if offended by my reply, you should with justice complain that it was my duty first to have made sure that you were the author, and only after that was ascertained, to address you in reply. Another reason for my delay was the protracted illness of the pious and venerable Paula. For, while occupied long in attending upon her in severe illness, I had almost forgotten your letter, or more correctly, the letter written in your name, remembering the verse, <quote>Like music in the day of mourning is an unseasonable discourse.</quote> {{BIBLE:sir 22:6}} Therefore, if it is your letter, write me frankly that it is so, or send me a more accurate copy, in order that without any passionate rancour we may devote ourselves to discuss scriptural truth; and I may either correct my own mistake, or show that another has without good reason found fault with me.",
+        "scripture": [
+          "sir 22:6"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. Far be it from me to presume to attack anything which your Grace has written. For it is enough for me to prove my own views without controverting what others hold. But it is well known to one of your wisdom, that every one is satisfied with his own opinion, and that it is puerile self-sufficiency to seek, as young men have of old been wont to do, to gain glory to one's own name by assailing men who have become renowned. I am not so foolish as to think myself insulted by the fact that you give an explanation different from mine; since you, on the other hand, are not wronged by my views being contrary to those which you maintain. But that is the kind of reproof by which friends may truly benefit each other, when each, not seeing his own bag of faults, observes, as Persius has it, the wallet borne by the other. Let me say further, love one who loves you, and do not because you are young challenge a veteran in the field of Scripture. I have had my time, and have run my course to the utmost of my strength. It is but fair that I should rest, while you in your turn run and accomplish great distances; at the same time (with your leave, and without intending any disrespect), lest it should seem that to quote from the poets is a thing which you alone can do, let me remind you of the encounter between Dares and Entellus, and of the proverb, <quote>The tired ox treads with a firmer step.</quote> With sorrow I have dictated these words. Would that I could receive your embrace, and that by converse we might aid each other in learning!",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "3. With his usual effrontery, Calphurnius, surnamed Lanarius, has sent me his execrable writings, which I understand that he has been at pains to disseminate in Africa also. To these I have replied in past, and shortly; and I have sent you a copy of my treatise, intending by the first opportunity to send you a larger work, when I have leisure to prepare it. In this treatise I have been careful not to offend Christian feeling in any, but only to confute the lies and hallucinations arising from his ignorance and madness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Remember me, holy and venerable father. See how sincerely I love you, in that I am unwilling, even when challenged, to reply, and refuse to believe you to be the author of that which in another I would sharply rebuke. Our brother Communis sends his respectful salutation.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102068.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102068.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\Person{热罗尼莫}致\\Person{奥古斯丁}（主历402年）",
+    "p0002": "\\Emph{致\\Person{奥古斯丁}，我主，至圣至福之父}，\\Emph{\\Person{热罗尼莫}在\\Person{基督}内致候。}",
+    "p0003": "1. 当我的亲戚、我们的圣子\\Person{阿斯忒里乌斯}副执事正要启程时，尊驾的信函到了；在信中，你澄清了关于你曾向罗马寄送一本攻击你卑仆之书的指控。我未曾听闻此指控；但通过我们的兄弟、执事\\Person{西辛尼乌斯}，有人寄给我的一封信的抄本传到了这里。在那封信中，我被劝诫撰写\\OriginalTerm{翻案诗}{παλινωδία}，承认在宗徒著作的一段中犯了错误，并效法\\Person{斯忒西科罗斯}；他曾在责备和赞美\\Person{海伦}之间摇摆，通过赞美她，重获了因出言反对她而丧失的视力。虽然信的文笔和论证方式看似是你的，但我必须坦诚地向尊驾承认，我认为，在仅见到抄本的情况下，不宜未经查证就认定一封信的真实性，以免万一你因我的回复而恼怒，你有理由抱怨说，我理应先确证你是作者，待查明后再回复你。我延迟的另一个原因是虔诚可敬的\\Person{保拉}久病不愈。因为，在长时间忙于照料她重病期间，我几乎忘记了你的信，更准确地说，是以你的名义写来的信，此时我想起那句经上的话：\\BibleQuote{不合时宜的言论，有如居丧时的音乐；}\\BibleRef{德 22:6}因此，若那确是你的信，请坦率地书面告诉我确是如此，或寄给我一份更准确的抄本，以便我们毫无激愤地专心讨论圣经真理；而我可以或是改正自己的错误，或是表明别人无端指责了我。",
+    "p0004": "2. 我绝不敢擅自攻击尊驾所写的任何东西。因为对我来说，证明自己的观点已足够，无需反驳他人所持的。然而，以你的智慧，深知每个人都满足于自己的意见，而攻击已成名的前辈以图为自己扬名，那是青年人旧时的惯技，是一种幼稚的自满。我并非如此愚蠢，以至于认为你给出与我不同的解释是对我的侮辱；同样，你也并未因我的观点与你所持的相反而受到伤害。但那正是朋友能真正互益的一种责备：各人看不见自己背上装满过错的包袱，却如\\Person{珀尔修斯}所言，注意别人背负的袋子。容我再说，爱那爱你的人，不要因为年轻，就挑战圣经领域中的老兵。我已有过我的时刻，已尽我之力驰骋了全程。理应我该休息，而你接替奔跑，去完成长远的距离；与此同时（请容我说，并无不敬之意），免得似乎只有你能引用诗人的作品，让我提醒你\\Person{达勒斯}与\\Person{恩特鲁斯}的较量，以及那句谚语：\\Quote{疲倦的牛迈步更稳当。}我是怀着忧伤口授这些话的。但愿我能得到你的拥抱，并借着交谈在学问上互相增益！",
+    "p0005": "3. \\Person{卡尔普尼乌斯}，别号\\Emph{拉纳里乌斯}，以他一贯的厚颜无耻，给我寄来了他可憎的作品；我得知他还不遗余力地在非洲散布它们。对此，我先前已简短回复；并已寄给你我的一篇论著的抄本，打算一有机会，当我有暇备稿时，再寄给你一份更详细的论著。在这篇论著中，我注意不伤害任何基督徒的情感，而只是驳斥出于他的无知与疯狂而编造的谎言与幻觉。",
+    "p0006": "请记我一念，圣洁而可敬的父亲。看，我多么真诚地爱你，因为我即使被挑衅，也不愿回应，并拒绝相信那封在别人那里我会厉加斥责的信，是出于你手。我们的兄弟\\Person{康穆尼斯}向你致以问候。"
+  }
+}

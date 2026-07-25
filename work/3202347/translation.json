@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202347",
+    "title": "Letter 347",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 347",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 347",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Libanius to Basil.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Every bishop is a thing out of which it is very hard to get anything. The further you have advanced beyond other people in learning, the more you make me afraid that you will refuse what I ask. I want some rafters. Any other sophist would have called them stakes, or poles, not because he wanted stakes or poles, but rather for showing off his wordlets than out of any real need. If you do not supply them, I shall have to winter in the open air.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202347.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202347.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第三四七封信}",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Person{利巴尼乌斯}致\\Person{巴西略}。",
+    "p0004": "每一位主教都是极难从中得到任何东西的人。你在学识上越超越他人，你越使我害怕你会拒绝我的请求。我需要一些椽木。任何其他智者都会称它们为桩子或杆子，倒不是因为他需要桩子或杆子，而是为了炫耀他的小字眼，而非出于任何实际需要。你若不予供应，我将不得不在露天过冬。"
+  }
+}

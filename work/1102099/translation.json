@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "1102099",
+    "title": "Letter 99 (A.D. 408 or beginning of 409)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 99",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 99 (A.D. 408 or beginning of 409)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Very Devout Italica, an Handmaid of God, Praised Justly and Piously by the Members of Christ, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. Up to the time of my writing this reply, I had received three letters from your Grace, of which the first asked urgently a letter from me, the second intimated that what I wrote in answer had reached you, and the third, which conveyed the assurance of your most benevolent solicitude for our interest in the matter of the house belonging to that most illustrious and distinguished young man Julian, which is in immediate contact with the walls of our Church. To this last letter, just now received, I lose no time in promptly replying, because your Excellency's agent has written to me that he can send my letter without delay to Rome. By his letter we have been greatly distressed, because he has taken pains to acquaint us with the things which are taking place in the city (Rome) or around its walls, so as to give us reliable information concerning that which we were reluctant to believe in the authority of vague rumours. In the letters which were sent to us previously by our brethren, tidings were given to us of events, vexatious and grievous, it is true, but much less calamitous than those of which we now hear. I am surprised beyond expression that my brethren the holy bishops did not write to me when so favourable an opportunity of sending a letter by your messengers occurred, and that your own letter conveyed to us no information concerning such painful tribulation as has befallen you—tribulation which, by reason of the tender sympathies of Christian charity, is ours as well as yours. I suppose, however, that you deemed it better not to mention these sorrows, because you considered that this could do no good, or because you did not wish to make us sad by your letter. But in my opinion, it does some good to acquaint us even with such events as these: in the first place, because it is not right to be ready to <quote>rejoice with them that rejoice,</quote> but refuse to <quote>weep with them that weep;</quote> and in the second place, because <quote>tribulation works patience, and patience experience, and experience hope; and hope makes not ashamed, because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. Far be it, therefore, from us to refuse to hear even of the bitter and sorrowful things which befall those who are very dear to us! For in some way which I cannot explain, the pain suffered by one member is mitigated when all the other members suffer with it. {{BIBLE:1co 12:26}} And this mitigation is effected not by actual participation in the calamity, but by the solacing power of love; for although only some suffer the actual burden of the affliction, and the others share their suffering through knowing what these have to bear, nevertheless the tribulation is borne in common by them all, seeing that they have in common the same experience, hope, and love, and the same Divine Spirit. Moreover, the Lord provides consolation for us all, inasmuch as He has both forewarned us of these temporal afflictions, and promised to us after them eternal blessings; and the soldier who desires to receive a crown when the conflict is over, ought not to lose courage while the conflict lasts, since He who is preparing rewards ineffable for those who overcome, does Himself minister strength to them while they are on the field to battle.",
+        "scripture": [
+          "1co 12:26"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "3. Let not what I have now written take away your confidence in writing to me, especially since the reason which may be pled for your endeavouring to lessen our fears is one which cannot be condemned. We salute in return your little children, and we desire that they may be spared to you, and may grow up in Christ, since they discern even in their present tender age how dangerous and baneful is the love of this world. God grant that the plants which are small and still flexible may be bent in the right direction in a time in which the great and hardy are being shaken. As to the house of which you speak, what can I say beyond expressing my gratitude for your very kind solicitude? For the house which we can give they do not wish; and the house which they wish we cannot give, for it was not left to the church by my predecessor, as they have been falsely informed, but is one of the ancient properties of the church, and it is attached to the one ancient church in the same way as the house about which this question has been raised is attached to the other.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102099.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102099.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信九十九（公元408年或409年初）",
+    "p0002": "\\Emph{致极虔敬并受基督肢体公义虔诚赞颂的天主婢女\\Person{意塔利卡}，奥古斯丁在主内致候。}",
+    "p0003": "1. 在我写这封回信时，我已收到尊驾的三封来信，其中第一封急切请求我写一封信，第二封告知我写的回信已送达您处，而第三封则表达了您极仁慈地为我们的利益而关心属于那位极其显赫杰出的青年\\Person{犹利安}的房屋之事，这房屋紧邻我们教会墙壁。刚收到这最后一封信，我立即不失时机地回信，因为尊驾的代理人写信给我说，他可以毫无延迟地将我的信送往\\Place{罗马}。他的信使我们极为忧苦，因为他特地让我们了解城里（\\Place{罗马}）或城墙周围正在发生的事情，从而就我们之前不愿相信的模糊传闻之可靠性，提供了确实的信息。在先前弟兄们寄给我们的信中，带给我们的消息虽确实是令人烦恼而伤心的，但远不及我们现在所听到的那般灾难深重。我无法形容地感到诧异，我的主教弟兄们在有如此良机通过您的信使寄信时竟未写信给我，而且您本人的信也未向我们传递任何有关降临到你们身上的痛苦患难的消息──这患难，因着基督徒爱德的柔情同感，也是我们的患难，如同是你们的一样。不过我想，你们认为最好不提这些伤心事，因为你们觉得这没有什么好处，或是因为你们不愿用信使我们忧伤。但在我看来，即使将诸如此类的事告知我们，也确有某种益处：首先，因为不宜准备\\BibleQuote{与喜乐的一同喜乐}，却拒绝\\BibleQuote{与哭泣的一同哭泣}；其次，因为\\BibleQuote{患难生忍耐，忍耐生老练，老练生望德；望德不叫人蒙羞，因为天主的爱藉着赐给我们的圣神，已倾注在我们心中了}。",
+    "p0004": "2. 因此，我们绝不可拒绝听闻临于我们至亲身上那些痛苦忧伤的事！因为，以我无法说明的方式，当一个肢体受苦时，如果所有其他肢体都一同受苦，那肢体的痛苦就会减轻。\\BibleRef{格前 12:26} 这种减轻并非借着实际分担灾祸，而是藉由爱的安慰力量；因为虽然只有一些人实际承受苦难的负担，其他人是透过知晓他们所承受的而分担其痛苦，然而患难是由他们全体共同承担的，因为他们共有着同样的经历、望德和爱，以及同一的天主圣神。此外，主为我们所有人提供安慰，因为祂既已预先警戒我们这些现世的患难，又应许我们在此之后永生之福；而且那渴望在战斗结束时领受冠冕的士兵，不应在战斗持续时丧胆，因为那为得胜者预备无可言喻之赏报的祂，在他们于沙场战斗时，亲自赐予他们力量。",
+    "p0005": "3. 不要让现在所写的这些打消你写信给我的信心，尤其因为你为避免我们的恐惧而可能提出的理由，并无不可非议之处。我们回致问候你的幼小儿女，并切愿他们能留给你，且在基督内成长，因为即使在目前的稚弱年龄，他们已经看出此世的贪爱是多么危险有害。愿天主使这些幼小仍然柔韧的植物，在此大树与硬木正被摇撼的时期，得以朝向正确的方向弯曲。至于你所说的那房子，除了对你的极仁慈关切表示感谢之外，我还能说什么呢？因为我们所能给出的房子，他们不想要；而他们想要的房子，我们不能给，因为它并非如他们被虚假告知的那样，是由我的前任留给教会的，而是属于教会的古老产业之一，且它附属于那座古老教堂，正如引起这疑问的房子附属于另一座古老教堂一样。"
+  }
+}

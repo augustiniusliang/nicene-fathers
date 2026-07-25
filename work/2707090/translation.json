@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707090",
+    "title": "Letter 90",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 90",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 90",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Lupicinus the Master.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I have passed through the contests of my prime. I see before me the confines of old age, and have expected as an old man to have more honour given me. But I am a mark for the shafts of slander, and am driven to meet by defence accusations levelled against me. Under these circumstances, I beseech your excellency not to believe the lies of my accusers. Had I been living a life of silence, there might have been room for the suspicion of unorthodoxy. But I am continually discoursing in the churches, and therefore have, by God's grace, innumerable witnesses to the soundness of what I teach. I follow the laws and rules of the apostles. I test my teaching by applying to it, like a rule and measure, the faith laid down by the holy and blessed Fathers at Nicæa. If any one maintain that I hold any contrary opinion, let him accuse me face to face; let him not slander me in my absence. It is fair that even the defendant should have an opportunity of speech, and meet with his defence the charges brought against him, and that then and not till then should the judges lawfully pronounce their sentence. This favour I beg through your excellency's assistance. If any men wish to condemn me unheard, I accept with willingness even their unjust sentence. For I wait for the judgment of the Master, where we need neither witnesses nor accusers. Before Him, as says the divine Apostle, <quote>all things are naked and opened.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707090.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707090.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第九十",
+    "p0002": "\\Emph{致\\Person{卢皮奇努斯}大人。}",
+    "p0003": "我经历了年轻时的角力。我已看见老年近在咫尺，本期望作为长者能得到更多的尊敬。然而我却成了毁谤之矢的目标，被迫以辩护应对加诸于我的指控。在此情形下，我恳请大人不要相信控告者的谎言。若我一直过着默默无闻的生活，或许会有人怀疑我信仰不纯。但我不断在教会中宣讲，因此，靠天主的恩宠，我有无数的见证者证明我教导的正统。我遵循宗徒的规律和规则。我用圣洁可敬的教父们在\\Place{尼西亚}所订立的信德，如同用尺子和规则一般，来衡量我的教导。若有人声称我持有相反的意见，请他当面控告我；不要在我背后毁谤我。即使被告也应有机会发言，以辩护应对对他的指控，然后，唯有然后，审判者才能合法地宣判。我愿藉着大人的协助求得这一恩惠。若有人不愿听我申辩就要定我的罪，我甚至甘愿接受他们不义的判决。因为我等待上主的审判，在那里我们既不需要证人也不需要控告者。在祂面前，正如神圣的宗徒所说：\\BibleQuote{万物都是赤裸敞开的。}"
+  }
+}

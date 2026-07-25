@@ -1,0 +1,102 @@
+{
+  "source": {
+    "source_id": "3604045",
+    "title": "Letter 45",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 45",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 45",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Leo, the bishop, and the holy Synod which is assembled in the City of Rome to Pulcheria Augusta.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "h2",
+        "text": "I. He sends a copy of the former letter which failed to reach her.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "If the letters respecting the Faith which were dispatched to your Grace by the hands of our clergy had reached you, it is certain you would have been able, the Lord helping you, to provide a remedy for these things which have been done against the Faith. For when have you failed either the priests or the religion or the Faith of Christ? But when those who were sent were so completely hindered from reaching your clemency that only one of them, namely Hilary our deacon, with difficulty fled and returned, we thought it necessary to rewrite our letter: and that our prayers may deserve to receive more weight, we have subjoined a copy of the very document which did not reach your clemency, entreating you even more earnestly than before to take under protection that religion in which you excel which will win you the greater glory in proportion to the heinousness of the crimes against which your royal faith requires you to proceed, lest the integrity of the Christian Faith be violated by any plot of man's devising. For the things which were believed to require setting at rest and healing by the meeting of a Synod at Ephesus, have not only resulted in still greater disturbances of peace but, which is the more to be regretted, even in the overthrow of the very Faith whereby we are Christians.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "h2",
+        "text": "II. He also sends a copy of his letter to the Emperor and explains its contents",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "And they indeed, who were sent, and one of whom, escaping the violence of the bishop of Alexandria who claims everything for himself, faithfully reported to us what took place in the Synod, opposed, as it became them, what I will call the frenzy not the judgment of one man, protesting that those things which were being carried through by violence and fear could not reverse the mysteries of the Church and the Creed itself composed by the Apostles, and that no injuries could sever them from that Faith which they had brought fully set forth and expounded from the See of the blessed Apostle Peter to the holy synod. And since this statement was not allowed to be read out at the bishop's request, in order forsooth that by the rejection of that Faith which has crowned patriarchs, prophets, apostles and martyrs, the birth according to the flesh of Jesus Christ our Lord and the confession of His true Death and Resurrection (we shudder to say it) might be overthrown, we have written on this matter according to our ability, to our most glorious and (what is far greater) our Christian Prince, and at the same time have subjoined a copy of the letter to you to the end that he may not allow the Faith, in which he was re-born and reigns through God's grace, to be corrupted by any innovation, since Bishop Flavian continues in communion with us all, and that which has been done without regard to justice and contrary to all the teaching of the canons can, under no consideration, be held valid. And because the Synod of Ephesus has not removed but increased the scandal of disagreement (I have asked him) to appoint a place and time for holding a council within Italy, all quarrels and prejudices on both sides being suspended, that everything which has engendered offense may be the more diligently reconsidered and without wounding the Faith, without injuring religion those priests may return into the peace of Christ, who through irresolution were forced to subscribe, and only their errors be removed.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "h2",
+        "text": "III. He asks her to assist his petition with the Emperor.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "And that we may be worthy to obtain this, let your well-tried faith and protection, which has always helped the Church in her labours, deign to advance our petition with our most clement Prince, under a special commission so to act from the blessed Apostle Peter; so that before this civil and destructive war gains strength within the Church, he may grant opportunity of restoring unity by God's aid, knowing that the strength of his empire will be increased by every extension of Catholic freedom that his kindly will affects.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "p",
+        "text": "Dated 13th of October in the consulship of the illustrious Asturius and Protogenes (449).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604045.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604045.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第45封信}",
+    "p0002": "主教\\Person{良}、以及在\\Place{罗马}城聚集的圣主教会议，致\\Person{普尔喀丽亚}奥古斯塔。",
+    "p0003": "I. 他送去一封未能到达她手中的前信副本。",
+    "p0004": "如果先前经由我们圣职人员之手呈递至陛下圣驾的、关于信仰的信函确实抵达了您处，那么主帮助之下，您无疑早已能够为那些违背信仰所行之事提供补救。因为您何时曾辜负过司铎、宗教或基督的信仰？但当那些被派遣之人受到如此完全的阻碍，无法抵达陛下尊前，以致只有我们的一位执事\\Person{希拉里}艰难逃脱并返回时，我们觉得有必要重写我们的信函；并且，为使我们的恳求能获得更多重视，我们附上了那份未送达陛下的文件副本，比从前更恳切地请求您维护那您所精通的宗教——您愈是尊贵，便愈需要对付的罪行之严重性，您的皇家信仰要求您采取行动，以免基督教信仰的完整受人计谋的侵犯。因为那些认为需要藉由在\\Place{厄弗所}召开的主教会议来解决和治愈的事情，非但没有平息纷争，反而导致了更大的和平扰乱，而且（更令人痛惜的是）甚至推翻了那使我们成为基督徒的信仰本身。",
+    "p0005": "II. 他也送上一封致皇帝的信函副本并解释其内容",
+    "p0006": "那些被派遣之人——其中一位逃脱了那凡事自专的\\Place{亚历山大}主教的暴行，忠实地向我们报告了主教会议上所发生的事——他们按照身份反对（我姑且称之为）一个人的狂乱而非判断，抗议说那些藉暴力与恐惧推行之事不能推翻教会的奥迹和宗徒们所撰写的信经本身，并且任何伤害都不能使他们脱离那从蒙福宗徒\\Person{伯多禄}之座完整陈述并阐述后带至圣主教会议的信仰。既然在主教请求下不允许宣读这份声明，为的是（实在是）藉着拒绝那曾使宗祖、先知、宗徒及殉道者得冠冕的信仰，来推翻我们的主耶稣基督按肉身的诞生以及宣认祂真实的死亡与复活（我们颤栗地说出这一点），我们根据我们的能力就此事写信给我们最荣耀的、而且（更重要的）是我们信奉基督的君主，同时附上一封给您的信函副本，使他决不允许那信仰——他是在其中藉天主的恩宠而重生并执政的——被任何创新所腐化，既然\\Person{弗拉维安}主教仍与我们全体共融，并且那无视正义、违反所有教规教导而行之事，无论如何都不能被视为有效。由于\\Place{厄弗所}主教会议没有消除反而增加了分歧的丑闻（我曾请求他）指定一个在\\Place{意大利}境内召开会议的地点和时间，暂停双方所有争执与偏见，以便更仔细地重新考虑所有引起冒犯之事，并在不伤害信仰、不损害宗教的情况下，使那些因犹豫而被迫签署的司铎们能返回基督的平安，并只除去他们的错误。",
+    "p0007": "III. 他请求她协助向皇帝陈情。",
+    "p0008": "为使我们堪当获得此事，愿您那久经考验的信德与保护——您一直在劳苦中帮助教会——俯就藉着蒙福宗徒\\Person{伯多禄}的特殊委托，向我们最仁慈的君主推进我们的请求；好在这内战和破坏性的战争在教会内获得力量之前，他能藉天主的助佑赐予恢复合一的机会，深知他帝国的力量将因他善意所影响的每一份公教自由的扩展而增长。",
+    "p0009": "颁于公元449年10月13日，在显赫的\\Person{阿斯图里乌斯}和\\Person{普罗托格内斯}执政官年份。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202158",
+    "title": "Letter 158",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 158",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 158",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Antiochus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "My sins have prevented me from carrying out the wish to meet you, which I have long entertained. Let me apologise by letter for my absence, and beseech you not to omit to remember me in your prayers, that, if I live, I may be permitted to enjoy your society. If not, by the aid of your prayers may I quit this world with good hope. I commend to you our brother the camel-master.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202158.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202158.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一五八书",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅的）}}",
+    "p0003": "\\Emph{致\\Person{安提约古}}。",
+    "p0004": "我的罪阻止了我实现长久以来想与你会面的愿望。请允许我以书信为我的缺席致歉，并恳求你切莫忘记在祈祷中纪念我，好使我若尚存于世，得以享受你的陪伴；若不然，也因你的祈祷，使我满怀善望离开此世。我将我们的兄弟——那骆驼夫——托付给你。"
+  }
+}

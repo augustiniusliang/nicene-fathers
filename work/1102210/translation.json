@@ -1,0 +1,64 @@
+{
+  "source": {
+    "source_id": "1102210",
+    "title": "Letter 210 (A.D. 423)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 210",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 210 (A.D. 423)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Most Beloved and Most Holy Mother Felicitas</em>, <em>and Brother Rusticus, and to the Sisters Who are with Them, Augustine and Those Who are with Him Send Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. Good is the Lord, and to every place extends His mercy, which comforts us by your love to us in Him. How much He loves those who believe and hope in Him, and who both love Him and love one another, and what blessings He keeps in store for them hereafter, He proves most remarkably in this, that on the unbelieving, the abandoned, and the perverse, whom He threatens with eternal fire, if they persevere in their evil disposition to the end, He does in this life bestow so many benefits, making <quote>His sun to rise on the evil and on the good,</quote> <quote>on the just and on the unjust,</quote> {{BIBLE:mat 5:45}} words in which, for the sake of brevity, some instances are mentioned that many more may be suggested to reflection; for who can reckon up how many gracious benefits the wicked receive in this life from Him whom they despise? Amongst these, this is one of great value, that by the experience of the occasional afflictions, which like a good physician He mingles the pleasures of this life, He admonishes them, if only they will give heed, to flee from the wrath to come, and while they are in the way, that is, in this life, to agree with the word of God, which they have made an adversary to themselves by their wicked lives. What, then, is not bestowed in mercy on men by the Lord God, since even affliction sent by Him is a blessing? For prosperity is a gift of God when He comforts, adversity a gift of God when He warns; and if He bestows these things, as I have said, even on the wicked, what does He prepare for those who bear with one another? Into this number you rejoice that through His grace you have been gathered, <quote>forbearing one another in love; endeavouring to keep the unity of the Spirit in the bond of peace.</quote> {{BIBLE:eph 4:2}} For there shall not be awanting occasion for your bearing one with another till God shall have so purified you, that, death being <quote>swallowed up in victory,</quote> {{BIBLE:1co 15:24}} <quote>God shall be all in all.</quote> {{BIBLE:1co 15:28}}",
+        "scripture": [
+          "mat 5:45",
+          "eph 4:2",
+          "1co 15:24",
+          "1co 15:28"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. We ought never, indeed, to take pleasure in quarrels; but however averse we may be to them, they occasionally either arise from love, or put it to the test. For how difficult is it to find any one willing to be reproved; and where is the wise man of whom it is said, <quote>Rebuke a wise man, and he will love you</quote>? {{BIBLE:pro 9:8}} But are we on that account not to reprove and find fault with a brother, to prevent him from going down through false security to death? For it is a common and frequent experience, that when a brother is found fault with he is mortified at the time, and resists and contradicts his friend, but afterwards reconsiders the matter in silence alone with God, where he is not afraid of giving offense to men by submitting to correction, but is afraid of offending God by refusing to be reformed, and thenceforward refrains from doing that for which he has been justly reproved; and in proportion as he hates his sin, he loves the brother whom he feels to have been the enemy of his sin. But if he belong to the number of those of whom it is said, <quote>Reprove not a scorner lest he hate you,</quote> {{BIBLE:pro 9:8}} the quarrel does not arise from love on the part of the reproved, but it exercises and tests the love of the reprover; for he does not return hatred for hatred, but the love which constrains him to find fault endures unmoved, even when he who is found fault with requites it with hatred. But if the reprover renders evil for evil to the man who takes offense at being reproved, he was not worthy to reprove another, but evidently deserves to be himself reproved. Act upon these principles, so that either quarrels may not arise, or, if they do arise, may quickly terminate in peace. Be more earnest to dwell in concord than to vanquish each other in controversy. For as vinegar corrodes a vessel if it remain long in it, so anger corrodes the heart if it is cherished till the morrow. These things, therefore, observe, and the God of peace shall be with you. Pray also unitedly for us, that we may cheerfully practise the good advices which we give to you.",
+        "scripture": [
+          "pro 9:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102210.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102210.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信210（公元423年）",
+    "p0002": "\\Emph{致最亲爱的至圣母亲\\Person{费利齐塔斯}、\\Person{鲁斯蒂库斯}弟兄，以及与她们在一起的姊妹们，\\Person{奥古斯丁}及与他在一起的人，在主内致候。}",
+    "p0003": "1. 主是美善的，祂的仁慈遍及各处，这仁慈藉着你们在祂内对我们的爱，安慰了我们。祂多么爱那些对祂怀有\\OriginalTerm{信德}{faith}和\\OriginalTerm{望德}{hope}，且既爱祂又彼此相爱的人，并为他们将来存留了什么福分，祂以最显著的方式证明：对于不信、堕落、乖戾的人，祂虽以永火警告他们，如果他们坚持恶念到底，祂却在今生赐给他们如此多的恩惠，使\\BibleQuote{祂使太阳上升，光照恶人，也光照善人；降雨给义人，也给不义的人}\\BibleRef{玛 5:45}，这些话简洁地说出一些例子，好使人联想到更多；因为谁能数清恶人在今生从他们轻视的天主那里得到多少恩惠呢？其中有一个极大的恩惠，就是通过时而临到的痛苦——祂如同良医将之与今生的欢乐调剂——告诫他们，只要他们愿意留意，就要逃避将来的义怒，趁着还在路上，即还在今生，与主的话和解，因为他们邪恶的生活已使自己与主的话为敌。那么，如果天主所赐的痛苦本身也是一种祝福，那么祂岂不是更仁慈地赐予人们什么呢？因为顺利是天主安慰时的恩赐，逆境是天主警告时的恩赐；既然祂如我所说，甚至将这些赐给恶人，那么祂为那些彼此担待的人预备了什么呢？你们因祂的\\OriginalTerm{恩宠}{grace}而被聚集在这数目中，为此欢喜吧，\\BibleQuote{以爱德彼此担待，尽力以和平的联繫，保持圣神的合一}\\BibleRef{弗 4:2}。因为不会缺乏你们彼此担待的机会，直到天主如此净化了你们，以致死亡\\BibleQuote{被胜利吞灭了}\\BibleRef{格前 15:24}，\\BibleQuote{天主成为万物之中的万有}\\BibleRef{格前 15:28}。",
+    "p0004": "2. 我们绝不应喜欢争吵；但无论我们多么不愿意，争吵有时或出于爱，或考验爱。因为很难找到一个愿意受责备的人；经上说的那个智慧人在哪里，\\BibleQuote{责备明智的人，他必会爱你}\\BibleRef{箴 9:8}？但我们因此就不责备规劝弟兄，以免他因虚假的安全而走向死亡吗？因为这是常见而时常的经历：当一位弟兄受责备时，他开始时感到难堪，抗拒反驳朋友，但后来在独处中与主一起反省，在那里他不怕因顺服纠正而得罪人，却怕因拒绝改正而得罪主，从此便不再做他受正当责备的事；并且，他越是恨恶自己的罪，就越是爱那位他觉得是自己罪的仇敌的弟兄。但他若属于经上所说\\BibleQuote{不要责斥傲慢的人，免得他恨你}\\BibleRef{箴 9:8}的那类人，争吵并非出于被责者的爱，而是操练并考验责者的爱；因为他不以恨还恨，但那迫使他规劝的爱却坚定不移，即使受责的人以恨相报。但如果责者以恶报恶对待那因受责备而见怪的人，他就不配责备别人，而显然自己应受责备。你们要按这些原则行事，好使争吵不发生，或者若发生，也能迅速以和平终结。要更努力于和谐相处，胜过在争论中压倒对方。因为醋若久留则腐蚀器皿，同样，愤怒若怀抱到明天，就会腐蚀心灵。因此，你们要遵行这些事，和平的天主必与你们同在。也要联合祈祷，为我们代祷，好使我们能愉快地实践我们给你们的善劝。"
+  }
+}

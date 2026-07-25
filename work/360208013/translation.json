@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360208013",
+    "title": "Book VIII, Letter 13",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 13",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 13",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Columbus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Columbus, Bishop of Numidia.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How we may presume on your Charity we gather from the disposition of our own mind with regard to you. Nor do we think that you love the Apostolic See otherwise than as it loves you. Whence it must needs be that we should more peculiarly commend those whom we know to be, as they should be, devoted in the Church of the blessed Peter, Prince of the apostles, to you whose life the action as well as the dignity of a priest adorns, and of whose sincerity we already hold proof from past experience.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "As to our brother, therefore, and fellow bishop Paul , the bearer of these presents, with what billows and adversities he is tossed in your parts he tells us is not unknown to your Holiness. And seeing that he asserts that the complaints against him which you have told us have come to your ears are not true, but raised against him at the instigation of his adversaries, and that he trusts to be able by the help of the Lord to surmount them all, with the truth to support him and with you to take cognizance, we exhort you, most beloved brother, that, in whatever points considerations of justice are clearly on his side, you afford him becomingly the hand of succour, and aid him with priestly sympathy. Let, then, no circumstance, no influence of any persons, deflect you from studious regard to equity. But, leaning on the Lord's precepts, set at naught whatever is opposed to rectitude. In defending one party or the other insist constantly on justice. Shrink not from incurring ill-will, if such there be, in behalf of truth; that you may find in the advent of our Redeemer so much the greater fruit of reward as, not neglecting His commands, you shall have devoted yourself to the countenance and defence of justice. In the month of March, first Indiction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208013.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208013.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷，第十三封信",
+    "p0002": "致\\Person{哥伦布斯}。",
+    "p0003": "\\Person{额我略}致\\Place{努米底亚}主教\\Person{哥伦布斯}。",
+    "p0004": "我们如何可以推测您的爱德，是从我们自身对您的情感中得出的。我们也不认为您爱宗座会与宗座爱您有所不同。因此，我们必须特别推荐那些我们知道在宗徒之长真福伯多禄的教会中应当献身于您的人，而您的生活既受到司铎职位的尊严的装饰，我们又从过去的经验中已经确知您的真诚。",
+    "p0005": "至于我们的兄弟及同为主教的\\Person{保禄}，这位持信者，他告诉我们他在您那边遭受的风浪与逆境，对您的圣德而言并非不知。由于他声称，您告诉我们传到您耳中的对他的指控并非真实，而是其对手煽动起来的，并信靠主的帮助能够克服一切，有真理支持他，有您审查，我们恳请您，最亲爱的兄弟，在显然正义在他一边的任何事情上，您都合宜地伸出援手，并以司铎的同情援助他。因此，不要让任何情况或任何人的影响使您偏离对公平的认真关注。要依靠主的诫命，藐视任何违背正义的事物。在捍卫任何一方时，始终坚持正义。不要害怕为真理招致敌意，若有的话；好使您在\\OriginalTerm{救赎主}{Redeemer}降临时，获得更大的赏报，因为您没有忽略祂的命令，而是献身于维护和捍卫正义。三月，第一禀政年。"
+  }
+}

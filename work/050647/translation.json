@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "050647",
+    "title": "Epistle 47",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 47",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 47",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Cornelius to Cyprian, Concerning the Faction of Novatian with His Party.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— Cornelius Gives Cyprian an Account of the Faction of Novatian.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Cornelius to Cyprian his brother, greeting. That nothing might be wanting to the future punishment of this wretched man, when cast down by the powers of God, (on the expulsion by you of Maximus, and Longinus, and Machaeus;) he has risen again; and, as I intimated in my former letter which I sent to you by Augendus the confessor, I think that Nicostratus, and Novatus, and Evaristus, and Primus, and Dionysius, have already come there. Therefore let care be taken that it be made known to all our co-bishops and brethren, that Nicostratus is accused of many crimes, and that not only has he committed frauds and plunders on his secular patroness, whose affairs he managed; but, moreover (which is reserved to him for a perpetual punishment), he has abstracted no small deposits of the Church; that Evaristus has been the author of a schism; and that Zetus has been appointed bishop in his room, and his successor to the people over whom he had previously presided. But he contrived greater and worse things by his malice and insatiable wickedness than those which he was then always practising among his own people; so that you may know what kind of leaders and protectors that schismatic and heretic constantly had joined to his side. I bid you, dearest brother, ever heartily fare well.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050647.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050647.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第四十七书}",
+    "p0002": "\\Emph{\\Person{科尔乃略}致\\Person{西彼廉}，论\\Person{诺瓦提安}及其党羽的分裂。}",
+    "p0003": "\\Emph{内容提要：——\\Person{科尔乃略}向\\Person{西彼廉}报告\\Person{诺瓦提安}分裂之事。}",
+    "p0004": "\\Person{科尔乃略}致其兄弟\\Person{西彼廉}，问安。为使这可怜之人受天主权势推倒后（在你们驱逐\\Person{玛克西木}、\\Person{隆基努}和\\Person{玛凯乌}之后），他再度兴起；正如我在前信（由宣信者\\Person{奥根都}带给您）中所暗示，我想\\Person{尼科斯特拉图}、\\Person{诺瓦都斯}、\\Person{艾瓦里斯特}、\\Person{普里穆斯}和\\Person{狄约尼削}已经到达那里。因此应当注意，要将此事告知我们所有的同僚主教和弟兄们：\\Person{尼科斯特拉图}被指控诸多罪行，不仅在他管理其世俗女恩主的事务时犯下欺诈和掠夺，而且还（这为他保留为永罚）盗走了教会不少存款；\\Person{艾瓦里斯特}是分裂的始作俑者；\\Person{泽图斯}已被任命为主教接替他，成为他先前所牧之百姓的继任者。但那个分裂者和异端者，凭其恶毒和贪得无厌的邪恶，策划了比他在自己人中一直实行的事更大更坏的事，好叫你们知道，那分裂者和异端者始终有怎样的领袖和保护者附在其侧。亲爱的兄弟，我愿您永远衷心安康。"
+  }
+}

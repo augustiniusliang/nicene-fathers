@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202252",
+    "title": "Letter 252",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 252",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 252",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the bishops of the Pontic Diocese.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The honours of martyrs ought to be very eagerly coveted by all who rest their hopes on the Lord, and more especially by you who seek after virtue. By your disposition towards the great and good among your fellow servants you are showing your affection to our common Lord. Moreover, a special reason for this is to be found in the tie, as it were, of blood, which binds the life of exact discipline to those who have been made perfect through endurance. Since then Eupsychius and Damas and their company are most illustrious among martyrs, and their memory is yearly kept in our city and all the neighbourhood, the Church, calling on you by my voice, reminds you to keep up your ancient custom of paying a visit. A great and good work lies before you among the people, who desire to be edified by you, and are anxious for the reward dependent on the honour paid to the martyrs. Receive, therefore, my supplications, and consent of your kindness to give at the cost of small trouble to yourselves a great boon to me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202252.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202252.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信252",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Emph{致\\Place{本都教区}的主教们。}",
+    "p0004": "凡仰望主的人，都应热切渴求殉道者的荣耀，尤其是你们这些追求德行的人。你们对待同仆中伟大善良者的态度，正显明你们对我们共同的主的爱。此外，还有一个特别的原因，就是那如同血统的联系，将严谨纪律的生活与那些因忍耐而达于成全的人结合在一起。既然\\Person{欧普绪基}、\\Person{达玛斯}及其同伴是殉道者中最杰出的，他们的纪念每年在我们的城中和所有邻近地区举行，教会藉我的声音召叫你们，提醒你们保持前来朝拜的古老习惯。在你们面前，有一项伟大而美好的工作，就是在百姓中间，他们渴望得到你们的建树，并切望因尊敬殉道者而获得的奖赏。因此，请接受我的恳求，并仁慈地应允，以你们小小的辛劳，赐予我莫大的恩惠。"
+  }
+}

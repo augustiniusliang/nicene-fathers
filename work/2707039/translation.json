@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707039",
+    "title": "Letter 39",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Festal.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "My wish was to write in cheerful terms and sound the note of the spiritual joy of the feast, but I am prevented by the multitude of our sins, which are bringing on us the judgment of God. For who indeed can be so insensible as not to perceive the divine wrath? May your piety then pray that affairs may undergo a change for the better; that so we too may change the style of our letter, and write words of cheerfulness instead of those of wailing.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十九封书信",
+    "p0002": "\\Emph{节期的。}",
+    "p0003": "我本意想以欢愉的言辞书写，奏响庆节属神喜乐的旋律，但因我们的众罪众多而受阻，这些罪正为我们招致天主的审判。因为，究竟谁能如此麻木，以至于察觉不到天主的义怒？那么，愿你们的虔诚祈祷事务能有所改善，好使我们也能改变书信的风格，以欢欣的话语取代哀哭之辞。"
+  }
+}

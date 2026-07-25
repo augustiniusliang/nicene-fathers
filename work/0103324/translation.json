@@ -1,0 +1,51 @@
+{
+  "source": {
+    "source_id": "0103324",
+    "title": "Against Heresies (Book III, Chapter 24)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book III, Chapter 24",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book III, Chapter 24)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Thus, then, have all these men been exposed, who bring in impious doctrines regarding our Maker and Framer, who also formed this world, and above whom there is no other God; and those have been overthrown by their own arguments who teach falsehoods regarding the substance of our Lord, and the dispensation which He fulfilled for the sake of His own creature man. But [it has, on the other hand, been shown], that the preaching of the Church is everywhere consistent, and continues in an even course, and receives testimony from the prophets, the apostles, and all the disciples— as I have proved— through [those in] the beginning, the middle, and the end, and through the entire dispensation of God, and that well-grounded system which tends to man's salvation, namely, our faith; which, having been received from the Church, we do preserve, and which always, by the Spirit of God, renewing its youth, as if it were some precious deposit in an excellent vessel, causes the vessel itself containing it to renew its youth also. For this gift of God has been entrusted to the Church, as breath was to the first created man, for this purpose, that all the members receiving it may be vivified; and the [means of] communion with Christ has been distributed throughout it, that is, the Holy Spirit, the earnest of incorruption, the means of confirming our faith, and the ladder of ascent to God. <quote>For in the Church,</quote> it is said, <quote>God has set apostles, prophets, teachers,</quote> {{BIBLE:1co 12:28}} and all the other means through which the Spirit works; of which all those are not partakers who do not join themselves to the Church, but defraud themselves of life through their perverse opinions and infamous behaviour. For where the Church is, there is the Spirit of God; and where the Spirit of God is, there is the Church, and every kind of grace; but the Spirit is truth. Those, therefore, who do not partake of Him, are neither nourished into life from the mother's breasts, nor do they enjoy that most limpid fountain which issues from the body of Christ; but they dig for themselves broken cisterns {{BIBLE:jer 2:13}} out of earthly trenches, and drink putrid water out of the mire, fleeing from the faith of the Church lest they be convicted; and rejecting the Spirit, that they may not be instructed.",
+        "scripture": [
+          "1co 12:28",
+          "jer 2:13"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Alienated thus from the truth, they do deservedly wallow in all error, tossed to and fro by it, thinking differently in regard to the same things at different times, and never attaining to a well-grounded knowledge, being more anxious to be sophists of words than disciples of the truth. For they have not been founded upon the one rock, but upon the sand, which has in itself a multitude of stones. Wherefore they also imagine many gods, and they always have the excuse of searching [after truth] (for they are blind), but never succeed in finding it. For they blaspheme the Creator, Him who is truly God, who also furnishes power to find [the truth]; imagining that they have discovered another god beyond God, or another Pleroma, or another dispensation. Wherefore also the light which is from God does not illumine them, because they have dishonoured and despised God, holding Him of small account, because, through His love and infinite benignity, He has come within reach of human knowledge (knowledge, however, not with regard to His greatness, or with regard to His essence— for that has no man measured or handled— but after this sort: that we should know that He who made, and formed, and breathed in them the breath of life, and nourishes us by means of the creation, establishing all things by His Word, and binding them together by His Wisdom — this is He who is the only true God); but they dream of a non-existent being above Him, that they may be regarded as having found out the great God, whom nobody, [they hold,] can recognise holding communication with the human race, or as directing mundane matters: that is to say, they find out the god of Epicurus, who does nothing either for himself or others; that is, he exercises no providence at all.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103324.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103324.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第三卷，第二十四章）",
+    "p0002": "1. 如此，所有引入不敬神学、谈论我们的造物主和塑造者（祂也形成了这世界，除祂以外别无天主）的人都被揭露了；那些教导关于我们主的本质以及祂为祂的受造物——人——而完成的救恩计划的谎言的人，也被自己的论据推翻了。相反地，教会的宣讲处处一致，持续平稳地前进，并得到先知、宗徒和所有门徒的见证——正如我所证明的——通过起初、中间和终末，以及天主的整个救恩计划和那稳固的、导向人救恩的系统，即我们的信德。这信德从教会领受，我们予以保存，并且它常由天主之神更新青春，犹如一件精美器皿中的珍贵宝库，也使那盛放它的器皿本身更新青春。因为天主的这恩赐已托付给教会，如同气息托付给最初受造的人，为这目的：使所有领受它的肢体都得以活起来；而基督内的共融之媒介已遍布其中，即圣神，不朽的保证，坚固我们信德的媒介，以及上升天主的阶梯。\\BibleQuote{因为在教会内，}经上说，\\BibleQuote{天主设立了宗徒、先知、教师，}\\BibleRef{格前 12:28}以及圣神所运作的所有其他媒介；凡不加入教会的人都不能分受这些，反而因自己的乖谬意见和可耻行为剥夺自己的生命。因为哪里教会，哪里就有天主之神；哪里天主之神，哪里就有教会和各种恩宠；但圣神是真理。因此，凡不分受祂的人，既不能从母怀中得滋养而得生命，也不能享受那从基督身体涌出的极清澈之泉源；反而为自己挖掘地上坑中的破裂水池\\BibleRef{耶 2:13}，饮用泥沼中的臭水，逃避教会的信德以免被定罪；并拒绝圣神，以免受教导。",
+    "p0003": "2. 这样疏远真理，他们理所当然在一切错误中打滚，被它抛来抛去，对同一事物在不同时候持不同看法，从未达到稳固的认识，更热衷于做辞藻的诡辩家而非真理的门徒。因为他们不是建立在唯一的盘石上，而是建立在沙土上，沙土本身包含许多石头。因此他们也想象出许多神，并且总有寻找真理的借口（因为他们瞎了眼），却从未成功找到。因为他们亵渎造物主——那位真实的天主，祂也提供找到真理的能力——却想象自己发现了另一个超越天主的神，或另一个\\OriginalTerm{圆满}{Pleroma}，或另一种救恩安排。因此，来自天主的光也不照亮他们，因为他们羞辱和轻视天主，把祂看得很小，因为祂出于自己的爱和无限良善，进入了人类知识的范围（然而，知识不是关于祂的伟大或本质——因为没有人曾度量或把握过——而是这样的：我们应当知道，那制造、塑造并吹入生命气息，借着受造物滋养我们，以祂的圣言建立万有，以祂的\\OriginalTerm{智慧}{Wisdom}维系万有的那位，即是唯一真实的天主）；但他们却梦想一个非实有者高于祂，以便被视为发现了那位伟大的神，而他们声称无人能认识这位神与人类交流或管理尘世事务；也就是说，他们发现了\\Person{伊壁鸠鲁}的神，这神既不为自己也不为他人做任何事，即根本不施行眷顾。"
+  }
+}

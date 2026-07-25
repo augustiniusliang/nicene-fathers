@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360204034",
+    "title": "Book IV, Letter 34",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 34",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 34",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Pantaleo, Præfect.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Pantaleo, Præfect of Africa.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How the law urgently prosecutes the most abominable pravity of heretics is not unknown to your Excellency. It is therefore no light sin if these, whom both the integrity of our faith and the strictness of the laws condemn, should find licence to creep up again in your times. Now in those parts, so far as we have learned, the audacity of the Donatists has so increased that not only do they with pestiferous assumption of authority cast out of their churches priests of the Catholic faith, but fear not even to rebaptize those whom the water of regeneration had cleansed on a true confession. And we are much surprised, if indeed it is so, that, while you are placed in those parts, bad men should be allowed thus to exceed. Consider only in the first place what kind of judgment you will leave to be passed upon you by men, if these, who in the times of others were with just reason put down, find under your administration a way for their excesses. In the next place know that our God will require at your hand the souls of the lost, if you neglect to amend, so far as possibility requires it of you, so great an abomination. Let not your Excellency take amiss my thus speaking. For it is because we love you as our own children that we point out to you what we doubt not will be to your advantage. But send to us with all speed our brother and fellow bishop Paul , lest opportunity should be given to any one under any excuse for hindering his coming; in order that, on ascertaining the truth more fully, we may be able, with God's help, to settle by a reasonable treatment of the case how the punishment of so great a crime ought to be proceeded with.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204034.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204034.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷·第三十四封书信",
+    "p0002": "\\Emph{致\\Person{彭塔莱奥}总督。}",
+    "p0003": "\\Person{格里高利}致\\Place{非洲}总督\\Person{彭塔莱奥}。",
+    "p0004": "法律如何严厉地惩处异端者那最可憎的败坏，阁下并非不知。因此，若这些人——我们信仰的正统性与法律的严格性均谴责他们——竟得到许可而在您的时代再次抬头，那决非轻罪。如今，据我们所知，在那些地区，多纳徒派的胆量已增长至如此地步：他们不仅以有害的僭越权柄，将天主教信仰的司铎逐出他们的教堂，而且竟还敢对那些已在真实宣认中为再生之水所洁净的人再次施洗。我们非常惊讶——若果真如此——当您被安置在那地区时，竟容许恶徒如此猖獗。首先请思量：若这些在他人时代曾被以正当理由镇压的人，在您的治理下却找到了猖獗的途径，那么您将留给人们什么样的判断呢？其次要知道：我们的天主将向您追讨丧亡者的灵魂，若您疏忽不去纠正——在可能的范围内——如此重大的可憎之事。请阁下勿怪我说这些话。因为我们爱您如同自己的子女，才向您指出我们确信对您有益的事。但请尽快将我们的弟兄与同为主教的\\Person{保禄}送来，以免有人以任何借口获得机会阻碍他前来；这样，在更充分查明真相后，我们就能赖天主的助佑，以合理的处理方式解决此事，确定应如何着手惩罚如此严重的罪行。"
+  }
+}

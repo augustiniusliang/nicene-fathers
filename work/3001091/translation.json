@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3001091",
+    "title": "Letter 91",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 91",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 91",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>From Epiphanius to Jerome</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "An exultant letter from Epiphanius in which he describes the success of his council (convened at the suggestion of Theophilus), sends Jerome a copy of its synodical letter. and urges him to go on with his work of translating into Latin documents bearing on the Origenistic controversy. Written in 400 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "To his most loving lord, son, and brother, the presbyter Jerome, Epiphanius sends greeting in the Lord. The general epistle written to all Catholics belongs particularly to you; for you, having a zeal for the faith against all heresies, particularly oppose the disciples of Origen and of Apollinaris whose poisoned roots and deeply planted impiety almighty God has dragged forth into our midst, that having been unearthed at Alexandria they might wither throughout the world. For know, my beloved son, that Amalek has been destroyed root and branch and that the trophy of the cross has been set up on the hill of Rephidim. {{BIBLE:exo 17:8}} For as when the hands of Moses were held up on high Israel prevailed, so the Lord has strengthened His servant Theophilus to plant His standard against Origen on the altar of the church of Alexandria; that in him might be fulfilled the words: <quote>Write this for a memorial, for I will utterly put out Origen's heresy from under heaven together with that Amalek himself.</quote> And that I may not appear to be repeating the same things over and over and thus to be making my letter tedious, I send you the actual missive written to me that you may know what Theophilus has said to me, and what a great blessing the Lord has granted to my last days in approving the principles which I have always proclaimed by the testimony of so great a prelate. I fancy that by this time you also have published something and that, as I suggested in my former letter to you on this subject, you have elaborated a treatise for readers of your own language. For I hear that certain of those who have made shipwreck {{BIBLE:1ti 1:19}} have come also to the West, and that, not content with their own destruction, they desire to involve others in death with them; as if they thought that the multitude of sinners lessens the guilt of sin and the flames of Gehenna do not grow in size in proportion as more logs are heaped upon them. With you and by you we send our best greetings to the reverend brothers who are with you in the monastery serving God.",
+        "scripture": [
+          "exo 17:8",
+          "1ti 1:19"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001091.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001091.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九十一封信",
+    "p0002": "\\Emph{从\\Person{厄皮法尼乌斯}致\\Person{热罗尼莫}}",
+    "p0003": "\\EditorialNote{一封从厄皮法尼乌斯致热罗尼莫的兴高采烈的信，他在信中描述了他会议的成功（由德奥斐洛建议召开），寄给热罗尼莫一份教区会议书信副本，并敦促他继续翻译关于奥利振争议的拉丁文献。写于公元400年。}",
+    "p0004": "致他最亲爱的主、子及兄弟，司铎\\Person{热罗尼莫}，\\Person{厄皮法尼乌斯}在主内问安。写给所有公教徒的公函特别属于您；因为您，对信德满怀热诚而反对一切异端，尤其反对\\Person{奥利振}和\\Person{阿波利纳里}的门徒；他们的毒根和深植的不虔敬，全能的天主已将其拖到我们中间，使他们在\\Place{亚歷山大}被掘出后，在全世界枯萎。因为，我所爱的子，要知道\\Person{阿玛肋克}已连根带枝被消灭，十字架的凯旋已立在\\Place{勒非丁}的山上。\\BibleRef{出 17:8}因为正如当\\Person{梅瑟}的手高举时，以色列就获胜；同样，主坚固了祂的仆人\\Person{德奥斐洛}，将祂的旗帜竖立在\\Place{亚歷山大}教会的祭台上以反对\\Person{奥利振}；使在他身上应验了这句话：\\Quote{你要将这事记下作为纪念，因为我要将\\Person{奥利振}的异端连同\\Person{阿玛肋克}本人从天下全然涂抹。}为了不显得我重复同样的话而使信变得冗长，我寄给您实际寄给我的信函，好叫您知道\\Person{德奥斐洛}对我说了什么，以及主在我晚年赐予了何等大的福分，以这位伟大主教之证词，批准了我一向所宣讲的原则。我想此刻您也已发表了某些作品，并且，如我在前一封信中就此主题向您建议的，您已为使用您自己语言的读者撰写了一篇论文。因为我听说，有些在信仰上遭遇船破的人\\BibleRef{弟前 1:19}也来到了西方，且不满足于自己的毁灭，他们还想拉别人与他们一同丧亡；仿佛他们认为罪人的众多会减轻罪过的严重，而地狱的火焰并不因加添更多木柴而扩大。藉着您并与您一起，我们向与您同在隐修院中事奉天主的可敬弟兄们致以最亲切的问候。"
+  }
+}

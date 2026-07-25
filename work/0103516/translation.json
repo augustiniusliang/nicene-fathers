@@ -1,0 +1,61 @@
+{
+  "source": {
+    "source_id": "0103516",
+    "title": "Against Heresies (Book V, Chapter 16)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book V, Chapter 16",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book V, Chapter 16)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. And since Adam was moulded from this earth to which we belong, the Scripture tells us that God said to him, <quote>In the sweat of your face shall you eat your bread, until you turn again to the dust from whence you were taken.</quote> {{BIBLE:gen 3:19}} If then, after death, our bodies return to any other substance, it follows that from it also they have their substance. But if it be into this very [earth], it is manifest that it was also from it that man's frame was created; as also the Lord clearly showed, when from this very substance He formed eyes for the man [to whom He gave sight]. And thus was the hand of God plainly shown forth, by which Adam was fashioned, and we too have been formed; and since there is one and the same Father, whose voice from the beginning even to the end is present with His handiwork, and the substance from which we were formed is plainly declared through the Gospel, we should therefore not seek after another Father besides Him, nor [look for] another substance from which we have been formed, besides what was mentioned beforehand, and shown forth by the Lord; nor another hand of God besides that which, from the beginning even to the end, forms us and prepares us for life, and is present with His handiwork, and perfects it after the image and likeness of God.",
+        "scripture": [
+          "gen 3:19"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. And then, again, this Word was manifested when the Word of God was made man, assimilating Himself to man, and man to Himself, so that by means of his resemblance to the Son, man might become precious to the Father. For in times long past, it was <em>said</em> that man was created after the image of God, but it was not [actually] <em>shown</em>; for the Word was as yet invisible, after whose image man was created, Wherefore also he did easily lose the similitude. When, however, the Word of God became flesh, He confirmed both these: for He both showed forth the image truly, since He became Himself what was His image; and He re-established the similitude after a sure manner, by assimilating man to the invisible Father through means of the visible Word.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. And not by the aforesaid things alone has the Lord manifested Himself, but [He has done this] also by means of His passion. For doing away with [the effects of] that disobedience of man which had taken place at the beginning by the occasion of a tree, <quote>He became obedient unto death, even the death of the cross;</quote> {{BIBLE:phi 2:8}} rectifying that disobedience which had occurred by reason of a tree, through that obedience which was [wrought out] upon the tree [of the cross]. Now He would not have come to do away, by means of that same [image], the disobedience which had been incurred towards our Maker if He proclaimed another Father. But inasmuch as it was by these things that we disobeyed God, and did not give credit to His word, so was it also by these same that He brought in obedience and consent as respects His Word; by which things He clearly shows forth God Himself, whom indeed we had offended in the first Adam, when he did not perform His commandment. In the second Adam, however, we are reconciled, being made obedient even unto death. For we were debtors to none other but to Him whose commandment we had transgressed at the beginning.",
+        "scripture": [
+          "phi 2:8"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103516.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103516.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第五卷，第十六章）",
+    "p0002": "1. 既然亚当是从我们所属的这泥土所塑造，圣经告诉我们，天主向他说：\\Quote{你必须汗流满面，才有饭吃，直到你归于你由之所出的尘土。}\\BibleRef{创 3:19} 如果死后我们的身体归于任何其他物质，那么它们也必是从那物质而来。但如果它恰恰归于这［尘土］，那么显然人的形体也是从它而被造的；正如主清楚地显示，当祂从这同一物质为那［被祂赐予视力的］人塑造了眼睛时。如此，天主的手清楚地显明了，亚当藉此被塑造，我们也被塑造；既然有同一圣父，祂的声音从起初到终结始终临在于祂的工程，而我们被塑造的物质也藉福音清楚地宣告，我们就不该寻求祂以外的另一位父，也不该［寻求］我们被塑造的另一物质，除了那预先提及并由主所显示的；也不该寻求另一只天主的手，除了那从起初到终结塑造我们、预备我们得生命、临在于祂的工程、并按照天主的肖像和样式使之完美的那一只。",
+    "p0003": "2. 再者，这圣言得以彰显，是在天主的圣言成了人时，祂使自己相似于人，也使人相似于祂自己，好使人因与圣子相似而成为父所珍视的。因为在远古时代，人只是被\\Emph{说}是按天主的肖像所造，但并未被\\Emph{显示}出来；因为圣言尚不可见，人是按祂的肖像被造的。因此人也轻易失去了这相似性。然而，当天主的圣言成了血肉时，祂确认了这两点：祂既真实地显示了肖像，因为祂自己成了那肖像；又按确定的方式重建了相似性，藉可见的圣言使人相似于不可见的圣父。",
+    "p0004": "3. 主不仅藉上述之事彰显了自己，也藉祂的苦难［彰显了自己］。因为消除那起初因一棵树而发生的人类的悖逆，祂\\Quote{成了服从至死，且死在十字架上}\\BibleRef{斐 2:8}；藉着那在［十字］木上的服从，矫正了因一棵树而发生的悖逆。如果祂宣告另一位父，祂就不会藉着同一［肖像］来消除那对我们造物主所犯的悖逆。然而，正因为我们藉着这些事物悖逆了天主，没有相信祂的话，所以祂也藉着同样的事物带来了对祂圣言的服从与认同；藉着这些事物，祂清楚地显示了天主自己，那位我们确实在首先的亚当中冒犯了，因他没有遵守祂的诫命。在第二个亚当中，我们却被和好，成为服从至死的。因为我们只欠那一位的债，就是我们起初违犯了其诫命的那一位。"
+  }
+}

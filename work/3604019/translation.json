@@ -1,0 +1,81 @@
+{
+  "source": {
+    "source_id": "3604019",
+    "title": "Letter 19",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 19",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 19",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Leo, bishop, to Dorus {{NOTE:note1}} his well-beloved brother.",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Bishop of Beneventum"
+          }
+        ]
+      },
+      {
+        "id": "p0003",
+        "kind": "h2",
+        "text": "I. He rebukes Dorus for allowing a junior presbyter to be promoted over the heads of the seniors, and the first and second in seniority for acquiescing.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We grieve that the judgment, which we hoped to entertain of you, has been frustrated by our ascertaining that you have done things which by their blame-worthy novelty infringe the whole system of Church discipline: although you know full well with what care we wish the provisions of the canons to be kept through all the churches of the Lord, and the priests of all the peoples to consider it their special duty to prevent the violation of the rules of the holy constitutions by any extravagances. We are surprised, therefore, that you who ought to have been a strict observer of the injunctions of the Apostolic See have acted so carelessly, or rather so contumaciously, as to show yourself not a guardian, but a breaker of the laws handed on to you. For from the report of your presbyter, Paul, which is subjoined, we have learned that the order of the presbyterate has been thrown into confusion with you by strange intrigues and vile collusion; in such a way that one man has been hastily and prematurely promoted, and others passed over whose advancement was recommended by their age, and who were charged with no fault. But if the eagerness of an intriguer or the ignorant zeal of his supporters demanded that which custom never allowed, viz., that a beginner should be preferred to veterans, and a mere boy to men of years, it was your duty by diligence and teaching to check the improper desires of the petitioners with all reasonable authority: lest he whom you advanced hastily to the priestly rank should enter on his office to the detriment of those with whom he associated and become demoralized by the growth within him, not of the virtue of humility, but of the vice of conceit. For you were not unaware that the Lord had said that <quote>he that humbles himself shall be exalted: but he that exalts himself shall be humbled ,</quote> and also had said, <quote>but you seek from little to increase, and from the greater to be less. </quote> For both actions are out of order and out of place : and all the fruit of men's labours is lost, all the measure of their deserts is rendered void, if the gaining of dignity is proportioned to the amount of flattery used: so that the eagerness to be eminent belittles not only the aspirer himself, but also him that connives at him. But if, as is asserted, the first and second presbyter were so agreeable to Epicarpius being put over their heads as to demand his being honoured to their own disgrace, that which they wished ought not to have been granted them when they were voluntarily degrading themselves: because it would have been worthier of you to oppose than to yield to such a pitiable wish. But their base and cowardly submission could not be to the prejudice of others whose consciences were good, and who had not done despite to God's grace; so that, whatever the transaction was whereby they gave up their precedence to another, they could not lower the dignity of those that came next to them, nor because they had placed the last above themselves, could he take precedence of the rest.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "h2",
+        "text": "II. The presbyters, who gave way, to be degraded with the usurper to the bottom: the rest to keep their places.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "The aforesaid presbyters, therefore, who have declared themselves unworthy of their proper rank, though they even deserved to be deprived of their priesthood; yet, that we may show the gentleness of the Apostolic See in sparing them, are to be put last of all the presbyters of the Church: and that they may bear their own sentence, they shall be below him also whom they preferred to themselves by their own judgment: all the other presbyters remaining in the order which the time of his ordination assigns to each. And let none except the two aforesaid suffer any loss of dignity, but let this disgrace attach to those only who chose to put themselves below a junior who had only lately been ordained: that they may feel that that sentence of the gospels applies to themselves when it is said: <quote>with what judgment you judge, you shall be judged: and with what measure you mete, the same shall be measured unto you. </quote> But let Paul the presbyter retain his place from which with praiseworthy firmness he did not budge: and let no further encroachments be made to any one's harm: so that you, beloved, who not undeservedly get the discredit of the whole matter, may with all speed take measures to cure it at least by putting these our injunctions into effect; lest, if a second time a just complaint be lodged with us, we be forced into stronger displeasure: for we would rather restore discipline by correcting what is done wrong, than increase the punishment. Know that we have entrusted the carrying out of our commands to our brother and fellow bishop Julius, that all things may straightway be established, as we have ordained. Dated 8th March, in the consulship of the illustrious Postumianus (448).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604019.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604019.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十九封书信",
+    "p0002": "\\Person{利奥}主教，致其爱弟\\Person{多鲁斯}\\EditorialNote{本味芬托主教}。",
+    "p0003": "一、他责备多鲁斯容许一位资浅的司铎被擢升到资深者之上，且第一和第二资深者竟默许此事。",
+    "p0004": "我们痛心，因为我们获悉您所行之事以其应受责难的新奇侵犯了整个教会纪律体系，这使我们本来对您所怀的期待落空了：尽管您完全清楚，我们何等关切地希望教规的规定在主的诸教会中得以遵守，且万民的所有司铎都应将以一切合理的权威防止因任何越轨行为而违反神圣典章的规定视为自己的特殊职责。因此我们感到惊讶，您这位本应严格持守宗座命令的人，竟如此疏忽大意，甚至可说是悖逆，以致于成为传给您的法律的破坏者而非守护者。因为我们从您的司铎保禄的附随报告中得知，司铎团在您那里的秩序因奇怪的阴谋和卑劣的勾结而被扰乱；一个未经考虑、过早地被提升，而另一些其年龄本应推荐他们晋升且未被指控有任何过失的人却被忽略。然而，如果阴谋家的急切或支持者的无知热心要求那种习惯从未允许的事，即新人优先于经验丰富者，稚嫩少年优先于年长者，那么您有责任以一切合理的权威，通过勤勉和教导来抑制请求者的不当愿望，以免您仓促擢升到司铎职位的人进入他的职务时损害与他共事的人，并因他内心增长的不是谦卑之德而是自大之恶而腐化。因为您并非不知道主曾说过：\\Quote{自谦者必被高举: 自高者必被贬抑,}又曾说：\\Quote{但你们寻求从微小中增长，从伟大中变得微小。}因为这两种行为都是不合顺序、不合时宜的；人劳作的一切果实都丧失，其功德的一切尺度都归于无效，如果获得尊严与奉承的程度成正比：这样，渴望出人头地不仅贬低了渴望者本身，也贬低了纵容他的人。但如果，如所声称的，第一和第二司铎如此同意埃皮卡皮乌斯居于他们之上，以致为了自己的羞辱而要求他得荣耀，那么当他们自愿贬低自己时，本不应答应他们所愿：因为反对而不是屈从于这种可悲的愿望对您来说更值得。但他们卑贱怯懦的顺从不能损害其他良心清白且没有藐视天主恩宠的人；因此，无论他们以何种操作将优先权让给他人，都不能降低他们之后的人的地位，也不能因为他们将最后者置于自己之上，那人就领先于其余的人。",
+    "p0005": "二、让步的司铎应与篡位者一同降到末位，其余人保持原位。",
+    "p0006": "因此，上述司铎们，尽管他们甚至应被剥夺司铎职，但他们既已自认不配其应有等级，然而为显示宗座对他们的宽容，他们应被放在教会所有司铎之末；为使他们承担自己的判决，他们也将低于那个他们凭自己判断所优先于己的人；所有其他司铎则保持其按晋铎时间所指定的顺序。除上述两人外，任何人不得遭受尊严上的损失，但此耻辱只归于那些选择将自己置于一位刚被祝圣的资浅者之下的人：好让他们感到福音的那句话适用于他们，经上说：\\BibleQuote{你们用什么判断来判断，你们也要受什么判断；你们用什么量器来量，也用什么量器量给你们。}但司铎保禄应保留其位置，他未曾以值得称赞的坚定离开此位；不得再有任何侵害他人权益的行为：这样，您，挚爱的，您并非无端地在此事中承担全部恶名，应迅速采取措施，至少通过执行我们的这些命令来治愈此事；免得再次有正当的申诉向我们提出，我们被迫采取更强烈的愤怒：因为我们宁愿通过纠正错误来恢复纪律，而不愿加重刑罚。须知我们将命令的执行托付于我们的弟兄及同僚主教\\Person{尤利乌斯}，以便一切按我们所规定立即确立。发于三月八日，在显赫的\\Person{波斯图米亚努斯}执政之年（448年）。"
+  }
+}

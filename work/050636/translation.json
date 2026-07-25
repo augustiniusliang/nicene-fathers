@@ -1,0 +1,70 @@
+{
+  "source": {
+    "source_id": "050636",
+    "title": "Epistle 36",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 36",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 36",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To the Clergy, Bidding Them Show Every Kindness to the Confessors in Prison.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— He Exhorts His Clergy that Every Kindness and Care Should Be Exercised Towards the Confessors, as Well Towards Those Who Were Alive, as Those Who Died, in Prison; That the Days of Their Death Should Be Carefully Noted, for the Purpose of Celebrating Their Memory Annually; And, Finally, that They Should Not Forget the Poor Also.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Cyprian to the presbyters and deacons, his brethren, greeting. Although I know, dearest brethren, that you have frequently been admonished in my letters to manifest all care for those who with a glorious voice have confessed the Lord, and are confined in prison; yet, again and again, I urge it upon you, that no consideration be wanting to them to whose glory there is nothing wanting. And I wish that the circumstances of the place and of my station would permit me to present myself at this time with them; promptly and gladly would I fulfil all the duties of love towards our most courageous brethren in my appointed ministry. But I beseech you, let your diligence be the representative of my duty, and do all those things which behoove to be done in respect of those whom the divine condescension has rendered illustrious in such merits of their faith and virtue. Let there be also a more zealous watchfulness and care bestowed upon the bodies of all those who, although they were not tortured in prison, yet depart thence by the glorious exit of death. For neither is their virtue nor their honour too little for them also to be allied with theblessed martyrs. As far as they could, they bore whatever they were prepared and equipped to bear. He who under the eyes of God has offered himself to tortures and to death, has suffered whatever he was willing to suffer; for it was not he that was wanting to the tortures, but the tortures that were wanting to him. <quote>Whosoever shall confess me before men, him will I also confess before my Father which is in heaven,</quote> {{BIBLE:mat 10:32}} says the Lord. They have confessed Him <quote>He that endures to the end, the same shall be saved,</quote> {{BIBLE:mat 10:22}} says the Lord. They have endured and have carried the uncorrupted and unstained merits of their virtues through, even unto the end. And, again, it is written, <quote>Be faithful unto death, and I will give you a crown of life.</quote> {{BIBLE:rev 2:10}} They have persevered in their faithfulness, and steadfastness, and invincibleness, even unto death. When to the willingness and the confession of the name in prison and in chains is added also the conclusion of dying, the glory of the martyr is consummated.",
+        "scripture": [
+          "mat 10:32",
+          "mat 10:22",
+          "rev 2:10"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Finally, also, take note of their days on which they depart, that we may celebrate their commemoration among the memorials of the martyrs, although Tertullus, our most faithful and devoted brother, who, in addition to the other solicitude and care which he shows to the brethren in all service of labour, is not wanting besides in that respect in any care of their bodies, has written, and does write and intimate to me the days, in which our blessed brethren in prison pass by the gate of a glorious death to their immortality; and there are celebrated here by us oblations and sacrifices for their commemorations, which things, with the Lord's protection, we shall soon celebrate with you. Let your care also (as I have already often written) and your diligence not be wanting to the poor—to such, I mean, as stand fast in the faith and bravely fight with us, and have not left the camp of Christ; to whom, indeed, we should now show a greater love and care, in that they are neither constrained by poverty nor prostrated by the tempest of persecution, but faithfully serve with the Lord, and have given an example of faith to the other poor. I bid you, brethren beloved, and greatly longed-for, ever heartily farewell; and remember me. Greet the brotherhood in my name. Farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050636.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050636.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第三十六}",
+    "p0002": "\\Emph{致司铎，命他们向狱中的宣信者显示各种慈爱。}",
+    "p0003": "\\Emph{论点。——他劝勉其司铎，应向狱中的宣信者，无论生者或死者，行使一切慈爱与关怀；仔细记下他们的忌日，以便每年纪念；最后，也不应忘记穷人。}",
+    "p0004": "1. \\Person{西彼廉}致司铎及执事，他的弟兄们，问候。虽然我知道，最亲爱的弟兄，你们在我多次的书信中已受劝勉，要向那些以光荣之声宣认了主、被囚在狱中的人显示一切关怀；然而我一再劝勉你们，切莫缺少对他们的关怀，他们的光荣毫无缺失。我多么希望这地方和我职位的状况允许我此刻与他们同在；我会立即并乐意在我被指定的职务中，向我们最勇敢的弟兄们履行一切爱德的责任。但我恳求你们，让你们的勤勉代表我的职责，并做一切应当为那些因天主的眷顾而在信德与美德上如此卓越的人所做的事。对那些虽然未在狱中受酷刑，却以光荣的死亡离开那里的人，也要施加更热心的看顾和关怀。因为他们的美德和光荣并不少，也应被列于真福殉道者之中。就他们所能的，他们承受了他们准备并装备好要承受的一切。在天主眼中将自己献给酷刑和死亡的人，已经承受了他愿意承受的一切；因为不是他缺少酷刑，而是酷刑缺少他。\\BibleQuote{凡在人前承认我的，我也必在我天上的父前承认他} \\BibleRef{玛 10:32}，主说。他们已承认了他。\\BibleQuote{那坚持到底的，必得救} \\BibleRef{玛 10:22}，主说。他们坚持了，并将他们美德的纯洁无瑕的功绩保持到底。再者，经上记载：\\BibleQuote{你当至死忠心，我就赐给你那生命的冠冕} \\BibleRef{默 2:10}。他们忠信、坚定、不可征服地坚持到底，直至死亡。当在狱中和锁链中的意愿和宣认之名加上死亡的结局时，殉道者的光荣就圆满了。",
+    "p0005": "2. 最后，也要记下他们离去的日子，使我们能在殉道者的纪念中庆祝他们的纪念，尽管我们最忠信而热心的弟兄\\Person{特土禄}，他除了在其他事务上以各种劳作服事弟兄们之外，在照顾他们遗体的任何事上也毫不疏忽，已经写信并将写信向我告知那些日子，我们的真福弟兄们在狱中通过光荣死亡之门进入永生；而且我们在这里为他们举行奉献和祭献以示纪念，这些事，在天主的护佑下，我们不久将与你们一同举行。你们的关怀（如我常所写的）和勤勉也不应忘记穷人——我是指那些在信仰中坚定不移、与我们勇敢战斗、没有离开基督军营的人；事实上，我们现在应向他们显示更大的爱和关怀，因为他们既不被贫困所迫，也不被迫害的风暴击倒，而是忠诚信实地事奉主，并为其他穷人树立了信德的榜样。我祝你们，亲爱的弟兄，极切思念的，永远衷心告别；并请记念我。请以我的名义问候弟兄们。再见。"
+  }
+}

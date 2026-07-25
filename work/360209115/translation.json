@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "360209115",
+    "title": "Book IX, Letter 115",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 115",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 115",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Syagrius, Bishop of Augustodunum (Autun).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Syagrius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "If in secular affairs every man should have his right and his proper rank preserved to him, how much more in ecclesiastical arrangements ought no confusion to be let in; lest discord should find place there, whence the blessings of peace should proceed. And this will in this way be secured, if nothing is yielded to power but all to equity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now it has been reported to us that our most beloved brother Ursicinus, bishop of the city of Taurini , after the captivity and plunder which he endured, has suffered serious prejudice in his parishes , which are said to be situated within the boundaries of the Franks, even to the extent of another person being constituted bishop there in contravention of ecclesiastical ordinances, no crime of his demanding it. And, lest this prejudicial proceeding should perchance seem to be a light matter, there has been also some hardship added in the taking from him of the property of his Church which he might have held. Now, if these things are really so, seeing that it is a very cruel thing and opposed to the sacred canons, that the ambition of any should remove from his own altar an innocent priest who does not deserve to be superseded on account of crime, let all regard his cause as their own, and strive against the imposition on others of what they would be unwilling to endure themselves. For if the entrance for an evil thing is not closed before it has been long open, it grows wider by use; and what is evidently forbidden by reason will be allowed by custom. But, beyond all others, let the solicitude of your Fraternity, in consideration of our commendation and your own sense of what you owe to God, devote itself earnestly to his defence, and not allow him to be any longer removed against reason from his parishes. But, as well in your own person as by making supplication to the most excellent kings , whom we believe to cause you no sadness in any respect, do you bring it about that this thing which has been done amiss may be corrected, and that what has been taken away by force may under the patronage of truth be restored; for, seeing that it is written, <em>A brother helping a brother shall be exalted</em> {{BIBLE:pro 18:19}} , your Charity may know that it will receive by so much the more from Almighty God as His precepts shall have been gladly and constantly executed in helping a brother.",
+        "scripture": [
+          "pro 18:19"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209115.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209115.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第一一五函",
+    "p0002": "\\Emph{致\\Place{奥古斯托杜努姆}（\\Place{奥坦}）主教\\Person{瑟雅格略}。}",
+    "p0003": "\\Person{额我略}致\\Person{瑟雅格略}等。",
+    "p0004": "如果在世俗事务中，每个人都应保持他的权利和应有的地位，那么在教会的安排中，更不容许有任何混乱；免得和平的恩赐本应由此而生，却让不和在此找到位置。而这样做就能确保：不向权力让步，只向公平让步。",
+    "p0005": "据报告，我们最亲爱的兄弟\\Place{塔乌里尼}城主教\\Person{乌尔西基诺}，在遭受俘虏和掠夺之后，他的教区（据说位于\\Place{法兰克人}境内）受到了严重损害，甚至有人不顾教会的法令，在无可指摘的罪行下另立主教。而且，唯恐这一损害之举似乎轻微，还进一步夺取了他本可持有的教会财产。如果事情果真如此，鉴于这是极其残酷的、违背神圣教规的行为——任何人的野心都不应从一个无辜的司铎那里夺走他的祭台，而他因罪孽并不应被取代——就让所有人都视他的案件为己任，竭力反对施加于他人、而他们自己也不愿忍受的事。因为若邪恶之事在长久敞开之前不被堵住入口，它就会因习惯而变得更宽；凡理性所明显禁止的，习俗也会容许。但是，超过其他一切，你的仁爱之关心，鉴于我们的推荐和你自己对天主所负的责任，应热切地致力于他的辩护，不容许他再无理地被逐出他的教区。此外，你既要亲自出面，也要向最卓越的君王们（我们相信他们在任何方面都不会使你忧伤）恳求，使这件已做错的事得以纠正，被暴力夺走的能在真理的庇护下归还；因为经上记载：\\BibleQuote{一个兄弟帮助另一个兄弟，必得高举}\\BibleRef{箴 18:19}，你的爱德当知，你们帮助弟兄时，越是愉快而坚定地执行天主的诫命，就越能从全能的天主那里得到更多。"
+  }
+}

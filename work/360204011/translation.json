@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "360204011",
+    "title": "Book IV, Letter 11",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 11",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 11",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Maximianus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Maximianus, Bishop of Syracuse.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It had indeed been committed to your Fraternity long ago by our authority to correct in our stead any excesses or unseemly proceedings that there might be in the Church and other venerable places of Sicily. But, seeing that a complaint has reached us of some things having been so far neglected, we have thought it fit that your Fraternity should again be specially stirred up to correct them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "For we learn that in the case of revenues of Churches that have been newly acquired the canonical disposition of their fourth parts does not prevail , but that the bishops of the several places distribute a fourth part of the ancient revenues only, retaining for their own use those that have been recently acquired. Wherefore let your Fraternity make haste actively to correct this evil custom that has crept in, so that, whether in the case of former revenues or of such as have accrued now or may accrue, the fourth parts may be dispensed according to the canonical distribution of them. For it is unseemly that one and the same substance of the Church should be rated, as it were, under two different laws, namely, that of usurpation and that of the canons.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Permit not presbyters, deacons, and other clerks of whatever order, who serve churches, to be abbots of monasteries; but let them either, giving up clerical duties, be advanced to the monastic order, or, if they should decide to remain in the position of abbot, let them by no means be allowed to have clerical employment. For it is very unsuitable that, if one cannot fulfil the duties of either of these positions with diligence proportional to its importance, any one should be judged fit for both, and that so the ecclesiastical order should impede the monastic life, and in turn the rule of monasticism impede ecclesiastical utility. Of this thing also we have taken thought to warn your Charity; that, if any one of the bishops should depart this life, or (which God forbid) should be removed for his transgressions, the hierarchs and all the chief of the clergy being assembled, and in your presence making an inventory of the property of the Church, all that is found should be accurately described, and nothing should be taken away in kind, or in any other way whatever, from the property of the Church, as is said to have been done formerly, as though in return for the trouble of making the inventories. For we desire all that pertains to the protection of what belongs to the poor to be so executed that in their affairs no opportunity may be left for the venality of self-interested men.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "Let visitors of churches, and their clerks who with them are at trouble in parishes that are not of their own city, receive according to your appointment some subsidy for their labour. For it is just that they should get payment in the places where they are found to lend their services.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "We most strongly forbid young women to be made abbesses. Let your Fraternity, therefore, permit no bishop to veil any but a sexagenarian virgin, whose age and character may demand this being done; that so, this as well as the above-named points being set right with the Lord's help by the urgency of your strict requirement, you may hasten to bind up again with canonical ties the long loosened state of venerable things, and also that divine affairs may be arranged, not by the incongruous wills of men, but with adequate strictness. The month of October, Indiction 12.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204011.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204011.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷，第十一封信",
+    "p0002": "\\Emph{致马克西米安主教。}",
+    "p0003": "\\Person{额我略}致\\Place{锡拉库萨}主教\\Person{马克西米安}。",
+    "p0004": "很久以前，确实已经托付给你的贤弟，凭我们的权力，代为纠正西西里教会及其他可敬之处可能存在的任何过犯或不体面之事。但是，看到有申诉到达我们这里，说有些事情至今仍被忽视，我们认为应当再次特意激励你的贤弟去纠正它们。",
+    "p0005": "因为我们得知，在教会新得的收益方面，关于其四份之一的规例并未得到遵行，反而各地方的主教只分发旧有收益的四份之一，将新获得的收益据为己用。因此，让你的贤弟积极纠正这种侵入的恶习，使无论是在以前的收益，还是现在或将来增加的收益中，四份之一都能按照规例分施。因为同一教会产业竟如同受两种不同法律——即强占法与圣规法——之评判，实属不当。",
+    "p0006": "不可准许服务于教会的司铎、执事及其他任何品级的职员担任隐修院院长；而是让他们要么放弃圣职职务，晋升隐修会，要么，如他们决定继续担任院长之职，则绝不允许他们从事圣职工作。因为，如果一个人因其重要性而无法勤勉地履行其中任一职务，却被认为能胜任两者，从而使圣职秩序妨碍隐修生活，而隐修规则又反过来妨碍圣职效用，这是非常不合适的。此事我们业已考虑，提醒你的爱德：若某位主教离世，或因过犯而被撤职（愿天主免之），则应召集教长及全体圣职首要人员，在你的面前清点教会财产，准确登记所有发现之物，不得以实物或任何其他方式取走教会财产的任何部分，如据说以前曾以作为清点财产的酬劳为名发生过的那样。因为我们希望一切涉及保护穷人财产之事，都应如此执行，使在他们的事务中，为私利者之贪婪无可乘之机。",
+    "p0007": "教会巡视员及其职员，当他们在不属于自己城市的堂区辛劳时，应按照你的指派，为他们的劳作领取一些补助。因为他们在提供服务的场合得到报酬是公正的。",
+    "p0008": "我们最严厉地禁止年轻女子被立为女院长。因此，让你的贤弟不可允许任何主教授予贞女面纱，除非是年满六十岁的贞女，其年龄与品德当为此事所需；以便此事与上述各点，借主的助佑，因你严格要求的紧迫而得以纠正，你得以用圣规之纽带重新系住长久松弛的可敬之事，并且使神圣事务的安排，不是出自人不相称的意志，而是具有足够严格的规范。十月，小纪第十二年。"
+  }
+}

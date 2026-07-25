@@ -1,0 +1,63 @@
+{
+  "source": {
+    "source_id": "360209093",
+    "title": "Book IX, Letter 93",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 93",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 93",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Gulfaris, Magister Militum</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Gulfaris, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The bearers of these presents, who come to us from the Istrian parts, have reported such good things of your Glory as to inflame us ardently to return you thanks. For we learn that, among the cares of the government of those parts which has been committed to you, you are especially anxious to win souls, and that you so take pains to recall the hearts of wanderers to the unity of the Church that, as far as your desire goes, you would have no one there separated from the Apostolic Church; and that so great love of Peter, the Prince of the Apostles, inflames you that you long with all your heart to restore the sheepfold of him to whom the keys were delivered by the Lord the Creator of all. Have, glorious son, from such and so great a work, a confident anticipation of divine retribution, wherein not only our admonition but also the words of the apostle confirm you, since he who shall have caused a sinner to be converted from the error of his way shall save his soul from death, and cover a multitude of sins {{NOTE:note1}} . For, however great be temporal affluence, or at any rate prosperity, it has its end—the limit of death. But this pursuit of winning souls, which you have taken up, retains the certainty of its hope fixed; to wit, the retribution of eternal life. Wherefore, greeting you with fatherly affection, we exhort your Glory that you the more earnestly give effect to the zeal for the unity of our holy faith which the Author of unity Himself has given you; and that, recalling whomsoever you can from the error of their schism into the bosom of Mother Church, you cherish them with continual admonition. And accomplish this also—so to protect with the succour of your defence those whom the Lord through you may grant to be restored to His fold that there may be no quarter to which those who are still in error may be able to resort for the accusation of such as return to sound counsels. For, while you uphold the cause of God on earth, He Himself will prosperously direct your actions here with the aid of His protection, and there will remain for you, in the eternal life which you long for, retribution for your so great well-doing.",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "James 5"
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209093.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209093.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\Emph{第九卷·第九十三封信}",
+    "p0002": "\\Emph{致古尔法里斯，军事长官}。",
+    "p0003": "\\Signature{格列高利致古尔法里斯等}",
+    "p0004": "这些呈递书信的人从伊斯特利亚地区来到我们这里，报告了关于阁下如此美好的事情，以致我们热切地激起向您致谢。因为我们得知，在受托治理该地区的诸多责任中，您特别渴望赢得灵魂，并且付出如此努力，召回游荡者的心归向教会的合一，以至于按您的愿望，您希望那里没有一个人与宗徒教会分离；而宗徒之长伯多禄的爱如此激发您，以至于您全心渴望重建那由万有之源的主交付钥匙之人的羊栈。光荣的儿子，从如此伟大的工作中，您应当充满信心地期待天主赏报，其中不仅有我们的劝诫，宗徒的话也确认给您，因为那使罪人从错误道路中悔改的，将救他的灵魂免于死亡，并遮盖许多罪过\\EditorialNote{雅各伯书第五章}。因为，无论现世的富足或兴盛有多大，它都有终结——死亡的界限。但您所采取的赢得灵魂的追求，保留了其希望的确定性，即永生的赏报。因此，我们以父亲般的爱问候您，劝勉阁下要更热切地实践合一之热忱，这合一之源天主亲自赐予您；并且，凡您所能从分裂的错误中召回怀抱慈母教会的人，要以不断的劝诫爱护他们。还要做到这一点：以您辩护的帮助保护那些主通过您赐予归回祂羊栈的人，使那些仍在错误中的人无处可去控告那些返回正确意见的人。因为，当您在地上维护天主的事业时，祂自己将以其保护的援助顺利引导您的行动，并且，在您所渴望的永生中，将为您如此伟大的善行存留赏报。"
+  }
+}

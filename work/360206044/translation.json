@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206044",
+    "title": "Book VI, Letter 44",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 44",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 44",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, Bishop of Syracuse.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although there may have been cause to provoke the spirit of your Fraternity not unreasonably to anger, so that you would neither receive the offerings of the Lord Venantius nor allow the sacred solemnities of mass to be celebrated in his house, yet, inasmuch as our earthly interests should be prosecuted in such a manner that no quarrel may avail to sever us from the bond of charity, we therefore exhort your Holiness, as we have already written, that you should both receive the offerings of the aforesaid man with all sweetness and God-pleasing sincerity, and allow the mysteries of the mass to be performed in his house; and that, as we have written, you should, if perchance he should wish it, go there in person, and by celebrating mass with him renew your former friendly feeling. For it is your duty to bestow priestly affection on sons, though still, in causes that may arise, by no means to pretermit, as reason approves, the jurisdiction of your Church. Wherefore, considering this, it is necessary that your Fraternity should try so to demean yourself with discreet moderation with respect to these matters as both to transact advantageously what the nature of the business requires, and not to recede from the grace of paternal charity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206044.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206044.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷，第四十四封",
+    "p0002": "致\\Person{若望}主教",
+    "p0003": "\\Person{额我略}致\\Place{锡拉库萨}主教\\Person{若望}。",
+    "p0004": "虽然可能有理由激起您手足之情的义怒，使您既不接受\\Person{文南休斯}主的献仪，也不允许在他家中举行神圣的弥撒圣祭；然而，既然我们应按此方式处理现世的利益，使任何争执都不能使我们脱离爱德之纽，因此，我们正如先前所写信劝告的那样，劝勉您的圣座：您应以全部的温柔和悦乐天主的真诚接受上述那人的献仪，并允许在他家中举行弥撒奥迹；并且，正如我们所写的，倘若他愿意，您应亲自前往，借同他一起举行弥撒，以恢复你们旧日的情谊。因为您的职责是对子孙们施以司铎般的爱德，尽管如此，在可能发生的案件中，却绝不可因合理的原因而放弃您教会的管辖权。因此，考虑到这一点，有必要让您的手足之情以明智的温和在这些事情上如此行事，既妥善处理事情性质所要求的，又不远离父爱的爱德。"
+  }
+}

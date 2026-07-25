@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2707178",
+    "title": "Letter 178",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 178",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 178",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Letter to Alexander of Hierapolis.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I think that more than all the very holy and venerable bishop, my lord John, must have been gratified at my refusing either to give my consent to the condemnation of the very holy and venerable bishop Nestorius or to violate the pledges made at Tarsus, Chalcedon and Ephesus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "He remembers also what was frequently received from us at Antioch after our departure.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Let no one therefore deceive your holiness into the belief that I should ever do this, for God is without doubt on my side and strengthening me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707178.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707178.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一七八封书信",
+    "p0002": "\\Emph{致\\Place{希埃拉波利斯}的\\Person{亚历山大}书。}",
+    "p0003": "我认为，超过一切，至圣可敬的主教、我的主\\Person{若望}必定因我拒绝同意谴责至圣可敬的主教\\Person{聂斯脱利}，也拒绝违背在\\Place{塔尔索}、\\Place{加采东}和\\Place{厄弗所}所作的承诺而感到欣慰。",
+    "p0004": "他还记得我们离开后，在\\Place{安提约基雅}经常从我们这里收到的内容。",
+    "p0005": "因此，不要让任何人欺骗圣座，使您相信我会这样做，因为天主无疑站在我一边，并坚固我。"
+  }
+}

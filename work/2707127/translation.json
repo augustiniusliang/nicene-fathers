@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707127",
+    "title": "Letter 127",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 127",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 127",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Jobius, Presbyter and Archimandrite.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The patriarch Abraham won a victory in his old age. The great Moses was now an old man when, so long as he stretched out his hands in prayer, he vanquished Amalek. The divine Samuel was an old man when he put the aliens to flight. These are emulated by your venerable old age. In our wars for true religion's sake you are playing the man, and championing the cause of the gospel doctrines, and putting young men in the shade by the vigour of your spirit.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I rejoice to hear it, and am glad, and long to embrace your right venerable gray hairs. This I cannot do, for your reverence is kept at home by your years, and I am kept in durance here by the imperial decree. But I cheat my love by this letter, and give your piety this most loving embrace. I call upon you in your prayers to help the churches now whelmed in the storm, and to win for me the divine support, assailed as I am for the sake of the doctrines of the gospel, and standing sorely in need of help from above.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707127.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707127.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一二七封书信}",
+    "p0002": "\\Emph{致\\Person{约彼乌斯}司铎兼隐修院院长。}",
+    "p0003": "先祖亚巴郎在晚年获得了胜利。伟大的梅瑟当时已是老人，当他举手祈祷时，就打败了阿玛肋克。神圣的撒慕尔年老时驱逐了外邦人。你可敬的晚年效法了这些人。在我们为真宗教而战的战争中，你表现出大丈夫气概，捍卫福音教义的事业，以你精神的活力使年轻人黯然失色。",
+    "p0004": "我听到感到欣喜，非常高兴，渴望拥抱你可敬的白发。但此事我不能做到，因为你因年迈被留在家，而我因皇帝的敕令被拘禁在此。但我藉这封信聊慰我的爱意，并给你虔诚以最爱的拥抱。我恳求你在祈祷中帮助现今被风暴席卷的教会，并为我赢得天主的支持，因为我为了福音教义的缘故遭受攻击，极需要来自上天的帮助。"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360202006",
+    "title": "Book II, Letter 6",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 6",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 6",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Neapolitans.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to the clergy, nobles, gentry, and commonalty dwelling at Naples.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Although the sincere devotion of spiritual sons in behalf of their mother Church needs no exhortation, nevertheless, it ought to be stirred up by letter, lest it should suppose itself slighted. On this account I approach your love with an admonition of paternal charity, that with many tears and with one accord we may render thanks to our Redeemer, who has not suffered you to walk along pathless ways under so perverse a teacher, but has made publicly known the crimes of your unworthy pastor. For Demetrius, to wit, who even before had not deserved to be called a bishop, has been found to be involved in transactions to such an extent and of such a kind that, if he had received judgment without mercy according to the character of his deeds, he would undoubtedly have been condemned to a most hard death by both divine and human laws. But since, being reserved for penance, he has been deprived of the dignity of the priesthood, we cannot suffer the Church of God to remain long without a teacher, since it is laid down by canonical rules that, on the death or removal of a pastor, the church should not be long deprived of the priesthood. Wherefore, I have thought it necessary to admonish your Charity by this present writing that neither delay nor the discord which has been wont to generate scandals ensue to hinder your election of a pontiff. But seek you out with all care such a person as all by common consent may rejoice in, and as is in no respect rejected by the sacred canons; to the end that the office which the most wicked of men had polluted by his evil administration may be worthily filled and administered by him, whoever he may be, who, by the grace of Christ, and with His approval, shall be ordained.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202006.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202006.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二卷，第六封信",
+    "p0002": "\\Emph{致那不勒斯人。}",
+    "p0003": "额我略致居住在\\Place{那不勒斯}的圣职界、贵族、士绅及平民。",
+    "p0004": "虽然身为母亲之教会的属灵儿女所怀有的真诚敬意无需劝勉，但仍应以书信加以激励，以免其以为被忽视。为此，我以慈父般的爱德劝告你们的爱德：愿我们以许多眼泪同心合意地向我们的救赎主献上感谢，祂没有容许你们在如此悖逆的教师带领下行于无路之途，而是公开揭露了你们不称职的牧者的罪行。因为那德默特琉，即便此前已不配被称为主教，竟被发现卷入如此严重且恶劣的行径，若按其所行受毫不留情的审判，无疑会同时被神律和人间法律处以极刑。然而，因他被保留以行补赎，已被剥夺司铎职位的尊荣；我们不能容忍天主的教会长期没有教师，因为教规规定，牧者去世或撤职后，教会不可长久缺乏司铎。因此，我认为有必要通过本函劝告你们的爱德：既不要因延误，也不要因往常引发丑闻的不和，阻碍你们推选主教。你们当尽心寻觅这样一位人选：众人都能同心合意地以他为喜乐，且他绝不触犯神圣教规；为的是那曾因恶人之邪恶治理而被玷污的职位，无论被祝圣者是谁，愿他藉基督的恩宠并蒙祂悦纳，得以相称地担当并治理。"
+  }
+}

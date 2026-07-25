@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "050603",
+    "title": "Epistle 3",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 3",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 3",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To the Presbyters and Deacons Abiding at Rome. A.D. 250.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— This is a Familiar and Friendly Epistle; So that It Requires No Formal Argument, Especially as It Can Be Sufficiently Gathered from the Title Itself. The Letter of the Roman Clergy, to Which Cyprian is Replying, is Missing.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Cyprian to the elders and deacons, brethren abiding at Rome, sends, greeting. When the report of the departure of the excellent man, my colleague, was still uncertain among us, my beloved brethren, and I was wavering doubtfully in my opinion on the matter, I received a letter sent to me from you by Crementius the sub-deacon, in which I was most abundantly informed of his glorious end; and I rejoiced greatly that, in harmony with the integrity of his administration, an honourable consummation also attended him. Wherein, moreover, I greatly congratulate you, that you honour his memory with a testimony so public and so illustrious, so that by your means is made known to me, not only what is glorious to you in connection with the memory of your bishop, but what ought to afford to me also an example of faith and virtue. For in proportion as the fall of a bishop is an event which tends ruinously to the fall of his followers, so on the other hand it is a useful and helpful thing when a bishop, by the firmness of his faith, sets himself forth to his brethren as an object of imitation.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. I have, moreover, read another epistle, in which neither the person who wrote nor the persons to whom it was written were plainly declared; and inasmuch as in the same letter both the writing and the matter, and even the paper itself, gave me the idea that something had been taken away, or had been changed from the original, I have sent you back the epistle as it actually came to hand, that you may examine whether it is the very same which you gave to Crementius the sub-deacon, to carry. For it is a very serious thing if the truth of a clerical letter is corrupted by any falsehood or deceit. In order, then, that we may know this, ascertain whether the writing and subscription are yours, and write me again what is the truth of the matter. I bid you, dearest brethren, ever heartily farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050603.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050603.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三封书信",
+    "p0002": "\\Emph{致住在罗马的司铎与执事。公元250年。}",
+    "p0003": "\\Emph{说明——这是一封亲切友好的书信；无需正式说明，尤其因为从标题本身即可充分领会。罗马神职人员的回信已遗失。}",
+    "p0004": "1. \\Person{西彼廉}致留在罗马的司铎与执事，弟兄们，安好。我亲爱的弟兄们，当我仍在犹疑不定时，关于我那杰出的同僚离世的传闻仍不确定，我便收到了你们由副执事\\Person{克雷孟提乌斯}带给我的信函，其中极为详尽地告知了我他光荣的结局；我甚为欣喜，因为与他治理的无瑕相称，他也获得了光荣的结局。此外，我尤为祝贺你们，因你们以如此公开而辉煌的见证纪念他，以致经由你们，我不仅得知了你们纪念你们的主教的光荣，也得知了应成为我信德与德行之榜样的事。因为正如一位主教的跌倒倾向于导致其追随者毁灭性的跌倒，反之亦然，当一位主教以其信德的坚定将自己作为效法的榜样展示给弟兄们时，这乃是一件有益而有助的事。",
+    "p0005": "2. 此外，我还阅读了另一封信函，其中既未明确写明写信人，亦未写明收信人；由于在同一封信中，笔迹、内容乃至纸张本身都让我觉得其中有些内容被删改或与原文不同，我便将原样收到的信函寄还给你们，以便你们核查这是否就是你们交给副执事\\Person{克雷孟提乌斯}的那封。因为若神职人员的信函的真实性被任何虚假或欺骗所败坏，那是一件极为严重的事。因此，为使我们知晓此事，请确认笔迹和签名是否出自你们，并就事实真相再回信给我。至亲爱的弟兄们，我衷心祝愿你们平安。"
+  }
+}

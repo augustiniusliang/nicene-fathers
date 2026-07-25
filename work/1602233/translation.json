@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1602233",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 33",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 33. Of the Occasion on Which He Calls Them to Take His Yoke and Burden Upon Them, and of the Question as to the Absence of Any Discrepancy Between Matthew and Luke in the Order of Narration.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "80. Matthew proceeds thus: <quote>At that time Jesus answered and said, I make my acknowledgment to You, O Father, Lord of heaven and earth, that You have hid these things from the wise and prudent,</quote> and so on, down to where we read, <quote>For my yoke is easy, and my burden is light.</quote> This passage is also noticed by Luke, but only in part. For he does not give us the words, <quote>Come unto me, all you that labour,</quote> and the rest. It is, however, quite legitimate to suppose that all this may have been said on one occasion by the Lord, and yet that Luke has not recorded the whole of what was said on that occasion. For Matthew's phrase is, that <quote>at that time Jesus answered and said;</quote> by which is meant the time after His upbraiding of the cities. Luke, on the other hand, interposes some matters, although they are not many, after that upbraiding of the cities; and then he subjoins this sentence: <quote>In that hour He rejoiced in the Holy Spirit, and said.</quote> Thus, too, we see that even if Matthew's expression had been, not <quote>at that time,</quote> but <quote>in that very hour,</quote> still what Luke inserts in the interval is so little that it would not appear an unreasonable thing to give it as all spoken in the same hour.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602233.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602233.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐，第二卷}",
+    "p0002": "第三十三章 论祂召唤他们负起祂的轭和重担的时机，以及关于玛窦与路加在叙述顺序上并无差异的问题",
+    "p0003": "80. 玛窦继续这样记述：\\BibleQuote{那时耶稣回答说：父啊！天地的主宰！我称谢你，因为你将这些事向智慧及明达的人隐藏起来，}等等，直到我们读到：\\BibleQuote{因为我的轭是柔和的，我的担子是轻松的。}这段经文路加也注意到，但只是部分。因为他没有给我们这些词句：\\BibleQuote{凡劳苦和负重担的，你们都到我这里来，}等等。然而，完全可以合理地假设这一切可能是主在同一个场合所说的，而路加并没有记录那个场合所说的全部。因为玛窦的措辞是：\\Quote{那时耶稣回答说：}这指的是祂斥责那些城邑之后的时间。另一方面，路加插入了一些事情，虽然不多，在那斥责城邑之后；然后他加上这句话：\\BibleQuote{就在那时刻，祂因圣神而欢欣说。}同样，我们看到，即使玛窦的表达不是\\Quote{那时}，而是\\Quote{就在那时刻}，路加在间隔中插入的内容仍然如此之少，以至于将其视为在同一时刻所说，似乎也不是不合理的。"
+  }
+}

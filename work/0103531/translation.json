@@ -1,0 +1,55 @@
+{
+  "source": {
+    "source_id": "0103531",
+    "title": "Against Heresies (Book V, Chapter 31)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book V, Chapter 31",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book V, Chapter 31)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Since, again, some who are reckoned among the orthodox go beyond the pre-arranged plan for the exaltation of the just, and are ignorant of the methods by which they are disciplined beforehand for incorruption, they thus entertain heretical opinions. For the heretics, despising the handiwork of God, and not admitting the salvation of their flesh, while they also treat the promise of God contemptuously, and pass beyond God altogether in the sentiments they form, affirm that immediately upon their death they shall pass above the heavens and the Demiurge, and go to the Mother (Achamoth) or to that Father whom they have feigned. Those persons, therefore, who disallow a resurrection affecting the whole man (<em>universam reprobant resurrectionem</em>), and as far as in them lies remove it from the midst [of the Christian scheme], how can they be wondered at, if again they know nothing as to the plan of the resurrection? For they do not choose to understand, that if these things are as they say, the Lord Himself, in whom they profess to believe, did not rise again upon the third day; but immediately upon His expiring on the cross, undoubtedly departed on high, leaving His body to the earth. But the case was, that for three days He dwelt in the place where the dead were, as the prophet says concerning Him: <quote>And the Lord remembered His dead saints who slept formerly in the land of sepulture; and He descended to them, to rescue and save them.</quote> And the Lord Himself says, <quote>As Jonas remained three days and three nights in the whale's belly, so shall the Son of man be in the heart of the earth.</quote> {{BIBLE:mat 11:40}} Then also the apostle says, <quote>But when He ascended, what is it but that He also descended into the lower parts of the earth?</quote> {{BIBLE:eph 4:9}} This, too, David says when prophesying of Him, <quote>And you have delivered my soul from the nethermost hell;</quote> and on His rising again the third day, He said to Mary, who was the first to see and to worship Him, <quote>Touch Me not, for I have not yet ascended to the Father; but go to the disciples, and say unto them, I ascend unto My Father, and unto your Father.</quote> {{BIBLE:joh 20:17}}",
+        "scripture": [
+          "mat 11:40",
+          "eph 4:9",
+          "joh 20:17"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. If, then, the Lord observed the law of the dead, that He might become the first-begotten from the dead, and tarried until the third day <quote>in the lower parts of the earth;</quote> {{BIBLE:eph 4:9}} then afterwards rising in the flesh, so that He even showed the print of the nails to His disciples, He thus ascended to the Father;— [if all these things occurred, I say], how must these men not be put to confusion, who allege that <quote>the lower parts</quote> refer to this world of ours, but that their inner man, leaving the body here, ascends into the super-celestial place? For as the Lord <quote>went away in the midst of the shadow of death,</quote> where the souls of the dead were, yet afterwards arose in the body, and after the resurrection was taken up [into heaven], it is manifest that the souls of His disciples also, upon whose account the Lord underwent these things, shall go away into the invisible place allotted to them by God, and there remain until the resurrection, awaiting that event; then receiving their bodies, and rising in their entirety, that is bodily, just as the Lord arose, they shall come thus into the presence of God. <quote>For no disciple is above the Master, but every one that is perfect shall be as his Master.</quote> {{BIBLE:luk 6:40}} As our Master, therefore, did not at once depart, taking flight [to heaven], but awaited the time of His resurrection prescribed by the Father, which had been also shown forth through Jonas, and rising again after three days was taken up [to heaven]; so ought we also to await the time of our resurrection prescribed by God and foretold by the prophets, and so, rising, be taken up, as many as the Lord shall account worthy of this [privilege].",
+        "scripture": [
+          "eph 4:9",
+          "luk 6:40"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103531.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103531.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳异端（第五卷，第三十一章）}",
+    "p0002": "1. 再者，有些被视为正统的人，为了高举义人而超越预定的计划，且不晓得他们在不朽之前受训练的方法，因而持异端意见。因为异端者藐视天主的化工，不承认他们肉身的救恩，同时也轻蔑天主的应许，在他们所形成的思想中完全超越天主，断言他们死后立刻升到诸天和\\OriginalTerm{德缪哥}{Demiurge}之上，并到母亲\\OriginalTerm{阿卡莫特}{Achamoth}或他们所虚构的父那里去。因此，那些否认涉及整个人类的复活\\OriginalTerm{完全否认复活}{universam reprobant resurrectionem}，并尽其所能将其从[基督信仰计划]中移除的人，如果他们再次对复活计划一无所知，又有什么可惊讶的呢？因为他们不愿明白，如果事情如他们所说，那主自己——他们自称所信的那位——就不会在第三日复活；而是在他断气在十字架上时，无疑立刻升到高处，将身体留在地上。但事实是，他在死者所在之处住了三天，正如先知论到他所说：\\Quote{主记念他那先前睡在坟墓之地中的圣死者；他降临到他们那里，为要拯救并救出他们。}主自己说：\\BibleQuote{正如约纳在大鱼腹中三天三夜，人子也要在地心三天三夜。}\\BibleRef{玛 11:40}然后宗徒也说：\\BibleQuote{但他升了天，若不是说他先降到地底下，是什么呢？}\\BibleRef{弗 4:9}达味预言他时也这样说：\\Quote{你从极深的地狱中救了我的灵魂；}在他第三日复活后，他对首先看见并朝拜他的玛利亚说：\\BibleQuote{你别摸我，因为我还没有升到父那里；但你去到门徒那里，对他们说：我升到我的父和你们的父那里去。}\\BibleRef{若 20:17}",
+    "p0003": "2. 那么，如果主遵守了死者的律法，为成为从死者中首先复生的，并停留到第三日\\BibleQuote{在地底下}\\BibleRef{弗 4:9}；然后肉身复活，甚至向门徒显示钉痕，这样才升到父那里——[如果这一切都发生了，我说]，这些人怎能不羞愧呢？他们声称\\Quote{地底下}指的是我们这个尘世，而他们的内心之人离开这里的身体，升到天上之地之上。因为主\\Quote{进入死荫之中}，那里是死者灵魂所在之处，之后却肉身复活，复活后被接升[天]，那么显然，主的门徒的灵魂——主为了他们而经历这些——也要去到天主为他们所指定的不可见之处，在那里等待复活，期待那时刻；然后领回他们的身体，完整地复活，即肉身复活，正如主复活一样，他们就这样来到天主面前。\\BibleQuote{因为门徒不能高过老师，凡成全的，必像他的老师一样。}\\BibleRef{路 6:40}因此，正如我们的主没有立即飞升[天堂]，而是等待父所规定的复活时刻——这也是通过约纳所预表的——并在三天后复活，然后被接升[天]；同样，我们也应当等待天主所规定、众先知所预言的我们复活的时候，然后复活，被接升天——凡主认为配得此[特恩]的人，都要如此。"
+  }
+}

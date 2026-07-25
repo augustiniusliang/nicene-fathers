@@ -1,0 +1,50 @@
+{
+  "source": {
+    "source_id": "3001119",
+    "title": "Letter 119",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 119",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 119",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Minervius and Alexander</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{BIBLE:1co 15:51}}",
+        "scripture": [
+          "1co 15:51"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001119.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001119.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一百一十九书",
+    "p0002": "\\Emph{致\\Person{米内尔维乌斯}与\\Person{亚历山大}}",
+    "p0003": "\\BibleRef{格前 15:51}"
+  }
+}

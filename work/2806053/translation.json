@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "2806053",
+    "title": "Letter 53",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 53",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 53",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Second Letter to Monks.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Athanasius, Archbishop of Alexandria, to the Solitaries.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Athanasius to those who practise a solitary life, and are settled in faith in God, most beloved brethren, greeting in the Lord.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "I thank the Lord who has given to you to believe in Him, that you too may have with the saints eternal life. But because there are certain persons who hold with Arius and go about the monasteries with no other object save that under colour of visiting you, and returning from us they may deceive the simple; whereas there are certain who, while they affirm that they do not hold with Arius, yet compromise themselves and worship with his party; I have been compelled, at the instance of certain most sincere brethren, to write at once in order that keeping faithfully and without guile the pious faith which God's grace works in you, you may not give occasion of scandal to the brethren. For when any sees you, the faithful in Christ, associate and communicate with such people, [or worshipping along with them], certainly they will think it a matter of indifference and will fall into the mire of irreligion. Lest, then, this should happen, be pleased, beloved, to shun those who hold the impiety [of Arius], and moreover to avoid those who, while they pretend not to hold with Arius, yet worship with the impious. And we are specially bound to fly from the communion of men whose opinions we hold in execration. [If then any come to you, and, as blessed John {{BIBLE:2jo 1:10}} says, brings with him right doctrine, say to him, All hail, and receive such an one as a brother.] But if any pretend that he confesses the right faith, but appear to communicate with those others, exhort him to abstain from such communion, and if he promise to do so, treat him as a brother, but if he persist in a contentious spirit, him avoid. [I might greatly lengthen my letter, adding from the divine Scriptures the outline of this teaching. But since, being wise men, you can anticipate those who write, and rather, being intent upon self-denial, are fit to instruct others also, I have dictated a short letter, as from one loving friend to others, in the confidence] that living as you do you will preserve a pure and sincere faith, and that those persons, seeing that you do not join with them in worship, will derive benefit, fearing lest they be accounted as impious, and as those who hold with them.",
+        "scripture": [
+          "2jo 1:10"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Archibald Robertson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806053.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Archibald Robertson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806053.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第53封信}",
+    "p0002": "\\Emph{\\WorkTitle{致隐修士的第二封信}。}",
+    "p0003": "\\Person{亚大纳削}，\\Place{亚历山大里亚}总主教，致\\OriginalTerm{独修士}{Solitaries}们。",
+    "p0004": "\\Person{亚大纳削}向那些度独修生活、在天主内信德坚固的至爱弟兄们，致以主内的问候。",
+    "p0005": "我感谢主，因为他赐予你们在他内信从的恩宠，好使你们也能同诸圣获得永生。但是，因为有些人附从\\Person{亚略}，并在各隐修院之间游走，没有别的目的，只是假借拜访你们之名，并从我们这里回去之后，欺骗那些纯朴的人；而另有一些人，虽然声称自己并不附从\\Person{亚略}，却自甘妥协，与他的党羽一同崇拜；因着一些极其真诚的弟兄们的请求，我不得不立即写信，好使你们能以忠诚无伪的心，保守天主的恩宠在你们内所成就的虔诚信德，而不致给弟兄们立下恶表。因为当有人看见你们这些在基督内的忠信者，竟与这样的人交往共融\\EditorialNote{或一同参与崇拜}，他们必会认为这是无关紧要的事，并陷入不虔敬的泥淖。因此，亲爱的，为避免这样的事发生，请你们远避那些持守不虔敬\\EditorialNote{亚略}的人，更要躲避那些人，他们虽然装作不附从\\Person{亚略}，却与不虔敬者一同崇拜。我们特别有责任逃避那些我们深恶痛绝其主张的人的共融。\\EditorialNote{因此，如果有人来到你们那里，正如\\Person{真福若望}所说：\\BibleRef{若二 1:10}，带着纯正的教义，你们应对他说：愿你平安，并接纳这人如同弟兄。}但若有人声称宣认纯正的信仰，却显然与那些人保持共融，就要劝他戒绝这种共融；如果他答允这样做，就待他如同弟兄；如果他固执好争，就要避开他。\\EditorialNote{我本可以大幅增长这封信的篇幅，从神圣的圣经中援引这项教导的纲要。然而，你们既是智慧人，能预先领会写信者的意思，又更专心于舍己克修，足以教导他人，所以，我因着信赖，就口述了这封短信，如同一位爱友写给另一些爱友，深信你们照现在的生活，必会保持纯洁真诚的信德，并且那些人会因看到你们不与他们一同崇拜而获益，他们害怕自己被视为不虔敬者，并与这样的人同流合污。}"
+  }
+}

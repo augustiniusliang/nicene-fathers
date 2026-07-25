@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202119",
+    "title": "Letter 119",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 119",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 119",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eustathius, Bishop of Sebasteia</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I address you by the very honourable and reverend brother Petrus, beseeching you now and ever to pray for me, that I may be changed from ways dangerous and to be shunned, and may be made one day worthy of the name of Christ. Though I say nothing, you will converse together about my affairs, and he will give you an exact account of what has taken place. But you admit without due examination, the vile suspicions against me which will probably be raised by men who have insulted me, in violation of the fear of God and the regard of men. I am ashamed to tell you what treatment I have received from the illustrious Basilius, whom I had accepted at the hands of your reverence as a protection for my life. But, when you have heard what our brother has to say, you will know every detail. I do not thus speak to avenge myself upon him, for I pray that it may not be put to his account by the Lord, but in order that your affection to me may remain firm, and because I am afraid lest it be shaken by the monstrous slanders which these men are pretty sure to make up in defence of their fall. Whatever be the charges they adduce, I hope your intelligence will put these enquiries to them. Have they formally accused me? Have they sought for any correction of the error which they bring against me? Have they made their grievance against me plain? As matters are, by their ignoble flight they have made it evident that under the cheerfulness of their countenance, and their counterfeit expressions of affection, they are all the while hiding in their heart an immense depth of guile and of gall. In all this, whether I narrate it or not, your intelligence knows perfectly well what sorrow they have caused me, and what laughter to those who, always expressing their abomination for the pious life in this wretched city, affirm that the pretence of virtue is practised as a mere trick to get credit, a mere assumption to deceive. So in these days no mode of life is now so suspected of vice by people here as the profession of asceticism. Your intelligence will consider what is the best cure for all this.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "As to the charges patched up against me by Sophronius, far from being a prelude of blessings, they are a beginning of division and separation, and are likely to lead to even my love growing cold. I implore that by your merciful kindness he may be withheld from his injurious efforts, and that your affection may strive rather to tighten the bonds of what is falling asunder, and not to increase separation by joining with those who are eager for dissent.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202119.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202119.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一一九封书信",
+    "p0002": "\\Signature{圣巴西略}",
+    "p0003": "\\Emph{致塞巴斯特亚主教尤斯塔修斯。}",
+    "p0004": "我藉着极为尊贵可敬的兄弟\\Person{伯多禄}致信于您，恳求您现在并时常为我祈祷，使我得以远离危险当避的道路，终有一日堪当承受基督之名。我虽不言，您二人必谈论我的事，他将向您详述所发生的一切。然而，您未加审察便轻信那卑劣的猜疑，这猜疑必来自那些曾侮辱我——违反正直人的敬畏天主与顾及人的看法——的人。我羞于告诉您我从那位杰出的\\Person{巴西略}那里所受的对待，我曾接受他作为您尊者为我生命提供的保护。但当您听到我们的兄弟所言，便会知道一切细节。我如此说并非为报复他，因为我祈祷主不要归罪于他，而是为使我与您之间的爱心保持坚定，因我担心它会被那些人在为自己的堕落辩护时必然捏造的恶毒诽谤所动摇。无论他们提出什么指控，我希望您的明智会向他们质询这些问题：他们是否曾正式控告我？他们是否曾寻求纠正他们所指摘的错误？他们是否曾明确陈述对我的不满？事实上，他们卑怯的逃避已表明，在他们欢愉的面容和虚假的情感表达下，内心深处一直隐藏着极深的诡诈与怨恨。对于这一切，无论我是否叙述，您的明智都完全清楚他们带给我何等悲伤，以及带给那些始终对此悲惨城市中的虔诚生活表示憎恶的人何等嘲笑——他们断言德行的伪装不过是骗取信任的伎俩、欺骗的假象。因此如今在此地，没有任何生活方式像苦修的宣认那样被怀疑为恶习。您的明智将考虑这一切的最佳疗方。",
+    "p0005": "至于\\Person{索弗罗尼}对我捏造的指控，它们远非祝福的前奏，而是分裂与分离的开端，甚至可能使我的爱心变得冷淡。我恳求您以慈悲的良善阻止他有害的努力，愿您的爱心努力加固那正在破裂的纽带，而非加入那些渴望分裂的人而加深分离。"
+  }
+}

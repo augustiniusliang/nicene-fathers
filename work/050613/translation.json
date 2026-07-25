@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "050613",
+    "title": "Epistle 13",
+    "breadcrumbs": "Home > Fathers of the Church > Epistles (Cyprian of Carthage) > Epistle 13",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Epistle 13",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To the Clergy, Concerning Those Who are in Haste to Receive Peace. A.D. 250.</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Argument.— Peace Must Be Attained Through Penitence, and Penitence is Realized by Keeping the Commandments. They Who are Oppressed with Sickness, If They are Relieved by the Suffrages of the Martyrs, May Be Admitted to Peace; But Others are to Be Kept Back Until the Peace of the Church is Secured.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Cyprian to the presbyters and deacons, his brethren, greeting. I have read your letter, beloved brethren, wherein you wrote that your wholesome counsel was not wanting to our brethren, that, laying aside all rash haste, they should manifest a religious patience to God, so that when by His mercy we come together, we may debate upon all kinds of things, according to the discipline of the Church, especially since it is written, <quote>Remember from whence you have fallen, and repent.</quote> {{BIBLE:rev 2:5}} Now he repents, who, remembering the divine precept, with meekness and patience, and obeying the priests of God, deserves well of the Lord by his obedience and his righteous works.",
+        "scripture": [
+          "rev 2:5"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Since, however, you intimate that some are petulant, and eagerly urge their being received to communion, and have desired in this matter that some rule should be given by me to you, I think I have sufficiently written on this subject in the last letter that was sent to you, that they who have received a certificate from the martyrs, and can be assisted by their help with the Lord in respect of their sins, if they begin to be oppressed with any sickness or risk; when they have made confession, and have received the imposition of hands on them by you in acknowledgment of their penitence, should be remitted to the Lord with the peace promised to them by the martyrs. But others who, without having received any certificate from the martyrs, are envious (since this is the cause not of a few, nor of one church, nor of one province, but of the whole world), must wait, in dependence on the protection of the Lord, for the public peace of the Church itself. For this is suitable to the modesty and the discipline, and even the life of all of us, that the chief officers meeting together with the clergy in the presence also of the people who stand fast, to whom themselves, moreover, honour is to be shown for their faith and fear, we may be able to order all things with the religiousness of a common consultation. But how irreligious is it, and mischievous, even to those themselves who are eager, that while such as are exiles, and driven from their country, and spoiled of all their property, have not yet returned to the Church, some of the lapsed should be hasty to anticipate even confessors themselves, and to enter into the Church before them! If they are so over-anxious, they have what they require in their own power, the times themselves offering them freely more than they ask. The struggle is still going forward, and the strife is daily celebrated. If they truly and with constancy repent of what they have done, and the fervour of their faith prevails, he who cannot be delayed may be crowned. I bid you, beloved brethren, ever heartily farewell; and have me in remembrance. Greet all the brotherhood in my name, and tell them to be mindful of me. Farewell.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Robert Ernest Wallis. From Ante-Nicene Fathers, Vol. 5. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/050613.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Robert Ernest Wallis.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 5.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/050613.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第十三}",
+    "p0002": "\\Emph{致圣职人员，论及那些急于获得平安的人。公元二五〇年。}",
+    "p0003": "\\Emph{论据——平安必须通过补赎获得，而补赎藉遵守诫命得以实现。那些患病的人，若因殉道者的代祷而得缓解，可被接纳获享平安；但其他人须被阻止，直至教会的平安得到保障。}",
+    "p0004": "1. 西彼廉致诸位长老与执事，他的弟兄们，安好。我已阅读你们的信函，亲爱的弟兄们，信中提到你们并未缺乏对弟兄们的有益劝告，即要摒弃一切鲁莽急躁，向天主显示敬虔的忍耐，好使我们在祂的怜悯下聚集时，能按照教会纪律讨论各类事宜，尤其因为经上记载：\\BibleQuote{要回想你是从哪里跌落的，并要悔改。}\\BibleRef{默 2:5} 那悔改的人，是记念神圣诫命，以温柔和忍耐，并服从天主的司铎，藉其服从和正义的行为，在主面前蒙恩的人。",
+    "p0005": "2. 然而，由于你们提到有些人无礼，急切地要求被接纳进入共融，并希望在此事上由我给你们一些规则，我认为在上一封给你们的信中已充分写明了此事：那些从殉道者获得证书，并能藉其帮助在主面前解决其罪债的人，若开始遭受任何疾病或危险，当他们做了告解，并由你们在他们身上实行覆手以承认其补赎后，应被交托给主，并享有殉道者所应许的平安。至于其他人，他们没有从殉道者获得任何证书，心中嫉妒（因为这不单是少数人、一个教会、一个行省的事，而是全世界的事），必须仰赖主的保护，等候教会本身的公共平安。因为这对我们所有人的谦逊、纪律乃至生命都是适宜的，即当首领们与圣职人员会面，在那些站立的教友面前（他们本身也因其信德和敬畏而应受尊敬），我们能够以共同商议的虔诚来安排一切。但是，对那些急切者而言，这是何等不虔敬和有害的事啊——当那些流亡者、被逐出家乡、被剥夺一切财产的人尚未回到教会时，一些背教者却急于抢先于宣信者本人，在他们之前进入教会！如果他们如此过度焦虑，他们已在自己的权力中拥有他们所要求的，因为时机本身比他们所求的更为慷慨地提供给他们。战斗仍在进行，争斗每日都在举行。如果他们真正并恒心地对自己所做的事忏悔，且其信德的热情得胜，那么那不能被延迟的人将可获赐冠冕。我祝你们，亲爱的弟兄们，永远在主内安康；并请记得我。请以我的名义问候全体弟兄，告诉他们纪念我。再会。"
+  }
+}

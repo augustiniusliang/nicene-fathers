@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360208014",
+    "title": "Book VIII, Letter 14",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 14",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 14",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Boniface, First Guardian (Defensorem).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Boniface concerning the privileges of Guardians.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Those who labour faithfully in the interests of the Church should receive the benefit of suitable remuneration, so that both we may be seen to have made a worthy return for their services, and they may show themselves the more useful for the favour of the solace granted them. Seeing, then, that those who hold the office of Guardians are known to labour in the causes of the Church and in the service of the pontiffs, we have thought fit that they should enjoy the following prerogatives, granted to them for recompense—appointing that, as in the school (<em>schola</em>) of notaries and subdeacons, through the indulgence of pontiffs long ago, there have been constituted <em>regionarii</em>, so also among the Guardians seven who may have commended themselves by proved utility shall be distinguished by the dignity of <em>regionarii</em>. And we appoint that these, in the absence of the pontiff, shall have leave to sit anywhere in any assembly of clergy, and enjoy in all respects the privileges of their dignity. Furthermore, if any one, attaining to this position of priority, should by any chance live in another province for his own advantage, he must needs still occupy in all respects his place of priority, so that he may be the chief of all the guardians, as being one who, even before he obtained his position of priority, had not ceased by assiduous personal attention to devote himself to the interests of the Church and the service of the pontiff. These decrees, then, by us constituted, which have been ordained for the privileges and constitution of Guardians, we appoint to be kept in perpetual force and irrefragably;— whether such things as we have decreed in writing, or such as are seen to have been ordained in our presence: and we decree also that they shall not be upset or changed in whole or in part on any occasion whatever by any of the pontiffs. For it is a very harsh proceeding, and especially contrary to good conduct in priests, that any one should endeavour, under any manner of excuse, to rescind what has been well ordained, and also by his example to teach others to dissolve his own constitutions after his own time. The month of April, first Indiction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208014.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208014.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷，第十四封信",
+    "p0002": "\\Emph{\\Person{博尼法斯}，\\OriginalTerm{首位辩护人}{Defensorem}}。",
+    "p0003": "\\Person{额我略}致\\Person{博尼法斯}，论\\OriginalTerm{辩护人}{Guardians}的特权。",
+    "p0004": "那些为教会利益忠心劳苦的人，应该得到适当报酬的恩惠，如此既可显示我们对其服务作出了相称的回报，而他们因蒙受所赐的慰藉之恩，也能显得更有用处。既然如此，那些担任辩护人职务的人，众所周知是勤于教会事业并服务于教宗们，我们认为理应让他们享有以下赏予他们的特权作为酬报——规定：正如在公证人和副助祭的\\OriginalTerm{团体}{schola}中，因昔日教宗们的宽厚而设立了\\OriginalTerm{教区公证人}{regionarii}，同样，在辩护人中，凡经证明有功绩的七位，应获得教区公证人的尊荣。我们规定，在教宗缺席时，他们有权在任意神职人员的集会中坐在任何位置，并在各方面享有其尊严的特权。此外，若有人获得此优先地位，偶然为自身利益居住在其他省份，他仍须在各方面占据其优先席位，以便成为所有辩护人之首，因为他甚至在获得优先地位之前，就已通过勤勉的个人关注，不断献身于教会利益与教宗之服务。因此，我们制定这些为辩护人的特权和组织而颁布的法令，指定它们必须永久有效且不可违反——无论是我们以书面方式所规定的，还是那些被认为是在我们面前所颁布的；我们也规定，它们不得被任何教宗在任何情况下全部或部分推翻或更改。因为这是一种极其严苛的行为，尤其与司铎的良好品行相悖：任何人以任何借口企图废除已经妥善规定的事，并且以自身榜样教导他人在自己时代之后解散自己的法令。四月，第一\\OriginalTerm{小纪}{Indiction}。"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "360207015",
+    "title": "Book VII, Letter 15",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 15",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 15",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To George, Presbyter.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to George, Presbyter, and to Theodore, deacon, of the Church of Constantinople.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Mindful of your goodness and charity, I greatly blame myself, that I gave you leave to return so soon: but, since I saw you pressing me importunately once and again for leave to go, I considered that it might be a serious matter for your Love to tarry with us longer. But, after I had learned that you had lingered so long on your journey owing to the winter season, I confess that I was sorry that you had been sent away so soon. For, if your Love was unable to accomplish your intended journey, it had been better that you had lingered with me than away from me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Moreover, after your departure I learned from information given me by my most beloved sons the deacons that your Love had said that our Almighty Lord and Saviour Jesus Christ, when He descended into hell, saved all who there acknowledged Him as God, and delivered them from the pains due to them. With regard to this subject I desire that your Charity should think very differently. For, when He descended into hell, He delivered through His grace those only who both believed that He should come and observed His precepts in their lives. For it is evident that after the incarnation of the Lord no one can be saved, even of those who hold His faith, who have not the life of faith; since it is written, <em>They acknowledge that they know God, but in deeds they deny Him</em> {{BIBLE:tit 1:16}} . And John says, <em>He that says that he knows Him, and keeps not His commandments, is a liar</em> {{BIBLE:1jo 2:4}} . James also, the brother of the Lord, writes saying, <em>Faith without works is dead</em> {{BIBLE:jam 2:20}} . If, then, believers now are not saved without good works, while the unbelieving and reprobate without good action were saved by our Lord descending into hell, then the lot of those who never saw the incarnation of the Lord was better than that of these who have been born after the mystery of His incarnation. But what fatuity it argues to say or think this the Lord Himself testifies to His disciples, when He says, <em>Many kings and prophets have desired to see the things which you see, and have not seen them</em> {{BIBLE:mat 13:17}} . But, that I may not detain your Love with argument of my own, learn what Philaster, in the book which he wrote about heresies, says about this heresy. His words are these; <quote>They are heretics who say that the Lord descended into hell, and announced himself after death to all who were already there, so that in acknowledging Him there they might be saved; seeing that this is contrary to the prophet David where he says, <em>But in hell who shall acknowledge you</em> {{BIBLE:psa 6:6}} ? And to the Apostle; <em>As many as have sinned without law shall perish without law</em> {{BIBLE:rom 2:12}} .</quote> And with his words the blessed Augustine also agrees in the book which he wrote about heresies.",
+        "scripture": [
+          "tit 1:16",
+          "1jo 2:4",
+          "jam 2:20",
+          "mat 13:17",
+          "psa 6:6",
+          "rom 2:12"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Considering, therefore, all these things, hold nothing but what the true faith teaches through the Catholic Church: namely, that the Lord in descending into hell rescued from infernal durance those only whom while living in the flesh He preserved through His grace in faith and good conduct. For in that which He says in the Gospel, <em>When I shall be lifted up from the earth, I will draw all to myself</em> {{BIBLE:joh 12:32}} , He means all that are elect. For one could not be drawn to God after death who had separated himself from God by evil living. May Almighty God keep you under His protection, that, wherever you are, you may feel in soul and body the aid of His grace.",
+        "scripture": [
+          "joh 12:32"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207015.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207015.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷，第十五封信",
+    "p0002": "\\Emph{致司铎\\Person{乔治}。}",
+    "p0003": "\\Person{额我略}致\\Place{君士坦丁堡}教会司铎\\Person{乔治}及执事\\Person{德奥多尔}。",
+    "p0004": "念及您的良善与爱德，我深感自责，竟让您过早返回；但见您一再恳求准予离去，我思忖您的爱德与我们久留或许会有重大不便。然而，当得知您因冬季而旅途耽搁许久，我承认，我后悔让您如此匆忙离去。因为，若您的爱德未能完成预定行程，那么您与我共处而非远离我，岂不是更好？",
+    "p0005": "此外，在您离去后，我从我至爱的儿子执事们所得消息中获悉，您的爱德曾说：我们的全能之主及救主\\Person{耶稣基督}，当他降至地狱时，拯救了所有在那里承认他为天主的人，并使他们免于应受的痛苦。关于此事，我愿您的爱德持有截然不同的看法。因为，当他降至地狱时，他仅藉其恩宠拯救了那些既相信他将降临，又在其生活中遵守其诫命的人。显然，在主降生成人之后，即使是持守信仰却无信仰生活的人，也不能得救；因为经上记载：\\Emph{\\BibleQuote{他们承认认识天主，但在行为上却否认祂}}\\BibleRef{铎 1:16}。\\Person{若望}也说：\\Emph{\\BibleQuote{那说认识祂，却不遵守祂诫命的，是撒谎者}}\\BibleRef{若一 2:4}。主的兄弟\\Person{雅各伯}亦写道：\\Emph{\\BibleQuote{没有行为的信德是死的}}\\BibleRef{雅 2:20}。倘若如今有信仰者不行善功不得救，而无信仰、被弃绝者却因主降至地狱而无善功得救，那么那些从未见过主降生成人者的命运，竟优于那些生在主降生成人奥秘之后的人了。然而，主亲自对门徒们作证，说这样的话或持这样的想法是何等愚蠢，祂说：\\Emph{\\BibleQuote{许多先知和君王愿意看你们所看见的，却没有看见}}\\BibleRef{玛 13:17}。但是，为不使您的爱德纠缠于我个人的争论，请听\\Person{菲拉斯特}在其所著关于异端的书中关于此异端的论述。他的原话如下：\\Quote{说主降至地狱，死后向所有已在那里的人宣告自己，使他们在那里承认祂而得以获救的人，是异端者；因为这正相反于\\Person{达味}先知所说的\\BibleQuote{但在阴府里，谁能承认祢？}\\BibleRef{咏 6:6}以及使徒所说的\\BibleQuote{凡没有法律而犯了罪的，也必没有法律而丧亡}\\BibleRef{罗 2:12}。}真福\\Person{奥思定}在其所著关于异端的书中，也与他的话一致。",
+    "p0006": "因此，思考这一切，请只持守真信仰通过天主教会所教导的：即主降至地狱时，只救拔了那些在肉身生活时，祂藉其恩宠在信德和善行中保全的人。因为祂在福音中所说的\\BibleQuote{当我从地上被举起来时，我要吸引众人归向我}\\BibleRef{若 12:32}，是指一切被选者。因为一个因恶行而与天主分离的人，死后不可能被吸引到天主那里。愿全能的天主护佑您，使您无论身在何处，都能在灵魂和身体上感受到祂恩宠的助佑。"
+  }
+}

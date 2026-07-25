@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360207025",
+    "title": "Book VII, Letter 25",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 25",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 25",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Gregoria.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Gregoria, Lady of the Bed-chamber (<em>cubiculariæ</em>) to Augusta.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have received the longed for letters of your Sweetness, in which you have been at pains all through to accuse yourself of a multitude of sins: but I know that you fervently love the Almighty Lord, and I trust in His mercy that the sentence which was pronounced with regard to a certain holy woman proceeds from the mouth of the Truth with regard to you: <em>Her sins, which are many, are forgiven her, for she loved much</em> {{BIBLE:luk 7:47}} . And how they were forgiven is shown also by what follows afterwards; that she sat at the Lord's feet, and heard the word from His mouth {{BIBLE:luk 10:39}} . For, being rapt in the contemplative, she had transcended the active life, which Martha her sister still pursued (Ib. 40). She also sought earnestly her buried Lord, and, stooping over the sepulchre, found not His body. But, even when the disciples went away, she remained standing before the door of the sepulchre, and whom she sought as dead, Him she was counted worthy to see alive, and announced to the disciples that He had risen again. And this was by the wonderful dispensation of the loving-kindness of God, that life should be announced by a woman's mouth, because by a woman's mouth had been the first taste of death in Paradise. And at another time also, with another Mary, she saw the Lord after His resurrection, and held His feet. Bring before your eyes, I pray you, what hands held whose feet. That woman who had been a sinner in the city, those hands which had been polluted with iniquity, touched the feet of Him who sits at the right hand of the Father above all the angels. Let us estimate, if we can, what those bowels of heavenly loving-kindness are, that a woman who had been plunged through sin into the whirlpool's depth should be thus lifted high on the wing of love through grace. It is fulfilled, sweet daughter, it is fulfilled, what was promised to us by the prophetic voice concerning this time of the holy Church: <em>And in that day the house of David shall be an open fountain for ablution of the sinner and of her that is unclean</em> {{BIBLE:zec 13:1}} . For the house of David is an open fountain for ablution to us sinners, because we are washed from the filth of our iniquities by mercy now disclosed through the son of David our Saviour.",
+        "scripture": [
+          "luk 7:47",
+          "luk 10:39",
+          "zec 13:1"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "But as to what your Sweetness has added in your letters, namely that you will continue to be urgent with me till I write that it has been revealed to me that your sins are forgiven, you have demanded a difficult, nay even an unprofitable thing; difficult indeed, because I am unworthy of having a revelation made to me; but unprofitable, because you ought not to become secure about your sins, except when in the last day of your life you shall be able no longer to bewail them. But, until that day comes, you ought, ever suspicious and ever fearful, to be afraid of faults, and wash them with daily tears. Assuredly the apostle Paul had already ascended into the third heaven, had also been caught up into Paradise, and heard secret words which it was not lawful for a man to speak {{BIBLE:2co 12:2}} , and yet, still fearful, he said, <em>I keep under my body, and bring it into subjection, lest that by any means, while preaching to others, I myself should become a castaway</em> {{BIBLE:1co 9:27}} . One who is caught up into heaven still fears; and shall one whose conversation is still on earth desire already not to fear? Consider, most sweet daughter, that security is wont to be the mother of carelessness. You ought not, then, in this life to have security, whereby you may be rendered careless. For it is written, <em>Happy is the man that is always afraid</em> {{BIBLE:pro 28:14}} . And again it is written, <em>Serve the Lord in fear, and rejoice unto him with trembling</em> {{BIBLE:psa 2:11}} . In short, then, it must needs be that in the time of this life trembling possess your soul, to the end that it may hereafter rejoice without end through the joy of security. May Almighty God fill your soul with the grace of His Holy Spirit, and, after the tears which you daily shed in prayer, bring you to eternal joys.",
+        "scripture": [
+          "2co 12:2",
+          "1co 9:27",
+          "pro 28:14",
+          "psa 2:11"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207025.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207025.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷·第二十五封书信",
+    "p0002": "\\Emph{致格莱高利亚。}",
+    "p0003": "\\Person{格列高利}致\\Person{格莱高利亚}，\\OriginalTerm{内室女官}{cubiculariæ}，属\\Person{奥古斯塔}。",
+    "p0004": "我收到了你甜美的信，你在信中一直努力指责自己犯了许多罪。但我知道你热切地爱慕全能的主，我坚信祂的仁慈，那关于一位圣妇的判词也适用于你：\\BibleQuote{她的许多罪都被赦免了，因为她爱得多}\\BibleRef{路 7:47}。随后的事也表明她们如何被赦免：她坐在主的脚前，听祂口中的话\\BibleRef{路 10:39}。因为她被提升到默观生活，超越了她的姐妹玛尔大仍从事的积极生活（\\BibleRef{路 10:40}）。她也热切地寻求被埋葬的主，俯身于坟墓旁，却没有找到祂的身体。甚至当门徒们离去时，她仍站在坟墓门前，她寻找那视为死者，却得以见到祂活着，并向门徒宣告祂已复活。这是天主仁慈的奇妙安排：生命由妇女的口宣告，因为死亡最初也是在乐园中由妇女的口尝到的。另有一次，她与另一位玛利亚在复活后见到主，并抱住祂的脚。我恳求你，想想那是怎样的手抱住了谁的脚。那位曾是城中的罪妇，那双曾被不洁污染的手，触摸了那坐在圣父右边，超越众天使者的脚。如果我们能够，让我们估量那属天的仁慈之心是怎样的，一个因罪陷入漩涡深处的妇女，竟因恩宠藉着爱之翼被如此高举。亲爱的女儿，这应验了，这应验了先知论及圣教会这个时期所预言的：\\BibleQuote{在那一天，达味之家必成为敞开的水泉，为洗涤罪人与不洁者}\\BibleRef{匝 13:1}。因为达味之家成为我们罪人的敞开之水泉，我们藉着现在通过达味之子、我们的救主所显示的仁慈，被洗净我们的不洁。",
+    "p0005": "至于你的甜美在信中所附加的，即你将不断催促我，直到我写信说已向你启示你的罪被赦免了，你要求了一件困难甚至无益的事：困难是因为我不配得到启示；无益是因为你不应该对自己的罪感到安心，除非在你生命末日不能再哀哭时。但在那一天到来之前，你应当永远怀疑、永远恐惧，害怕过犯，并用每日的眼泪洗净它们。诚然，宗徒保禄已升到三重天，被提到乐园，听见不可言说的隐秘话语\\BibleRef{格后 12:2}，但仍恐惧地说：\\BibleQuote{我克制自己的身体，使它服从，唯恐我给别人宣讲，自己反而被淘汰}\\BibleRef{格前 9:27}。被提到天上的人仍然恐惧，而仍在世上生活的人岂能已不愿恐惧？最亲爱的女儿，请记住，安于现状常常是疏忽的母亲。因此，你今生不应有安于现状，以免变得疏忽。因为经上记载：\\BibleQuote{常存敬畏的人是有福的}\\BibleRef{箴 28:14}。又说：\\BibleQuote{你们当敬畏地事奉上主，战战兢兢地欢乐}\\BibleRef{咏 2:11}。简言之，你在今生必须战战兢兢，以便将来在安全的喜乐中永无止境地欢乐。愿全能的天主以祂圣神的恩宠充满你的灵魂，并在你每日祈祷时所流的泪之后，带你进入永恒的喜乐。"
+  }
+}

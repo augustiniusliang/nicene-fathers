@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "0103519",
+    "title": "Against Heresies (Book V, Chapter 19)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book V, Chapter 19",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book V, Chapter 19)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. That the Lord then was manifestly coming to His own things, and was sustaining them by means of that creation which is supported by Himself, and was making a recapitulation of that disobedience which had occurred in connection with a tree, through the obedience which was [exhibited by Himself when He hung] upon a tree, [the effects] also of that deception being done away with, by which that virgin Eve, who was already espoused to a man, was unhappily misled—was happily announced, through means of the truth [spoken] by the angel to the Virgin Mary, who was [also espoused] to a man. For just as the former was led astray by the word of an angel, so that she fled from God when she had transgressed His word; so did the latter, by an angelic communication, receive the glad tidings that she should sustain (<em>portaret</em>) God, being obedient to His word. And if the former did disobey God, yet the latter was persuaded to be obedient to God, in order that the Virgin Mary might become the patroness (<em>advocata</em>) of the virgin Eve. And thus, as the human race fell into bondage to death by means of a virgin, so is it rescued by a virgin; virginal disobedience having been balanced in the opposite scale by virginal obedience. For in the same way the sin of the first created man (<em>protoplasti</em>) receives amendment by the correction of the First-begotten, and the coming of the serpent is conquered by the harmlessness of the dove, those bonds being unloosed by which we had been fast bound to death.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. The heretics being all unlearned and ignorant of God's arrangements, and not acquainted with that dispensation by which He took upon Him human nature (<em>inscii ejus quæ est secundum hominem dispensationis</em>), inasmuch as they blind themselves with regard to the truth, do in fact speak against their own salvation. Some of them introduce another Father besides the Creator; some, again, say that the world and its substance was made by certain angels; certain others [maintain] that it was widely separated by Horos from him whom they represent as being the Father— that it sprang forth (<em>floruisse</em>) of itself, and from itself was born. Then, again, others [of them assert] that it obtained substance in those things which are contained by the Father, from defect and ignorance; others still, despise the advent of the Lord manifest [to the senses], for they do not admit His incarnation; while others, ignoring the arrangement [that He should be born] of a virgin, maintain that He was begotten by Joseph. And still further, some affirm that neither their soul nor their body can receive eternal life, but merely the inner man. Moreover, they will have it that this [inner man] is that which is the understanding (<em>sensum</em>) in them, and which they decree as being the only thing to ascend to <quote>the perfect.</quote> Others [maintain], as I have said in the first book, that while the soul is saved, their body does not participate in the salvation which comes from God; in which [book] I have also set forward the hypotheses of all these men, and in the second have pointed out their weakness and inconsistency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103519.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103519.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{Against Heresies (Book V, Chapter 19)}",
+    "p0002": "1. 主显然正来到属于祂自己的事物那里，并借着由祂自己所支撑的受造界维系它们，同时藉着[祂悬在]树上的服从，重演那与树相关的悖逆；那曾使已许配给一个男子的童贞厄娃不幸受骗的欺骗，其[效果]也因着天使向（也）许配给一个男子的童贞玛利亚传达真理[之言]而得蒙喜报。因为正如前者因天使的话语而被引入歧途，以致她违抗天主的言语而逃离天主；同样，后者因天使的传报，喜闻她将怀有（\\Emph{portaret}）天主，并服从了祂的言语。倘若前者确实违抗了天主，那么后者却被说服服从了天主，为使童贞玛利亚成为童贞厄娃的\\OriginalTerm{中保}{advocata}。如此，正如人类因一位童贞而陷入死亡的枷锁，同样也因一位童贞而被解救；童贞的悖逆由童贞的服从在天平另一侧所平衡。因为\\OriginalTerm{首先被造的人}{protoplasti}的罪同样由首生者的纠正而得弥补，蛇的来临被鸽子的无害所征服，那曾将我们牢牢束缚于死亡的锁链被解开了。",
+    "p0003": "2. 所有异端者既未受过教育，也不认识天主的安排，且不熟悉祂取人性身的那一救恩计划（\\Emph{inscii ejus quæ est secundum hominem dispensationis}），因为他们对真理自己瞎了眼，实则是在反对自己的救恩。他们中有些人引入另一位父，而非创造者；另有些人说世界及其质料是由某些天使创造的；还有些人[主张]它被\\OriginalTerm{界限}{Horos}与他们所宣称的那位父远远分开——它自行生出（\\Emph{floruisse}），并自自身而生。此外，另有一些[异端者]断言，它从缺陷和无知中，在父所包含的事物中获得了实体；还有些人鄙视主可感知的来临，因为他们不承认祂的降生成人；而另一些人忽略[祂应]由童贞女[所生]的安排，主张祂是由若瑟所生。更有甚者，有些人肯定既不是他们的灵魂也不是他们的身体能领受永生，而仅仅是那内在的人。而且，他们主张这[内在的人]就是他们里面的理解力（\\Emph{sensum}），并规定只有它上升到\\Quote{那完美的}。另有些人，正如我在第一卷中所说的，主张当灵魂得救时，他们的身体并不分享那来自天主的救恩；在那卷书中，我也陈述了所有这些人的假设，并在第二卷中指出他们的软弱和矛盾。"
+  }
+}

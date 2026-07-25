@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "2306",
+    "title": "Homilies on First Timothy",
+    "breadcrumbs": "Home > Fathers of the Church > Homilies on First Timothy (Chrysostom)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Homilies on First Timothy",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Argument\nHomily 1\nHomily 2\nHomily 3\nHomily 4\nHomily 5\nHomily 6\nHomily 7\nHomily 8\nHomily 9\nHomily 10\nHomily 11\nHomily 12\nHomily 13\nHomily 14\nHomily 15\nHomily 16\nHomily 17\nHomily 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Philip Schaff. From Nicene and Post-Nicene Fathers, First Series, Vol. 13. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1889.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2306.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Philip Schaff.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1889.",
+      "srcurl": "<http://www.newadvent.org/fathers/2306.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "弟茂德前书讲道集",
+    "p0002": "序言\\newline{}讲道 1\\newline{}讲道 2\\newline{}讲道 3\\newline{}讲道 4\\newline{}讲道 5\\newline{}讲道 6\\newline{}讲道 7\\newline{}讲道 8\\newline{}讲道 9\\newline{}讲道 10\\newline{}讲道 11\\newline{}讲道 12\\newline{}讲道 13\\newline{}讲道 14\\newline{}讲道 15\\newline{}讲道 16\\newline{}讲道 17\\newline{}讲道 18"
+  }
+}

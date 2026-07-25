@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202208",
+    "title": "Letter 208",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 208",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 208",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eulancius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You have been long silent, though you have very great power of speech, and are well trained in the art of conversation and of exhibiting yourself by your eloquence. Possibly it is Neocæsarea which is the cause of your not writing to me. I suppose I must take it as a kindness if those who are there do not remember me, for, as I am informed by those who report what they hear, the mention made of me is not kind. You, however, used to be one of those who were disliked for my sake, not one of those who dislike me for the sake of others. I hope this description will continue to fit you, that wherever you are you will write to me, and will have kindly thoughts of me, if you care at all for what is fair and right. It is certainly fair that those who have been first to show affection should be paid in their own coin.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202208.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202208.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第二〇八",
+    "p0002": "\\Emph{圣凯撒勒雅的巴西略}",
+    "p0003": "\\Emph{致\\Person{尤兰修斯}}",
+    "p0004": "长久以来你都保持沉默，尽管你拥有很强的口才，并精于谈话的艺术以及以雄辩展示自己。或许是\\Place{新凯撒勒雅}导致你未写信给我。我想我必须将此视为一种善意，如果那里的人不记得我，因为据我所得知的消息，那些听闻者所报告的提及我的言辞并不友善。然而，你过去本是那种因我而被厌恶的人，而非那种因他人而厌恶我的人。我希望这一描述将继续适用于你，无论你在何处，你都会写信给我，并对我怀有善意，只要你多少关心公平与正当。公平地讲，那些率先表达感情的人理应得到同样的回报。"
+  }
+}

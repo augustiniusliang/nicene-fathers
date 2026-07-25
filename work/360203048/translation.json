@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "360203048",
+    "title": "Book III, Letter 48",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 48",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 48",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Columbus, Bishop</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Columbus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Even before receiving your Fraternity's letter, I knew you from the report of your deserved reputation to be a good servant of God. And now that I have received it, I understand more fully that what fame had already spread abroad was well founded; and I greatly rejoice in your deserts, in that you exhibit manners and deeds that testify to a praiseworthy life. Since, then, I feel that these things are conferred on you by the Supernal Majesty, I congratulate you; and I bless God our Creditor, who denies not the gifts of His mercy to His humble servants. On this account I declare it to be true that your Fraternity so kindles me with the flame of charity to love you, and my spirit is so united to you, that I both desire to see you and am also with you in heart, though absent. You perceive in your own thoughts that this is so. For in truth unity of minds in charity has power to unite more than bodily presence can. Furthermore, that with your whole mind, your whole heart, your whole soul, you cleave and art devoted to the Apostolic See I am now assured, as, indeed before your letter had borne testimony to the fact, I plainly knew. Wherefore, first addressing you with the greeting of charity which is due, I exhort you not to cease to be mindful of what you have promised to the blessed Peter, Prince of the apostles.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Wherefore be thou urgent with the primate of your synod , that boys be in no wise admitted to sacred orders, lest they fall by so much the more dangerously as they hasten more speedily to mount to higher places. Let there be no venality in ordination: let not the influence or entreaty of any persons obtain anything in contravention of these our prohibitions. For without doubt God is offended if any one is promoted to sacred orders, not for merit, but by favour (which God forbid) or venality.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "If, then, you are aware of these things being done, keep not silence, but oppose them urgently; since, if perchance you should neglect them, or conceal them when known of, the chain of sin will bind not those alone who do such things, but no light guilt before God will touch you also in the matter. If, then, anything of the kind is committed, it ought to be restrained by canonical punishment, lest so great a wickedness, with sin in others, acquire strength from connivance.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "I have, therefore, the sooner given leave of departure to the bearer of these presents, Victorinus, your Fraternity's deacon, whom I think to be your imitator, and whom I have received with charity; and by him I have transmitted to you for a blessing keys of the blessed Peter, in which something from his chains is included.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "Lastly, with regard to the unity and peace of the council which, under God, you are taking measures to assemble, let your Charity rejoice my mind by informing me of everything particularly.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203048.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203048.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷 第四十八封书信",
+    "p0002": "\\Emph{致哥伦布主教}",
+    "p0003": "\\Person{额我略}致\\Person{哥伦布}等人。",
+    "p0004": "甚至在收到您的来信之前，我就因您应有的声誉而知道您是\\Person{天主}的忠仆。如今收到来信，我更清楚地明白，早先传扬的名声确非虚传；我极为您的功绩而欣喜，因为您展现了值得称赞的生活与行为。既然我感受到这些恩赐是由至高威严的\\Person{天主}所赐予，我向您祝贺；并称颂我们的施恩者\\Person{天主}，祂从不拒绝将祂仁慈的恩赐给予谦卑的仆人。因此，我宣布这是真实的：您的兄弟之爱以爱德的火焰点燃我爱您之心，我的灵魂与您如此结合，以至于我虽然身在远方，却渴望见到您，心中也与您同在。您自己也能体会到这一点。因为事实上，在爱德中心灵的结合比肉体的临在更有力量。再者，您以整个心意、整个心灵、整个灵魂依附并献身于宗座，我如今已确知，正如您的信函见证之前，我已清楚知道。因此，首先以应有的爱德问候您，我劝勉您不要忘记您曾向真福\\Person{伯多禄}、宗徒之长所许下的承诺。",
+    "p0005": "因此，你当催促你教务会议的首席主教，绝不可让孩童领受圣秩，以免他们更快地攀登高位，反而更危险地跌倒。在圣职授任中不可有买卖圣职：任何人的权势或恳求都不应违背我们的这些禁令而获得任何东西。因为毫无疑问，如果有人不是因功绩，而是因偏袒（愿\\Person{天主}禁止）或买卖圣职而被晋升至圣秩，\\Person{天主}必然不悦。",
+    "p0006": "因此，如果你知道这些事情正在发生，不要沉默，而要坚决反对；因为倘若你疏忽它们，或虽知情却隐瞒，罪的锁链不仅会束缚那些行事的人，而且在这件事上，\\Person{天主}面前轻的罪责也会触及你。因此，如果任何类似的事情发生了，就应当以教会法的惩罚加以制止，免得如此大的恶行，伴随着别人的罪，因纵容而增强力量。",
+    "p0007": "因此，我较早地允许了这位呈信者——你的执事\\Person{维克托利努斯}——离开，我认为他是你的效仿者，我以爱德接待了他；通过他，我向你传送了真福\\Person{伯多禄}的钥匙作为祝福，其中包含了他锁链的一部分。",
+    "p0008": "最后，关于你在\\Person{天主}之下努力召集的会议的合一与和平，请让你的爱德通过详细告知我一切来使我的心灵喜乐。"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "0103304",
+    "title": "Against Heresies (Book III, Chapter 4)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book III, Chapter 4",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book III, Chapter 4)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Since therefore we have such proofs, it is not necessary to seek the truth among others which it is easy to obtain from the Church; since the apostles, like a rich man [depositing his money] in a bank, lodged in her hands most copiously all things pertaining to the truth: so that every man, whosoever will, can draw from her the water of life. {{BIBLE:rev 22:17}} For she is the entrance to life; all others are thieves and robbers. On this account are we bound to avoid <em>them</em>, but to make choice of the thing pertaining to the Church with the utmost diligence, and to lay hold of the tradition of the truth. For how stands the case? Suppose there arise a dispute relative to some important question among us, should we not have recourse to the most ancient Churches with which the apostles held constant intercourse, and learn from them what is certain and clear in regard to the present question? For how should it be if the apostles themselves had not left us writings? Would it not be necessary, [in that case,] to follow the course of the tradition which they handed down to those to whom they did commit the Churches?",
+        "scripture": [
+          "rev 22:17"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. To which course many nations of those barbarians who believe in Christ do assent, having salvation written in their hearts by the Spirit, without paper or ink, and, carefully preserving the ancient tradition, believing in one God, the Creator of heaven and earth, and all things therein, by means of Christ Jesus, the Son of God; who, because of His surpassing love towards His creation, condescended to be born of the virgin, He Himself uniting man through Himself to God, and having suffered under Pontius Pilate, and rising again, and having been received up in splendour, shall come in glory, the Saviour of those who are saved, and the Judge of those who are judged, and sending into eternal fire those who transform the truth, and despise His Father and His advent. Those who, in the absence of written documents, have believed this faith, are barbarians, so far as regards our language; but as regards doctrine, manner, and tenor of life, they are, because of faith, very wise indeed; and they do please God, ordering their conversation in all righteousness, chastity, and wisdom. If any one were to preach to these men the inventions of the heretics, speaking to them in their own language, they would at once stop their ears, and flee as far off as possible, not enduring even to listen to the blasphemous address. Thus, by means of that ancient tradition of the apostles, they do not suffer their mind to conceive anything of the [doctrines suggested by the] portentous language of these teachers, among whom neither Church nor doctrine has ever been established.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. For, prior to Valentinus, those who follow Valentinus had no existence; nor did those from Marcion exist before Marcion; nor, in short, had any of those malignant-minded people, whom I have above enumerated, any being previous to the initiators and inventors of their perversity. For Valentinus came to Rome in the time of Hyginus, flourished under Pius, and remained until Anicetus. Cerdon, too, Marcion's predecessor, himself arrived in the time of Hyginus, who was the ninth bishop. Coming frequently into the Church, and making public confession, he thus remained, one time teaching in secret, and then again making public confession; but at last, having been denounced for corrupt teaching, he was excommunicated from the assembly of the brethren. Marcion, then, succeeding him, flourished under Anicetus, who held the tenth place of the episcopate. But the rest, who are called Gnostics, take rise from Menander, Simon's disciple, as I have shown; and each one of them appeared to be both the father and the high priest of that doctrine into which he has been initiated. But all these (the Marcosians) broke out into their apostasy much later, even during the intermediate period of the Church.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103304.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103304.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{反异端（第三卷，第四章）}",
+    "p0002": "1. 既然我们有了这样的证据，就不必在其他人那里寻求真理，因为从教会容易获得；因为宗徒们如同一个富人在银行里存款一样，把一切属于真理的事物丰丰富富地交在她手中，以便凡愿意的人，都可以从她那里汲取生命的水。\\BibleRef{默 22:17} 因为她就是生命的入口；其他一切都是贼和强盗。因此，我们应当避开\\Emph{他们}，而要极其谨慎地选择属于教会的事物，并紧紧抓住真理的传统。因为情况如何？假如在我们中间对某个重要问题产生了争议，难道我们不应该求助于与宗徒们经常交往的最古老的教会，从他们那里得知关于当前问题明确而清楚的事吗？假如宗徒们自己并没有给我们留下著作，那又该怎么办？难道那时，我们不是必须遵循他们传授给那些他们曾托付教会者的传统吗？",
+    "p0003": "2. 许多信奉基督的未开化民族同意这一做法，他们有圣神写在心里的救恩，没有纸和墨，又小心地保存着古老的传统，相信唯一的天主，天地的创造者，以及其中万物的创造者，藉着天主子耶稣基督；祂因对受造物超乎寻常的爱，屈尊由童贞女所生，祂亲自将人通过自己与天主结合，并在本丢·比拉多执政时受苦，复活，在光荣中被接升天，将在光荣中来临，作得救者的救主，和受审判者的审判者，并将那些歪曲真理、藐视祂的父和祂的来临的人投入永火。这些人在没有文字的情况下相信了这信仰，就我们的语言而言是未开化的，但在教义、生活方式和处世态度上，他们因信德而极其智慧，并以一切正义、贞洁和智慧来安排他们的交往，他们确实中悦天主。如果有人用他们自己的语言向这些人宣讲异端者的发明，他们会立刻掩耳，尽可能逃离，甚至无法忍受听那亵渎的言论。因此，藉着宗徒的那古老传统，他们不允许自己的思想接受这些教师怪诞言论中的任何[教义]，因为在这些教师中，既从未建立过教会，也从未建立过教义。",
+    "p0004": "3. 在瓦伦提诺之前，那些追随瓦伦提诺的人并不存在；在马尔基翁之前，那些来自马尔基翁的人也不存在；简言之，我上面列举的那些心怀恶意的任何人，在他们那邪说的创始者和发明者之前，都不存在。因为瓦伦提诺在希吉诺时期来到罗马，在庇护下兴盛，并留到阿尼塞托时期。同样，马尔基翁的前辈切尔东本人也在希吉诺时期来到罗马，希吉诺是第九位主教。他经常进入教会，公开宣认，因此如此留下，有时秘密教导，然后再次公开宣认；但最后，因败坏教导被指控，他从弟兄的集会中被逐出。随后，马尔基翁继任，在阿尼塞托时期兴盛，阿尼塞托是第十位主教。但其余被称为诺斯替派的人，源自西满的门徒梅南德，如我已表明的；他们每一位都似乎是那教义的父亲和司祭长，且已被引入其中。但所有这些（马尔科西昂派）都是在更晚的时候，甚至在教会的中间时期，爆发了他们的背道。"
+  }
+}

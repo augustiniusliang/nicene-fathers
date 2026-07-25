@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202338",
+    "title": "Letter 338",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 338",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 338",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Libanius to Basil.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I know you will often write, <quote>Here is another Cappadocian for you!</quote> I expect that you will send me many. I am sure that you are everywhere putting pressure on both fathers and sons by all your complimentary expressions about me. But it would not be kind on my part not to mention what happened about your good letter. There were sitting with me not a few of our people of distinction, and among them the very excellent Alypius, Hierocles' cousin. The messengers gave in the letter. I read it right through without a word; then with a smile, and evidently gratified, I exclaimed, <quote>I am vanquished!</quote> <quote>How? When? Where?</quote> they asked. <quote>How is it that you are not distressed at being vanquished?</quote> <quote>I am beaten,</quote> I replied, <quote>in beautiful letter writing. Basil has won. But I love him; and so I am delighted.</quote> On hearing this, they all wanted to hear of the victory from the letter itself. It was read by Alypius, while all listened. It was voted that what I had said was quite true. Then the reader went out, with the letter still in his hand, to show it, I suppose, to others. I had some difficulty in getting it back. Go on writing others like it; go on winning. This is for me to win. You are quite right in thinking that my services are not measured by money. Enough for him who has nothing to give, that he is as wishful to receive. If I perceive any one who is poor to be a lover of learning, he takes precedence of the rich. True, I never found such instructors; but nothing shall stand in the way of my being, at least in that respect, an improvement on mine. Let no one, then, hesitate to come hither because he is poor, if only he possesses the one qualification of knowing how to work.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202338.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202338.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第三三八封信}",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "\\Person{利巴尼乌斯}致\\Person{巴西略}。",
+    "p0004": "我知道您会经常写道：\\Quote{又是一个卡帕多细亚人！}我预料您会给我送来许多。我深信您到处用您对我的所有美言向父亲们和儿子们施加压力。但我若不提及您那封好信所引发的事，就是不仁慈。当时与我在一起的有不少我们的显贵人物，其中包括非常卓越的\\Person{阿利比乌}，\\Person{希厄罗克勒斯}的表弟。信使们递上了信。我一声不吭地从头到尾读了一遍；然后带着微笑，显然很高兴地喊道：\\Quote{我输了！}\\Quote{怎么？何时？何处？}他们问道。\\Quote{您为何不为失败而沮丧？}\\Quote{我被打败了，}我回答说，\\Quote{在优美的书信写作上。巴西略赢了。但我爱他；所以我感到高兴。}听到这话，他们都想从信中亲自听听这场胜利。\\Person{阿利比乌}朗读了信，大家倾听。大家一致认为我说得非常正确。然后朗读的人拿着信走了出去，我想是去给别人看。我费了些劲才把信要回来。继续写其他像这样的信；继续赢。这对我来说就是赢。您认为我的服务不是用金钱来衡量，这完全正确。对于一无所有的人来说，渴望接受就足够了。如果我看出任何穷人热爱学问，他就比富人优先。诚然，我从未遇到过这样的教师；但没有什么能阻止我至少在那方面比我的教师有所改进。那么，任何人都不应该因为贫穷而犹豫前来，只要他拥有唯一的资格，知道如何工作。"
+  }
+}

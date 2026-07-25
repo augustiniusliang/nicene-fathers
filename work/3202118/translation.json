@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202118",
+    "title": "Letter 118",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 118",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 118",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Jovinus, Bishop of Perrha</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You owe me a good turn. For I lent you a kindness, which I ought to get back with interest;— a kind of interest, this, which our Lord does not refuse. Pay me, then, my friend, by paying me a visit. So much for the capital; what of the increment? It is the fact of the visit being paid by you, who are a man as much superior to me, as fathers are better than children.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202118.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202118.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一百一十八封信",
+    "p0002": "\\Emph{圣巴西略}",
+    "p0003": "\\Emph{致佩拉主教约维努斯。}",
+    "p0004": "你欠我一份人情。因为我曾借给你一份善意，现在理当连本带利收回——这种利息，我们的主并不拒绝。那么，我的朋友，请通过来访来偿还我吧。以上是本钱；利息呢？利息就在于你这位来访者，你比我优胜的程度，如同父亲胜于子女。"
+  }
+}

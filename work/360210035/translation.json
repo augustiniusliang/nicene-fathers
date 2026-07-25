@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "360210035",
+    "title": "Book X, Letter 35",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 35",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 35",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Eulogius, Patriarch of Alexandria.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Eulogius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "In the past year I received the letters of your most sweet Holiness; but on account of the extreme severity of my sickness have been unable to reply to them until now. For lo, it is now almost full two years that I have been confined to my bed, afflicted with such pains of gout that I have hardly been able to rise on feast-days for as much as three hours space to solemnize mass. And I am soon compelled by severe pain to lie down, that I may be able to bear my torment with intervening groans. This pain of mine is sometimes moderate, and sometimes excessive: but neither so moderate as to depart, nor so excessive as to kill me. Hence it comes to pass that, being daily in death, I am daily debarred from death. Nor it is surprising that, grievous sinner as I am, I am long kept confined in the prison of such corruption. Whence I am compelled to exclaim, <em>Bring my soul out of prison, that I may confess your name</em> {{BIBLE:psa 141:8}} . But, since I am not yet worthy to obtain this by my prayers, I beg that the prayer of your Holiness may afford me the aid of its intercession, and deliver me from the weight of sin and corruption into that liberty, which you know well, of the glory of the children of God.",
+        "scripture": [
+          "psa 141:8"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Your to me most sweet and ever to be honoured Blessedness has informed me in your letter that our common son Anatolius, deacon of the city of Constantinople, had written to you to say that certain monks from the parts about Jerusalem had come to me to make some enquiry concerning the error of the <em>Agnoitæ</em> , and you say that he begged your Holiness to write to me to express your opinion with respect to this enquiry. But neither have monks come to me from the parts about Jerusalem to make any enquiry, nor do I think that the said our common son can have told you in his letters what was not the case; but I suspect that the interpreter has mistaken the meaning of his letters. For the same deacon, now more than two years ago, wrote to me that monks had come from the aforesaid parts to the city of Constantinople making such enquiries, and he desired to ask me what I thought. To him, long before I received your letters, I made the very same reply against that same heresy as I found afterwards in the epistle of your Holiness: and I returned great thanks to Almighty God that concerning all questions the Fathers of the Romans and of the Greeks, whose followers we are, have spoken with one spirit. For in many parts I found this your epistle to be as though I had been reading the writings of the Latin Fathers against the aforesaid heresy. And consider how much I must love and praise the excellence of my most holy brother, in whose mouth I recognised the venerable Fathers, whom I love so much. Praise therefore be to Him, to Him be glory in the highest, of whose gift the voice of Mark still cries aloud in the See of Peter ; from the effusion of whose spirit, when the priest enters into the Holy of Holies for searching into mysteries, spiritual bells resound in holy Church, as in the tabernacle, from the words of preaching. Right, then, and highly to be praised is your preaching. But we implore the Almighty Lord to keep you long even in this life, that from the organ of God, which you are, the voice of truth may in this world sound more widely. And for me, I pray you, intercede, that the way of this pilgrimage, which has become too rough for me, may with speed be finished, to the end that I, who cannot by my own merits, may by yours be able to attain to the promises of the eternal country, and to rejoice with the citizens of heaven.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210035.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210035.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第十卷\\newline{}书信三十五}",
+    "p0002": "\\Emph{致亚历山大宗主教\\Person{Eulogius}。}",
+    "p0003": "\\Person{Gregory} 致 \\Person{Eulogius} 等。",
+    "p0004": "在去年，我收到了您极其甘饴的圣座的书信；但因我病势极重，至今未能回复。因为，看，我卧病在床已将近两年，为痛风所苦，几乎不能在庆节上起身三个时辰以举行弥撒。且我很快就被剧痛压迫而躺下，以便在间歇的呻吟中忍受折磨。我的疼痛有时缓和，有时剧烈：但既不缓和到离去，也不剧烈到致死。因此，我虽日日濒死，却日日不得死。而我，身为可悲的罪人，长久被囚禁于如此腐朽的牢狱，这并不奇怪。我被迫呼喊：\\BibleQuote{求祢领我的灵魂出离监牢，好让我赞美祢的圣名}\\BibleRef{咏 141:8}。然而，因我尚未堪当通过祈祷获得此事，我恳求您的圣座的祈祷能以其转求助我，并将我自罪恶与腐朽的重负中释放，进入您所熟知的那光荣的自由，即天主儿女的自由。",
+    "p0005": "您那对我至为甘饴、永当敬仰的福分，在您的信中告知我：我们的共同儿子、\\Place{君士坦丁堡}城执事\\Person{Anatolius}曾写信给您，说某些来自\\Place{耶路撒冷}周边的隐修士来到我这里，就\\OriginalTerm{阿格诺伊特派}{Agnoitæ}的错谬进行咨询；您说他恳求您的圣座写信给我，以表达您对此咨询的意见。但是，既没有隐修士从\\Place{耶路撒冷}周边来我这里咨询，我也不认为我们的那位共同儿子在信中告诉了您不实之事；但我怀疑是翻译误解了他书信的意思。因为同一位执事，在两年多以前写信给我，说来自前述地区的隐修士曾到\\Place{君士坦丁堡}城进行如此咨询，并想问我我的看法。我早在收到您的信之前很久，就对同一异端作了与我在您圣座的书信之后所发现的完全相同的答复：我向全能天主致以极大的感谢，因为关于所有问题，\\Place{罗马}和\\Place{希腊}的教父们——我们是他们的追随者——都以同一圣神发言。因为我在多处发现，您这封书信仿佛就是我阅读拉丁教父们反对前述异端的著作。请您想想，我多么必须爱戴并赞扬我最神圣的兄弟的卓越，我在他的口中认出了我所深爱的可敬教父们。因此，愿赞美归于祂，愿至高荣耀归于祂；祂的恩赐使\\Person{马可}的声音仍在\\Person{伯多禄}的宝座上高呼；祂的神倾注，当司祭进入至圣所探究奥迹时，属灵的钟声便因宣讲的话语，在圣教会中如同在会幕中响起。因此，您的宣讲是正确且极应赞扬的。但我们恳求全能之主长久保全您在此世的生命，以致从您这天主之乐器中所发出的真理之声，能在此世传扬得更广。并请为我转求，使这为我已变得过于崎岖的朝圣之路能迅速完成，好让我这无法凭自己功绩的人，能凭您的功绩获得永生之国的许诺，并与天上的子民一同喜乐。"
+  }
+}

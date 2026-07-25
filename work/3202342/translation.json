@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202342",
+    "title": "Letter 342",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 342",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 342",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Basil to Libanius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "All who are attached to the rose, as might be expected in the case of lovers of the beautiful, are not displeased even at the thorns from out of which the flower blows. I have even heard it said about roses by some one, perhaps in jest, or, it may be, even in earnest, that nature has furnished the bloom with those delicate thorns, like stings of love to lovers, to excite those who pluck them to intenser longing by these ingeniously adapted pricks. But what do I mean by this introduction of the rose into my letter? You do not need telling, when you remember your own letter. It had indeed the bloom of the rose, and, by its fair speech, opened out all spring to me; but it was bethorned with certain fault findings and charges against me. But even the thorn of your words is delightful to me, for it enkindles in me a greater longing for your friendship.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202342.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202342.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信三四二",
+    "p0002": "\\Emph{\\Person{圣巴西略}·\\Place{凯撒勒雅}}",
+    "p0003": "\\Person{圣巴西略}致\\Person{里巴尼乌斯}。",
+    "p0004": "凡爱慕玫瑰的人，正如爱好美者所期望的那样，甚至连那花朵从中绽放的刺也不讨厌。我甚至听人谈论玫瑰时说过，或许出于戏谑，或许甚至是认真的，说大自然给这花朵配上了那些纤细的刺，如同爱者之间的爱之刺，为的是通过这些巧妙设计的刺，激发采摘者更强烈的渴望。但我将这玫瑰引入书信，是何用意？你毋需被告知，因为你记得你自己的信。那信确实有玫瑰的芬芳，并以优美的言辞向我展开了整个春天；但它也带有某些挑剔和指责我的刺。不过，就连你话语中的刺也令我愉悦，因为它在我心中燃起更强烈的对你友谊的渴望。"
+  }
+}

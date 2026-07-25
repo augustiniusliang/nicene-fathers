@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "1102202",
+    "title": "From Jerome to Alypius and Augustine (A.D. 419)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 202",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Jerome to Alypius and Augustine (A.D. 419)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Bishops Alypius and Augustine, My Lords Truly Holy, and Deservedly Loved and Reverenced, Jerome Sends Greeting in Christ. </em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. The holy presbyter Innocentius, who is the bearer of this letter, did not last year take with him a letter from me to your Eminences, as he had no expectation of returning to Africa. We thank God, however, that it so happened, as it afforded you an opportunity of overcoming [evil with good in requiting] our silence by your letter. Every opportunity of writing to you, revered fathers, is most acceptable to me. I call God to witness that, if it were possible, I would take the wings of a dove and fly to be folded in your embrace. Loving you, indeed, as I have always done, from a deep sense of your worth, but now especially because your co-operation and your leadership have succeeded in strangling the heresy of Celestius, a heresy which has so poisoned the hearts of many, that, though they felt they were vanquished and condemned, yet they did not lay aside their venomous sentiments, and, as the only thing that remained in their power, hated us by whom they imagined that they had lost the liberty of teaching heretical doctrines.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. As to your inquiry whether I have written in opposition to the books of Annianus, this pretended deacon of Celedæ, who is amply provided for in order that he may furnish frivolous accounts of the blasphemies of others, know that I received these books, sent in loose sheets by our holy brother, the presbyter Eusebius, not long ago. Since then I have suffered so much through the attacks of disease, and through the falling asleep of your distinguished and holy daughter Eustochium, that I almost thought of passing over these writings with silent contempt. For he flounders from beginning to end in the same mud, and, with the exception of some jingling phrases which are not original, says nothing he had not said before. Nevertheless, I have gained much in the fact, that in attempting to answer my letter he has declared his opinions with less reserve, and has published to all men his blasphemies; for every error which he disowned in the wretched synod of Diospolis he in this treatise openly avows. It is indeed no great thing to answer his superlatively silly puerilities, but if the Lord spare me, and I have a sufficient staff of amanuenses, I will in a few brief lucubrations answer him, not to refute a defunct heresy, but to silence his ignorance and blasphemy by arguments: and this your Holiness could do better than I, as you would relieve me from the necessity of praising my own works in writing to the heretic. Our holy daughters Albina and Melania, and our son Pinianus, salute you cordially. I give to our holy presbyter Innocentius this short letter to convey to you from the holy place Bethlehem. Your niece Paula piteously entreats you to remember her, and salutes you warmly. May the mercy of our Lord Jesus Christ preserve you safe and mindful of me, my lords truly holy, and fathers deservedly loved and reverenced.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102202.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102202.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\Person{热罗尼莫}致\\Person{阿利比乌斯}与\\Person{奥古斯丁}书（主后419年）",
+    "p0002": "\\Emph{致\\Person{阿利比乌斯}与\\Person{奥古斯丁}主教，我至圣而堪受敬爱尊崇的主教们，\\Person{热罗尼莫}在基督内致候。}",
+    "p0003": "1. 圣司铎\\Person{英诺森提乌斯}是这封信的携带者，他去年没有带我的信给你们尊驾，因为他没指望返回非洲。我们感谢天主，这反而给你们机会，\\BibleQuote{以善胜恶}，用你们的书信弥补了我们的沉默。任何写信给崇敬的教父们的机会，对我都是最乐意的。我呼求天主作证，若可能，我愿取\\BibleQuote{鸽子般的翅膀}，飞去投入你们的怀抱。我一向因你们可敬的品格而深爱你们，而如今尤其如此，因为你们的合作与领导成功地扼制了\\Person{塞莱斯提乌斯}的异端，这异端毒害了许多人的心，以致他们虽感到被击败和被谴责，却仍未放下其毒恶思想，并因他们唯一尚存的能力，而憎恨我们，因他们以为是我们的缘故，他们才失去了教导异端道理的自由。",
+    "p0004": "2. 至于你们询问我是否已著书反对\\Person{阿尼安努斯}的书，此人自称是\\Place{塞莱德阿}的执事，享受着充裕的供给，只为了让他去散布别人异端思想的轻浮记述。你们当知，我收到这些书不久，是由我们圣洁的弟兄、司铎\\Person{优西比乌斯}以散页形式寄来的。自那以来，因病患的攻击，以及你们杰出而圣洁的女儿\\Person{欧斯托基雍}的安息，我备受煎熬，几乎想以轻蔑的沉默放过这些作品。因为他从头至尾在同样的泥潭中挣扎，除了一些并非他原创的叮当作响的词句外，全是老生常谈。然而，我大大得益，因他试图回应我的信时，更不保留地表白了他的观点，并将其亵渎之言公之于众；因为他在\\Place{狄奥斯波利斯}那场可悲的主教会议中所否认的每一错误，在这篇论文中都公开承认了。回答他那极其愚蠢的幼稚言论，实不足道；但若主保全我，又有足够多的助手为我抄写，我将以几篇简短的夜作回答他，不是为了驳斥一个已死的异端，而是以论证封住他的无知与亵渎：此事您的尊驾远比我做得更好，因为您可免去我向异端者写作时自我夸赞的必要。我们圣洁的女儿\\Person{阿尔比娜}和\\Person{梅拉尼娅}，以及我们的儿子\\Person{皮尼安努斯}，衷心地问候你们。我从圣地\\Place{白冷}，请圣司铎\\Person{英诺森提乌斯}把这封短笺带给你们。您的侄女\\Person{保拉}恳切地求您记念她，并向您热烈致意。愿我们的主耶稣基督的慈悲保守你们安康并记念我，我的真正圣洁的主教，可敬可爱的教父们。"
+  }
+}

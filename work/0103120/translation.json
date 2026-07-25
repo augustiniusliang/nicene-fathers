@@ -1,0 +1,65 @@
+{
+  "source": {
+    "source_id": "0103120",
+    "title": "Against Heresies (Book I, Chapter 20)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book I, Chapter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book I, Chapter 20)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Besides the above [misrepresentations], they adduce an unspeakable number of apocryphal and spurious writings, which they themselves have forged, to bewilder the minds of foolish men, and of such as are ignorant of the Scriptures of truth. Among other things, they bring forward that false and wicked story which relates that our Lord, when He was a boy learning His letters, on the teacher saying to Him, as is usual, <quote>Pronounce Alpha,</quote> replied [as He was bid], <quote>Alpha.</quote> But when, again, the teacher bade Him say, <quote>Beta,</quote> the Lord replied, <quote>First tell me what Alpha is, and then I will tell you what Beta is.</quote> This they expound as meaning that He alone knew the Unknown, which He revealed under its type Alpha.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Some passages, also, which occur in the Gospels, receive from them a colouring of the same kind, such as the answer which He gave His mother when He was twelve years of age: <quote>Did you not know that I must be about My Father's business?</quote> {{BIBLE:luk 2:49}} Thus, they say, He announced to them the Father of whom they were ignorant. On this account, also, He sent forth the disciples to the twelve tribes, that they might proclaim to them the unknown God. And to the person who said to Him, <quote>Good Master,</quote> {{BIBLE:mar 10:17}} He confessed that God who is truly good, saying, <quote>Why do you call Me good: there is One who is good, the Father in the heavens;</quote> {{BIBLE:luk 18:18}} and they assert that in this passage the Æons receive the name of heavens. Moreover, by His not replying to those who said to Him, <quote>By what power do You this?</quote> {{BIBLE:mat 21:23}} but by a question on His own side, put them to utter confusion; by His thus not replying, according to their interpretation, He showed the unutterable nature of the Father. Moreover, when He said, <quote>I have often desired to hear one of these words, and I had no one who could utter it,</quote> they maintain, that by this expression <quote>one</quote> He set forth the one true God whom they knew not. Further, when, as He drew near to Jerusalem, He wept over it and said, <quote>If you had known, even you, in this your day, the things that belong unto your peace, but they are hidden from you,</quote> by this word <quote>hidden</quote> He showed the abstruse nature of Bythus. And again, when He said, <quote>Come unto Me all you that labour and are heavy laden, and I will give you rest, and learn of Me,</quote> {{BIBLE:mat 11:28}} He announced the Father of truth. For what they knew not, these men say that He promised to teach them.",
+        "scripture": [
+          "luk 2:49",
+          "mar 10:17",
+          "luk 18:18",
+          "mat 21:23",
+          "mat 11:28"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. But they adduce the following passage as the highest testimony, and, as it were, the very crown of their system:— <quote>I thank You, O Father, Lord of heaven and earth, because You have hid these things from the wise and prudent, and have revealed them to babes. Even so, my Father; for so it seemed good in Your sight. All things have been delivered to Me by My Father; and no one knows the Father but the Son, or the Son but the Father, and he to whom the Son will reveal Him.</quote> {{BIBLE:mat 11:25}} In these words they affirm that He clearly showed that the Father of truth, conjured into existence by them, was known to no one before His advent. And they desire to construe the passage as if teaching that the Maker and Framer [of the world] was always known by all, while the Lord spoke these words concerning the Father unknown to all, whom they now proclaim.",
+        "scripture": [
+          "mat 11:25"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103120.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103120.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳斥异端（第一卷，第二十章）",
+    "p0002": "除了上述的[歪曲]之外，他们还引用了无数自己编造的伪经和伪造著作，以迷惑愚昧之人和不谙真理圣经者。他们尤其提出那个虚假而邪恶的故事：我们的主在孩童时期学习字母时，老师照例对他说：\\Quote{念 \\InnerQuote{阿尔法}，} 主便回答：\\Quote{阿尔法。} 但当老师再次命他说 \\Quote{贝塔} 时，主却答道：\\Quote{先告诉我什么是 \\InnerQuote{阿尔法}，然后我就告诉你什么是 \\InnerQuote{贝塔}。} 他们将此解释为：唯独祂知道那不可知的（神），并以 \\Quote{阿尔法} 为象征将其启示出来。",
+    "p0003": "同样，福音中的一些段落也被他们作类似渲染，例如祂十二岁时对母亲所说的话：\\BibleQuote{你们不知道我必须在我父的事上吗？} \\BibleRef{路 2:49} 他们说，祂以此向他们宣告了他们所不知的父。为此，祂曾派遣门徒到十二支派去，向他们宣讲那未知之神。对那称祂为\\BibleQuote{善师}的人，\\BibleRef{谷 10:17} 祂承认那真正为善的天主，说：\\BibleQuote{你为什么称我为善？除了天主一位外，没有善的，就是那在诸天之上的父；} \\BibleRef{路 18:18} 他们断言此处的\\OriginalTerm{诸天}{heavens}乃指\\OriginalTerm{永世}{Æons}。此外，祂没有回答那些对祂说\\BibleQuote{你凭什么权柄做这些事}的人，\\BibleRef{玛 21:23} 反而用反问使他们完全混乱；按他们的解释，祂以此显示父的不可言说性。再者，当祂说\\Quote{我多次愿意听这些话中的一句，却没有人能说出来}时，他们认为祂以\\Quote{一句}指明了他们所不知的独一真神。还有，当祂临近耶路撒冷，为它哭泣说\\Quote{你若知道，至少在这日子，你明白了关乎你平安的事，但这事如今在你面前是隐藏的}时，祂以\\Quote{隐藏}一词示明了\\OriginalTerm{深渊}{Bythus}的隐晦本质。另外，当祂说\\BibleQuote{凡劳苦和负重担的，你们都到我这里来，我要使你们安息。你们跟我学吧，} \\BibleRef{玛 11:28} 祂便宣告了真理之父。因为他们所不知的，这些人声称祂应许要教导他们。",
+    "p0004": "他们更提出以下段落作为最高见证，甚至可说是其体系的冠冕：\\BibleQuote{父啊，天地的主宰，我称谢祢，因为祢将这些事瞒住了智慧及明达的人，而启示给了小孩子。是的，父啊，因为祢这样喜欢。我父将一切交给了我；除了父，没有人认识子；除了子和子所愿意启示的人，没有人认识父。} \\BibleRef{玛 11:25} 他们声称，这些话清楚表明，他们所炮制的真理之父，在祂来临之前无人知晓。他们试图歪曲这段经文，似乎认为创造及形成[世界]者一向为众人所知，而主所说的话是指那位无人知晓的父，即他们如今所宣讲的。"
+  }
+}

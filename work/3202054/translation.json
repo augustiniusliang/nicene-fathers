@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202054",
+    "title": "Letter 54",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 54",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 54",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Chorepiscopi</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am much distressed that the canons of the Fathers have fallen through, and that the exact discipline of the Church has been banished from among you. I am apprehensive lest, as this indifference grows, the affairs of the Church should, little by little, fall into confusion. According to the ancient custom observed in the Churches of God, ministers in the Church were received after careful examination; the whole of their life was investigated; an enquiry was made as to their being neither railers nor drunkards, not quick to quarrel, keeping their youth in subjection, so as to be able to maintain <quote>the holiness without which no man shall see the Lord.</quote> {{BIBLE:heb 12:14}} This examination was made by presbyters and deacons living with them. Then they brought them to the Chorepiscopi; and the Chorepiscopi, after receiving the suffrages of the witnesses as to the truth and giving information to the Bishop, so admitted the minister to the sacerdotal order. Now, however, you have quite passed me over; you have not even had the grace to refer to me, and have transferred the whole authority to yourselves. Furthermore, with complete indifference, you have allowed presbyters and deacons to introduce unworthy persons into the Church, just any one they choose, without any previous examination of life and character, by mere favoritism, on the score of relationship or some other tie. The consequence is, that in every village, there are reckoned many ministers, but not one single man worthy of the service of the altars. Of this you yourselves supply proof from your difficulty in finding suitable candidates for election. As, then, I perceive that the evil is gradually reaching a point at which it would be incurable, and especially at this moment when a large number of persons are presenting themselves for the ministry through fear of the conscription, I am constrained to have recourse to the restitution of the canons of the Fathers. I thus order you in writing to send me the roll of the ministers in every village, stating by whom each has been introduced, and what is his mode of life. You have the roll in your own keeping, so that your version can be compared with the documents which are in mine, and no one can insert his own name when he likes. So if any have been introduced by presbyters after the first appointment, let them be rejected, and take their place among the laity. Their examination must then be begun by you over again, and, if they prove worthy, let them be received by your decision. Drive out unworthy men from the Church, and so purge it. For the future, test by examination those who are worthy, and then receive them; but do not reckon them of the number before you have reported to me. Otherwise, distinctly understand that he who is admitted to the ministry without my authority will remain a layman.",
+        "scripture": [
+          "heb 12:14"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202054.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202054.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五十四封信",
+    "p0002": "\\Signature{凯撒勒雅的圣巴西略}",
+    "p0003": "致\\OriginalTerm{乡村主教}{Chorepiscopi}",
+    "p0004": "我非常痛心，因为教父的教规已被废弃，教会的严格纪律从你们中间消失。我担心，随着这种漠不关心滋长，教会事务会逐渐陷入混乱。按照天主的教会中遵守的古代惯例，教会中接纳神职人员时，须经过仔细审查；他们的一生受到查考，查明他们不是毁谤者，也不是酒徒，不轻易争吵，使他们的青春受约束，以便能持守\\BibleQuote{没有圣德，谁也不能见主}\\BibleRef{希 12:14}。这审查由与他们一起生活的长老和执事进行。然后他们将这些人带到乡村主教那里；乡村主教在得到见证人确证属实，并告知主教后，如此就接纳神职人员进入司祭职。然而现在，你们完全忽略了我；你们甚至没有屈尊征询我的意见，并将全部权力转归自己。此外，你们漠不关心，任由长老和执事将不配的人引入教会，只要是他们所选的人，不作任何生活和品格的预审，单凭徇私，基于亲属关系或其他关系。结果是，每个村庄都有许多神职人员，却没有一个配得上祭台服务的人。你们自己从选立合适候选人的困难中提供了证明。因此，当我看出这恶已逐渐发展到无法挽回的地步，尤其此刻因惧怕征兵而有大量人员自荐供职时，我不得不求助于恢复教父的教规。于是我书面命令你们，将各村庄的神职人员名册送交给我，写明每人由谁引入，以及其生活方式。你们手中存有名册，以便你们的版本可与我的文档对照，无人能随意加入自己的名字。因此，若有人在初次任命后由长老引入，就应予以拒绝，并使他们列于平信徒之中。然后你们必须重新开始对他们的审查，若证明合格，就由你们决定接纳。将不配的人逐出教会，如此洁净教会。今后，通过审查测试合格的人，然后接纳他们；但在报告我之前，不得将他们计入人数。否则，你们要清楚明白：凡未经我授权而被接纳供职的人，仍将是平信徒。"
+  }
+}

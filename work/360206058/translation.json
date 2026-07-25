@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360206058",
+    "title": "Book VI, Letter 58",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 58",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 58",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Theodoric and Theodebert</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Theodoric and Theodebert, brethren, Kings of the Franks. <em>A paribus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Since Almighty God has adorned your kingdom with rectitude of faith, and has made it conspicuous among other nations by the purity of its Christian religion, we have conceived great expectations of you, that you will by all means desire that your subjects should be converted to that faith in virtue of which you are their kings and lords. This being so, it has come to our knowledge that the nation of the Angli is desirous, through the mercy of God, of being converted to the Christian faith, but that the priests in their neighbourhood neglect them, and are remiss in kindling their desires by their own exhortations. On this account therefore we have taken thought to send to them the servant of God Augustine, the bearer of these presents, whose zeal and earnestness are well known to us, with other servants of God. And we have also charged them to take with them some priests from the neighbouring parts, with whom they may be able to ascertain the disposition of the Angli, and, as far as God may grant it to them, to aid their wishes by their admonition. Now, that they may have it in their power to show themselves efficient and capable in this business, we beseech your Excellency, greeting you with paternal charity, that these whom we have sent may be counted worthy to find the grace of your favour. And, since it is a matter of souls, let your power protect and aid them; that Almighty God, who knows that with devout mind and with all your heart you take an interest in His cause, may propitiously direct your causes, and after earthly dominion bring you to heavenly kingdoms.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, we request your Excellency to hold as commended to you our most beloved son, Candidus, a presbyter, and the rector of the patrimony of our Church, to the end that the blessed Peter, Prince of the apostles, may answer you by his intercession, while, looking to the reward, you afford your protection in the concerns of his poor.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206058.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206058.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷，第五十八封书信",
+    "p0002": "\\Emph{致\\Person{提奥多里克}与\\Person{提奥德贝尔特}}。",
+    "p0003": "\\Person{格列高利}致\\Person{提奥多里克}与\\Person{提奥德贝尔特}兄弟，\\Place{法兰克}人的君王。\\Emph{同级书}。",
+    "p0004": "既然全能的天主以信德的正直装饰了你们的王国，并以基督宗教的纯洁使它在其他民族中卓然出众，我们对你们寄予厚望，深信你们必会竭尽全力，期望你们的臣民也能归向那使你们得以成为他们君王与主人的信德。既然如此，我们得知，因天主的仁慈，\\Place{盎格利}民族渴望皈依基督信仰，但他们邻近的司铎却忽视他们，疏于以自身的劝勉激发其热忱。为此，我们决意派遣天主之仆\\Person{奥古斯丁}——此信的携带者，其热忱与勤勉为我们所熟知——连同其他天主之仆前往他们那里。我们也嘱咐他们从邻近地区带一些司铎同行，以便他们能了解\\Place{盎格利}人的意向，并尽天主所赐，以规劝助成其愿望。为使他们在这一工作中能展现效力与能力，我们恳请贤明尊驾，以慈父之爱致敬，愿我们所派遣之人堪当蒙受陛下的恩宠。此外，既然这关乎灵魂，愿你们的权力保护并援助他们；如此，那深知你们以虔诚之心和全心关注祂事业的全能天主，将欣然引导你们的事业，并在尘世统治之后，带领你们进入天国。",
+    "p0005": "此外，我们恳请陛下将我们至爱的儿子，司铎\\Person{坎迪杜斯}，即我们教会产业的管理者，视为受您举荐之人，以使蒙福的宗徒之长\\Person{伯多禄}藉其转祷回报您，同时，因您顾念赏报，在他的穷人的事务上施以庇护。"
+  }
+}

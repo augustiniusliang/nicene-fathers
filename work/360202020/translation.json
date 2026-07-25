@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "360202020",
+    "title": "Book II, Letter 20",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 20",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Antoninus, Subdeacon</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Antoninus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Honoratus, archdeacon of the Church of Salona, had demanded from my predecessor of holy memory, in a petition that he sent, that he should by no means be forced by his bishop to be advanced against his will, in a way contrary to custom, to a higher order.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "[<em>Here follows an account of the subsequent proceedings, almost word for word the same as that given in Epistle XIX</em>.]",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Wherefore we have thought it right to support your Experience by the authority of this present order, that you may resort to Salona, and at least try by exhortation to induce Natalis, our brother and fellow bishop, who has been admonished by so many letters, to restore the above-mentioned Honoratus to his place immediately. But if, as has been his wont, he should contumaciously delay doing this, forbid him by authority of the Apostolic See the use of the pallium which has been granted him by this See. But if, even after loss of the pallium, you should find him persevering in the same pertinacity, you shall deprive the said bishop of participation in holy communion. Moreover, him who, against the rule of justice, has consented to be promoted to another man's place we order to be deposed from the dignity of the same archdeaconry. And, if he should presume to minister further in the same place, we deprive him of participation in holy communion. For it is right that he should find those severe in justice whom he sets at naught when approaching him in charity. Wherefore, when the archdeacon Honoratus has been restored to his place, let the aforesaid bishop, at your instigation, send to us a person with instructions, who may be able by his allegations to prove to us that the bishop's intention is or has been just.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "[<em>What follows corresponds exactly with the conclusion of Epistle XIX</em>.]",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "As to our brother and fellow bishop Malchus , you will take care to make him find a surety, that he may come to us as soon as possible, to the end that, without any delay or loitering, he may render us an account of his proceedings, and so be able to return to his own with security.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202020.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202020.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷二，第二十封信",
+    "p0002": "\\Emph{致副助祭\\Person{安多尼诺}}。",
+    "p0003": "\\Person{额我略}致\\Person{安多尼诺}等。",
+    "p0004": "\\Place{撒罗纳}教会总执事\\Person{翁诺辣多}，在他所寄的请愿书中，从我蒙福记忆中的前任那里要求，他绝不应被其主教强迫违背自己意愿，以违背惯例的方式升任更高的品秩。",
+    "p0005": "\\EditorialNote{以下叙述后续过程，几乎与第十九封信逐字相同。}",
+    "p0006": "因此我们以为宜以本命令之权威支持你，以便你前往\\Place{撒罗纳}，至少尝试以劝诫劝导我们的兄弟及同主教\\Person{纳塔利斯}（他已被如此多的信函劝诫），立即恢复上述\\Person{翁诺辣多}之职位。但若他如往常一样，顽固地拖延不办，则以宗座权威禁止他使用由本座所赐之\\OriginalTerm{披带}{pallium}。但若即使在失去披带后，你发现他仍坚持同样执拗，你应剥夺该主教参与圣体圣事之权利。此外，那违背正义准则、同意升任他人职位之人，我们命令免去其同一总执事之尊位。若他胆敢继续在同一地方履行职务，我们剥夺其参与圣体圣事之权利。因为，他以仁爱接近时，将正义视为无物，理应面对正义之严厉。因此，当总执事\\Person{翁诺辣多}恢复其职位后，应由上述主教在你推动下，派人携带指示前来，此人能以其陈述向我们证明该主教之意愿是或曾是正当的。",
+    "p0007": "\\EditorialNote{以下内容与第十九封信结尾完全一致。}",
+    "p0008": "至于我们的兄弟及同主教\\Person{马尔科}，你应留意使他找到担保人，以便他尽快来到我们这里，为使他毫无迟延或耽搁，向我们报告其作为，并因此得以安全返回其住所。"
+  }
+}

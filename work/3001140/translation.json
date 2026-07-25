@@ -1,0 +1,54 @@
+{
+  "source": {
+    "source_id": "3001140",
+    "title": "Letter 140",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 140",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 140",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Cyprian the Presbyter</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Cyprian had visited Jerome at Bethlehem and had asked him to write an exposition of Psalm XC. in simple language such as might be readily understood. With this request Jerome now complies, giving a very full account of the psalm, verse by verse, and bringing the treasures of his learning and especially his knowledge of Hebrew to bear upon it. He asserts its Mosaic authorship but is careful to add that the man of God may have spoken not for himself but in the name of the Jewish people. He speaks of the five books into which the psalter is divisible and says that it is a mistake to ascribe all the psalms to David. An allusion to the doctrine of Pelagius shows that the letter must belong to Jerome's last years, and Vallarsi is probably right in assigning it to A.D. 418."
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001140.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001140.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一百四十封书信",
+    "p0002": "\\Emph{致长老西彼廉}",
+    "p0003": "\\EditorialNote{西彼廉曾到白冷拜访热罗尼莫，并请他写一篇对圣咏第九十篇的注释，要求语言简单易懂。热罗尼莫现在应此请求，逐节详释该圣咏，倾其学识，尤其运用希伯来文知识。他断言作者为梅瑟，但谨慎地补充说，天主的人可能不是为自己说话，而是以犹太人民的名义。他提到圣咏集可分为五卷，并指出将所有圣咏归于达味是错误的。一处对白拉奇主义的暗示表明，这封信必定属于热罗尼莫晚年，瓦拉西将其定于公元四一八年，很可能是正确的。}"
+  }
+}

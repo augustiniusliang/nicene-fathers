@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707120",
+    "title": "Letter 120",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 120",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 120",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Lupicius.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Even the enemies of the truth must, I think, be indignant at the injustice and illegality of the violence done us. It is only reasonable that the nurslings of the truth, at whose head stands your excellency, should be still more distressed at this new and surprising tragedy. It is only right that those who are the more grieved should show the more earnestness and zeal to counteract the deeds impiously and illegally done; and restore to its previous concord the Church's body now in peril of being torn asunder. Wherefore I beseech your excellency to reckon the present crisis an opportunity for spiritual reciprocity; to give on your side earnestness on behalf of the truth, and to receive from our generous Master alike His kindly care in this present life and in the life to come the kingdom of heaven.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707120.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707120.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一二〇书",
+    "p0002": "\\Emph{致\\Person{路比西乌斯}。}",
+    "p0003": "我想，即使是真理的仇敌，也必然对我们所受暴力的不义与非法感到愤慨。蒙真理养育的人，在您阁下领导之下，更应因这新异而令人震惊的悲剧而悲伤。这是理所当然的；那些更为悲伤的人，理应表现出更大的热诚与努力，以对抗那些不敬且非法的事，并将教会这如今面临撕裂之险的身体，恢复至昔日的和睦。因此，我恳求您阁下，将当前的危机视为一个属灵互惠的机会；请您一方为真理付出热诚，并从我们慷慨的主那里，同时领受祂在今生慈祥的眷顾，以及在来世的天国。"
+  }
+}

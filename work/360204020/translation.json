@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360204020",
+    "title": "Book IV, Letter 20",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 20",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Maximus, Pretender (Præsumptorem)</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Maximus, Pretender in Salona.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Though the merits of any one's life were in other respects such as to offer no impediment to his ordination to priestly offices, yet the crime of canvassing in itself is condemned by the severest strictness of the canons. Now we have been informed that thou, having either obtained surreptitiously, or pretended, an order from the most pious princes, hast forced your way to the order of priesthood , which is of all men to be venerated, while being in your life unworthy. And this without any hesitation we believed, inasmuch as your life and age are not unknown to us, and further, because we are not ignorant of the mind of our most serene lord the Emperor, in that he is not accustomed to mix himself up in the causes of priests, lest he should in any way be burdened by our sins. An unheard-of wickedness is also spoken of; that, even after our interdiction, which was pronounced under pain of excommunication of you and those who should ordain you, it is said that you were brought forward by a military force, and that presbyters, deacons, and other clergy were beaten. Which proceeding we can in no wise call a consecration, since it was celebrated by excommunicated men. Since, therefore, without any precedent, you have violated such and so great a dignity, namely that of the priesthood, we enjoin that, until I shall have ascertained from the letters of our lords or of our <em>responsalis</em>, that you were ordained under a true and not a surreptitious order, you and your ordainers by no means presume to handle anything connected with the priestly office, and that you approach not the service of the holy altar till you have heard from us again. But, if you should presume to act in contravention of this order, be anathema from God and from the blessed Peter, Prince of the apostles, that your punishment may afford an example to other Catholic churches also, through their contemplation of the judgment upon you. The month of May, Indiction 12.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204020.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204020.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷，第二十封信",
+    "p0002": "\\Emph{致\\Person{马克西穆斯}，\\OriginalTerm{篡位者}{Præsumptorem}}。",
+    "p0003": "\\Person{格列高利}致\\Place{萨尔纳}的篡位者\\Person{马克西穆斯}。",
+    "p0004": "虽然任何人的生命功绩在其他方面无碍于其接受司铎圣职的祝圣，但谋求职位这一罪行本身便受到教规最严厉的谴责。如今我们得知，你或是以隐秘方式获取、或是假冒了最虔诚的君王的敕令，强行进入了本应人人敬重的司铎圣秩，而你的生活却不相称。我们毫不迟疑地相信了此事，因为你的生活和年龄并非我们所不知，更因为我们并非不了解我们最安详的主上皇帝的意向：他向来不习惯干预司铎的事务，以免因我们的罪过而受任何牵累。此外，还传出了一件前所未闻的恶行：即使在我们的禁令（在此禁令下，你及将祝圣你者均受绝罚）之后，据说你竟由军事力量扶持出场，并殴打长老、执事及其他神职人员。我们绝不可称此行为为祝圣，因为它是由被绝罚者举行的。因此，既然你毫无先例地侵犯了如此伟大的尊严——即司铎之职，我们责令：在我从我们的主上们或我们\\OriginalTerm{代表}{responsalis}的来信中确知你是在真实而非隐秘的敕令下受祝圣之前，你及你的祝圣者不得擅自处理任何有关司铎职务的事，也不得接近神圣祭台的服务，直至你再次接到我们的通知。但若你胆敢违反此令，愿你受自天主及真福宗徒之长伯多禄的\\OriginalTerm{绝罚}{anathema}，使你的惩罚成为其他公教会的鉴戒，因他们思量对你的判决。五月，小纪十二年。"
+  }
+}

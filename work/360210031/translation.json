@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360210031",
+    "title": "Book X, Letter 31",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book X, Letter 31",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book X, Letter 31",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Libertinus, Ex-Prætor.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Libertinus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What straits you are in with regard to the things of this world is not unknown to us. But, since to those who are placed in the utmost tribulation the only comfort is the mercy of the Creator, rest your hope on Him, and turn to Him with your whole heart, Who both justly allows whom He will to be afflicted and will mercifully deliver one who trusts in Him. To Him, then, give thanks, and patiently endure what has been brought upon you. For it is the part of a right mind not only to bless God in prosperity, but also in adversities to join in praising Him. In these things therefore that you are suffering let no murmur against God creep into your heart, since for what purpose our Creator thus works is unknown. For perchance, magnificent son, you offended Him in something when in a state of prosperity, from which He would purge you by kindly bitterness. And so neither let temporal affliction break you down nor losses of your goods distract you, since if, returning thanks in adversity, you make God propitious to you by your patience, both the things that were lost are multiplied, and in addition to this, eternal joys held out to you. I beg you, however, not to take it amiss that we have written through Romanus the guardian to order twenty suits of clothing to be supplied from us to your servants, seeing that things, however small, which are offered from the goods of the blessed Apostle Peter are always to be taken for a great blessing, since he will have power both to bestow on you greater things, and to hold out to you eternal benefits with Almighty God. The month of June, Indiction 3.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360210031.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360210031.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷十·书信三十一",
+    "p0002": "\\Emph{致\\Person{利贝蒂努斯}，前任裁判官。}",
+    "p0003": "\\Person{额我略}致\\Person{利贝蒂努斯}等。",
+    "p0004": "您在此世财物方面的困境，我们并非不知。但既然对于那些处于极度磨难中的人而言，唯一的安慰便是造物主的仁慈，请将您的希望寄托于祂，并以全心转向祂——祂既公义地容许自己所愿的人受苦，也必仁慈地拯救那信赖祂的人。因此，请向祂感恩，并耐心忍受临于您的一切。因为正心之作为，不仅在于顺境时讚美天主，也在于逆境中同声颂扬祂。所以，在您所受的这些事上，切莫让怨天尤人之心潜入您内，因为我们不知道造物主如此行事的目的何在。尊贵的儿子，或许您曾在顺境时得罪了祂什么，祂便愿以慈爱的苦楚来洁净您。因此，不要让暂时的磨难压垮您，也不要让财产的损失令您分心，因为若您在逆境中以感恩之心和忍耐使天主垂顾于您，则失去的必将倍增，此外，永生的喜乐也已为您预备。我恳求您，勿怪我们委托监护官\\Person{罗马努斯}下令从我们处拨付二十套衣服给您仆役；须知，即便微薄之物，若出自蒙福的宗徒\\Person{伯多禄}的财物，亦当视为莫大的祝福，因为他既有能力赐予您更大的事物，也必能在全能的天主前为您求得永恒的恩惠。六月，第三财税周期。"
+  }
+}

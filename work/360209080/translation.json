@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360209080",
+    "title": "Book IX, Letter 80",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 80",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 80",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Castorius, Notary</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Castorius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The more you see yourself to be trusted by us, and charged with the conduct of cases when need arises, the more ought you to show yourself energetic and solicitous. Accordingly, if Maximus of Salona, having taken oath, shall affirm that he is not guilty of simoniacal heresy, and, as to other matters, when merely questioned before the body of Saint Apollinaris, shall reply that he is innocent, and shall have done penance, as we have directed, for his disobedience, we desire that, to console him, your Experience should give him the letter which we have written to him , wherein we have signified that we have restored to him both our favour and communion. For, as it befits us to be severe to those who persist in contumacy, so to those who are again humbled and penitent we ought not to deny a place of pardon.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, as to our brother Sabinianus, bishop of Jadera , and Honoratus , archdeacon of Salona, or others who have had recourse to the Apostolical See, Maximus must be very earnestly dealt with, so that he may receive them with becoming charity, and in no way retain in his heart any grudge against them, but live with them with pure goodwill and sincere affection.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209080.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209080.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第八十书",
+    "p0002": "\\Emph{致公证人\\Person{卡斯托里乌斯}}",
+    "p0003": "\\Signature{额我略致\\Person{卡斯托里乌斯}等}",
+    "p0004": "你越见自己受我们信任，并在需要时受托处理案件，就越当显示出你的勤勉与关切。因此，若\\Place{萨洛纳}的\\Person{马克西穆}起誓宣称他无罪于买卖圣职的异端，且在其他事上，仅在\\Person{圣亚波利纳利}遗体前受询问时答称无辜，并已按我们指示为他的不服从而做了补赎，我们愿你，有经验的阁下，将我们写给他的信交给他，以安慰他。信中我们已表明已恢复了他我们的眷顾与共融。因为，正如对坚持抗命者我们应当严厉，对再次谦卑与忏悔者我们也不应拒绝给予宽恕之地。",
+    "p0005": "此外，关于我们的弟兄、\\Place{雅德拉}主教\\Person{萨比尼亚努}、\\Place{萨洛纳}总执事\\Person{奥诺拉图}，以及其他曾求助于宗座者，必须非常恳切地与\\Person{马克西穆}处理，使他能以合宜的爱德接待他们，心中绝不保留任何怨气，而是以纯正的善意和真诚的情谊与他们相处。"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360202009",
+    "title": "Book II, Letter 9",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 9",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 9",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Neapolitans.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to the gentry and commonalty (<em>ordini et plebi</em>) residing at Naples.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The communication you have addressed to us has made manifest what your opinion is of our brother and fellow bishop Paulus : and we congratulate you in that your experience of him for a few days has been such that you desire to have him as your cardinal bishop. But, since in matters of supreme importance there ought to be no hasty decision, so we, Christ helping us, will arrange after mature deliberation what is to be done hereafter, his character meanwhile, in course of time, having become better known to you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Wherefore, most beloved sons, obey the aforesaid man, if you truly love him, and with devoted minds meet his wishes in peaceful concurrence, to the end that the affection of your mutual charity may so bind you to each other, that the enemy who flies about you raging may find no way through any of you for creeping in to break up your unanimity. Further, when we shall have perceived the aforesaid bishop offering to God the fruit of souls which we long for, God Himself also approving, we will do afterwards whatever divine inspiration may suggest to our heart, with regard to his person and to your desire.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202009.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202009.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷二 第九封书信",
+    "p0002": "\\Emph{致那不勒斯人。}",
+    "p0003": "额我略致居住在那不勒斯的\\OriginalTerm{贵族和平民}{ordini et plebi}。",
+    "p0004": "你们致我们的信函已表明你们对我们兄弟和同主教保禄的看法：我们祝贺你们，因你们与他短短几日的相处，竟如此渴望拥他为你们的\\OriginalTerm{枢机主教}{cardinal bishop}。但是，在至极重要之事上不宜草率决定，因此，我们在基督助佑下，经过深思熟虑后将安排日后之事，同时，随着时间推移，他的品性将为你们所更熟悉。",
+    "p0005": "所以，最亲爱的儿子们，如果你们真心爱戴上述之人，就应服从他，并以虔敬之心在和谐中满足他的意愿，好使你们彼此爱德的情感将你们如此紧密地联结，以致那在你们周围狂吠的仇敌，无法从你们任何人中间找到缝隙潜入而破坏你们的同心一致。再者，当我们看出上述主教已按我们所期望的、也为天主自己所赞许的，向天主奉献了灵魂的果实，此后，我们将遵循神圣的感召，就他的个人及你们的愿望，做应做的一切。"
+  }
+}

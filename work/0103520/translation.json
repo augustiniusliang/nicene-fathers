@@ -1,0 +1,55 @@
+{
+  "source": {
+    "source_id": "0103520",
+    "title": "Against Heresies (Book V, Chapter 20)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book V, Chapter 20",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book V, Chapter 20)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. Now all these [heretics] are of much later date than the bishops to whom the apostles committed the Churches; which fact I have in the third book taken all pains to demonstrate. It follows, then, as a matter of course, that these heretics aforementioned, since they are blind to the truth, and deviate from the [right] way, will walk in various roads; and therefore the footsteps of their doctrine are scattered here and there without agreement or connection. But the path of those belonging to the Church circumscribes the whole world, as possessing the sure tradition from the apostles, and gives unto us to see that the faith of all is one and the same, since all receive one and the same God the Father, and believe in the same dispensation regarding the incarnation of the Son of God, and are cognizant of the same gift of the Spirit, and are conversant with the same commandments, and preserve the same form of ecclesiastical constitution, and expect the same advent of the Lord, and await the same salvation of the complete man, that is, of the soul and body. And undoubtedly the preaching of the Church is true and steadfast, in which one and the same way of salvation is shown throughout the whole world. For to her is entrusted the light of God; and therefore the <quote>wisdom</quote> of God, by means of which she saves all men, <quote>is declared in [its] going forth; it utters [its voice] faithfully in the streets, is preached on the tops of the walls, and speaks continually in the gates of the city.</quote> {{BIBLE:pro 1:20}} For the Church preaches the truth everywhere, and she is the seven-branched candlestick which bears the light of Christ.",
+        "scripture": [
+          "pro 1:20"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. Those, therefore, who desert the preaching of the Church, call in question the knowledge of the holy presbyters, not taking into consideration of how much greater consequence is a religious man, even in a private station, than a blasphemous and impudent sophist. Now, such are all the heretics, and those who imagine that they have hit upon something more beyond the truth, so that by following those things already mentioned, proceeding on their way variously, inharmoniously, and foolishly, not keeping always to the same opinions with regard to the same things, as blind men are led by the blind, they shall deservedly fall into the ditch of ignorance lying in their path, ever seeking and never finding out the truth. {{BIBLE:2ti 3:7}} It behooves us, therefore, to avoid their doctrines, and to take careful heed lest we suffer any injury from them; but to flee to the Church, and be brought up in her bosom, and be nourished with the Lord's Scriptures. For the Church has been planted as a garden (<em>paradisus</em>) in this world; therefore says the Spirit of God, <quote>You may freely eat from every tree of the garden,</quote> {{BIBLE:gen 2:16}} that is, Eat from every Scripture of the Lord; but you shall not eat with an uplifted mind, nor touch any heretical discord. For these men do profess that they have themselves the knowledge of good and evil; and they set their own impious minds above the God who made them. They therefore form opinions on what is beyond the limits of the understanding. For this cause also the apostle says, <quote>Be not wise beyond what it is fitting to be wise, but be wise prudently,</quote> {{BIBLE:rom 12:3}} that we be not cast forth by eating of the <quote>knowledge</quote> of these men (that knowledge which knows more than it should do) from the paradise of life. Into this paradise the Lord has introduced those who obey His call, <quote>summing up in Himself all things which are in heaven, and which are on earth;</quote> {{BIBLE:eph 1:10}} but the things in heaven are spiritual, while those on earth constitute the dispensation in human nature (<em>secundum hominem est dispositio</em>). These things, therefore, He recapitulated in Himself: by uniting man to the Spirit, and causing the Spirit to dwell in man, He is Himself made the head of the Spirit, and gives the Spirit to be the head of man: for through Him (the Spirit) we see, and hear, and speak.",
+        "scripture": [
+          "2ti 3:7",
+          "gen 2:16",
+          "rom 12:3",
+          "eph 1:10"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103520.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103520.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{驳斥异端（第五卷，第二十章）}",
+    "p0002": "1. 如今所有这些（异端者）都比宗徒托付教会之主教晚得多；这一点我在第三卷中已竭尽全力加以证明。由此自然得出，上述异端者既盲目于真理，偏离（正确的）道路，必将行走于各种歧途；因此他们学说的足迹散落各处，毫无一致与联系。但属于教会之人的道路环绕整个世界，因其拥有来自宗徒的可靠传统，并让我们看到众人的信德是同一个且相同的，因为众人都接受同一个天主圣父，相信同一项关于天主圣子降生成人的安排，认识同一圣神的恩赐，遵守同一诫命，保持同一教会体制形式，期待同一位主的来临，等候同一个完整的人（即灵魂与身体）的救恩。毫无疑问，教会的宣讲是真实而稳固的，其中在全世界显示了同一条救恩之路。因为天主的真光托付给了她；因此天主的\\Quote{智慧}，藉此她拯救众人，\\BibleQuote{在出发时被宣告；在街市上忠信地发出（其声音），在城墙上被宣讲，在城门口不断说话。}\\BibleRef{箴 1:20} 因为教会处处宣讲真理，她便是那承载基督真光的七枝灯台。",
+    "p0003": "2. 因此，那些离弃教会宣讲的人，质疑圣善长老的知识，却不考虑一个虔诚的人（即便在俗世中）比一个亵渎而无耻的诡辩者重要得多。如今，所有异端者都是如此，还有那些想象自己发现了某种超越真理之事物的人，以致于追随上述那些论调，以多样、不和谐且愚昧的方式前行，对同一事物并非始终持同一见解，正如盲人领盲人，他们必将掉进路上无知的坑中，永寻真理而不得。\\BibleRef{弟后 3:7} 因此，我们应当避开他们的学说，小心谨慎，以免受其伤害；而应逃向教会，在她的怀抱中被养育，用主的圣经来滋养。因为教会已如同一个\\OriginalTerm{乐园}{paradisus}被栽种在这世界上；故此圣神说：\\BibleQuote{你可以随意吃园中所有树上的果子，}\\BibleRef{创 2:16} 也就是说，可吃主的所有圣经；但不可用高傲的心去吃，也不可接触任何异端的不和谐。因为这些人自称拥有善恶的知识，并将自己不敬的心置于创造他们的天主之上。因此他们对超出理解范围的事物妄下论断。为此，宗徒也说：\\BibleQuote{不要自作聪明，而要明智地谨慎行事，}\\BibleRef{罗 12:3} 免得我们因吃这些人的\\Quote{知识}（那知道过多之事的知识）而被逐出生命的乐园。主将那些听从祂召唤的人引入这乐园，\\BibleQuote{使天上和地上的一切总归于自己，}\\BibleRef{弗 1:10} 天上的事物是属神的，地上的事物则构成\\OriginalTerm{按照人性而有的安排}{secundum hominem est dispositio}。因此，祂将这些总归于自己：将人结合于圣神，并使圣神住在人内，祂自己成了圣神的头，并将圣神赐给人作头：因为藉着祂（圣神），我们观看、听闻并说话。"
+  }
+}

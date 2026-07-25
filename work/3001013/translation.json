@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "3001013",
+    "title": "Letter 13",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 13",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 13",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Castorina, His Maternal Aunt</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "An interesting letter, as throwing some light on Jerome's family relations. Castorina, his maternal aunt, had, for some reason, become estranged from him, and he now writes to her to effect a reconciliation. Whether he succeeded in doing so, we do not know. The date of the letter is 374 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The apostle and evangelist John rightly says, in his first epistle, that <quote>whosoever hates his brother is a murderer.</quote> {{BIBLE:1jo 3:15}} For, since murder often springs from hate, the hater, even though he has not yet slain his victim, is at heart a murderer. Why, you ask, do I begin in this style? Simply that you and I may both lay aside past ill feeling and cleanse our hearts to be a habitation for God. <quote>Be angry,</quote> David says, <quote>and sin not,</quote> or, as the apostle more fully expresses it, <quote>let not the sun go down upon your wrath.</quote> What then shall <em>we</em> do in the day of judgment, upon whose wrath the sun has gone down not one day but many years? The Lord says in the Gospel: <quote>If you bring your gift to the altar, and there rememberest that your brother has anything against you; leave there your gift before the altar, and go your way; first be reconciled to your brother, and then come and offer your gift.</quote> {{BIBLE:mat 5:23}} Woe to me, wretch that I am; woe, I had almost said, to you also. This long time past we have either offered no gift at the altar or have offered it while cherishing anger <quote>without a cause.</quote> How have we been able in our daily prayers to say <quote>Forgive us our debts as we forgive our debtors,</quote> {{BIBLE:mat 6:12}} while our feelings have been at variance with our words, and our petition inconsistent with our conduct? Therefore I renew the prayer which I made a year ago in a previous letter, that the Lord's legacy of peace {{BIBLE:joh 14:27}} may be indeed ours, and that my desires and your feelings may find favor in His sight. Soon we shall stand before His judgment seat to receive the reward of harmony restored or to pay the penalty for harmony broken. In case you shall prove unwilling— I hope that it may not be so— to accept my advances, I for my part shall be free. For this letter, when it is read, will insure my acquittal.",
+        "scripture": [
+          "1jo 3:15",
+          "mat 5:23",
+          "mat 6:12",
+          "joh 14:27"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001013.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001013.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三封信",
+    "p0002": "\\Emph{致他的姨母卡斯托里娜}",
+    "p0003": "\\EditorialNote{一封有趣的信，反映了热罗尼莫的家庭关系。他的姨母卡斯托里娜因某种原因与他疏远，他写信试图和解。是否成功，我们不得而知。信写于公元374年。}",
+    "p0004": "宗徒兼福音作者若望在他的第一封书信中正确地说：\\BibleQuote{凡恼恨自己弟兄的，便是杀人者。} \\BibleRef{若一 3:15} 因为，既然杀人常由仇恨而生，那么恼恨者即使尚未杀害受害者，内心里已是一个杀人者。你可能会问，我为什么用这样的方式开头？只不过为了让我和你都能放下过去的恶感，洗净我们的心灵，使其成为天主的住所。达味说：\\BibleQuote{你们生气，却不要犯罪；} 或者如宗徒更充分地表达的：\\BibleQuote{不要让太阳在你们的愤怒中落下。} 那么在审判之日，我们这些愤怒的太阳不仅一天没有落下，而是许多年没有落下的人，该怎么办呢？主在福音中说：\\BibleQuote{若你献礼物在祭台上，在那里想起你的弟兄有什么对你不满之处，就把礼物留在祭台前，先去与你的弟兄和好，然后再来献你的礼物。} \\BibleRef{玛 5:23} 我有祸了，我这可怜的人；我几乎也要说，你也有祸了。这么长的时间以来，我们或者没有在祭台上献礼物，或者带着\\Quote{无端的}愤怒献礼物。我们怎能在日常祈祷中说：\\BibleQuote{宽免我们的罪债，如同我们也宽免得罪我们的人，} \\BibleRef{玛 6:12} 而我们的情感却与言语相悖，我们的祈求与行为不一致呢？因此，我重申一年前在上一封信中所作的祈求：愿主的平安遗产 \\BibleRef{若 14:27} 确为我们所有，愿我的渴望和你的情感在他眼中蒙悦纳。不久我们都要站在他的审判台前，为恢复和谐而获得赏报，或因破坏和谐而接受惩罚。倘若你不愿意——我希望不会如此——接受我的和解表示，那么我这一方面是自由的。因为这封信在被阅读时，将确保我的无罪。"
+  }
+}

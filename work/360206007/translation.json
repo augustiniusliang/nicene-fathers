@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360206007",
+    "title": "Book VI, Letter 7",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 7",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 7",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Candidus, Presbyter.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Candidus, Presbyter, going to the patrimony of Gaul.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Now that you are proceeding, with the help of our Lord God Jesus Christ, to the government of the patrimony that is in Gaul, we desire your Love to procure with the money you may receive clothing for the poor, or English boys of about seventeen or eighteen years of age, who may profit by being given to God in monasteries, that so the money of Gaul, which cannot be spent in our country , may be expended profitably in its own locality. Further, if you should succeed in getting anything from the moneys accruing to revenue which are called <em>ablatæ</em> , from this too we desire you to procure clothing for the poor, or, as we have before said, boys who may profit in the service of Almighty God. But, since such as can be found there are pagans, I desire that a presbyter be sent hither with them to provide against the case of any sickness occurring on the way, that he may baptize those whom he sees to be about to die. Wherefore let your Love so proceed as to lose no time in accomplishing these things diligently.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206007.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206007.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷 第七封信",
+    "p0002": "\\Emph{致\\Person{坎迪杜斯}司铎。}",
+    "p0003": "\\Person{格列高利}致前往\\Place{高卢}教产的\\Person{坎迪杜斯}司铎。",
+    "p0004": "现今你蒙我们的主天主耶稣基督的助佑，前往管理在\\Place{高卢}的教产，我们希望你爱德用你收到的钱为穷人购买衣服，或购买十七八岁的\\Place{英格兰}男孩，他们若能舍身于隐修院中归奉天主，必能获益。如此，\\Place{高卢}的钱财（不能在我国花用）即可在当地善加使用。此外，你若能从称为\\Emph{ablatae}的税赋收入中取得任何款项，我们也希望你用这钱为穷人购买衣服，或如我们之前所说，购买能在全能的天主的工作中获益的男孩。但因为在那里能找到的男孩都是外教人，我希望派遣一位司铎与他们一同前来，以防路上有疾病发生，可以给那些看来将要死去的人施洗。因此，愿你爱德如此行事，不要耽误时间，勤勉完成这些事。"
+  }
+}

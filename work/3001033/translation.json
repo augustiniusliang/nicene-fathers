@@ -1,0 +1,108 @@
+{
+  "source": {
+    "source_id": "3001033",
+    "title": "Letter 33",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 33",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 33",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Paula</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "A fragment of a letter in which Jerome institutes a comparison between the industry as writers of M. T. Varro and Origen. It is noteworthy as passing an unqualified eulogium upon Origen, which contrasts strongly with the tone adopted by the writer in subsequent years (see, e.g., Letter LXXXIV.). Its date is probably 384 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Antiquity marvels at Marcus Terentius Varro, because of the countless books which he wrote for Latin readers; and Greek writers are extravagant in their praise of their man of brass, because he has written more works than one of us could so much as copy. But since Latin ears would find a list of Greek writings tiresome, I shall confine myself to the Latin Varro. I shall try to show that we of today are sleeping the sleep of Epimenides, and devoting to the amassing of riches the energy which our predecessors gave to sound, if secular, learning.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Varro's writings include forty-five books of antiquities, four concerning the life of the Roman people.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. But why, you ask me, have I thus mentioned Varro and the man of brass? Simply to bring to your notice our Christian man of brass, or, rather, man of adamant — Origen, I mean— whose zeal for the study of Scripture has fairly earned for him this latter name. Would you learn what monuments of his genius he has left us? The following list exhibits them. His writings comprise thirteen books on Genesis, two books of Mystical Homilies, notes on Exodus, notes on Leviticus, * * * * also single books, four books on First Principles, two books on the Resurrection, two dialogues on the same subject.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "* * * * * * * * * * *",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "4. So, you see, the labors of this one man have surpassed those of all previous writers, Greek and Latin. Who has ever managed to read all that he has written? Yet what reward have his exertions brought him? He stands condemned by his bishop, Demetrius, only the bishops of Palestine, Arabia, Phenicia, and Achaia dissenting. Imperial Rome consents to his condemnation, and even convenes a senate to censure him, not— as the rabid hounds who now pursue him cry— because of the novelty or heterodoxy of his doctrines, but because men could not tolerate the incomparable eloquence and knowledge which, when once he opened his lips, made others seem dumb.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0009",
+        "kind": "p",
+        "text": "5. I have written the above quickly and incautiously, by the light of a poor lantern. You will see why, if you think of those who today represent Epicurus and Aristippus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001033.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001033.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十三封信",
+    "p0002": "\\Emph{致\\Person{保拉}}",
+    "p0003": "\\EditorialNote{这是一封信的片段，其中热罗尼莫将M.T.瓦罗和奥力振作为作家的工作进行了比较。值得注意的是，它对奥力振给予了无条件的赞扬，这与作者后来几年所采用的语气形成了强烈对比（例如，参见第84封信）。其年代大概是公元384年。}",
+    "p0004": "1. 古人对\\Person{马尔库斯·泰伦提乌斯·瓦罗}惊叹不已，因为他为拉丁读者写了无数著作；希腊作家则对其铜人不吝赞美，因为此人作品之多，我们中间任何一人连抄写都抄不完。但既然拉丁人的耳朵会厌烦希腊著作的名单，我就只谈拉丁的\\Person{瓦罗}。我将努力表明，我们今人正在像\\Person{埃庇米尼得斯}那样沉睡，把前人用于追求扎实（即使属世俗）的学问的精力，都用来积累财富。",
+    "p0005": "2. \\Person{瓦罗}的著作包括四十五卷\\WorkTitle{古事记}，四卷关于罗马人生活的书。",
+    "p0006": "3. 但你会问我，为何我提起\\Person{瓦罗}和那个铜人？只是为了向你介绍我们基督内的铜人，或者更确切地说，铁人——\\Person{奥力振}，他对圣经研究的热情为他赢得了后一个称号。你想知道他留下了怎样的天才纪念碑吗？以下名单列举出来。他的著作包括十三卷\\WorkTitle{创世记}注释、两卷\\WorkTitle{神秘讲道集}、\\WorkTitle{出谷记注释}、\\WorkTitle{肋未记注释}、* * * * 还有单卷著作、四卷\\WorkTitle{论首要原理}、两卷\\WorkTitle{论复活}、关于同一主题的两篇对话。",
+    "p0007": "* * * * * * * * * * *",
+    "p0008": "4. 所以，你看，这一个人的劳作超过了之前所有希腊和拉丁作家。有谁曾读完他所有的作品？但他的努力给他带来了什么报酬呢？他的主教\\Person{德梅特里}判定他有罪，只有\\Place{巴勒斯坦}、\\Place{阿拉伯}、\\Place{腓尼基}和\\Place{阿哈雅}的主教持异议。帝国罗马同意对他的谴责，甚至召集了一个议会来指责他——并非像如今追逼他的狂吠猎犬所喊的那样，是因为他的学说新奇或异端，而是因为人们无法容忍他那无与伦比的雄辩和学识，一旦他开口，其他人便相形见绌。",
+    "p0009": "5. 我以上写得匆匆且不慎，仅借一盏简陋的灯笼之光。你自会明白为何如此，若你想到那些如今代表\\Person{伊壁鸠鲁}和\\Person{亚里斯提波}的人。"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "3202281",
+    "title": "Letter 281",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 281",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 281",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Modestus the Prefect.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am mindful of the great honour I received in the encouragement you gave me, along with others, to address your excellency. I avail myself of the privilege and the enjoyment of your gracious favour.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "I congratulate myself upon having such a correspondent, as also upon the opportunity afforded your excellency of conferring an honour on me by your reply.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "I claim your clemency on behalf of Helladius my special friend. I pray that he may be relieved from the anxieties of Tax-assessor, and so be enabled to work in the interests of our country.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "You have already so far given a gracious consent, that I now repeat my request, and pray you to send instructions to the governor of the Province, that Helladius may be released from this infliction.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202281.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202281.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\newline{}\\WorkTitle{第二八一封书信}\\newline{}",
+    "p0002": "\\newline{}\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}\\newline{}",
+    "p0003": "\\newline{}致总督\\Person{莫德斯多}。\\newline{}",
+    "p0004": "\\newline{}我铭记着您与其他人一同赐予我的鼓励，使我得以致函阁下，这份殊荣令我深感荣幸。我珍视这份特权并享受您的仁恩。\\newline{}",
+    "p0005": "\\newline{}我为自己能有您这样的通信者而庆幸，也为阁下有机会通过回信赐予我荣誉而欣慰。\\newline{}",
+    "p0006": "\\newline{}我为我的挚友\\Person{赫拉迪乌斯}恳求您的宽仁。我祈求他得以免除税务评估官的烦扰，从而能为我们祖国的利益效力。\\newline{}",
+    "p0007": "\\newline{}您已如此恩允在前，故我再次恳求，请您致函行省总督，下令解除\\Person{赫拉迪乌斯}所受的这一苦役。\\newline{}"
+  }
+}

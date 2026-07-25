@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "360213039",
+    "title": "Book XIII, Letter 39",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Leontia, Empress.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Leontia Augusta.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What tongue may suffice to speak, what mind to think, what great thanks we owe to Almighty God for the serenity of your empire, in that such hard burdens of long duration have been removed from our necks, and the gentle yoke of imperial supremacy has returned, which subjects are glad to bear? Glory, then, be given to the Creator of all by the hymning choirs of angels, thanksgiving be paid by men on earth, for that the whole republic, which has endured many wounds of sorrow, has now at length found the balm of your consolation. Hence we must needs implore the more earnestly the mercy of Almighty God, that He would keep the heart of your Piety ever in His right hand, and dispose your thoughts by the aid of heavenly grace, to the end that your Tranquillity may be able to rule those who serve you the more righteously as you know more truly how to serve the Sovereign of all. May He make you His champions in love of the Catholic faith, having, of His benign dealing, made you our emperors. May He infuse into your minds zeal together with gentleness, that you may always be able with pious fervour not to leave unavenged whatever is done amiss with regard to God, and in case of any delinquency against yourselves to bear and spare. May He give us in your Piety the clemency of Pulcheria Augusta, who for her zeal for the Catholic faith was called in the holy synod the new Helena (<em>Act.</em> 1 <em>synodi Chalcedonensis</em>). May the Almighty mercy of God grant to you fuller length of days to live with our most pious lord, that the longer your life is extended, the more strongly may the consolation of your subjects be confirmed.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "I ought perhaps to have requested that your Tranquillity should hold as especially commended to you the Church of the blessed apostle Peter, which up to this time has laboured under grievous plots against it. But, knowing that you love Almighty God, I ought not to ask what you will exhibit of your own accord out of the benignity of your piety. For the more you fear the Creator of all, the more fully may you love the Church of him to whom it was said, <em>You are Peter, and upon this rock I will build my Church, and the gates of hell shall not prevail against it; and to whom it is said, To you I will give the keys of the kingdom of heaven; and whatsoever you shall bind on earth shall be bound in heaven; and whatsoever you shall loose on earth shall be loosed in heaven</em> {{BIBLE:mat 15:18}} . Whence it is not doubtful to us with what strong love you will bind yourself to him through whom you earnestly desire to be loosed from all sins. May he, then, be the guardian of your empire, may he be your protector on earth, may he be an intercessor for you in heaven: that through your relieving your subjects from hard burdens, and causing them to rejoice in your empire, you may, after many years, rejoice in the heavenly kingdom.",
+        "scripture": [
+          "mat 15:18"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷，第三十九封",
+    "p0002": "\\Emph{致\\Person{莱昂蒂娅}皇后。}",
+    "p0003": "\\Person{额我略}致\\Person{莱昂蒂娅·奥古斯塔}。",
+    "p0004": "什么舌头能够言说，什么心思能够思想，我们应当全能的天主在你们帝国的安宁中向祂献上何等大的感恩，因为长久以来如此沉重的重担已从我们颈上移去，而至尊统御的柔和之轭已然回归，这是臣民乐于承受的！因此，愿荣耀归于万物的创造者，由天使的歌唱诗班颂扬，愿地上的人们献上感恩，因为整个共和国，经历了诸多悲伤的创伤，如今终于找到了你们安慰的膏油。因此，我们更必须恳求全能天主的仁慈，使祂将你们虔诚的心永远握在祂的右手中，并藉天上恩宠的帮助疏导你们的思念，为使你们的安宁能更正义地统治那些服事你们的人，正如你们更真实地知道如何服事万有的主宰。愿祂使你们成为祂在热爱天主教信仰上的勇士，因为祂以祂的仁慈对待，使你们成为我们的皇帝。愿祂将热忱与温和注入你们的心智，使你们总能以虔诚的热忱，不放过任何得罪天主的过犯而不予惩罚，而在面对任何冒犯你们自身的过失时，又能忍耐与宽恕。愿祂藉着你们的虔诚，赐给我们\\Person{普尔赫里娅·奥古斯塔}的宽仁，她因对天主教信仰的热忱，在神圣的大公会议中被称作新\\Person{赫肋纳}（\\Emph{\\WorkTitle{迦克墩大公会议纪要}一卷}）。愿全能天主的仁慈赐予你们更长的岁月，与我们最虔诚的主上共同生活，以使你们的生命越延长，臣民的安慰就越得到巩固。",
+    "p0005": "我或许本应请求，请陛下将真福宗徒伯多禄的教会特别托付于你们，这教会迄今一直遭受着针对它的严重阴谋。但是，我深知你们爱慕全能的天主，故我不应请求你们出于虔诚的良善而自动展示的事。因为你们越敬畏万有的创造者，就越能深深爱慕祂的教会，就是那一位的教会，曾对他说：\\BibleQuote{\\Emph{你是伯多禄，在这磐石上我要建立我的教会，阴间的门决不能战胜她；并且我要将天国的钥匙交给你；凡你在地上所束缚的，在天上也要被束缚；凡你在地上所释放的，在天上也要被释放。}} \\BibleRef{玛 16:18}。因此，我们毫不怀疑，你们将以何等强烈的爱将自己与那位你们渴望藉以摆脱一切罪过的人联系在一起。那么，愿他成为你们帝国的守护者，愿他成为你们在地上的保护者，愿他成为你们在天上的转求者：为使你们通过解除臣民的重担，并使他们在你们的帝国中喜乐，在多年之后，你们能在天国中喜乐。"
+  }
+}

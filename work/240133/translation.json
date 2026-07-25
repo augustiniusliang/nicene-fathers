@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "240133",
+    "title": "Homily 33 on the Gospel of John",
+    "breadcrumbs": "Home > Fathers of the Church > Homilies on the Gospel of John (Chrysostom) > Homily 33",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Homily 33 on the Gospel of John",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "John 4:21-22",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. Everywhere, beloved, we have need of faith, faith the mother of blessings, the medicine of salvation; and without this it is impossible to possess any one of the great doctrines. Without this, men are like to those who attempt to cross the open sea without a ship, who for a little way hold out by swimming, using both hands and feet, but when they have advanced farther, are quickly swamped by the waves: in like manner they who use their own reasonings, before they have learned anything, suffer shipwreck; as also Paul says, <quote>Who concerning faith have made shipwreck.</quote> {{BIBLE:1ti 1:19}} That this be not our case, let us hold fast the sacred anchor by which Christ brings over the Samaritan woman now. For when she had said, <quote>How say ye that Jerusalem is the place in which men ought to worship?</quote> Christ replied, <quote>Believe Me, woman, that the hour comes, when you shall neither in Jerusalem, nor yet in this mountain, worship the Father.</quote> An exceedingly great doctrine He revealed to her, and one which He did not mention either to Nicodemus or Nathanael. She was eager to prove her own privileges more honorable than those of the Jews; and this she subtly argued from the Fathers, but Christ met not this question. For it was for the time distracting to speak on the matter, and to show why the Fathers worshipped in the mountain, and why the Jews at Jerusalem. Wherefore on this point He was silent, and having taken away from both places priority in dignity, rouses her soul by showing that neither Jews nor Samaritans possessed anything great in comparison with that which was to be given; and then He introduces the difference. Yet even thus He declared that the Jews were more honorable, not preferring place to place, but giving them the precedence because of their intention. As though He had said, <quote>About the 'place' of worship you have no need henceforth to dispute, but in the 'manner' the Jews have an advantage over you Samaritans, for 'ye,' He says, 'worship ye know not what; we know what we worship.'</quote>",
+        "scripture": [
+          "1ti 1:19"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "How then did the Samaritans <quote>know not</quote> what they worshipped? Because they thought that God was local and partial; so at least they served Him, and so they sent to the Persians, and reported that <quote>the God of this place is angry with us</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Marriott. From Nicene and Post-Nicene Fathers, First Series, Vol. 14. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1889.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/240133.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Marriott.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 14.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1889.",
+      "srcurl": "<http://www.newadvent.org/fathers/240133.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "若望福音讲道集 第三十三篇",
+    "p0002": "\\BibleRef{若 4:21-22}",
+    "p0003": "亲爱的诸位，我们处处需要信德，信德是福佑之母，救恩之药；没有它，便不可能掌握任何一项伟大的道理。没有信德，人就像那些试图不用船横渡大海的人，他们靠游泳坚持一小段路程，手脚并用，但走得更远时，便迅速被波浪淹没：同样，那些在尚未学到任何东西之前就运用自己推理的人，也遭遇了船难；正如保禄所说：\\Quote{有人关于信德，便遭遇了船难。} \\BibleRef{弟前 1:19} 为避免我们也如此，让我们紧握那神圣的锚，基督正是借此引领那位撒玛黎雅妇人。因为她曾说过：\\Quote{你们怎么说耶路撒冷是应当朝拜的地方呢？} 基督回答说：\\Quote{女人，你相信我罢，时候将到，你们朝拜圣父，既不在这座山上，也不在耶路撒冷。} 祂向她启示了一个极其重要的道理，是祂未曾向尼苛德摩或纳塔乃耳提及的。她急于证明自己的特权比犹太人的更尊贵，并巧妙地根据祖传（的习俗）来辩论，但基督并未正面回答这个问题。因为当时谈论此事并说明为何祖先在这座山上朝拜，而犹太人在耶路撒冷朝拜，会分散注意力。因此祂对此保持沉默，剥夺了两地尊贵上的优先性，通过指出与将要赐予的相比，无论犹太人或撒玛黎雅人都没有拥有什么伟大的事物，来唤醒她的心灵；然后祂引入了区别。然而即便如此，祂仍宣告犹太人更为尊贵，并非偏爱一个地方胜过另一个，而是因其意向而给予他们优先。如同祂说：\\Quote{关于朝拜的\\InnerQuote{地方}，你们今后无需争论，但在\\InnerQuote{方式}上，犹太人比你们撒玛黎雅人更有优势，因为\\InnerQuote{你们}，祂说，\\InnerQuote{朝拜你们所不认识的；我们却认识我们所朝拜的。}}",
+    "p0004": "那么，撒玛黎雅人如何\\Quote{不认识}他们所朝拜的呢？因为他们以为天主是地方性的、有偏私的；他们至少就是这样事奉祂的，因此他们派人去见\\Person{波斯人}，报告说：\\Quote{这地方的天主向我们发怒。}"
+  }
+}

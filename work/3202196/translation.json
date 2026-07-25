@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202196",
+    "title": "Letter 196",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 196",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 196",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Aburgius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Rumour, messenger of good news, is continually reporting how you dart across, like the stars, appearing now here, now there, in the barbarian regions; now supplying the troops with provisions, now appearing in gorgeous array before the emperor. I pray God that your doings may prosper as they deserve, and that you may achieve eminent success. I pray that, so long as I live and breathe this air, (for my life now is no more than drawing breath), our country may from time to time behold you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202196.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202196.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 196",
+    "p0002": "\\Emph{\\Person{圣巴西略} \\Place{凯撒勒雅}}",
+    "p0003": "\\Emph{致\\Person{阿布尔吉乌}}.",
+    "p0004": "传闻，这好消息的使者，不停地报告你如何如同星辰，时而在这里，时而在那里，出现在蛮族地区；时而为军队供给粮草，时而以华丽的仪仗出现在皇帝面前。我祈求天主，使你所行之事如其所应得地亨通，并使你获得卓越的成功。我祈求，在我还活着并呼吸这空气的日子里（因为我的生命如今不过是喘息），我们的祖国能时常得见你。"
+  }
+}

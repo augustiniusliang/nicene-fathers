@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360202042",
+    "title": "Book II, Letter 42",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book II, Letter 42",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book II, Letter 42",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Luminosus, Abbot.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Luminosus, abbot of the monastery of Saint Thomas of Ariminum.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We were glad to receive your own and your congregation's petition, and accede to your requests, in accordance with the statutes of the Fathers and with form of law. For to our brother and fellow bishop Castorius a letter has been sent by our order, whereby we have taken away entirely from him and his successors all power to harm your monastery; so that neither may he any longer come among you to be a burden to you, nor schedules be made of the property of the monastery, nor any public procession take place there; this only jurisdiction being still left to him, that he must ordain in the place of a deceased abbot another whom the common consent of the congregation may have chosen as worthy. But now, these things being thus accomplished, be you diligent in the work of God, and assiduously devote yourselves to prayer, lest you should seem not so much to have sought security of mind for prayer, as to have wished to escape strict episcopal control over you while living amiss.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360202042.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360202042.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二卷，第四十二封书信",
+    "p0002": "\\Emph{致院长\\Person{卢米诺苏斯}}",
+    "p0003": "\\Person{格列高利}致\\Place{里米尼}的\\Person{圣多玛斯}隐修院院长\\Person{卢米诺苏斯}。",
+    "p0004": "我们很高兴收到你和你的团体的请求，并按照圣教父的规章和法律形式同意你的请求。因为我们已经下令给我们的弟兄和同为主教\\Person{卡斯特里奥}一封信，从而完全剥夺了他及其继任者伤害你隐修院的一切权力；使他再也不必来你们中间成为负担，也不得编制隐修院财产的清单，也不得在那里举行任何公开游行；仅保留给他这项司法权：他必须在一位已故院长的位置上，任命一位由团体共同同意选为合适的人。但是，既然这些事情已经完成，你们要勤于天主的工作，并专心致力于祈祷，免得你们似乎不是寻求内心的安宁以便祈祷，而是希望逃避主教对你们过失行为的严格监督。"
+  }
+}

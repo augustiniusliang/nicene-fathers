@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "1602253",
+    "title": "The Harmony of the Gospels, Book II",
+    "breadcrumbs": "Home > Fathers of the Church > The Harmony of the Gospels (Augustine) > Book II, Chapter 53",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "The Harmony of the Gospels, Book II",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "Chapter 53. Of the Occasion on Which He Asked the Disciples Whom Men Said that He Was; And of the Question Whether, with Regard Either to the Subject-Matter or the Order, There are Any Discrepancies Between Matthew, Mark, and Luke.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "108. Matthew continues thus: <quote>And Jesus came into the coasts of Cæsarea Philippi; and He asked His disciples, saying, Whom do men say that I, the Son of man, am? And they said, Some say that You are John the Baptist; some, Elias; and others, Jeremias, or one of the prophets;</quote> and so on, down to the words, <quote>And whatsoever you shall loose on earth shall be loosed in heaven.</quote> Mark relates this nearly in the same order. But he has brought in before it a narrative which is given by him alone—namely, that regarding the giving of sight to that blind man who said to the Lord, <quote>I see men as trees walking.</quote> Luke, again, also records this incident, inserting it after his account of the miracle of the five loaves; and, as we have already shown above, the order of recollection which is followed in his case is not antagonistic to the order adopted by these others. Some difficulty, however, may be imagined in the circumstance that Luke's representation bears that the Lord put this question, as to whom men held Him to be, to His disciples at a time when He was alone praying, and when His disciples were also with Him; whereas Mark, on the other hand, tells us that the question was put by Him to the disciples when they were on the way. But this will be a difficulty only to the man who has never prayed on the way.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "109. I recollect having already stated that no one should suppose that Peter received that name for the first time on the occasion when He said to Him, <quote>You are Peter, and upon this rock I will build my Church.</quote> For the time at which he did obtain this name was that referred to by John, when he mentions that he was addressed in these terms: <quote>You shall be called Cephas, which is, by interpretation, Peter.</quote> Hence, too, we are as little to think that Peter got this designation on the occasion to which Mark alludes, when he recounts the twelve apostles individually by name, and tells us how James and John were called the sons of thunder, merely on the ground that in that passage he has recorded the fact that He surnamed him Peter. For that circumstance is noticed there simply because it was suggested to the writer's recollection at that particular point, and not because it took place in actual fact at that specific time.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 6. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1888.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1602253.htm>.",
+    "metadata": {
+      "srctrans": "Translated by S.D.F. Salmond.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1888.",
+      "srcurl": "<http://www.newadvent.org/fathers/1602253.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{福音的和谐 卷二}",
+    "p0002": "第五十三章 论祂问门徒众人说祂是谁的缘由，以及关于在内容或顺序上玛窦、马尔谷和路加之间是否有不一致的问题。",
+    "p0003": "108. 玛窦继续这样说：\\BibleQuote{耶稣来到了斐理伯的凯撒勒雅境内，问祂的门徒说：\\InnerQuote{人们说人子是谁？}他们说：\\InnerQuote{有人说是洗者若翰；有人说是厄里亚；也有人说是耶肋米亚，或先知中的一位。}} 一直到这句话：\\BibleQuote{凡你在地上所释放的，在天上也要被释放。} 马尔谷叙述此事几乎以相同的顺序。但他在此之前插入了一段唯独他记载的叙述——即关于那位对主说\\BibleQuote{我看见人，好像看见树木在行走}的盲人得见光明的事。路加也记载了此事，将其放在五饼奇迹的记述之后；正如我们前面已经指出的，他所遵循的记忆顺序与另两位所采用的顺序并不冲突。然而，可能会想象到一种困难：路加记载主在独自祈祷、门徒们也同祂在一起时，向门徒提出了这个问题，即人们认为祂是谁；而马尔谷则告诉我们，主是在路上向门徒提出这个问题的。但这只对那些从未在路上祈祷过的人才会成为困难。",
+    "p0004": "109. 我回忆已经说过，没有人应该认为伯多禄是在主对他说\\BibleQuote{你是伯多禄，在这磐石上我要建立我的教会}时才首次获得这个名字。因为获得这个名字的时间是若望所提及的，当时主对他说：\\BibleQuote{你要叫刻法，意即伯多禄。}因此，我们同样不应认为伯多禄是在马尔谷所指的场合得到这个称号，即当他逐一列举十二宗徒的名字时，并告诉我们雅各伯和若望被称为\\Quote{雷霆之子}，仅因为在那段经文中他记载了主称他为伯多禄。因为那一情况在那里被提及，仅仅是因为在那一刻它出现在作者的记忆中，而不是因为在那个具体时间实际发生了此事。"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "3508",
+    "title": "Conferences",
+    "breadcrumbs": "Home > Fathers of the Church > Conferences (John Cassian)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Conferences",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "CONFERENCE 1. FIRST CONFERENCE OF ABBOT MOSES.\nCONFERENCE 2. SECOND CONFERENCE OF ABBOT MOSES.\nCONFERENCE 3. CONFERENCE OF ABBOT PAPHNUTIUS. ON THE THREE SORTS OF RENUNCIATIONS.\nCONFERENCE 4. CONFERENCE OF ABBOT DANIEL. ON THE LUST OF THE FLESH AND OF THE SPIRIT.\nCONFERENCE 5. CONFERENCE OF ABBOT SERAPION. ON THE EIGHT PRINCIPAL FAULTS.\nCONFERENCE 6. CONFERENCE OF ABBOT THEODORE. ON THE DEATH OF THE SAINTS.\nCONFERENCE 7. FIRST CONFERENCE OF ABBOT SERENUS. ON INCONSTANCY OF MIND, AND SPIRITUAL WICKEDNESS.\nCONFERENCE 8. SECOND CONFERENCE OF ABBOT SERENUS. ON PRINCIPALITIES.\nCONFERENCE 9. FIRST CONFERENCE OF ABBOT ISAAC. ON PRAYER.\nCONFERENCE 10. SECOND CONFERENCE OF ABBOT ISAAC. ON PRAYER.\nCONFERENCE 11. FIRST CONFERENCE OF ABBOT CHAEREMON. ON PERFECTION.\nCONFERENCE 13. THIRD CONFERENCE OF ABBOT CHAEREMON. ON THE PROTECTION OF GOD.\nCONFERENCE 14. FIRST CONFERENCE OF ABBOT NESTEROS. ON SPIRITUAL KNOWLEDGE.\nCONFERENCE 15. SECOND CONFERENCE OF ABBOT NESTEROS. ON DIVINE GIFTS.\nCONFERENCE 16. FIRST CONFERENCE OF ABBOT JOSEPH. ON FRIENDSHIP.\nCONFERENCE 17. SECOND CONFERENCE OF ABBOT JOSEPH. ON MAKING PROMISES.\nCONFERENCE 18. CONFERENCE OF ABBOT PIAMUN. ON THE THREE SORTS OF MONKS.\nCONFERENCE 19. CONFERENCE OF ABBOT JOHN. ON THE AIM OF THE COENOBITE AND HERMIT.\nCONFERENCE 20. CONFERENCE OF ABBOT PINUFIUS. ON THE END OF PENITENCE AND THE MARKS OF SATISFACTION.\nCONFERENCE 21. FIRST CONFERENCE OF ABBOT THEONAS. ON THE RELAXATION DURING THE FIFTY DAYS.\nCONFERENCE 23. THIRD CONFERENCE OF ABBOT THEONAS. ON SINLESSNESS.\nCONFERENCE 24. CONFERENCE OF ABBOT ABRAHAM. ON MORTIFICATION.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by C.S. Gibson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 11. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1894.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3508.htm>.",
+    "metadata": {
+      "srctrans": "Translated by C.S. Gibson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 11.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1894.",
+      "srcurl": "<http://www.newadvent.org/fathers/3508.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{话谈}",
+    "p0002": "第1篇 梅瑟院长的第一篇话谈。\\newline{}第2篇 梅瑟院长的第二篇话谈。\\newline{}第3篇 巴夫努提院长的话谈——论三种弃绝。\\newline{}第4篇 达尼尔院长的话谈——论肉身与心神的情欲。\\newline{}第5篇 塞拉庇翁院长的话谈——论八种主要恶习。\\newline{}第6篇 德奥多罗院长的话谈——论圣人之死。\\newline{}第7篇 塞雷努斯院长的第一篇话谈——论心神无常与属神的邪恶。\\newline{}第8篇 塞雷努斯院长的第二篇话谈——论率领者。\\newline{}第9篇 依撒格院长的第一篇话谈——论祈祷。\\newline{}第10篇 依撒格院长的第二篇话谈——论祈祷。\\newline{}第11篇 凯雷蒙院长的第一篇话谈——论成全。\\newline{}第13篇 凯雷蒙院长的第三篇话谈——论天主的保护。\\newline{}第14篇 内斯特罗斯院长的第一篇话谈——论属神的知识。\\newline{}第15篇 内斯特罗斯院长的第二篇话谈——论天主的恩赐。\\newline{}第16篇 若瑟院长的第一篇话谈——论友谊。\\newline{}第17篇 若瑟院长的第二篇话谈——论许诺。\\newline{}第18篇 皮亚孟院长的话谈——论三种隐修士。\\newline{}第19篇 若望院长的话谈——论修院团体与独修者的目标。\\newline{}第20篇 皮努斐院长的话谈——论补赎的终结与赔补的标记。\\newline{}第21篇 特奥纳斯院长的第一篇话谈——论五十天内的宽弛。\\newline{}第23篇 特奥纳斯院长的第三篇话谈——论无罪。\\newline{}第24篇 亚巴郎院长的话谈——论克苦。"
+  }
+}

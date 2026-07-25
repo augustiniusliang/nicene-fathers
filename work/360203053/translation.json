@@ -1,0 +1,61 @@
+{
+  "source": {
+    "source_id": "360203053",
+    "title": "Book III, Letter 53",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 53",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 53",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To John, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to John, Bishop of Constantinople.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Though consideration of the case moves me, yet charity also impels me to write, since I have written once and again to my most holy brother the lord John, but have received no letter from him. For some one else, a secular person, addressed me under his name; seeing that, if those were really his letters, I have not been vigilant, having believed of him something far different from what I have found. For I had written about the case of the most reverend presbyter John, and about the questions of the monks of Isauria, one of whom, being in priest's orders, has been beaten with clubs in your church; and your most holy Fraternity (as appears from the signature of the letter) has written back to me professing ignorance of what I wrote about. At this reply I was exceedingly astonished, revolving within myself in silence, if he speaks the truth, what can be worse than that such things should be done against the servants of God, and even he who was close at hand should not know? For what excuse can a shepherd have if the wolf devours the sheep and the shepherd knows it not? But, if your Holiness knew both what I referred to in my letter and what had been done, whether against John the presbyter or against Athanasius, monk of Isauria and presbyter, and wrote to me, I know not; what can I reply to this, since the Truth says through His Scripture, <em>The mouth that lies slays the soul</em> {{BIBLE:wis 1:11}} ? I demand of you, most holy brother; has that so great abstinence of yours come to this, that by denial you would hide from your brother what you knew to have been done? Had it not been better that flesh should go into that mouth for food, than that falsehood should come out of it for deceiving a neighbour; especially when the Truth says, <em>Not that which goes into the mouth defiles a man; but that which comes out of the mouth, this defiles a man</em> {{BIBLE:mat 15:11}} ? But far be it from me to believe anything of the kind of your most holy heart. Those letters were headed with your name, but I do not think they were yours. I had written to the most blessed lord John; but I believe that that familiar of yours has replied—that youngster, who as yet has learned nothing about God; who knows not the bowels of charity; who in his wicked doings is accused by all; who daily lays snares against the deaths of various people by means of concealed wills; who neither fears God nor regards men. Believe me, most holy brother, you must first correct this man, that from the example of those who are near to you those who are not near may be better amended. Do not give ear to his tongue: he ought to be directed after the counsel of your holiness; not your holiness swayed by his words. For, if you listen to him, I know that you cannot have peace with your brethren. For I, as my conscience bears me witness, wish to quarrel with no man; and with all my power I avoid it. And, though I desire exceedingly to be at peace with all mankind, it is especially so with you, whom I exceedingly love, if only you are yourself the person whom I knew. For, if you do not observe the canons, and wish to tear to pieces the statutes of the Fathers, I know not who you are. So act, then, most holy and most dear brother, that we may mutually recognize each other, lest, if the ancient foe should move us two to take offense, he slay many through his most atrocious victory. As for me, to show that I seek to do nothing in a haughty spirit, if that youngster of whom I have before spoken did not hold the topmost place of evil doing with your Fraternity, I could meanwhile have passed over in silence what is ready to my hand from the canons, and have sent back to you with confidence the persons who came to me at the first, knowing that your Holiness would receive them with charity. But even now I say; Either receive these same persons, restoring them to their orders, and leaving them in quiet; or, if perchance you are unwilling to do this, observe in their case the statutes of the Fathers and the definitions of the canons, putting aside all altercation with me. But, if you should do neither, we indeed are unwilling to bring on a quarrel, but still do not shun one if it comes from your side. Moreover your Fraternity knows well what the canons say about bishops who desire to inspire fear by blows. For we have been made shepherds, not persecutors. And the excellent preacher says, <em>Argue, beseech, rebuke, with all longsuffering and doctrine</em> {{BIBLE:2ti 4:2}} . But new and unheard of is this preaching, which exacts faith by blows. But I need not speak at length by letter about these things, since I have sent my most beloved son, the deacon Sabinianus, as my representative in ecclesiastical matters, to the threshold of our lords; and he will speak with you about everything more particularly. Unless you are disposed to wrangle with us, you will find him prepared for all that is just. Him I commend to your Blessedness, that he at least may find that lord John whom I knew in the royal city.",
+        "scripture": [
+          "wis 1:11",
+          "mat 15:11",
+          "2ti 4:2"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203053.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203053.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三卷，第五十三封书信",
+    "p0002": "\\Emph{致若望主教。}",
+    "p0003": "额我略致君士坦丁堡主教若望。",
+    "p0004": "虽然案情促使我思考，但爱德也催迫我写信，因为我曾一再致信给我最圣洁的兄弟主若望，却未收到他的回信。因为另有一个世俗之人冒用他的名字给我写信；倘若那些信确是他的，那我就太不警觉了，竟相信了他远非我后来所发现的那样。我曾就最可敬的司铎若望的案子以及依撒乌利亚的隐修士们的问题写信，其中一位已领受司铎职的隐修士在你们的教堂里遭到棍棒殴打；而你的最圣洁的弟兄之爱（从信上的署名来看）回信给我，声称对我所提及之事一无所知。对此答复我极为惊异，心中默默思量：若他说的是实话，那么还有什么比这更糟糕的事，就是如此对待天主的仆人，而近在咫尺的人竟毫无知觉？因为若狼吞吃羊而牧人不知道，牧人还有什么借口？但是，如果你的圣洁既知道我信中所提之事，也知道对司铎若望和依撒乌利亚的隐修士兼司铎阿塔纳修所做之事，却又写信给我说不知道，那我对此如何应答？因为真理通过其圣经说：\\BibleQuote{说谎的口杀死灵魂}（参见\\BibleRef{智 1:11}）。我恳求你，最圣洁的兄弟：难道你那如此伟大的节制竟到了这种地步，以致你想通过否认来向你的兄弟隐瞒你所知道已做的事？难道肉进入口中作食物，不是比谎言从口中出来欺骗邻人更好吗？尤其是当真理说：\\BibleQuote{不是入口的污秽人，而是出口的污秽人}（参见\\BibleRef{玛 15:11}）？但愿你最圣洁的心远离此类想法。那些信上署着你的名字，但我不认为它们是你的。我曾写信给最蒙福的主若望；但我相信是那个你的亲信回复的——那个年轻人，他迄今尚未学到任何关于天主的事；他不知道爱德的怀抱；他在恶行中受众人谴责；他每日用隐藏的遗嘱对许多人的死亡设下陷阱；他不敬畏天主，也不尊重人。请相信我，最圣洁的兄弟，你必须先纠正此人，好使那些亲近你的人因你的榜样而得改进。不要听从他的舌头：他应当遵照你的圣洁的劝告行事，而非你的圣洁受他言语的左右。因为，若你听他，我知道你不能与你的弟兄们保持平安。因为我，正如我的良心为我作证，不愿与任何人争吵；我尽一切努力避免争吵。尽管我极其渴望与全人类平安相处，但尤其与你，我极其爱你，只要你自己仍是我所认识的那个人。因为，若你不遵守教规，并企图撕毁教父的规条，我不知道你是谁。因此，最圣洁、最亲爱的兄弟，请如此行事，使我们彼此相认，免得古时的仇敌激起我们两人之间的冒犯，借其最残酷的胜利杀害许多人。至于我，为表明我不以骄傲的精神行事，若我之前提及的那个年轻人在你的弟兄之爱中并非行恶之首，我本可暂时对教规中随手可得的规定保持沉默，并放心地将最初来到我这里的人送回给你，因为我知道你的圣洁会以爱德接待他们。但即使现在，我仍要说：要么接纳这些人，恢复他们的职位，让他们安享宁静；要么，如果你不愿这样做，就按教父的规条和教规的定义来处理他们，不要与我争论。但若你两者都不做，我们固然不愿引发争吵，但如果你方挑起，我们也不回避。此外，你的弟兄之爱很清楚教规关于以鞭打恐吓人的主教的规定。因为我们被立为牧人，而非迫害者。杰出的宣讲者说：\\BibleQuote{宣讲、劝勉、斥责，以百般的忍耐和教训}（参见\\BibleRef{弟后 4:2}）。而以鞭打强求信德，这是前所未闻的宣讲。但这些事我不必在信中说太多，因为我已派我最亲爱的儿子、执事撒彼尼亚努斯作为我在教会事务中的代表，到我们主上的门槛前；他将更详细地与你就一切事交谈。除非你倾向与我们争论，你会发现在一切公义之事上他有所预备。我将他托付给你的蒙福之身，好让他至少能在我于皇城中所认识的主若望那里找到他。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "0208",
+    "title": "Exhortation to the Heathen",
+    "breadcrumbs": "Home > Fathers of the Church > Exhortation to the Heathen (Clement of Alexandria)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Exhortation to the Heathen",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>BY CLEMENT OF ALEXANDRIA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<strong>Chapter 1.</strong> Exhortation to abandon the impious mysteries of idolatry for the adoration of the Divine Word and God the Father.\n<strong>Chapter 2.</strong> The absurdity and impiety of the heathen mysteries and fables about the birth and death of their gods.\n<strong>Chapter 3.</strong> The cruelty of the sacrifices to the gods.\n<strong>Chapter 4.</strong> The absurdity and shamefulness of the images by which the gods are worshipped.\n<strong>Chapter 5.</strong> The opinions of the philosophers respecting God.\n<strong>Chapter 6.</strong> By divine inspiration philosophers sometimes hit on the truth.\n<strong>Chapter 7.</strong> The poets also bear testimony to the truth.\n<strong>Chapter 8.</strong> The true doctrine is to be sought in the prophets.\n<strong>Chapter 9.</strong> \"That those grievously sin who despise or neglect God's gracious calling.\"\n<strong>Chapter 10.</strong> Answer to the objection of the heathen, that it was not right to abandon the customs of their fathers.\n<strong>Chapter 11.</strong> How great are the benefits conferred on man through the advent of Christ.\n<strong>Chapter 12.</strong> Exhortation to abandon their old errors and listen to the instructions of Christ.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by William Wilson. From Ante-Nicene Fathers, Vol. 2. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0208.htm>.",
+    "metadata": {
+      "srctrans": "Translated by William Wilson.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 2.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0208.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "劝勉外邦人",
+    "p0002": "\\Signature{\\Emph{\\Emph{克肋孟·亚历山大里亚}}}",
+    "p0003": "\\Emph{第一章} 劝勉放弃偶像崇拜的不敬神秘，转而崇拜圣言和圣父天主。\\newline{} \\Emph{第二章} 外邦神秘和关于诸神生与死之寓言的荒谬与不敬。\\newline{} \\Emph{第三章} 向诸神祭献的残忍。\\newline{} \\Emph{第四章} 用来崇拜诸神之像的荒谬与可耻。\\newline{} \\Emph{第五章} 哲学家们关于天主的观点。\\newline{} \\Emph{第六章} 哲学家们因神感有时触及真理。\\newline{} \\Emph{第七章} 诗人亦为真理作证。\\newline{} \\Emph{第八章} 真道应在先知书中寻求。\\newline{} \\Emph{第九章} \\Quote{藐视或忽视天主恩宠召唤的人犯了大罪。}\\newline{} \\Emph{第十章} 对外邦人反对说放弃祖先习俗不当的答复。\\newline{} \\Emph{第十一章} 藉基督的来临，人类获得何等大的恩惠。\\newline{} \\Emph{第十二章} 劝勉放弃旧时的错误，而听从基督的训诲。"
+  }
+}

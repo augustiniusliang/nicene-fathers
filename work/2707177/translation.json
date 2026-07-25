@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707177",
+    "title": "Letter 177",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 177",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 177",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>Letter to Andreas, Bishop of Samosata.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The illustrious Aristolaus has sent Magisterianus from Egypt with a letter of Cyril in which he anathematizes Arius, Eunomius, Apollinarius and all who assert Christ's Godhead to be passible and maintain the confusion and commixture of the two natures. Hereat we rejoice, although he did withhold his consent from our statement. He requires further subscription to the condemnation which has been passed, and that the doctrine of the holy bishop Nestorius be anathematized. Your holiness well knows that if any one anathematizes, without distinction, the doctrine of that most holy and venerable bishop, it is just the same as though he seemed to anathematize true religion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We must then if we are compelled anathematize those who call Christ mere man, or who divide our one Lord Jesus Christ into two sons and deny His divinity, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707177.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707177.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第177封",
+    "p0002": "\\Emph{致\\Place{萨莫萨塔}主教\\Person{安德肋}书}",
+    "p0003": "显贵的\\Person{阿里斯托劳斯}从\\Place{埃及}派遣\\Person{玛吉斯特里亚努斯}携\\Person{济利禄}的一封信到来，他在信中绝罚\\Person{亚略}、\\Person{欧诺弥}、\\Person{阿波林纳}及所有主张基督的天主性可受苦、并坚持两性混淆与混合的人。对此我们感到欢喜，尽管他未赞同我们的声明。他要求进一步签署已通过的谴责，并要求绝罚神圣主教\\Person{聂斯多略}的道理。您的圣德深知，若有人不加区分地绝罚那位至圣可敬主教的道理，这无异于他似乎绝罚了真宗教。",
+    "p0004": "那么，我们若被迫，必须绝罚那些称基督纯属凡人、或将我们唯一的主耶稣基督分作两个儿子并否认其天主性的人，等等。"
+  }
+}

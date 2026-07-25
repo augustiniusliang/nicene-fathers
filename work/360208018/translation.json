@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360208018",
+    "title": "Book VIII, Letter 18",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VIII, Letter 18",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VIII, Letter 18",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Agnellus, Bishop of Terracina.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Agnellus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has come to our ears— a thing shocking to be told— that some in your parts worship trees, and perpetrate many other unlawful things contrary to the Christian faith. And we wonder why your Fraternity has delayed correcting this by strict punishment. On this account we exhort you by this present writing to cause these persons to be sought out by diligent enquiry, and such vengeance to be executed on them that both God may be pacified and their punishment may be an example of rebuke to others.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "We have written also to Maurus the Viscount that he should afford aid to your Fraternity in this matter, that so you may be unable to find any excuse for not apprehending them. Further, as we find that many excuse themselves from keeping watch over the walls, let your Fraternity be careful to suffer no man, either under the name of our or your Church, or under any other pretext, to be exempted from keeping watch: but let all generally be compelled, to the end that, while all keep watch, the custody of the city may, by the help of the Lord, be the better provided for.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360208018.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360208018.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八卷 第十八封信",
+    "p0002": "\\Emph{致泰拉奇纳主教阿格内卢斯。}",
+    "p0003": "额我略致阿格内卢斯等。",
+    "p0004": "我们听闻——说来令人震惊——有人在你所属的地区敬拜树木，并做出许多其他违背基督信仰的违法之事。我们感到奇怪，为何您的兄弟迟迟没有以严厉的惩罚来纠正此事。因此，我们以这封信劝勉您，要您令人仔细查问，找出这些人，并予以惩戒，使天主得以息怒，而他们的处罚也能成为责备他人的榜样。",
+    "p0005": "我们也已致信莫鲁斯子爵，要他在这件事上向您的兄弟提供帮助，这样您就再也找不到借口不抓捕他们。此外，我们发现许多人以守城为借口推脱责任，因此请您的兄弟注意，不得以我们或你们教会的名义，或任何其他理由，允许任何人免除守城之责；而应强制所有人一律参与，以便在全体守城时，赖主的助佑，城市的守卫能得到更好的保障。"
+  }
+}

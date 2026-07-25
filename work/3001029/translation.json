@@ -1,0 +1,51 @@
+{
+  "source": {
+    "source_id": "3001029",
+    "title": "Letter 29",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 29",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 29",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Letter XXIX. To Marcella.",
+        "scripture": [],
+        "style": "c30",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{BIBLE:1sa 2:18}} and <em>Teraphim</em> {{BIBLE:jdg 17:5}} . Written at Rome to Marcella, also at Rome A.D. 384.",
+        "scripture": [
+          "1sa 2:18",
+          "jdg 17:5"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001029.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001029.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二十九封书信",
+    "p0002": "第二十九封书信，致\\Person{玛策辣}。",
+    "p0003": "\\BibleRef{撒上 2:18}与\\Emph{特辣芬}\\BibleRef{民 17:5}。写于\\Place{罗马}，致\\Person{玛策辣}，亦在\\Place{罗马}，公元三八四年。"
+  }
+}

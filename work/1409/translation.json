@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "1409",
+    "title": "Answer to Petilian the Donatist",
+    "breadcrumbs": "Home > Fathers of the Church > Answer to Petilian the Donatist (Augustine)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Answer to Petilian the Donatist",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "THE THREE BOOKS OF ST. AUGUSTINE\nIN ANSWER TO THE LETTERS OF PETILIAN,\nTHE DONATIST, BISHOP OF CIRTA.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Written c. 400 A.D., some say 398 A.D., but Augustine places it\nsome time after the treatise on Baptism: Retractt. Bk. ii. xxv. From\nthe same, we gather the following points as to the origin of this\ntreatise: Before A. had finished his books on the Trinity and his\nword-for-word commentary on Genesis, a reply to a letter which\nPetilian had addressed to his followers, only a small part of which\nhowever had come into A.'s hands, demanded immediate preparation.\nThis constitutes Book First. Subsequently the whole document was\nobtained, and he was engaged in preparing the second Book, c. 401;\nbut even before the full treatise of Petilian had been secured, the\nlatter had obtained A.'s first book, and afterwards put an epistle\nabusive of A. in circulation. The answer to this latter is Book\nThird, c. 402. Petilian. was originally an advocate. The opponents\ncharged him with having become a Donatist by compulsion, with\nassuming the title of Paraclete, and with endeavoring to prevent all\naccess on their part to his writings.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Book I\nBook II\nBook III",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.R. King and revised by Chester D. Hartranft. From Nicene and Post-Nicene Fathers, First Series, Vol. 4. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1409.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.R. King and revised by Chester D. Hartranft.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1409.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{答多纳徒派佩提利安}",
+    "p0002": "\\Person{圣奥斯定}三卷书\\newline{}答\\Person{佩提利安}的书信，\\newline{}\\OriginalTerm{多纳徒派}{Donatist}、\\Place{基尔塔}主教。",
+    "p0003": "\\Emph{写于约公元400年，有人说398年，但\\Person{奥斯定}将其定于\\newline{}论\\WorkTitle{圣洗圣事}之后：\\WorkTitle{更正篇}第二卷第二十五章。从\\newline{}相同来源，我们收集以下关于此论著起源的要点：\\newline{}在\\Person{奥斯定}完成其论\\WorkTitle{天主圣三}的著作和其\\newline{}逐字注释\\BibleBook{}{创世纪}之前，一封回复信件（\\newline{}\\Person{佩提利安}寄给其追随者的），只有一小部分\\newline{}落入\\Person{奥斯定}手中，需要立即准备。\\newline{}这构成了第一卷。随后全部文件被\\newline{}获取，他着手准备第二卷，约公元401年；\\newline{}但即使在获得\\Person{佩提利安}全部论著之前，\\newline{}后者已获得\\Person{奥斯定}的第一卷，并随后发表一封\\newline{}辱骂\\Person{奥斯定}的书信。对此的答复是第\\newline{}三卷，约公元402年。\\Person{佩提利安}原本是律师。反对者\\newline{}指控他是被迫成为\\OriginalTerm{多纳徒派}{Donatist}，并\\newline{}擅自使用护慰者称号，并竭力阻止所有\\newline{}接触其著作。}",
+    "p0004": "第一卷\\newline{}第二卷\\newline{}第三卷"
+  }
+}

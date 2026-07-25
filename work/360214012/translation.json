@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "360214012",
+    "title": "Book XIV, Letter 12",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIV, Letter 12",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIV, Letter 12",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Theodelinda, Queen of the Lombards.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Queen Theodelinda.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The letters which you sent us a little time ago from the Genoese parts have made us partakers of your joy on account of our learning that by the favour of Almighty God a son has been given you, and, as is greatly to your Excellency's credit, has been received into the fellowship of the Catholic faith . Nor indeed was anything else to be supposed of your Christianity but that you would fortify him whom you have received by the gift of God with the aid of Catholic rectitude, so that our Redeemer might both acknowledge you as His familiar servant, and also bring up prosperously in His fear a new king for the nation of the Lombards. Wherefore we pray Almighty God both to keep you in the way of His commandments, and to cause our most excellent son, Adulouvald , to advance in His love, to the end that, as he is in this world great among men, so also he may be glorious for his good deeds before the eyes of our God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Now as to what your Excellency has requested in your letter, that we should reply in full to what our most beloved son, the abbot Secundus has written , who could think of putting off his petition or your wishes, knowing how profitable they would be to many, did not sickness stand in the way? But so great an infirmity from gout has held us fast as to render us hardly able to rise, not only for dictating, but even for speaking, as also your ambassadors, the bearers of these presents, are aware, who, when they arrived, found us weak, and when they departed, left us in the utmost peril and danger of our life. But, if by the ordering of Almighty God I should recover, I will reply in full to all that he has written. I have, however, sent by the bearers of these presents the Synod that was held in the time of Justinian of pious memory, that my aforesaid most-beloved son may acknowledge on reading it that all that he had heard against the Apostolic See or the Catholic Church was false. For far be it from us to accept the views of any heretic whatever, or to deviate in any respect from the tome of our predecessor Leo, of holy memory; but we receive whatever has been defined by the four holy synods, and condemn whatever has been rejected by them.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, to our son the King Adolouvald we have taken thought to send some phylacteries; that is, a cross with wood of the holy cross of the Lord, and a lection of the holy Gospel enclosed in a Persian case. Also to my daughter, his sister, I send three rings, two of them with hyacinths, and one with an <em>albula</em> , which I request may be given them through you, that our charity towards them may be seasoned by your Excellency.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "Furthermore, while paying you our duty of greeting with fatherly charity, we beg you to return thanks in our behalf to our most excellent son the King your consort for the peace that has been made, and to move his mind to peace, as you have been accustomed to do, in all ways for the future; that so, among your many good deeds, you may be able in the sight of God to find reward in an innocent people, which might have perished in offense.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360214012.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360214012.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十四卷，第十二封信",
+    "p0002": "\\Emph{致\\Person{泰奥德琳达}，伦巴第王后}",
+    "p0003": "\\Person{格列高利}致\\Person{泰奥德琳达}王后。",
+    "p0004": "您不久前从\\Place{热那亚}地区寄来的信函使我们分享了您的喜乐，因为我们得知，全能天主的眷顾赐给了您一个儿子，而且，这对尊座极有光荣的是，他已被接纳进入天主教信仰的共融。对您的基督徒精神，我们本无他念，深信您必会用公教的正直来坚固天主所赐给您的这位儿子，好使我们救主既承认您是祂亲近的仆人，也为伦巴第民族繁荣地养育一位敬畏祂的新王。因此，我们祈求全能天主，既使您遵行祂的诫命，又使我们最杰出的儿子\\Person{阿杜洛瓦尔德}在祂的爱中长进，为的是，如同他在今世成为人间伟人，同样也在我们天主眼中因善行而荣耀。",
+    "p0005": "至于尊座在信中请求之事，即我们应对我们至爱的儿子，\\Person{塞昆杜斯}院长所写的内容作全面答复——谁能在明知其请求对许多人有益的情况下，仍有意推迟他的祈请或您的意愿呢？——除非是疾病阻碍了。但痛风所致的如此严重的病弱已紧紧束缚了我们，使我们几乎无法起身，不仅无法口述，甚至无法说话；您派遣的使者，即呈递此信者，也知道此事：他们到达时发现我们虚弱，离开时我们正处在生命的极度危险和危机之中。然而，如果全能天主安排我能康复，我将对他所写的一切作出全面答复。不过，我已通过此信的携带者送去了一份在虔诚的\\Person{查斯丁尼}时代举行的会议文件，以便我前述至爱的儿子在阅读时能认识到，他所听到的对宗座或天主教会的一切指控都是虚假的。因为我们决不容纳任何异端者的观点，也绝不丝毫偏离我们前任\\Person{良}教宗圣善记忆的卷册；我们接受四次神圣会议所定义的一切，并谴责它们所拒绝的一切。",
+    "p0006": "此外，我们考虑给我们的儿子国王\\Person{阿杜洛瓦尔德}送去一些圣物：即一个带有主圣十字架木片的十字架，以及一本装在\\Place{波斯}匣中的圣福音选读。也给我们的女儿，即他的妹妹，送去三枚戒指，其中两枚镶有风信子石，一枚镶有\\OriginalTerm{阿尔布拉}{albula}，我请求通过您将这些交给他们，以便我们对他们所怀的爱德因尊座而倍增。",
+    "p0007": "此外，我们以父亲般的爱德向您履行问候之职时，恳请您代我们向最杰出的儿子，您的王夫国王，为已缔结的和平表示感谢，并如您素常所做，从今以后以各种方式引导他的心趋向和平；这样，在您的许多善行中，您在天主眼前，将因一个无辜的民族而获得赏报，这民族本可能因冒犯而灭亡。"
+  }
+}

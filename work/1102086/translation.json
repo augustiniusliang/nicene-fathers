@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102086",
+    "title": "Letter 86 (A.D. 405)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 86",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 86 (A.D. 405)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To My Noble Lord Cæcilianus, My Son Truly and Justly Honourable and Esteemed in the Love of Christ, Augustine, Bishop, Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The renown of your administration and the fame of your virtues, as well as the praiseworthy zeal and faithful sincerity of your Christian piety—gifts of God which make you rejoice in Him from whom they came, and from whom you hope to receive yet greater things—have moved me to acquaint your Excellency by this letter with the cares which agitate my mind. As our joy is great that throughout the rest of Africa you have taken measures with remarkable success on behalf of Catholic unity, our sorrow is proportionately great because the district of Hippo and the neighbouring regions on the borders of Numidia have not enjoyed the benefit of the vigour with which as a magistrate you have enforced your proclamation, my noble lord, and my son truly and justly honourable and esteemed in the love of Christ. Lest this should be regarded rather as due to the neglect of duty by me who bear the burden of the episcopal office at Hippo, I have considered myself bound to mention it to your Excellency. If you condescend to acquaint yourself with the extremities to which the effrontery of the heretics has proceeded in the region of Hippo, as you may do by questioning my brethren and colleagues, who are able to furnish your Excellency with information, or the presbyter whom I have sent with this letter, I am sure you will so deal with this tumour of impious presumption, that it shall be healed by warning rather than painfully removed afterwards by punishment.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102086.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102086.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信86（公元405年）",
+    "p0002": "\\Emph{致我高贵的主\\Person{切齐利亚努斯}，我真正且应受尊敬并在基督之爱内蒙我珍爱的儿子，\\Person{奥古斯丁}主教在主内致意。}",
+    "p0003": "您行政的声誉、您德行的美名，以及您基督徒虔敬之可嘉的热忱和忠信的真挚——这些是天主的恩赐，使您因那位赐恩者而喜乐，并从祂那里盼望领受更大的事——都促使我借这封信向尊贵的您述说那搅扰我心灵的挂虑。我们在极大的喜乐中，因为您在\\Place{非洲}其余地方为\\OriginalTerm{公教的合一}{Catholic unity}采取了措施，并取得了非凡的成就；同样，我们也感到极大的忧伤，因为\\Place{希波}地区及\\Place{努米底亚}边境邻近的地带，尚未享受到您作为执法官强力执行法令所带来的效益——我高贵的主，我真正且应受尊敬并在基督之爱内蒙我珍爱的儿子。为了避免此事被视作我——在\\Place{希波}肩负\\OriginalTerm{主教职务}{episcopal office}者——玩忽职守所致，我认为有责任向尊贵的您提及。若您屈尊了解\\Place{希波}地区内\\OriginalTerm{异端者}{heretics}的厚颜无耻已到了何等极端的地步——您可以询问我的司铎弟兄和同事，他们能向尊贵的您提供信息，或询问我随此信派去的\\OriginalTerm{司铎}{presbyter}——我相信您定会如此处理这不虔傲慢的毒瘤，使之借着警告而得医治，而非日后以惩罚痛苦地割除。"
+  }
+}

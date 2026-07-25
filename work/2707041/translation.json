@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707041",
+    "title": "Letter 41",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 41",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 41",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Claudianus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The divine Celebration has as usual conferred on us its spiritual boons; but the sour fruits of sin have not suffered us to enjoy them with gladness. They have had their usual results; in the beginning they caused thorns, caltrops, sweats, toil and pain to sprout; at the present moment sin sets the earth quaking against us, and makes nations rise against us on every side. And we lament because we force the good Lord, who is wishful to do us good, to do us ill, and compel Him to inflict punishment.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Yet when we bethink us of the unfathomable depths of His pity we are comforted, and trust that the Lord will not cast off His people, neither will He forsake His inheritance. While saluting your magnificence I beseech you to give me news of your much-wished for health.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707041.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707041.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四十一封信",
+    "p0002": "\\Emph{致\\Person{克劳狄安}。}",
+    "p0003": "神圣庆典如常赐予我们属灵的恩惠；然而罪的苦果不许我们喜乐地享用。它们产生惯常的后果：起初使荆棘、蒺藜、汗水、辛劳和痛苦萌芽；此刻，罪使大地向我们震动，使万国从四方起来攻击我们。我们哀叹，因为我们迫使那愿意施恩于我们的善主，使我们受苦，并迫使他施加惩罚。",
+    "p0004": "然而，当我们思念他慈悲的不可测深度时，便得安慰，并相信主必不弃绝他的子民，也不离弃他的产业。在问候您的尊贵之余，我恳求您告知我您久盼的健康消息。"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707095",
+    "title": "Letter 95",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 95",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 95",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Præfect Antiochus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "You have laid aside the cares of your very important government, but your fame flourishes among all; for they that have reaped the fruit of your benevolence, and they are many and everywhere, persistently extol it, proclaiming your good report in all directions, and stirring their hearers' tongues to join in the chorus of acclamation. When I behold the worthy fruit which adorns with its beauty its far-famed stem, I am delighted. For this reason I call your excellency to greater and higher deeds, and beseech you to give heed to the tranquillity of the churches. They have been overwhelmed with a great storm by the contrivers of calumnies against me, and under these circumstances the very religious bishops, making light of a long journey, of infirmity, and of old age, have left their own flocks unshepherded, and undertaken to travel this great distance, in their eagerness to confute the lies told against us all. I beseech your greatness to give them your protection, to show care for the calumniated East, and your forethought for the welfare of the apostolic faith. It is only fitting that you should add this further glory to the rest of your good deeds.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707095.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707095.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九十五封信",
+    "p0002": "\\Emph{致安提约古长官}",
+    "p0003": "您已放下那极为重要之政府的忧虑，但您的声望却在众人中兴盛；因为那些收获您仁慈果实的人——他们人数众多，遍布各处——不断地颂扬它，从各方宣扬您的佳誉，并激励听者齐声欢呼。当我看到那以其美丽装点其远扬名声的枝条的宝贵果实时，我满心欢喜。因此，我呼吁阁下您从事更伟大、更高尚的事业，并恳求您关注各教会的安宁。他们被那些编造诽谤我的人所引发的一场巨大风暴所淹没，在这种情况下，极其虔诚的主教们，不顾长途跋涉、体弱多病和年事已高，离开他们无人牧放的羊群，踏上这遥远的路途，急切地要驳斥那些针对我们所有人所说的谎言。我恳请阁下您给予他们保护，关怀受诽谤的东方，并为宗徒信仰的福祉未雨绸缪。您理应为您的其余善行增添这又一荣耀。"
+  }
+}

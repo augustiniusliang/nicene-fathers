@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202238",
+    "title": "Letter 238",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 238",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 238",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the presbyters of Nicopolis</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have received your letter, my reverend brethren, but it told me nothing that I did not already know, for the whole country round about was already full of the report announcing the disgrace of that one among you who has fallen, and through lust of vain glory has brought on himself very shameful dishonour, and has through his self-love lost the rewards promised to faith. Nay, through the just hatred of them that fear the Lord he misses even that contemptible little glory for lust of which he has been sold to impiety. By the character he has now shown he has very plainly proved, concerning all his life, that he has never at any time lived in hope of the promises laid up for us by the Lord, but, in all his transactions of human affairs, has used words of faith and mockery of piety, all to deceive every one whom he met. But how are you injured? Are you any worse off for this than you were before? One of your number has fallen away, and if one or two others have gone with him, they are to be pitied for their fall, but, by God's grace, your body is whole. The useless part has gone, and what is left has not suffered mutilation. You are haply distressed that you are driven without the walls, but you shall dwell under the protection of the God of Heaven, and the angel who watches over the Church has gone out with you. So they lie down in empty places day by day, bringing upon themselves heavy judgment through the dispersion of the people. And, if in all this there is sorrow to be borne, I trust in the Lord that it will not be without its use to you. Therefore, the more have been your trials, look for a more perfect reward from your just Judge. Do not take your present troubles ill. Do not lose hope. Yet a little while and your Helper will come to you and will not tarry. {{BIBLE:hab 2:3}}",
+        "scripture": [
+          "hab 2:3"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202238.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202238.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{238号书信}",
+    "p0002": "\\Emph{圣巴西略（凯撒勒雅）}",
+    "p0003": "\\Emph{致\\Place{尼科波利}的司铎们。}",
+    "p0004": "我已收到你们的来信，我可敬的弟兄们，但信中并未告诉我任何我不知道的事，因为整个周边地区早已充满传言，宣告你们中间那位跌倒者的耻辱——他因贪图虚荣而自招极其羞耻的不光彩，并因自爱而丧失了信德所应许的赏报。不仅如此，由于敬畏主者公义的憎恨，他甚至失去了那点微末的虚名，为了贪求虚名，他竟将自己卖给了不虔敬。通过他如今所显露的品性，他已非常清楚地证明，在他整个一生中，从未曾活在对主为我们所存留之应许的望德中，反而在他所有的人间事务中，使用信德的话和嘲弄虔诚，以此欺骗他所遇到的每一个人。然而，你们受了什么损害？你们比从前更糟吗？你们中一人跌倒了，就算有一两个人随他而去，他们的跌倒值得怜悯，但靠着天主的恩宠，你们的身体是完整的。无用的部分已经离去，剩下的并未受损。你们或许因被驱逐出城墙而痛苦，但你们必住在天上天主的护佑下，而那守护教会的天使也与你们一同出去了。他们日复一日地躺卧在空旷之处，因民众的分散而使自己招致沉重的审判。如果在这一切中有忧苦需要承受，我在主内相信，这对你们必不会没有益处。因此，你们的考验越多，就越要从公义的审判者那里领受更完美的赏报。不要因当前的磨难而烦恼。不要失去望德。再过不久，你们的帮助者就要来到你们那里，必不迟延。\\BibleRef{哈 2:3}"
+  }
+}

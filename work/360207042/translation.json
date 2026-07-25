@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360207042",
+    "title": "Book VII, Letter 42",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 42",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 42",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Marinianus, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Marinianus, Bishop of Ravenna.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We find from the information given in your Fraternity's letter that the sons of the Church of Cornelium are continually supplicating you to consecrate a bishop for them in place of their former bishop who has lapsed, and that you are in doubt as to what should be done in the matter, and await our plain command. Inasmuch, then, as no sort of reason allows any one who has departed criminally to be recalled to the place from which he has lapsed, and as the ordinances of the sacred canons allow not a Church to be without a bishop beyond three months, lest (which God forbid) the ancient foe should lie in wait to tear the Lord's flock, your Fraternity ought to comply with their entreaty, and ordain a bishop in the place of the lapsed one. For, seeing that you ought to have admonished them to this thing by your exhortations before they asked you, you can have no excuse for refusing them when they demand it of you, since a Church of God ought not to remain long widowed of a bishop of its own.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207042.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207042.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七卷，第42封信",
+    "p0002": "\\Emph{致马里尼亚诺主教。}",
+    "p0003": "\\Person{额我略}致\\Person{马里尼亚诺}，\\Place{拉文纳}主教。",
+    "p0004": "从贵弟兄来信中获悉，\\Place{科尔内留姆}教会的子女不断恳求您为他们祝圣一位主教，以接替他们那位已经失足的前任主教，而您对此事应如何处理感到犹豫，并等待我们明确的指示。既然任何理由都不允许一个犯有罪行的人被召回他已失足的职任，且神圣教规的法令不允许一个教会超过三个月没有主教，以免（但愿天主阻止）古老的仇敌伺机撕裂主的羊群，贵弟兄应当应允他们的请求，在失足者的位置上祝圣一位主教。因为，既然您本应在他们请求之前就以劝勉提醒他们此事，那么当他们要求您时，您便没有理由拒绝，因为天主的教会不应长期没有自己的主教。"
+  }
+}

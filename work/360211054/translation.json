@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360211054",
+    "title": "Book XI, Letter 54",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XI, Letter 54",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XI, Letter 54",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Desiderius, Bishop of Gaul</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Desiderius, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Many good things having been reported to us with regard to your pursuits, such joy arose in our heart that we could not bear to refuse what your Fraternity had requested to have granted to you. But it afterwards came to our ears, what we cannot mention without shame, that your Fraternity is in the habit of expounding grammar to certain persons. This thing we took so much amiss, and so strongly disapproved it, that we changed what had been said before into groaning and sadness, since the praises of Christ cannot find room in one mouth with the praises of Jupiter. And consider yourself what a grave and heinous offense it is for bishops to sing what is not becoming even for a religious layman. And, though our most beloved son Candidus the presbyter, having been, when he came to us, strictly examined on this matter, denied it, and endeavoured to excuse you, yet still the thought has not departed from our mind, that in proportion as it is execrable for such a thing to be related of a priest, it ought to be ascertained by strict and veracious evidence whether or not it be so. Whence, if hereafter what has been reported to us should prove evidently to be false, and it should be clear that you do not apply yourself to trifles and secular literature, we shall give thanks to our God, who has not permitted your heart to be stained with the blasphemous praises of the abominable; and we will treat without misgiving or hesitation concerning the granting of what you request.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "We commend to you in all respects the monks whom together with our most beloved son Laurentius the presbyter and Mellitus the abbot we have sent to our most reverend brother and fellow bishop Augustine, that, through the succour of your Fraternity, no delay may stop their onward progress.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360211054.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360211054.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一卷，第五十四封信",
+    "p0002": "\\Emph{致高卢主教德西德里乌斯}。",
+    "p0003": "\\Person{额我略}致\\Person{德西德里乌斯}等。",
+    "p0004": "关于您的行事，有许多美事传至我们耳中，我们心中充满喜乐，以致不忍拒绝您弟兄所请求赐予之事。但后来我们得知一事——提及此事我们不禁羞愧——即您弟兄惯于向某些人讲授\\OriginalTerm{文法}{grammar}。此事我们深为不满，极不赞成，乃至我们将先前所言转为叹息与忧伤，因为对\\OriginalTerm{基督}{Christ}的赞颂与对\\OriginalTerm{朱庇特}{Jupiter}的赞颂不能同出一口。您自己思量，主教们歌唱甚至一位虔敬的平信徒也不适宜歌唱的东西，这是何等严重而可憎的罪过。尽管我们至爱的儿子坎迪杜斯司铎来到我们这里时，曾就此受严格查问，予以否认并尽力为您辩护，但此念仍未从我们心中消去：因其与司铎相关的行为如此可憎，故当以严格而真实的证据查明是否确有其事。因此，若此后所报之事显然虚假，且确知您并未沉溺于无聊的世俗文辞，我们将感谢我们的天主，因祂未容许您的心沾染那可憎的亵渎赞颂；我们将毫无疑虑、毫无踌躇地处理您所请求赐予之事。",
+    "p0005": "我们郑重向您推荐这些隐修士，他们与我们至爱的儿子劳伦提乌斯司铎及梅利图斯院长一同被派往我们最可敬的弟兄及同为主教的\\Person{奥斯定}处，愿藉您弟兄之助，他们的行程不遭耽搁。"
+  }
+}

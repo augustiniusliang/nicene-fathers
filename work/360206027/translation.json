@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360206027",
+    "title": "Book VI, Letter 27",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VI, Letter 27",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VI, Letter 27",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Clergy and People of Jadera</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to the presbyters, deacons, and clergy, nobles and people, dwelling at Jadera, and who have communicated with the prevaricator Maximus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has come to my knowledge that some of you, deceived by ignorance or under compulsion, have communicated with those who, their fault as you know requiring it, have been deprived of communion by the Apostolic See, but that others, with wholesome discretion, have under the Lord's protection abstained; and as much as I rejoice in those that have been constant so much do I groan for those who have gone astray, since they have partaken of the mysteries of holy communion, which have been granted to us by Divine loving-kindness for absolution, rather to the detriment of their souls. And because (as I pray Almighty God to make known to you) I earnestly and from the bottom of my heart sympathize will your Charity, I adjure and entreat you with fatherly affection, that every one of you abstain from unlawful communion, and altogether shun those whom the Apostolic See does not receive into the fellowship of its communion, lest any one should stand guilty in the sight of the eternal Judge from that whereby he might have been saved.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Moreover I have discovered that certain men of perverse mind in your parts have tried to insinuate that I am moved against Maximus by some grudge, and that I desire to carry out not what is canonical, but what anger dictates. But far, far be this from the priestly mind, that it should be moved in any cause by private animosity. But as for me, it is as taking thought for the people dwelling in those parts and for my own soul, and as fearing the judgment of Almighty God, that I wish to have the cause of this Maximus enquired into, and, God showing me the way, to decide canonically. Now, inasmuch as I have written to him frequently that he was not to celebrate the sacred solemnities of mass until I had been able to obtain knowledge of his case, he would in any case be deprived of communion; and now his sin of pride is openly shown from this—that, having (as I have said) been often admonished to come to us, under various excuses he refuses, he shuns, he fears coming. What then is he afraid of, if his conscience does not accuse him with regard to the things that have been said? Since then you know these things, now that you can make no excuse on the plea of ignorance, I beseech, I exhort, I warn you, that you altogether refrain from fellowship with forbidden communion, and that not one of you presume, against his own soul, to communicate with any priest who communicates with the above written Maximus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Since however I hear, as I have said before, that some of you fell in ignorance, and that some were even driven by force to communicate, I implore the Almighty Lord, that He would keep with His perpetual protection, and answer with His wished for bounty, those who have given no assent to this iniquity; and as to those whom either party spirit, or ignorance, or any other cause soever, has drawn into a fault, that He would absolve them from all guilt of their sins, and from all implication in the liability of others, and both give them all the grace of His protection in the present life, and grant to me to rejoice for them in the eternal country. Wherefore, that this intercession may avail for you with God our Saviour, show obedience to our exhortations for the good of your souls, and receive the holy communion from those whom you know to have abstained, and to abstain still, from communion with the aforesaid Maximus.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360206027.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360206027.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第六卷·第二十七封信",
+    "p0002": "\\Emph{致雅德拉的圣职人员和民众}。",
+    "p0003": "\\Person{额我略}致居住在\\Place{雅德拉}的、与背信者\\Person{马克西默斯}共融的司铎、执事、圣职人员、贵族及民众。",
+    "p0004": "本座得知，你们中有人因无知受骗或受胁迫，与那些因过错（如你们所知）被宗座剥夺共融的人共融；另有人以健全的分辨力，在主护下持守不参与。我既为那些持守者欣喜，亦为那些迷途者哀痛，因为他们领受了圣体奥迹，而这奥迹本是天主慈爱赐予我们为赦罪之用的，反倒成了他们灵魂的损害。并且，因我（恳求全能天主彰显于你们）真心诚意地同情你们，我以慈父之情恳请并劝诫你们：你们每人当戒绝不法共融，完全避开宗座不接受共融之人，以免有人因可能得救之事，在永恒审判者面前成为有罪。",
+    "p0005": "此外，我发现在你们地区有些心术不正的人，试图暗示我因怨恨而反对\\Person{马克西默斯}，且我不愿按教会法规行事，而是按愤怒行事。但司铎之心绝不可被私怨所动。至于我，正是为那些地区的民众和我的灵魂着想，并畏惧全能天主的审判，我愿调查此\\Person{马克西默斯}之事，并求天主指引，依教会法规裁决。既然我多次写信给他，命他在我获知其案件详情前不得举行弥撒圣祭，他无论如何已被剥夺共融；如今他的骄傲之罪昭然若揭：因他（如我所言）屡次被规劝前来，却以各种借口推辞、回避、害怕前来。若他良心不指证所言之过，他又何所惧？既然你们已知这些事，不能再以无知为借口，我恳求、劝诫、警告你们：完全禁止与禁止的共融有份，且不得有一人，违背自己的灵魂，与任何与上述\\Person{马克西默斯}共融的司铎共融。",
+    "p0006": "然而我在前已说过，听说你们中有人无知而跌倒，甚至有人被迫共融。我恳求全能的主，以祂永远的护佑保守那些未认同此不法行为的人，并以祂所愿的恩惠应允他们；至于那些被党派精神、无知或任何其他原因引入过错的人，求祂赦免他们一切罪恶的过犯，免除他们因他人牵连的责任，并在现世赐予他们祂护佑的一切恩宠，且使我得以在永恒故乡为他们喜乐。因此，为使这代祷对我们在天主救主前有益，请为你们的灵魂听从我们的劝诫，并从那些你们所知已戒绝且仍戒绝与上述\\Person{马克西默斯}共融的人手中，领受圣体。"
+  }
+}

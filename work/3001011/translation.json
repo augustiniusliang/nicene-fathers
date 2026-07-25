@@ -1,0 +1,98 @@
+{
+  "source": {
+    "source_id": "3001011",
+    "title": "Letter 11",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 11",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 11",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To the Virgins of Æmona</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Æmona was a Roman colony not far from Stridon, Jerome's birthplace. The virgins to whom the note is addressed had omitted to answer his letters, and he now writes to upbraid them for their remissness. The date of the letter is 374 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "This scanty sheet of paper shows in what a wilderness I live, and because of it I have to say much in few words. For, desirous though I am to speak to you more fully, this miserable scrap compels me to leave much unsaid. Still ingenuity makes up for lack of means, and by writing small I can say a great deal. Observe, I beseech you, how I love you, even in the midst of my difficulties, since even the want of materials does not stop me from writing to you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Pardon, I beseech you, an aggrieved man: if I speak in tears and in anger it is because I have been injured. For in return for my regular letters you have not sent me a single syllable. Light, I know, has no communion with darkness, {{BIBLE:2co 6:14}} and God's handmaidens no fellowship with a sinner, yet a harlot was allowed to wash the Lord's feet with her tears, and dogs are permitted to eat of their masters' crumbs. {{BIBLE:mat 15:27}} It was the Saviour's mission to call sinners and not the righteous; for, as He said Himself, <quote>they that be whole need not a physician.</quote> {{BIBLE:mat 9:12}} He wills the repentance of a sinner rather than his death, {{BIBLE:eze 33:11}} and carries home the poor stray sheep on His own shoulders. {{BIBLE:luk 15:5}} So, too, when the prodigal son returns, his father receives him with joy. {{BIBLE:luk 15:20}} Nay more, the apostle says: <quote>Judge nothing before the time.</quote> {{BIBLE:1co 4:5}} For <quote>who are you that judgest another man's servant? To his own master he stands or falls.</quote> {{BIBLE:rom 14:4}} And <quote>let him that stands take heed lest he fall.</quote> {{BIBLE:1co 10:12}} <quote>Bear ye one another's burdens.</quote> {{BIBLE:gal 6:2}}",
+        "scripture": [
+          "2co 6:14",
+          "mat 15:27",
+          "mat 9:12",
+          "eze 33:11",
+          "luk 15:5",
+          "luk 15:20",
+          "1co 4:5",
+          "rom 14:4",
+          "1co 10:12",
+          "gal 6:2"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Dear sisters, man's envy judges in one way, Christ in another; and the whisper of a corner is not the same as the sentence of His tribunal. Many ways seem right to men which are afterwards found to be wrong. {{BIBLE:pro 14:12}} And a treasure is often stowed in earthen vessels. {{BIBLE:2co 4:7}} Peter thrice denied his Lord, yet his bitter tears restored him to his place. <quote>To whom much is forgiven, the same loves much.</quote> {{BIBLE:luk 7:47}} No word is said of the flock as a whole, yet the angels joy in heaven over the safety of one sick ewe. {{BIBLE:luk 15:7}} And if any one demurs to this reasoning, the Lord Himself has said: <quote>Friend, is your eye evil because I am good?</quote> {{BIBLE:mat 20:15}}",
+        "scripture": [
+          "pro 14:12",
+          "2co 4:7",
+          "luk 7:47",
+          "luk 15:7",
+          "mat 20:15"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001011.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001011.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十一封信",
+    "p0002": "\\Emph{致埃莫纳的贞女们}",
+    "p0003": "\\EditorialNote{埃莫纳是离斯特利敦（热罗尼莫的出生地）不远的一个罗马殖民地。收信的贞女们没有回复他的信件，他现在写信责备她们的疏忽。这封信的日期是公元374年。}",
+    "p0004": "这张单薄的纸显示出我生活在何等荒野之中，因此我不得不把许多话浓缩在寥寥数词里。因为，虽然我很想更充分地与你们交谈，但这可怜的小片纸迫使我留下许多未言之语。然而，机巧弥补了手段的匮乏，通过写小字，我能表达很多。我恳求你们注意，即使在困境中，我如何爱你们，因为连材料的匮乏也无法阻止我写信给你们。",
+    "p0005": "我恳求你们，宽恕一个受了委屈的人吧：若我含泪愤愤而言，那乃是因为我受到了伤害。因为你们对我定期的来信，连一个音节也未回复。我知道，光明与黑暗不能相通，\\BibleRef{格后 6:14} 天主的婢女与罪人也不能有份，然而，一个妓女却得以用眼泪洗主的脚，狗也允许吃主人桌下的碎屑。\\BibleRef{玛 15:27} 救主的使命是召叫罪人，而非义人；正如祂亲自所说：\\BibleQuote{健康的人不需要医生}\\BibleRef{玛 9:12} 祂愿罪人悔改，而非死亡，\\BibleRef{则 33:11} 且将迷途的可怜羔羊亲自背回家中。\\BibleRef{路 15:5} 同样，当荡子归来时，他的父亲欢欢喜喜地迎接他。\\BibleRef{路 15:20} 不仅如此，宗徒还说：\\BibleQuote{什么都不必判断，等到主来。}\\BibleRef{格前 4:5} 因为\\BibleQuote{你是谁，竟判断别人的仆人？他或站或倒，自有他的主人。}\\BibleRef{罗 14:4} 并且\\BibleQuote{自己以为站得稳的，须要谨慎，免得跌倒。}\\BibleRef{格前 10:12} \\BibleQuote{你们各人的重担要互相担当。}\\BibleRef{迦 6:2}",
+    "p0006": "亲爱的姐妹们，人的嫉妒有一种判断方式，基督有另一种；角落里的低语与祂审判的宣判并不相同。许多在人看来似乎是正途，后来却发现是错的。\\BibleRef{箴 14:12} 财宝常常藏在瓦器中。\\BibleRef{格后 4:7} 伯多禄三次否认了他的主，但痛苦的眼泪使他恢复了原位。\\BibleQuote{那得赦免多的，爱得也多。}\\BibleRef{路 7:47} 没有话提到整群羊，但天使在天上因一只病母羊的安全而喜乐。\\BibleRef{路 15:7} 如果有人对此争辩，主亲自说：\\BibleQuote{朋友，我因为好，你的眼就红了吗？}\\BibleRef{玛 20:15}"
+  }
+}

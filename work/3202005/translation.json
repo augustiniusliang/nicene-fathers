@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "3202005",
+    "title": "Letter 5",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 5",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 5",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Nectarius</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. I heard of your unendurable loss, and was much distressed. Three or four days went by, and I was still in some doubt because my informant was not able to give me any clear details of the melancholy event. While I was incredulous about what was noised abroad, because I prayed that it might not be true, I received a letter from the Bishop fully confirming the unhappy tidings. I need not tell you how I sighed and wept. Who could be so stony-hearted, so truly inhuman, as to be insensible to what has occurred, or be affected by merely moderate grief? He is gone; heir of a noble house, prop of a family, a father's hope, offspring of pious parents, nursed with innumerable prayers, in the very bloom of manhood, torn from his father's hands. These things are enough to break a heart of adamant and make it feel. It is only natural then that I am deeply touched at this trouble; I who have been intimately connected with you from the beginning and have made your joys and sorrows mine. But yesterday it seemed that you had only little to trouble you, and that your life's stream was flowing prosperously on. In a moment, by a demon's malice, all the happiness of the house, all the brightness of life, is destroyed, and our lives are made a doleful story. If we wish to lament and weep over what has happened, a lifetime will not be enough and if all mankind mourns with us they will be powerless to make their lamentation match our loss. Yes, if all the streams run tears they will not adequately weep our woe.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. But we mean—do we not?— to bring out the gift which God has stored in our hearts; I mean that sober reason which in our happy days is wont to draw lines of limitation round our souls, and when troubles come about us to recall to our minds that we are but men, and to suggest to us, what indeed we have seen and heard, that life is full of similar misfortunes, and that the examples of human sufferings are not a few. Above all, this will tell us that it is God's command that we who trust in Christ should not grieve over them who are fallen asleep, because we hope in the resurrection; and that in reward for great patience great crowns of glory are kept in store by the Master of life's course. Only let us allow our wiser thoughts to speak to us in this strain of music, and we may perhaps discover some slight alleviation of our trouble. Play the man, then, I implore you; the blow is a heavy one, but stand firm; do not fall under the weight of your grief; do not lose heart. Be perfectly assured of this, that though the reasons for what is ordained by God are beyond us, yet always what is arranged for us by Him Who is wise and Who loves us is to be accepted, be it ever so grievous to endure. He Himself knows how He is appointing what is best for each and why the terms of life that He fixes for us are unequal. There exists some reason incomprehensible to man why some are sooner carried far away from us, and some are left a longer while behind to bear the burdens of this painful life. So we ought always to adore His loving kindness, and not to repine, remembering those great and famous words of the great athlete Job, when he had seen ten children at one table, in one short moment, crushed to death, <quote>The Lord gave and the Lord has taken away.</quote> {{BIBLE:job 1:21}} As the Lord thought good so it came to pass. Let us adopt those marvellous words. At the hands of the righteous Judge, they who show like good deeds shall receive a like reward. We have not lost the lad; we have restored him to the Lender. His life is not destroyed; it is changed for the better. He whom we love is not hidden in the ground; he is received into heaven. Let us wait a little while, and we shall be once more with him. The time of our separation is not long, for in this life we are all like travellers on a journey, hastening on to the same shelter. While one has reached his rest another arrives, another hurries on, but one and the same end awaits them all. He has outstripped us on the way, but we shall all travel the same road, and the same hostelry awaits us all. God only grant that we through goodness may be likened to his purity, to the end that for the sake of our guilelessness of life we may attain the rest which is granted to them that are children in Christ.",
+        "scripture": [
+          "job 1:21"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202005.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202005.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五封信",
+    "p0002": "\\Emph{圣巴西略（凯撒勒雅）}",
+    "p0003": "\\Emph{致内克塔里乌。}",
+    "p0004": "1. 我听闻了您那难以忍受的损失，深感悲伤。三四天过去了，我仍心存疑虑，因为报信者无法向我清楚叙述这悲伤事件的细节。我外界的传言难以置信，因我祈祷它们不实，直到从主教处收到一封信，完全证实了这不幸的消息。我无需向您描述我是如何叹息哭泣。谁能如此铁石心肠、真正无情，竟然对已发生之事无动于衷，或仅以适度的悲伤来应对？他已离去：尊贵家族的后嗣，家族的支柱，父亲的希望，虔诚父母的子息，受无数祈祷养育，正值壮年，却从父亲手中被夺走。这些事足以使金刚石般的心破碎而感受痛苦。因此，我自然对这灾祸深感触动；我自始至终与您亲密相连，将您的喜乐与哀伤视为己有。但昨日，您似乎还少有烦恼，生命之流顺利前行。转瞬之间，因恶魔的恶意，家中所有的幸福、生命所有的光明，都遭摧毁，我们的生命成了哀伤的故事。若我们愿哀悼哭泣所发生之事，一生也不够；即使全人类与我们同哀，也无法使他们的哀悼与我们的损失相称。是的，即使所有溪流都化为泪水，也不足以充分哀哭我们的悲痛。",
+    "p0005": "2. 但我们岂不是要发挥天主藏在我们心中的恩赐——即那清醒的理性？它在幸福的日子里常为我们的灵魂划定界限，当患难来临时，则使我们想起我们不过是人，并提示我们——这确实是我们所看见、所听见的——生命充满类似的灾祸，人类受苦的榜样不在少数。尤其重要的是，它将告诉我们，天主的命令是：我们这些信靠基督的人，不应为长眠的人悲伤，因为我们盼望复活；并且，为了作为巨大忍耐的奖赏，生命赛程的主宰为我们存留了伟大的荣冠。只要我们允许自己更智慧的思想以这种和谐的旋律向我们发言，我们或许就能找到一些减轻苦难的方法。那么，我恳求您，振作起来；打击是沉重的，但要站稳；不要被悲伤的重量压垮；不要灰心。请完全确信：虽然天主所命定之事的原因超乎我们，但那位智慧且爱我们的天主为我们安排的一切，无论多么难以忍受，都应当接受。祂自己知道如何为每个人安排最佳之事，以及为何祂为我们设定的生命期限不等。存在某种人无法理解的理由，为何有些人更早远离我们，而有些人则留得更久，以承受这痛苦人生的重担。因此，我们应当永远钦崇祂的仁慈，而不抱怨，并记得那位伟大的斗士约伯的著名话语——当他看到十个孩子在同一桌前转瞬之间被压死时，他说：\\BibleQuote{主赐予，主也收回。}\\BibleRef{约 1:21} 主看如何好，就如何成就。让我们采用这些奇妙的话语。在公义审判者手中，行同样善事的人将得到同样的赏报。我们并未失去这孩子；我们只是把他归还给了借主。他的生命并未消灭；而是改变得更好。我们所爱的人并非隐藏在地下；而是被接入天堂。让我们稍等片刻，我们将再次与他在一起。我们分离的时间不长，因为在今世，我们都如旅人，奔向同一个庇护所。一人已到达安息处，另一人到来，又一人匆忙赶路，但同一位终点等待着他们。他在路上超越了我們，但我们都将走同一条路，同一家旅店等待我们众人。惟愿天主赐予我们，因良善而能肖似他的纯洁，好使我们因生活的纯真而获得那赐予在基督内为孩童之人的安息。"
+  }
+}

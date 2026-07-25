@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360209062",
+    "title": "Book IX, Letter 62",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 62",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 62",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Romanus, Guardian (Defensorem).</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Romanus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "It has come to our ears that the <em>tonsuratores</em> in Sicily, with wicked presumption, take to themselves the name of <em>defensores</em>, and that they not only are of no utility for the interests of the Church, but also take occasion hence to commit many irregularities. Consequently we enjoin your Experience by this present authority to enquire diligently into this. And, if you find any, besides those who have letters to empower them in such business , usurping henceforth this title, put a stop to this thing by strict correction. If, however, you should discover any who have proved themselves active and faithful in ecclesiastical affairs, you must send us a full and particular report of them, that we may judge whether they are worthy of a letter .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, we desire you to make a thorough examination of the accounts of Fortunatus; and, when he has satisfied all the debts that appear against him, allow him no longer to have to do with the patrimony, or with any action of our Church, seeing that, as we have heard, he has conducted himself in such a manner that he ought not henceforth to have any communication with our people.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Furthermore, it has been reported to us that one Martianus, who has assumed to himself the name of a <em>defensor</em>, has declined to pay obedience to our brother and fellow bishop John, to whom we had committed the charge of our patrimony. Inquire therefore; and, if it is true, let him be sent into exile, that his disobedience to him from whose Church he has seized for himself a false title of honour, and who is promoting the interests of the same, may not go unpunished. But, if there are also any others disobedient to the orders of our said brother, you will by all means visit them with strict punishment.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209062.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209062.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第六十二封信",
+    "p0002": "\\Emph{\\Person{罗玛努斯}，\\OriginalTerm{监护人}{Defensorem}}。",
+    "p0003": "\\Person{额我略}致\\Person{罗玛努斯}等。",
+    "p0004": "我们得知，在西西里的\\Emph{\\OriginalTerm{剃发者}{tonsuratores}}竟敢冒昧地擅自采用\\Emph{\\OriginalTerm{监护人}{defensores}}的名号，他们不仅对教会利益毫无用处，反而借此机会犯下许多不法行为。因此，我们凭此谕令责成你的经验详查此事。如果你发现任何人，除那些持有信件授权从事此类事务者外，今后僭用此称号，应严加纠正，予以制止。然而，若你发现有人在教会事务中证明自己积极忠实，则必须向我们呈上一份详尽特别的报告，以便我们判断他们是否配得一份信函。",
+    "p0005": "此外，我们希望你彻底审查福图纳图斯的账目；当他清偿了所有对他不利的债务后，不再允许他与教产或我们教会的任何事务有关，因为，据我们所闻，他的行为举止已使他今后不应再与我们的人员有任何往来。",
+    "p0006": "此外，有人向我们报告，一位自称\\Emph{\\OriginalTerm{监护人}{defensor}}的玛尔提亚努斯，拒绝服从我们的兄弟和同为主教的若望——我们曾将教产的管理委托给他。因此请查问；若属实，应将他流放，以使他的不顺从——他违背了那一位，从后者（若望）的教会中为自己窃取了一个虚假的荣誉头衔，而后者正在促进同一教会的利益——不致不受惩罚。但是，若还有其他人违背我们上述兄弟的命令，你务必以严厉惩罚对待他们。"
+  }
+}

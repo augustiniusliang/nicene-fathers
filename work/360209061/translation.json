@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360209061",
+    "title": "Book IX, Letter 61",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 61",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 61",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Here begins the epistle of Rechared, King of the Goths, addressed to the blessed Gregory, Bishop of Rome .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Rechared to the holy lord and most blessed pope, the bishop Gregory.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "At the time when the Lord in His compassion caused us to be dissociated from the impious Arian heresy, and the holy Catholic Church gathered us into her bosom ameliorated in the path of faith, it was then the desire of our mind to seek with delight and with the whole bent of our mind so very reverend a man; you who art powerful above all other bishops, that he might commend in all ways a thing so worthy and acceptable to God for us men. But, whereas we are engaged in many cares of government, being occupied by various occasions, three years passed without the desire of our mind being satisfied. And after this we chose, for the purpose of sending them to you, some abbots of monasteries, who should proceed to your presence, and offer gifts sent by us to Saint Peter, and bring us word more distinctly of your holy reverence's health. But, as they hastened on their way, and were almost in sight of the shores of Italy, it befell them that they struck on certain rocks near Marseilles, and were scarcely able to deliver their own souls. And now we have entreated a presbyter whom your Glory had sent as far as the city of Malaca (<em>civitatem Malicitanam</em>) to come into our sight. But he, detained by bodily infirmity, has in no wise been able to reach the soil of our kingdom. But, as we know most certainly that he was sent by your Holiness, we have sent a golden cup ornamented on the outside with gems for your Holiness (as I trust you will vouchsafe to do) to offer as worthy of the apostle who shines the first in dignity. For I also beg your Highness, when an opportunity is found, to seek us out by your sacred golden letters. For how much I truly love you I believe is not hidden, the Lord inspiring you, from the fecundity of your own breast. It is sometimes the case that those whom tracts of land or sea divide the grace of Christ glues together as if visibly. For to those who do not see you at all in person fame discloses your goodness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Further, I commend with all veneration to your Holiness in Christ, Leander, the priest of the church of Hispalis, since through him your benevolence has been made clearly manifest to us; and when we talk of your life with this same bishop, we reckon ourselves as your inferiors in regard to your good deeds. I am delighted to hear of your health, most reverend and most holy man; and I beg of your Christian prudence that you would commend frequently in your prayers to our common Lord us and our people, who are ruled after God under our government, and have been acquired by Christ in your times; that hereby true charity to God-ward may establish in well-being those whom the breadth of the world separates.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209061.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209061.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第九卷，第六十一封信}",
+    "p0002": "以下是哥特王雷卡雷德致真福罗马主教额我略的书信之始。",
+    "p0003": "雷卡雷德致可敬的主、至福的教宗、主教额我略。",
+    "p0004": "当主以祂的慈悲使我们脱离不虔的亚略异端，圣而公教会将我们聚集于她的怀中，在信德的道路上使我们改善时，那时我们心中渴望欣喜地寻求一位如此可敬的人——您，超越所有其他主教的权威者，愿他竭尽全力为我们人类荐举这样一件堪受天主之事。然而，由于我们忙于诸多治理之事，为各种事务缠身，三年过去，心中的渴望仍未得满足。此后，我们拣选了几位隐修院院长，派他们前往您处，好让他们到您面前，献上我们托圣伯多禄转送的礼物，并更清晰地告知我们您神圣尊驾的健康状况。但当他们匆匆赶路，几乎望见意大利海岸时，不幸却在马赛附近触礁，仅得保全性命。如今我们恳求您荣耀所派至马拉加城（\\OriginalTerm{马拉加城}{civitatem Malicitanam}）的一位司铎前来与我们相见。但他因身体病弱，始终未能抵达我王国境内。然而，我们确知他是由您圣座所遣，便送上了一个外饰宝石的金杯，献给您的圣座（我相信您必将俯允），以为堪当献给那位在尊威中首放光芒的宗徒。我也恳求您尊驾，若遇时机，请以您神圣的金字书信寻访我们。因我真心热爱您，我相信，在主启迪下，此事对您胸中的丰硕之心并非隐藏。有时，陆地或海洋分隔的人，基督的恩宠却仿佛有形地将其相连。因为对于那些未能亲见您者，声誉已显明您的善行。",
+    "p0005": "此外，我以全心的敬仰，在基督内将希斯帕利斯教会司铎良德托付于您的圣座，因为藉着他，您的慈爱已清楚地显示给我们；当我们与这位主教谈论您的生平，我们自认在善行上不及您。至可敬、至圣者，我欣然听闻您的健康；并恳请您的基督之智，时常在祈祷中向我们的共同主荐举我们及我们的子民——他们在天主之后归我治理，并在您的时代被基督所获——好使向天主的真诚爱德，能使那被世界广袤分离者安居于福祉之中。"
+  }
+}

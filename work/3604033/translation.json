@@ -1,0 +1,79 @@
+{
+  "source": {
+    "source_id": "3604033",
+    "title": "Letter 33",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 33",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 33",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "h2",
+        "text": "I. He commends the Emperor's appeal to the chair of Peter",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Leo, bishop, to the holy Synod which is assembled at Ephesus",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The devout faith of our most clement prince, knowing that it especially concerns his glory to prevent any seed of error from springing up within the Catholic Church, has paid such deference to the Divine institutions as to apply to the authority of the Apostolic See for a proper settlement: as if he wished it to be declared by the most blessed Peter himself what was praised in his confession, when the Lord said, <quote>whom do men say that I, the Son of man, am ?</quote> and the disciples mentioned various people's opinion: but, when He asked what they themselves believed, the chief of the apostles, embracing the fullness of the Faith in one short sentence, said, <quote>You are the Christ, the son of the living God :</quote> that is, You who truly is Son of man is also truly Son of the living God: You, I say, true in Godhead, true in flesh and one altogether , the properties of the two natures being kept intact. And if Eutyches had believed this intelligently and thoroughly, he would never have retreated from the path of this Faith. For Peter received this answer from the Lord for his confession. <quote>Blessed are you, Simon Barjona; for flesh and blood has not revealed it unto you, but My Father which is in heaven. And I say unto you, that you are Peter, and upon this rock I will build My Church: and the gates of Hades shall not prevail against it {{BIBLE:mat 16:17}} .</quote> But he who both rejects the blessed Peter's confession, and gainsays Christ's Gospel, is far removed from union with this building; for he shows himself never to have had any zeal for understanding the Truth, and to have only the empty appearance of high esteem, who did not adorn the hoary hairs of old age with any ripe judgment of the heart.",
+        "scripture": [
+          "mat 16:17"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "h2",
+        "text": "II. The heresy of Eutyches is to be condemned, though his full repentance may lead to his restitution.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "But because the healing even of such men must not be neglected, and the most Christian Emperor has piously and devoutly desired a council of bishops to be held, that all error may be destroyed by a fuller judgment, I have sent our brothers Julius the bishop, Renatus the presbyter, and my son Hilary the deacon, and with them Dulcitius the notary, whose faith we have proved, to be present in my stead at your holy assembly, brethren, and settle in common with you what is in accordance with the Lord's will. To wit, that the pestilential error may be first condemned, and then the restitution of him, who has so unwisely erred, discussed, but only if embracing the true doctrine he fully and openly with his own voice and signature condemns those heretical opinions in which his ignorance has been ensnared: for this he has promised in the appeal which he sent to us, pledging himself to follow our judgment in all things. On receiving our brother and fellow bishop Flavian's letter, we have replied to him at some length on the points which he seems to have referred to us : that when this error which seems to have arisen, has been destroyed, there may be one Faith and one and the same confession throughout the whole world to the praise and glory of God, and that <quote>in the name of Jesus every knee should bow, of things in heaven, and things on earth, and things under the earth, and that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father {{BIBLE:phi 2:10}} .</quote> Dated 13th June in the consulship of the illustrious Asturius and Protogenes (449).",
+        "scripture": [
+          "phi 2:10"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604033.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604033.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十三封书信",
+    "p0002": "一、他称赞皇帝对\\Person{伯多禄}之座的求援",
+    "p0003": "\\Person{良}主教，致在\\Place{厄弗所}召集的神圣主教会议",
+    "p0004": "我们最仁慈的君王的虔诚信仰，深知防止任何错谬的种子在天主教会内萌芽尤关乎他的荣耀，因而如此尊重神圣的制度，以致向宗座的权威提出请求以作适当的解决：仿佛他希望由最蒙福的\\Person{伯多禄}本人宣示，在他\\OriginalTerm{宣认}{confession}中受赞扬的是什么，因为主说：\\Quote{人们说\\OriginalTerm{人子}{Son of man}是谁？} 门徒们提到了各种人的意见；但当主问他们自己相信什么时，宗徒之长在简短的一句话中包含了信德的全貌，说：\\Quote{你是基督，\\OriginalTerm{永生天主之子}{Son of the living God}。} 这就是说：你真是人子，也真是永生天主之子；我说，你在\\OriginalTerm{天主性}{Godhead}上真实，在\\OriginalTerm{人性}{flesh}上也真实，且完全合而为一，两\\OriginalTerm{性体}{natures}属性保持完整。如果\\Person{欧提克斯}曾明智而彻底地相信这一点，他就绝不会从这信德的道路上退却。因为\\Person{伯多禄}为自己的宣认从主那里得到了这个答复：\\BibleQuote{你是有福的，\\Person{西满·巴尔约纳}，因为不是血肉启示了你，而是我在天之父。我也告诉你，你是伯多禄，在这磐石上，我要建立我的教会，阴间的门不能战胜她。}\\BibleRef{玛 16:17} 但是，那既拒绝蒙福的\\Person{伯多禄}的宣认，又否认基督福音的人，离这建筑的合一甚远；因为他表明自己从未有任何理解真理的热忱，只拥有崇高声望的空虚外表，他没有以任何成熟的内心判断来装饰苍苍的白发。",
+    "p0005": "二、\\Person{欧提克斯}的异端应受谴责，尽管他若完全悔改，可恢复其地位。",
+    "p0006": "但是，因为即使对这样的人的医治也不可忽视，而且最基督化的皇帝虔诚而热切地希望召开一次主教会议，以便通过更完整的判断消灭一切错误，我派遣了我们的兄弟\\Person{尤利乌斯}主教、\\Person{雷纳图斯}司铎和我的儿子\\Person{希拉里}执事，以及\\Person{杜尔西提乌斯}公证人——我们已验证了他们的信德——代表我出席你们的神圣会议，弟兄们，并与你们共同决定什么是符合主旨意的。也就是说，首先应谴责那致命的错误，然后讨论他的恢复——那个如此不明智地犯错的人——但条件是：他接受真道，并用自己的声音和签名完全而公开地谴责那些使他的无知被诱入的异端意见；因为他在寄给我们的申诉中承诺了这一点，保证在一切事上服从我们的判断。在收到我们的兄弟和同为主教的\\Person{弗拉维安}的信后，我们就他似乎在向我们咨询的问题给他作了相当长的回复：即，当这个似乎已兴起的错误被消除后，全世界可有同一个信德和同一个宣认，以赞美和光荣天主，并使\\BibleQuote{因耶稣之名，天上、地上和地下的一切，无不屈膝，并且一切唇舌无不明认主耶稣基督在圣父的光荣中。}\\BibleRef{斐 2:10} \\Signature{公元449年6月13日，在显赫的阿斯图里乌斯与普罗托革内斯执政期间。}"
+  }
+}

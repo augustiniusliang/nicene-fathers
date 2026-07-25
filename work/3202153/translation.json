@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202153",
+    "title": "Letter 153",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 153",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 153",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Victor the Ex-Consul</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As often as it falls to my lot to read your lordship's letters, so often do I thank God that you continue to remember me, and that you are not moved by any calumny to lessen the love which once you consented to entertain for me, either from your wise judgment or your kindly intercourse. I pray then the holy God that you may remain in this mind towards me, and that I may be worthy of the honour which you give me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202153.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202153.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一五三封书信}",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅）}}",
+    "p0003": "\\Emph{致前任执政官维克托}。",
+    "p0004": "每次我读到阁下的信件，我便感谢天主，因为您继续记念我，并且没有被任何诽谤所动摇，减少您曾经愿意因您明智的判断或友善的交往而对我抱持的爱。我于是向圣洁的天主祈祷，愿您对我保持这份心意，并愿我配得上您所赐予的荣耀。"
+  }
+}

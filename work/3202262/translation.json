@@ -1,0 +1,68 @@
+{
+  "source": {
+    "source_id": "3202262",
+    "title": "Letter 262",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 262",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 262",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the Monk Urbicius.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. You have done well to write to me. You have shown how great is the fruit of charity. Continue so to do. Do not think that, when you write to me, you need offer excuses. I recognise my own position, and I know that by nature every man is of equal honour with the rest. Whatever excellence there is in me is not of family, nor of superfluous wealth, nor of physical condition; it comes only of superiority in the fear of God. What, then, hinders you from fearing the Lord yet more, and so, in this respect, being greater than I am? Write often to me, and acquaint me with the condition of the brotherhood with you. Tell me what members of the Church in your parts are sound, that I may know to whom I ought to write, and in whom I may confide. I am told that there are some who are endeavouring to deprave the right doctrine of the Lord's incarnation by perverse opinions, and I therefore call upon them through you to hold off from those unreasonable views, which some are reported to me to hold. I mean that God Himself was turned into flesh; that He did not assume, through the Holy Mary, the nature of Adam, but, in His own proper Godhead, was changed into a material nature.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. This absurd position can be easily confuted. The blasphemy is its own conviction, and I therefore think that, for one who fears the Lord, the mere reminder is enough. If He was turned, then He was changed. But far be it from me to say or think such a thing, when God has declared, <quote>I am the Lord, I change not.</quote> {{BIBLE:mal 3:6}} Moreover, how could the benefit of the incarnation be conveyed to us, unless our body, joined to the Godhead, was made superior to the dominion of death? If He was changed, He no longer constituted a proper body, such as subsisted after the combination with it of the divine body. But how, if all the nature of the Only-begotten was changed, could the incomprehensible Godhead be circumscribed within the limit of the mass of a little body? I am sure that no one who is in his senses, and has the fear of God, is suffering from this unsoundness. But the report has reached me that some of your company are afflicted with this mental infirmity, and I have therefore thought it necessary, not to send you a mere formal greeting, but to include in my letter something which may even build up the souls of them that fear the Lord. I therefore urge that these errors receive ecclesiastical correction, and that you abstain from communion with the heretics. I know that we are deprived of our liberty in Christ by indifference on these points.",
+        "scripture": [
+          "mal 3:6"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202262.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202262.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 262",
+    "p0002": "\\Signature{凯撒勒雅的圣巴西略}",
+    "p0003": "致隐修士\\Person{乌尔比丘}",
+    "p0004": "1. 你写信给我，做得很好。你已显示出爱德的果实何其伟大。请继续这样做。不要以为，当你写信给我时，你需要找借口。我认识自己的地位，并且我知道按本性，每个人与其余的人都享有同等的尊荣。我身上任何卓越之处，并非来自家族，也非来自过多的财富，亦非来自身体状况；它只来自在天主敬畏上的优长。那么，有什么阻止你更加敬畏主，并在这方面比我更大呢？常写信给我，告知我你那里弟兄们的状况。告诉我你们那里有哪些教会成员是健全的，使我知道我该写信给谁，可以信任谁。我听说有些人正试图以乖僻的意见败坏主降生成人的正确教义，因此我通过你们呼吁他们远离那些不合理的观点，这些观点据报有人持守。我的意思是，天主本身变成了肉身；祂并未通过圣玛利亚取用了亚当的本性，而是以祂自己的天主性，被改变成一种物质的本性。",
+    "p0005": "2. 这个荒谬的立场很容易被驳倒。亵渎本身就是定罪，因此我认为，对于敬畏主的人来说，只需提醒一下就够了。因为如果祂被转变了，那么祂就改变了。但我不敢说或想这样的事，因为天主曾宣告：\\BibleQuote{我是上主，决不改变}\\BibleRef{拉 3:6}此外，降生成人的益处如何能传达给我们，除非我们的身体与天主性结合后，变得超越死亡的管辖？如果祂改变了，祂就不再构成一个真正的身体，如同在结合了神性的身体之后所存留的那样。但是，如果独生子的全部本性都被改变了，那不可理解的天主性怎么能被局限于一个渺小身体的体积之内呢？我确信，凡是头脑清醒且敬畏天主的人，都不会患有这种不健全。但我收到报告说，你们中有些人正受这种精神疾病之苦，因此我认为有必要，不是仅仅向你们致以礼节性的问候，而是在我的信中包括一些甚至能建立敬畏主之人的灵魂的内容。因此我敦促这些谬误应受到教会的纠正，并且你们应避免与异端者共融。我知道我们在基督内的自由正因对这些问题的漠不关心而被剥夺。"
+  }
+}

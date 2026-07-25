@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202025",
+    "title": "Letter 25",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 25",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 25",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Athanasius, bishop of Ancyra</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. I have received intelligence from those who come to me from Ancyra, and they are many and more than I can count, but they all agree in what they say, that you, a man very dear to me, (how can I speak so as to give no offense?) do not mention me in very pleasant terms, nor yet in such as your character would lead me to expect. I, however, learned long ago the weakness of human nature, and its readiness to turn from one extreme to another; and so, be well assured, nothing connected with it can astonish me, nor does any change come quite unexpected. Therefore that my lot should have changed for the worse, and that reproaches and insults should have arisen in the place of former respect, I do not make much ado. But one thing does really strike me as astonishing and monstrous, and that is that it should be you who have this mind about me, and go so far as to feel anger and indignation against me, and, if the report of your hearers is to be believed, have already proceeded to such extremities as to utter threats. At these threats, I will not deny, I really have laughed. Truly I should have been but a boy to be frightened at such bugbears. But it does seem to me alarming and distressing that you, who, as I have trusted, are preserved for the comfort of the churches, a buttress of the truth where many fall away, and a seed of the ancient and true love, should so far fall in with the present course of events as to be more influenced by the calumny of the first man you come across than by your long knowledge of me, and, without any proof, should be seduced into suspecting absurdities.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. But, as I said, for the present I postpone the case. Would it have been too hard a task, my dear sir, to discuss in a short letter, as between friend and friend, points which you wish to raise; or, if you objected to entrusting such things to writing, to get me to come to you? But if you could not help speaking out, and your uncontrollable anger allowed no time for delay, at least you might have employed one of those about you who are naturally adapted for dealing with confidential matters, as a means of communication with me. But now, of all those who for one reason or another approach you, into whose ears has it not been dinned that I am a writer and composer of certain <quote>pests</quote>? For this is the word which those, who quote you word for word, say that you have used. The more I bring my mind to bear upon the matter the more hopeless is my puzzle. This idea has struck me. Can any heretic have grieved your orthodoxy, and driven you to the utterance of that word by malevolently putting my name to his own writings? For you, a man who has sustained great and famous contests on behalf of the truth, could never have endured to inflict such an outrage on what I am well known to have written against those who dare to say that God the Son is in essence unlike God the Father, or who blasphemously describe the Holy Ghost as created and made. You might relieve me from my difficulty yourself, if you would tell me plainly what it is that has stirred you to be thus offended with me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202025.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202025.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二十五封书信",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致\\Place{安齐拉}主教\\Person{亚大纳削}。}",
+    "p0004": "1. 我从那些来自安齐拉的人那里得到消息，他们人数众多，不可胜数，但所说的话却都一致：您，我非常亲爱的人（我该如何说才能不冒犯您呢？），您提及我时，并非以令人愉快的言辞，也非以您的品格所应许的态度。然而，我早已懂得人性的软弱及其易于从一个极端转向另一个极端的倾向；所以，请您确信，关于人性的一切都不能使我惊讶，也没有任何变化是出乎意料的。因此，我的处境变坏，昔日的尊重变成了责备和侮辱，我并不介意。但有一件事确实令我既惊讶又骇异，那就是您竟然对我有这种看法，以至于对我感到愤怒和义愤，而且，如果从您听众的报告中可信，您已经走到极端，发出了威胁。对于这些威胁，我不否认，我确实笑了。真的，如果被这些吓唬人的东西吓倒，我不过是个孩子。然而，令我感到惊恐和痛苦的是，您——我曾相信，您是为教会的安慰而被保存的，是在许多人背离时的真理支柱，是古老而真实之爱的种子——竟如此顺应时势，以至于被您偶然遇到的第一个人的诽谤所影响，甚于您长期以来对我的了解，并无端地被引诱去怀疑荒谬之事。",
+    "p0005": "2. 但是，如我所说，目前我暂不深究此事。亲爱的先生，难道在朋友之间，通过一封短信讨论您想提出来的问题，会是一件过于困难的事吗？或者，如果您不愿将此类事情托付于笔墨，是否可以让我到您那里去呢？但如果您忍不住要发泄，而您那无法控制的愤怒又不容片刻耽搁，至少您本可以利用您身边那些天生适于处理机密事务的人，作为与您沟通的媒介。然而现在，在所有因这样或那样的原因接近您的人中，谁的耳朵没有灌满这样的说法：我撰写并创作了某些\\Quote{害物}？因为那些逐字引用您的话的人说，这正是您使用的词语。我越是集中思想考虑此事，就越感到困惑。我产生了这样的想法：难道某位异端者触怒了您正统的信仰，并恶意地将我的名字安在他自己的著作上，从而驱使您说出那个词？因为您，这位为真理进行过伟大而著名的斗争的您，是绝不能容忍对我所写的反对那些胆敢说天主圣子在本性上不像天主圣父，或亵渎地将圣神描述为受造之物之人的作品施加如此暴行的。您自己可以解除我的困惑，只要您坦率地告诉我，是什么激怒了您，使您对我如此不满。"
+  }
+}

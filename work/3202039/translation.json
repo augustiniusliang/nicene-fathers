@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202039",
+    "title": "Letter 39",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Julian </em> <em>to Basil</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The proverb says <quote>You are not proclaiming war,</quote> and, let me add, out of the comedy, <quote>O messenger of golden words.</quote> Come then; prove this in act, and hasten to me. You will come as friend to friend. Conspicuous and unremitting devotion to business seems, to those that treat it as of secondary importance, a heavy burden; yet the diligent are modest, as I persuade myself, sensible, and ready for any emergency. I allow myself relaxations so that even rest may be permitted to one who neglects nothing. Our mode of life is not marked by the court hypocrisy, of which I think you have had some experience, and in accordance with which compliments mean deadlier hatred than is felt to our worst foes; but, with becoming freedom, while we blame and rebuke where blame is due, we love with the love of the dearest friends. I may therefore, let me say, with all sincerity, both be diligent in relaxation and, when at work, not get worn out, and sleep secure; since when awake I do not wake more for myself, than, as is fit, for every one else. I am afraid this is rather silly and trifling, as I feel rather lazy, (I praise myself like Astydamas ) but I am writing to prove to you that to have the pleasure of seeing you, wise man as you are, will be more likely to do me good than to cause any difficulty. Therefore, as I have said, lose no time: travel post haste. After you have paid me as long a visit as you like, you shall go on your journey, wherever you will, with my best wishes.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十九书",
+    "p0002": "\\Signature{凯撒勒雅的圣巴西略}",
+    "p0003": "\\Person{儒利安}致\\Person{巴西略}。",
+    "p0004": "谚语说：\\Quote{你不是在宣告战争，}并且，容我加上，出自喜剧：\\Quote{金言使者啊。}那么，请用行动证明这话，并速来见我。你将作为朋友来访朋友。对将事务视为次要之人，显眼且不懈的投入似乎是重担；然而勤奋者谦逊，如我所信，明智且随时准备应对任何紧急状况。我允许自己放松，以便一个不疏忽任何事的人也能得享安息。我们的生活方式并无宫廷虚伪——我想你对此已有一些经验——按照那种虚伪，恭维意味着比我们对最坏敌人更致命的仇恨；但以适当的自由，我们在应受责备时责备并斥责，却以最亲密朋友的爱去爱。因此，我可以说，以全然的真诚，既能勤于放松，又能工作时不觉疲惫，并安睡无忧；因为我醒时不仅为自己，也恰当地为每一个人警醒。恐怕这有些愚蠢和琐碎，因为我觉得有些懒惰（我像\\Person{阿斯提达马斯}一样自我夸赞），但我写信是要向你证明，能见到你这位智者，对我而言，好处多于麻烦。因此，如我所说，勿失时机：火速赶来。在你如愿与我共度一段长时间后，你可继续你的旅程，无论去向何方，我都致以最良好的祝愿。"
+  }
+}

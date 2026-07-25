@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2806028",
+    "title": "From Letter 28",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 28",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "From Letter 28",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>(For 356.)</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "...In order that while He might become a sacrifice for us all, we, nourished up in the words of truth, and partaking of His living doctrine, might be able with the saints to receive also the joy of Heaven. For there, as He called the disciples to the upper chamber, so does the Word call us with them to the divine and incorruptible banquet; having suffered for us here, but there, preparing the heavenly tabernacles for those who most readily hearken to the summons, and unceasingly, and [gazing] at the goal, pursue the prize of their high calling; where for them who come to the banquet, and strive with those who hinder them, there is laid up both a crown, and incorruptible joy. For even though, humanly speaking, the labour of such a journey is great, yet the Saviour Himself has rendered even it light and kindly.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by R. Payne-Smith. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806028.htm>.",
+    "metadata": {
+      "srctrans": "Translated by R. Payne-Smith.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806028.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "选自 \\WorkTitle{第28封信}",
+    "p0002": "\\Emph{（为356年）}",
+    "p0003": "……为使祂得以成为我们众人的祭献，我们，受到真理之言的滋养，并分享祂活泼的教导，能够与圣人一同领受天堂的喜乐。因为在那里，正如祂召唤门徒进入楼上的大厅，同样，\\OriginalTerm{圣言}{the Word}也呼召我们与他们同赴那神圣而不朽的筵席；祂在此为我们受苦，却在那里为那些最乐意听从召唤、不懈地，[注视]着目标、追求他们崇高召叫之奖赏的人预备天上的帐幕；那里，对于赴筵并与阻碍他们者争斗的人，存留着冠冕和不朽的喜乐。因为，虽从人性角度说，如此旅程的劳苦是大的，但救主自己已使它变得轻松而仁慈。"
+  }
+}

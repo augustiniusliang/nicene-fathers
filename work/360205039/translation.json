@@ -1,0 +1,82 @@
+{
+  "source": {
+    "source_id": "360205039",
+    "title": "Book V, Letter 39",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book V, Letter 39",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book V, Letter 39",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Anastasius, Bishop</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Anastasius, Bishop of Antioch.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "<em>Glory to God in the highest and on earth peace to men of good will</em> {{BIBLE:luk 2:14}} , because that great river which once had left the rocks of Antioch dry has returned at length to its proper channel, and waters the subject valleys that are near, so as also to bring forth fruit, some thirty-fold, some sixty-fold, and some an hundred-fold. For now there is no doubt that many flowers of souls are growing up in its valleys, and that they will come even to ripe fruit through the streams of your tongue. Wherefore with voice of heart and mouth from our inmost soul we render due praise to Almighty God, and rejoice in your Blessedness, not with you only, but with all who are subject to you. I have received the letters of your Holiness, to me most sweet and pleasant, while we ourselves, if I may so speak, are sweating under the same toil with you. And indeed I know how heavy must be to you the burden of external cares after those heights of rest, wherein with the hand of the heart you were touching heavenly secrets. But remember that you rule an Apostolic See, and assuagest sorrow the more readily from being made all things to all men. In the Books of Kings, as your accomplished Holiness knows, a certain man is described who used either hand for the right hand {{BIBLE:1ch 12:2}} . And, with regard to this, I am not doubtful about the lord Anastasius, of old my most sweet and most holy patron, that, while he draws earthly works to heavenly profit, he turns the left hand to the right hand's use; so that his heavenly intentness may accomplish its work, so to speak, with the right hand, and also, when he is led in his care of temporal things towards the interests of justice, the left hand may acquire the strength of the right.",
+        "scripture": [
+          "luk 2:14",
+          "1ch 12:2"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "And indeed these things cannot be without heavy labour and trouble. But let us remember the labours of those who went before us; and what we endure will not be hard. For <em>We must through many tribulations enter into the kingdom of God</em> {{BIBLE:act 14:22}} . And, <em>We were pressed out of measure, yea and above strength, insomuch that we were weary even of life. But we ourselves, too, had the answer of death in ourselves, that we should not trust in ourselves</em> {{BIBLE:2co 1:8}} . And yet <em>The sufferings of this present time are not worthy to be compared with the supervening glory which shall be revealed in us</em> {{BIBLE:rom 8:18}} . How then can we that are weak sheep pass without labour through the heat of this world wherein we know that even rams have suffered under heavy toil?",
+        "scripture": [
+          "act 14:22",
+          "2co 1:8",
+          "rom 8:18"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Further, what tribulations I suffer in this land from the swords of the Lombards, from the iniquities of judges, from the press of business, from the care of subjects, and also from bodily affliction, I am unable to express either by pen or tongue. Concerning which things even though I might say something briefly, I hesitate, lest to your most holy Charity, while afflicted by your own tribulations, I should add mine also. But may Almighty God both in the abundance of His loving-kindness fill the mind of your most holy Blessedness with all comfort, and grant at some time, on account of your intercession, to unworthy me to rest from these evils which I suffer. Amen. Grace. These words, as you see, taken from what you had written, I insert in my epistles, that your Blessedness may perceive with regard to Saint Ignatius that he is not only yours, but also ours. For, as we have his master, the Prince of the apostles in common, so also no one of us ought to have to himself alone the disciple of this same Prince. Moreover, we have received your blessing , which is of sweet smell and of a good savour, with the feelings that were due to it. And we give thanks to Almighty God that what you do, what you say, and what you give, is fragrant and savoury. For your life therefore let us say together, let us say all, <em>Glory to God in the highest, and on earth peace to men of good will.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360205039.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360205039.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五卷·第三十九封信",
+    "p0002": "\\Emph{致阿纳斯塔西乌斯主教}。",
+    "p0003": "\\Person{额我略}致\\Place{安提约基亚}主教\\Person{阿纳斯塔西乌斯}。",
+    "p0004": "\\BibleQuote{天主受享光荣于高天，主爱的人在世享平安}\\BibleRef{路 2:14}，因为那条曾经使\\Place{安提约基亚}的岩石干涸的大河，如今终于复归其正道，浇灌着附近低处的山谷，使之结出果实，有三十倍的，有六十倍的，有一百倍的。如今无疑有许多灵魂的花朵正在其山谷中生长，并因你舌头的溪流而结出成熟的果实。为此，我们以心灵和口舌的声音，从内心深处向全能的天主献上应有的赞美，并为你的真福而喜乐，不仅与你一同喜乐，也与所有属于你管辖的人一同喜乐。我收到了你圣座的来信，对我而言极为甘甜愉悦，而我们自己，若可如此说，正与你一同在同劳苦中流汗。我确实知道，在经历过那种安息的高峰、以心灵之手触摸天上奥秘之后，外在事务的负担对你而言必定是何等沉重。但请记得你治理的是一个宗座，并且因你成了众人所成的一切，而更加容易抚慰忧伤。在列王纪中，正如你娴熟的圣座所知，描述了一个人，他能左右手并用\\BibleRef{编上 12:2}。关于此事，我毫不怀疑我往昔最甘甜、最神圣的主保、主\\Person{阿纳斯塔西乌斯}，在他将世间事业引向天上的益处时，将左手当作右手使用；这样，他天上的专注可以借右手完成其工作，同时，当他因关心现世事物而被引向正义的利益时，左手也能获得右手的力量。",
+    "p0005": "的确，这些事不能没有重大的劳苦和烦恼。但让我们记住先我们之前的人的劳苦；我们所忍受的就不会是沉重的。因为\\BibleQuote{我们必须经过许多苦难，才能进入天主的国。}\\BibleRef{宗 14:22} 并且，\\BibleQuote{我们被压得超出力量，甚至超过了限度，以致我们厌倦了生命。但我们自己也得了死亡的判决，使我们不依靠自己。}\\BibleRef{格后 1:8} 然而，\\BibleQuote{我认为现时的苦难，与将来要在我们身上显示的光荣，是不能相比的。}\\BibleRef{罗 8:18} 那么，我们这些软弱的羊，如何能不经劳苦而通过这世界的炎热，要知道连公羊都曾承受过沉重的劳苦呢？",
+    "p0006": "此外，我在这片土地上所遭受的种种磨难，无论是来自伦巴第人的刀剑、法官的不义、事务的繁忙、对属民的操心，还是身体的病痛，我都无法用笔或口来表达。关于这些事，即使我能简要地说些什么，我也犹豫，免得在你为你自己的磨难所苦之际，再给你至圣的爱德加上我的磨难。愿全能的天主以其丰厚的慈爱，用一切安慰充满你至圣真福的心灵，并因你的转求，在某时赐予我这不配的人从我遭受的这些邪恶中安息。阿们。恩宠。这些词句，正如你所见，取自你曾写的话，我插入我的书信中，为使你的真福明白，对圣\\Person{依纳爵}而言，他不仅属于你，也属于我们。因为，既然我们共同拥有他的导师、宗徒之长，那么同样，我们中谁也不应独自占有这位宗徒之长的门徒。此外，我们已领受了你的祝福，它馨香而甘饴，以应有的情感领受。我们感谢全能的天主，你所做的、所说的、所给予的，都是芬芳甘饴的。因此，为了你的生命，让我们一同说，让我们大家说：\\BibleQuote{天主受享光荣于高天，主爱的人在世享平安。}"
+  }
+}

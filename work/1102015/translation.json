@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "1102015",
+    "title": "Letter 15 (A.D. 390)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 15",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 15 (A.D. 390)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Romanianus Augustine Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. This letter indicates a scarcity of paper, but not so as to testify that parchment is plentiful here. My ivory tablets I used in the letter which I sent to your uncle. You will more readily excuse this scrap of parchment, because what I wrote to him could not be delayed, and I thought that not to write to you for want of better material would be most absurd. But if any tablets of mine are with you, I request you to send them to meet a case of this kind. I have written something, as the Lord has deigned to enable me, concerning the Catholic religion, which before my coming I wish to send to you, if my paper does not fail me in the meantime. For you will receive with indulgence any kind of writing from the office of the brethren who are with me. As to the manuscripts of which you speak, I have entirely forgotten them, except the books <em>de Oratore</em>; but I could not have written anything better than that you should take such of them as you please, and I am still of the same mind; for at this distance I know not what else I can do in the matter.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. It gave me very great pleasure that in your last letter you desired to make me a sharer of your joy at home; but",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Would you have me forget how soon the deep,\nSo tranquil now, may wear another face,\nAnd rouse these slumbering waves?",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Yet I know you would not have me forget this, nor are you yourself unmindful of it. Wherefore, if some leisure is granted you for more profound meditation, improve this divine blessing. For when these things fall to our lot, we should not only congratulate ourselves, but show our gratitude to those to whom we owe them; for if in the stewardship of temporal blessings we act in a manner that is just and kind, and with the moderation and sobriety of spirit which befits the transient nature of these possessions,— if they are held by us without laying hold on us, are multiplied without entangling us, and serve us without bringing us into bondage, such conduct entitles us to the recompense of eternal blessings. For by Him who is the Truth it was said: <quote>If you have not been faithful in that which is another man's, who will give you that which is your own?</quote> Let us therefore disengage ourselves from care about the passing things of time; let us seek the blessings that are imperishable and sure; let us soar above our worldly possessions. The bee does not the less need its wings when it has gathered an abundant store; for if it sink in the honey it dies.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102015.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102015.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十五封信（公元390年）",
+    "p0002": "\\Emph{\\Person{奥古斯丁}向\\Person{罗马尼亚努斯}致意。}",
+    "p0003": "1. 这封信表明纸张短缺，但并非证明这里羊皮纸充裕。我上次寄给你叔叔的信中用了我的象牙书板。你会更容易谅解这张羊皮纸残片，因为写给他的信不能拖延，而我认为因缺乏更好的材料就不给你写信是极其荒谬的。但如果你那里有我任何书板，我请求你送过来以备这样的情形。关于大公信仰，我蒙主俯允，写了一些东西，想在我到来之前寄给你，如果在此期间我的纸还够用的话。因为凡是从与我在一起的弟兄们的书房出来的作品，你都会宽仁地接纳。至于你提到的那些手稿，我完全忘了，除了\\WorkTitle{论演说家}那几卷；但我当时信中的意思无非是，你可随意取用，我至今仍持此意；因相距遥远，此事我也别无他法。",
+    "p0004": "2. 上封来信中，你愿我分享你家中的喜乐，这令我无比欣慰；但是",
+    "p0005": "难道你愿我忘记，这眼下如此平静的深海，\\newline{}会何其迅速地变脸，\\newline{}并唤醒这沉睡的波涛？",
+    "p0006": "然而我知道，你并非要我忘记这一点，你自己也未曾疏忽。因此，如果天主赐予你闲暇以便更深入的默想，就善用这天赐的恩福吧。因为当这些事临到我们时，我们不仅应自庆，还应向赐予者表示感激；因为如果在管理现世的福分时，我们行事公正而仁慈，并以符合这些短暂财物的无常本性所需的节制与清醒的精神去对待它们——如果我们拥有它们却不被它们占有，使之增加却不被其缠累，使用它们却不被束缚，这样的行为配得永福的赏报。因那身为真理的曾说过：\\BibleQuote{如果你们在别人的财物上不忠信，谁还把属于你们的交给你们呢？}所以，让我们摆脱对短暂世事之挂虑；让我们寻求那不朽而确实的福分；让我们飞越世俗的财富之上。蜜蜂即使采集了丰盛的花蜜，也丝毫不能缺少翅膀；因为若沉溺于蜜中，它便会死去。"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "source": {
+    "source_id": "3001078",
+    "title": "Letter 78",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 78",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 78",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Fabiola</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "A treatise on the Forty-two Mansions or Halting-places of the Israelites, originally intended for Fabiola but not completed until after her death. Sent to Oceanus along with the preceding letter. These Mansions are made an emblem of the Christian's pilgrimage, the true Hebrew hastening to pass from earth to heaven."
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001078.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001078.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七十八封信",
+    "p0002": "\\Emph{致\\Person{法比奥拉}}",
+    "p0003": "\\EditorialNote{一篇论以色列子民四十二站或安营之处的论文，原计划为\\Person{法比奥拉}所写，但直到她去世后才完成。与前一封信一起寄给\\Person{奥西安努斯}。这些站象征基督徒的朝圣之旅，真正的希伯来人急于从地上赶往天堂。}"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "source": {
+    "source_id": "3001083",
+    "title": "Letter 83",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 83",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 83",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>From Pammachius and Oceanus</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "A letter from Pammachius and Oceanus in which they express the perplexity into which they have been thrown by Rufinus's version of Origen's treatise, On First Principles (see Letter LXXX.) and request Jerome to make for them a literal translation of the work. Written in 399 or 400 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. Pammachius and Oceanus to the presbyter Jerome, health.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "A reverend brother has brought to us sheets containing a certain person's translation into Latin of a treatise by Origen— entitled <greek>περὶ ἀρχῶν</greek> . These contain many things which disturb our poor wits and which appear to us to be uncatholic. We suspect also that with a view of clearing the author many passages of his books have been removed which had they been left would have plainly proved the irreligious character of his teaching. We therefore request your excellency to be so good as to bestow upon this particular matter an attention which will benefit not only ourselves but all who reside in the city; we ask you to publish in your own language the abovementioned book of Origen exactly as it was brought out by the author himself; and we desire you to make evident the interpolations which his defender has introduced. You will also confute and overthrow all statements in the sheets which we have sent to your holiness that are ignorantly made or contradict the Catholic faith. The writer in the preface to his work has, with much subtlety but without mentioning your holiness's name, implied that he has done no more than complete a work which you had yourself promised, thus indirectly suggesting that you agree with him. Remove then the suspicions men cannot help feeling and confute your assailant; for, if you ignore his implications, people will say that you admit their truth.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001083.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001083.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第八十三封书信}",
+    "p0002": "\\Emph{来自\\Person{帕玛丘斯}与\\Person{奥克亚努斯}}",
+    "p0003": "\\EditorialNote{一封来自\\Person{帕玛丘斯}和\\Person{奥克亚努斯}的信，他们在信中表达了对\\Person{鲁菲努斯}所译\\Person{奥力振}论著《论首要原理》（见第八十封书信）的困惑，并请求\\Person{热罗尼莫}为他们逐字翻译这部作品。写于公元399年或400年。}",
+    "p0004": "1. \\Person{帕玛丘斯}与\\Person{奥克亚努斯}致司铎\\Person{热罗尼莫}，安康。",
+    "p0005": "一位可敬的弟兄给我们带来了一些书页，其中包含某人对\\Person{奥力振}一篇题为\\WorkTitle{\\OriginalTerm{论首要原理}{περὶ ἀρχῶν}}的论著的拉丁文翻译。这些书页包含许多使我们可怜的理智感到困惑、在我们看来不合乎公教信仰的内容。我们还怀疑，为了替作者辩护，他著作中的许多段落已被删除；这些段落若保留下来，本可清楚证明其教导的不虔敬性质。因此，我们恳请您惠予关注此事，这不仅有益于我们自己，也有益于城中所有居民；我们请求您用自己的语言出版上述\\Person{奥力振}的著作，完全按照作者本人写就的样子；我们还希望您揭露其辩护者所引入的增改之处。您还要驳斥并推翻我们寄给您的书页中所有出于无知或违背公教信仰的言论。该书的作者在其著作序言中，以极其巧妙的方式，虽未提及您，却暗示他不过是完成了您自己曾许诺的工作，从而间接表明您与他意见一致。请消除人们无法避免的疑虑，并驳倒您的攻击者；因为如果您忽视他的暗示，人们会认为您承认其真实性。"
+  }
+}

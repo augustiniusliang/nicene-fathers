@@ -1,0 +1,61 @@
+{
+  "source": {
+    "source_id": "0103227",
+    "title": "Against Heresies (Book II, Chapter 27)",
+    "breadcrumbs": "Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book II, Chapter 27",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against Heresies (Book II, Chapter 27)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "1. A sound mind, and one which does not expose its possessor to danger, and is devoted to piety and the love of truth, will eagerly meditate upon those things which God has placed within the power of mankind, and has subjected to our knowledge, and will make advancement in [acquaintance with] them, rendering the knowledge of them easy to him by means of daily study. These things are such as fall [plainly] under our observation, and are clearly and unambiguously in express terms set forth in the Sacred Scriptures. And therefore the parables ought not to be adapted to ambiguous expressions. For, if this be not done, both he who explains them will do so without danger, and the parables will receive a like interpretation from all, and the body of truth remains entire, with a harmonious adaptation of its members, and without any collision [of its several parts]. But to apply expressions which are not clear or evident to interpretations of the parables, such as every one discovers for himself as inclination leads him, [is absurd. ] For in this way no one will possess the rule of truth; but in accordance with the number of persons who explain the parables will be found the various systems of truth, in mutual opposition to each other, and setting forth antagonistic doctrines, like the questions current among the Gentile philosophers.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "2. According to this course of procedure, therefore, man would always be inquiring but never finding, because he has rejected the very method of discovery. And when the Bridegroom {{BIBLE:mat 25:5}} comes, he who has his lamp untrimmed, and not burning with the brightness of a steady light, is classed among those who obscure the interpretations of the parables, forsaking Him who by His plain announcements freely imparts gifts to all who come to Him, and is excluded from His marriage-chamber. Since, therefore, the entire Scriptures, the prophets, and the Gospels, can be clearly, unambiguously, and harmoniously understood by all, although all do not believe them; and since they proclaim that one only God, to the exclusion of all others, formed all things by His word, whether visible or invisible, heavenly or earthly, in the water or under the earth, as I have shown from the very words of Scripture; and since the very system of creation to which we belong testifies, by what falls under our notice, that one Being made and governs it—those persons will seem truly foolish who blind their eyes to such a clear demonstration, and will not behold the light of the announcement [made to them]; but they put fetters upon themselves, and every one of them imagines, by means of their obscure interpretations of the parables, that he has found out a God of his own. For that there is nothing whatever openly, expressly, and without controversy said in any part of Scripture respecting the Father conceived of by those who hold a contrary opinion, they themselves testify, when they maintain that the Saviour privately taught these same things not to all, but to certain only of His disciples who could comprehend them, and who understood what was intended by Him through means of arguments, enigmas, and parables. They come, [in fine,] to this, that they maintain there is one Being who is proclaimed as God, and another as Father, He who is set forth as such through means of parables and enigmas.",
+        "scripture": [
+          "mat 25:5"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "3. But since parables admit of many interpretations, what lover of truth will not acknowledge, that for them to assert God is to be searched out from these, while they desert what is certain, indubitable, and true, is the part of men who eagerly throw themselves into danger, and act as if destitute of reason? And is not such a course of conduct not to build one's house upon a rock {{BIBLE:mat 7:25}} which is firm, strong, and placed in an open position, but upon the shifting sand? Hence the overthrow of such a building is a matter of ease.",
+        "scripture": [
+          "mat 7:25"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0103227.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Alexander Roberts and William Rambaut.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1885.",
+      "srcurl": "<http://www.newadvent.org/fathers/0103227.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{反对异端（第二卷，第二十七章）}",
+    "p0002": "1. 一个健全的头脑，一个不使其拥有者陷入危险、致力于虔诚与热爱真理的头脑，会热切默想那些天主置于人类能力之内、交给我们认识的事物，并通过每日研习而在对它们的认识上取得进步，使对它们的认识变得容易。这些事物就是清楚呈现在我们眼前、在圣经中以明确无误的措辞清晰阐述的那些事物。因此，比喻不应被牵强附会地解释成含糊的表述。因为，若不如此，解释者便可以无风险地解释它们，比喻将会得到所有人同样的解释，真理的整体保持完整，其各部分和谐配合，而无任何冲突。但是，将不清晰或不明显的表述应用于比喻的解释，就像每个人凭自己的好恶所发现的那样，\\Quote{是荒谬的。}因为这样一来，没有人将拥有真理的准则；相反，随着解释比喻的人数多寡，将会出现各种彼此对立的真理体系，宣扬相互冲突的教义，就像外邦哲学家中间流行的那些问题一样。",
+    "p0003": "2. 按照这种程序，人将永远探求而永无发现，因为他已抛弃了发现的方法。当新郎\\BibleRef{玛 25:5}来到时，那油灯没有修剪、没有以稳定光明的亮度燃烧的人，就被列在那些使比喻的解释变得晦暗的人当中；他们离弃了那位藉着明白的宣告白白赐予一切来者恩赐的主，并被排除在新郎的婚房之外。既然全部圣经、先知书和福音，虽然并非所有人都相信，却能被所有人清楚、明确、和谐地理解，而且它们宣告只有一位天主，排除所有其他，祂藉着祂的圣言形成了万物，无论可见不可见、天上地上、水中或地下——正如我从圣经的原文所证明的——并且我们所从属的这受造界本身，通过呈现在我们眼前的事物，见证了一位造物主和治理者——那么，那些人对如此清楚的证明视而不见，不肯看见那宣告的光明，而给自己戴上镣铐，每个人都以为藉着他们对比喻的晦暗解释，找到了一位他自己的天主，这样的人可真显得愚昧。因为，在任何部分的圣经中，没有什么公开、明确、毫无争议地提及那些持相反意见者所设想的那位圣父——他们自己证明了这一点，因为他们坚持说救主私下教导这些事，不是教给所有人，而只教给祂的某些门徒，这些门徒能理解祂，并能通过论证、谜语和比喻来领悟祂的意图。他们最终得出这样的结论：他们坚持有一位存在被宣告为天主，另一位则为圣父，那位圣父是通过比喻和谜语而被揭示的。",
+    "p0004": "3. 但是，既然比喻容许多种解释，哪个热爱真理的人不会承认，他们放弃确定无疑、不可辩驳、真实的事物，而主张该从比喻中寻找天主，这是那些甘愿冒险、行事如同失去理智的人的行为？这样的行为不正是没有将房屋建造在稳固、坚强、位于开阔处的磐石\\BibleRef{玛 7:25}上，而是建造在流沙上吗？因此，这样的建筑很容易倒塌。"
+  }
+}

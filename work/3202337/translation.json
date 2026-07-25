@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202337",
+    "title": "Letter 337",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 337",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 337",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Basil to Libanius.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Lo and behold, yet another Cappadocian has come to you; a son of my own! Yet my present position makes all men my sons. On this ground he may be regarded as a brother of the former one, and worthy of the same attention alike from me his father, and from you his instructor— if really it is possible for these young men, who come from me, to obtain any further favours. I do not mean that it is not possible for your excellency to give anything more to your old comrades, but because your services are so lavishly bestowed upon all. It will be sufficient for the lad before he gets experience if he be numbered among those who are intimately known to you. I trust you may send him back to me worthy of my prayers and of your great reputation in learning and eloquence. He is accompanied by a young man of his own age, and of like zeal for instruction; a youth of good family, and closely associated with myself. I am sure he will be in every way as well treated, though his means are smaller than is the case with the rest.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202337.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202337.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第337号",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅）}}",
+    "p0003": "\\Person{巴西略}致\\Person{利巴尼乌斯}。",
+    "p0004": "你瞧，又有一位卡帕多细亚人到你那里来了；这是我的一个儿子！然而我现在的地位使所有人都成为我的儿子。因此，他可被视为先前那位的兄弟，值得从我——他的父亲——以及从你——他的导师——得到同样的关注——若果真有可能的话，这些从我这里来的年轻人还能获得更多恩惠。我这样说，并非指阁下不可能再给予你的老同伴们什么，而是因为你的帮助对所有人都如此慷慨。对于这位尚未有经验的青年，若能成为你亲密相知者中的一员，便已足够。我相信你会将他送回，使他配得上我的祈祷以及你在学识与口才上的伟大声誉。与他同行的是一位同龄青年，同样热衷于求学；此子家世良好，与我关系密切。我确信他将处处得到同等善待，尽管他的家境不如其他人优渥。"
+  }
+}

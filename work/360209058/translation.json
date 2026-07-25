@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360209058",
+    "title": "Book IX, Letter 58",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IX, Letter 58",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IX, Letter 58",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Martin, Scholasticus</em> .",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Martin, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Seeing that questions arising in civil affairs need, as is known to your Greatness, very full enquiry, let your wisdom consider with what care and vigilance the causes of bishops should be investigated. But, in the letter which you have sent us by the bearer of these presents on the questions with respect to which you were sent to us by our brother and fellow bishop Crementius, you have given only a superficial account of them, and hast been entirely silent about their root. But, had their origin and intrinsic character been manifest to us, we should have known what should be decided about them, and would then settle the mind of our aforesaid brother by a plain and suitable reply. This, however, is altogether displeasing to us, that you give us to understand that some of the bishops have gone to the court without letters from their primate, and that they hold unlawful assemblies. But since, as we have before said, the origin and nature of the questions are entirely unknown to us, we cannot pronounce anything definitely, lest, as would be very reprehensible, we should seem to pass sentence about things imperfectly known. Hence it was very needful that, for our complete information, your Greatness should have proceeded hither to reply to our questions during the time of your lingering in Sicily. Nevertheless, now that you have seen our brother and fellow bishop John, we believe that in him you have seen us also. And so since he has been at pains himself also to write to us about the same questions, we have written in reply to him what seemed to us right. And, since he is a priest of ripe and cautious judgment, if you are willing to treat with him on the questions which he has been commissioned to entertain, we are sure that you will find in him what is both advantageous and reasonable.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360209058.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360209058.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第九卷，第五十八封",
+    "p0002": "\\Quote{致\\OriginalTerm{学者}{Scholasticus}\\Person{玛尔定}}。",
+    "p0003": "\\Person{额我略}致\\Person{玛尔定}等。",
+    "p0004": "鉴于民事事务中产生的问题，如阁下所知，需要非常详尽的调查，那么主教们的案件应以何等谨慎和警觉加以调查，请阁下智慧思量。然而，在您随此函送交我们的信中，关于您受我们弟兄和同道主教\\Person{克雷孟提乌斯}派遣前来与我们商议的那些问题，您只作了肤浅的陈述，而对其根源只字未提。但是，倘若这些问题之起源与内在性质为我们所知晓，我们本会知道应如何决定，并以清晰而适当的答复安抚我们前述弟兄的心。然而，令我们完全不悦的是，您向我们表示，有些主教未经其首席主教之文书便去了宫廷，并且他们举行了非法的集会。但既然如上所述，我们对这些问题的起源与性质全然不知，我们无法明确宣判任何事，唯恐因对不完全了解之事作出判决而显得极为可责。因此，非常必要的是，为使我们获得充分信息，阁下本应在您逗留\\Place{西西里}期间前来此地答复我们的问题。尽管如此，既然您已见过我们的弟兄和同道主教\\Person{若望}，我们相信您在他身上也见到了我们。因此，由于他本人也已费力就同样的问题写信给我们，我们已回信给他，告知我们认为正确之事。既然他是一位经验丰富且判断谨慎的司铎，若您愿意就他所受命处理的问题与他商议，我们确信您会从他那里找到既有利又合理之处。"
+  }
+}

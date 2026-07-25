@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202195",
+    "title": "Letter 195",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 195",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 195",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Euphronius, bishop of Colonia Armeniæ</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Colonia, which the Lord has placed under your authority, is far out of the way of ordinary routes. The consequence is that, although I am frequently writing to the rest of the brethren in Armenia Minor, I hesitate to write to your reverence, because I have no expectation of finding any one to convey my letter. Now, however, that I am hoping either for your presence, or that my letter will be sent on to you by some of the bishops to whom I have written, I thus write and salute you by letter. I wish to tell you that I seem to be still alive, and at the same time to exhort you to pray for me, that the Lord may lessen my afflictions, and lift from me the heavy load of pain which now presses like a cloud upon my heart. I shall have this relief if He will only grant a quick restoration to those godly bishops who are now punished for their faithfulness to true religion by being scattered all abroad.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202195.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202195.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信第一九五",
+    "p0002": "\\Emph{\\Person{圣巴西略（该撒利亚的）}}",
+    "p0003": "\\Emph{致\\Person{厄弗若纽}，\\Place{亚美尼亚的科洛尼亚}主教。}",
+    "p0004": "\\Place{科洛尼亚}，就是主置于你权下的那个地方，远离通常的路径。结果是，尽管我经常给\\Place{小亚美尼亚}其余弟兄写信，我却犹豫给阁下写信，因为我不期望能找到任何人传递我的信。现在，既然我盼望要么你亲临，要么我的信会由我曾写信的一些主教转交给你，我这样就写信向你致意。我想告诉你，我似乎还活着，同时劝你为我祈祷，愿主减轻我的痛苦，并从我心中卸下像云一样压着的沉重痛楚。如果主只愿迅速恢复那些因忠于真信仰而被迫流散各地的虔诚主教们，我将得到这种缓解。"
+  }
+}

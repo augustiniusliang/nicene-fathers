@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "3202003",
+    "title": "Letter 3",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 3",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 3",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Candidianus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. When I took your letter into my hand, I underwent an experience worth telling. I looked at it with the awe due to a document making some state announcement, and as I was breaking the wax, I felt a dread greater than ever guilty Spartan felt at sight of the Laconian scytale.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "When, however, I had opened the letter, and read it through, I could not help laughing, partly for joy at finding nothing alarming in it; partly because I likened your state of affairs to that of Demosthenes. Demosthenes, you remember, when he was providing for a certain little company of chorus dancers and musicians, requested to be styled no longer Demosthenes, but <quote>choragus.</quote> You are always the same, whether playing the <quote>choragus</quote> or not. <quote>Choragus</quote> you are indeed to soldiers myriads more in number than the individuals to whom Demosthenes supplied necessaries; and yet you do not when you write to me stand on your dignity, but keep up the old style. You do not give up the study of literature, but, as Plato has it, in the midst of the storm and tempest of affairs, you stand aloof, as it were, under some strong wall, and keep your mind clear of all disturbance; nay, more, as far as in you lies, you do not even let others be disturbed. Such is your life; great and wonderful to all who have eyes to see; and yet not wonderful to any one who judges by the whole purpose of your life.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Now let me tell my own story, extraordinary indeed, but only what might have been expected.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "2. One of the hinds who live with us here at Annesi, on the death of my servant, without alleging any breach of contract with him, without approaching me, without making any complaint, without asking me to make him any voluntary payment, without any threat of violence should he fail to get it, all on a sudden, with certain mad fellows like himself, attacked my house, brutally assaulted the women who were in charge of it, broke in the doors, and after appropriating some of the contents himself, and promising the rest to any one who liked, carried off everything. I do not wish to be regarded as the <em>ne plus ultra</em> of helplessness, and a suitable object for the violence of any one who likes to attack me. Show me, then, now, I beg you, that kindly interest which you have always shown in my affairs. Only on one condition can my tranquillity be secured—that I be assured of having your energy on my side. It would be quite punishment enough, from my point of view, if the man were apprehended by the district magistrate and locked up for a short period in the jail. It is not only that I am indignant at the treatment I have suffered, but I want security for the future.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202003.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202003.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三书",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Emph{致坎迪迪亚努斯}。",
+    "p0004": "1. 当我将你的信拿在手中时，我经历了一段值得讲述的经验。我以面对宣布国家大事的文书应有的敬畏看着它；在拆蜡封时，我感到一种恐惧，甚于有罪的斯巴达人见到拉克尼亚的\\OriginalTerm{斯库塔莱密信}{scytale}时的恐惧。",
+    "p0005": "然而，当我打开信并读完后，我忍不住笑了，一半是因为高兴发现信中没有任何令人惊恐的事，一半是因为我将你的处境比作德摩斯梯尼的处境。你记得，德摩斯梯尼在为一个小型的合唱舞队和乐师班提供费用时，要求不再被称为德摩斯梯尼，而被称为\\Quote{\\OriginalTerm{合唱队领队}{choragus}}。你无论是否扮演\\Quote{\\OriginalTerm{合唱队领队}{choragus}}的角色，始终如一。你确实是比德摩斯梯尼所供应必需品的人数多出无数倍的士兵们的\\Quote{\\OriginalTerm{合唱队领队}{choragus}}；然而，你在写信给我时并不摆架子，而是保持旧有的风格。你并未放弃对文学的研究，而是如柏拉图所说，在事务的风暴和喧嚣中，你仿佛站在一道坚固的墙下，使你的心不受任何干扰；不仅如此，你尽己所能，甚至不让别人受到干扰。这便是你的生活；对所有有眼可见的人，它是伟大而奇妙的；然而，对任何以你整个生活目的来判断的人来说，这并不奇怪。",
+    "p0006": "现在让我说说我自己的事，确实非同寻常，但也在意料之中。",
+    "p0007": "2. 一位与我们一起住在安内西的女仆，在我的仆人死后，不声称与他有任何违约行为，不接近我，不提出任何抱怨，不要求我自愿付给她任何款项，不威胁若得不到钱便使用暴力，突然，与几位像她自己一样的狂人袭击了我的家，野蛮地殴打负责看守的妇女，砸开大门，夺走了一些物品，并把剩下的东西许诺给任何想要的人，然后席卷一空。我不愿被视为\\OriginalTerm{至极}{ne plus ultra}的无助，成为任何喜欢攻击我的人施暴的合适对象。因此，我现在请求你，请展示你一贯对我事务的善意关怀。只有一个条件可以确保我的安宁——即我确信有你精力充沛的支持。依我看来，若那人被地方长官逮捕并在监狱中关押一小段时间，便已足够惩罚。我不仅因所受的待遇而愤慨，而且希望未来有保障。"
+  }
+}

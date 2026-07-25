@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "3604079",
+    "title": "Letter 79",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Leo the Great) > Letter 79",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 79",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Leo, bishop of the city of Rome to Pulcheria Augusta.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "h2",
+        "text": "I. He rejoices at Pulcheria's zeal both against Nestorius and Eutyches.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "That which we have always anticipated concerning your Grace's holy purposes, we have now proved fully true, viz. that, however varied may be the attacks of wicked men upon the Christian Faith, yet when you are present and prepared by the Lord for its defence, it cannot be disturbed. For God will not forsake either the mystery of His mercy or the deserts of your labours, whereby you long ago repelled the crafty foe of our holy religion from the very vitals of the Church: when the impiety of Nestorius failed to maintain his heresy because it did not escape you the handmaid and pupil of the Truth, how much poison was instilled into simple folk by the coloured falsehoods of that glib fellow. And the sequel to that mighty struggle was that through your vigilance the things which the devil contrived by means of Eutyches, did not escape detection, and they who had chosen to themselves one side in the twofold heresy, were overthrown by the one and undivided power of the Catholic Faith. This then is your second victory over the destruction of Eutyches' error: and, if he had had any soundness of mind, that error having been once and long ago routed and put to confusion in the person of his instigators, he would easily have been able to avoid the attempt to rekindle into life the smouldering ashes, and thus only share the lot of those, whose example he had followed, most glorious Augusta. We desire, therefore, to leap for joy and to pay due vows for your clemency's prosperity to God, who has already bestowed on you a double palm and crown through all the parts of the world, in which the Lord's Gospel is proclaimed.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "h2",
+        "text": "II. He thanks her for her aid to the Catholic cause, and explains his wishes about the restoration of the lapsed bishops.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "Your clemency must know, therefore, that the whole church of Rome is highly grateful for all your faithful deeds, whether that you have with pious zeal helped our representatives throughout and brought back the Catholic priests, who had been expelled from their churches by an unjust sentence, or that you have procured the restoration with due honour of the remains of that innocent and holy priest, Flavian, of holy memory, to the church, which he ruled so well. In all which things assuredly your glory is increased manifold, so long as you venerate the saints according to their deserts, and are anxious that the thorns and weeds should be removed from the Lord's field. But we learn as well from the account of our deputies as from that of my brother and fellow bishop, Anatolius, whom you graciously recommend to me, that certain bishops crave reconciliation for those who seem to have given their consent to matters of heresy, and desire Catholic communion for them: to whose request we grant effect on condition that the boon of peace should not be vouchsafed them till, our deputies acting in concert with the aforesaid bishop, they are corrected, and with their own hand condemn their evil doings; because our Christian religion requires both that true justice should constrain the obstinate, and love not reject the penitent.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "h2",
+        "text": "III. He commends certain bishops and churches to her care.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "And because we know how much pious care your Grace deigns to bestow on Catholic priests, we have ordered that you should be informed that my brother and fellow bishop, Eusebius, is living with us, and sharing our communion, whose church we commend to you; for he that is improperly asserted to have been elected in his place, is said to be ravaging it. And this too we ask of your Grace, which we doubt not you will do of your own free will, to extend the favour which is due as well to my brother and fellow bishop, Julian, as to the clergy of Constantinople, who clung to the holy Flavian with faithful loyalty. On all things we have instructed your Grace by our deputies as to what ought to be done or arranged. Dated April 13, in the consulship of the illustrious Adelfius (451).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Charles Lett Feltoe. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3604079.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Charles Lett Feltoe.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3604079.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第七十九封書信}",
+    "p0002": "\\Person{良}，羅馬城主教，致\\Person{普爾喀麗亞·奧古斯塔}。",
+    "p0003": "一、他因\\Person{普爾喀麗亞}對抗\\Person{聶斯多略}和\\Person{歐迪奇}的熱忱而歡喜。",
+    "p0004": "關於\\OriginalTerm{恩主}{Your Grace}的神聖意圖，我們始終所預期的，如今已完全證實，即：無論惡人如何以多種方式攻擊基督徒信仰，但當\\OriginalTerm{恩主}{Your Grace}在場，並由主預備予以捍衛時，信仰便不致動搖。\\newline{} 因為天主不會放棄祂仁慈的奧蹟，也不會放棄\\OriginalTerm{恩主}{Your Grace}勞苦的功績：藉此功績，\\OriginalTerm{恩主}{Your Grace}早已將我們神聖宗教的狡猾仇敵從教會的心臟驅逐出境。那時，\\Person{聶斯多略}的不敬未能維持其異端，因為\\OriginalTerm{恩主}{Your Grace}，真理的婢女和學生，沒有被那油嘴滑舌者的彩色謊言所瞞過——他給單純的人們注入了多少毒藥！\\newline{} 那場偉大鬥爭的後續是：藉著\\OriginalTerm{恩主}{Your Grace}的警醒，魔鬼通過\\Person{歐迪奇}所策劃的事未能隱藏，而那些在雙重異端中選擇一方的人，被大公信仰的統一而不可分割的力量所推翻。\\newline{} 因此，這是\\OriginalTerm{恩主}{Your Grace}對\\Person{歐迪奇}錯誤之毀滅的第二次勝利。\\newline{} 如果\\Person{歐迪奇}有任何清醒的頭腦，那麼這個錯誤既然在\\OriginalTerm{其煽動者}{his instigators}身上早已被擊敗和混亂，他本應很容易避免企圖復燃那些冒煙的灰燼，從而只是分擔那些他所追隨範例之人的命運，最光榮的\\Person{奧古斯塔}。\\newline{} 因此，我們想歡躍，並為\\OriginalTerm{恩主之福}{your clemency's prosperity}向天主獻上應有的許諾，祂已在全世界各處——在傳揚主福音的地方——賜予\\OriginalTerm{恩主}{Your Grace}雙重的棕櫚枝和冠冕。",
+    "p0005": "二、他感謝\\Person{普爾喀麗亞}對大公事業的援助，並說明他對恢復失足主教的期望。",
+    "p0006": "\\OriginalTerm{恩主}{Your clemency}必須知道，全羅馬教會對\\OriginalTerm{恩主}{Your Grace}所有忠信的行為深懷感激，無論是\\OriginalTerm{恩主}{Your Grace}以虔誠的熱忱協助了我們的全權代表，並將那些被不義判決逐出教會的大公司鐸領回；還是\\OriginalTerm{恩主}{Your Grace}促使那位無辜而神聖的司鐸——神聖記憶的\\Person{弗拉維安}——的遺體，以應有的榮譽歸還給他管理有方的教會。\\newline{} 在所有這些事上，\\OriginalTerm{恩主}{Your Grace}的光榮無疑倍增，因為\\OriginalTerm{恩主}{Your Grace}按聖人們的功績尊敬他們，並關切地將荊棘和雜草從主的田地中除去。\\newline{} 但是，我們也從我們代理人的報告以及我的兄弟和同僚主教\\Person{阿納托利}（他蒙\\OriginalTerm{恩主}{Your Grace}恩准推薦給我）的報告中得知，某些主教請求為那些似乎已同意異端之事的人尋求和解，並渴望他們獲得大公的共融。\\newline{} 我們准許他們的請求，條件是：在我們的代理人與上述主教協同行事，他們受到糾正，並親手譴責自己的惡行之前，不應賜予他們和平的恩惠；因為我們基督教信仰要求：真正的正義應當約束頑固的人，而愛不應拒絕懺悔者。",
+    "p0007": "三、他將其某些主教和教會託付給\\Person{普爾喀麗亞}照顧。",
+    "p0008": "因為我們知道\\OriginalTerm{恩主}{Your Grace}願以多大的虔誠關懷大公司鐸，我們已下令告知\\OriginalTerm{恩主}{Your Grace}：我的兄弟和同僚主教\\Person{歐瑟伯}正與我們同住，並分享我們的共融；我們將其教會託付給\\OriginalTerm{恩主}{Your Grace}，因為據說不當被選接替他位置的人正在蹂躪該教會。\\newline{} 此外，我們請求\\OriginalTerm{恩主}{Your Grace}——我們不懷疑\\OriginalTerm{恩主}{Your Grace}會自願這樣做——將應有的恩惠同樣賜予我的兄弟和同僚主教\\Person{猶利安}，以及那些以忠誠依附神聖\\Person{弗拉維安}的君士坦丁堡神職人員。\\newline{} 關於所有必須執行或安排的事，我們已通過我們的代理人向\\OriginalTerm{恩主}{Your Grace}說明。\\newline{} 日期：\\OriginalTerm{顯赫的亞德斐烏斯}{illustrious Adelfius}執政官之年（451年）四月十三日。"
+  }
+}

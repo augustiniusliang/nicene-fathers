@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202095",
+    "title": "Letter 95",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 95",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 95",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Eusebius, bishop of Samosata</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I had written some while since to your reverence about our meeting one another and other subjects, but I was disappointed at my letter not reaching your excellency, for after the blessed deacon Theophrastus had taken charge of the letter, on my setting out on an unavoidable journey, he did not convey it to your reverence, because he was seized by the sickness of which he died. Hence it happened that I was so late in writing, that, the time being now so exceedingly short, I did not look for there being much use in this letter. The godly bishop Meletius and Theodotus had strongly urged me to visit them, representing that a meeting would be a proof of affection, and being wishful of remedying the troubles which are at present a cause of anxiety. They had appointed, as a time for our meeting, the middle of the approaching month of June, and for the place, Phargamus, a spot famous for martyr's glory and for the large number of people attending the synod there every year. Directly I returned and heard of the death of the blessed deacon, and that my letter was lying useless at home, I felt that I must not be idle, because thirty-three days were still remaining up to the appointed time, and so I hurriedly sent the letter to the very reverend Eustathius, my fellow minister, with the object of its being sent on by him to your reverence and of getting an answer without delay. If, then, it is possible and agreeable to you to come, I will come too. If not, I, God willing, will pay the debt of meeting due from last year: unless haply some hindrance for my sins comes in the way again, in which case I must put off my meeting with the bishops to another time.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202095.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202095.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第95封信",
+    "p0002": "\\Person{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致\\Place{萨莫萨塔}主教\\Person{尤西比乌斯}}。",
+    "p0004": "我此前曾致书尊驾，谈及我们彼此相会及其他事宜，但遗憾的是，我的信未能送达阁下。因为那已故的执事\\Person{德奥佛拉斯图斯}受托保管书信后，我因不得已的旅行外出，他未将信转交给尊驾，因为他患病而亡。因此，我的写信便耽搁如此之久，以致现在时间已极其紧迫，我不指望这封信会有多大用处。虔诚的主教\\Person{梅利提乌斯}和\\Person{德奥多图斯}曾极力敦促我去拜访他们，表示会面将是友爱的证明，并希望补救目前令人担忧的困境。他们指定了将近六月中旬作为我们相会的时间，地点则是\\Place{法尔加穆斯}，一个以殉道者荣耀和每年在此召开大型会议而闻名的地方。我一返回，便听闻那位已故执事的死讯，我的信函也闲置在家中，我深感不能懈怠，因为距离预定时间仍剩三十三天，于是我匆忙将信送交非常尊敬的\\Person{尤斯塔修斯}——我的同工，以便由他转交给尊驾，并迅速得到回音。因此，如果可能且您乐意前来，我也将前来。若不然，但愿天主允许，我将偿还去年所欠的会面之债：除非因我的罪过而再次出现某种阻碍，那样的话，我只能将与众主教的会面推迟到另一时间。"
+  }
+}

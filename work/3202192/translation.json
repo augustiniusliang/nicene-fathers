@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202192",
+    "title": "Letter 192",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 192",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 192",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Sophronius the Master</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "With your extraordinary zeal in good deeds you have written to me to say that you yourself owe me double thanks; first, for getting a letter from me, and secondly, for doing me a service. What thanks, then, must not I owe you, both for reading your most delightful words, and for finding what I hoped for so quickly accomplished! The message was exceedingly gratifying on its own account, but it gave me much greater gratification from the fact that you were the friend to whom I owed the boon. God grant that ere long I may see you, and return you thanks in words, and enjoy the great pleasure of your society.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202192.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202192.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书函一九二}",
+    "p0002": "\\Emph{\\Person{圣巴西略·凯撒勒雅}}",
+    "p0003": "\\Emph{致尚书索夫罗纽}",
+    "p0004": "以您行善的非凡热忱，您写信给我，说您自己欠我双倍的感谢：第一，因收到我的信；第二，因我为您效劳。那么，我岂不更该感谢您吗？既因读到您那令人至为愉悦的文字，又因我所寄望之事如此迅速地实现！那消息本身已极为可喜，但因您是我所欠恩惠的朋友，更使我倍加欣慰。愿天主恩准，不久我能见到您，亲自向您道谢，并享受与您交往的极大快乐。"
+  }
+}

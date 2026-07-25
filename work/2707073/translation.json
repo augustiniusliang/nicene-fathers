@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707073",
+    "title": "Letter 73",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 73",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 73",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Apollonius.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Themistocles the son of Neocles, the far-famed and admirable general, is described by the admiring historian as endowed with natural virtue alone. Of Pericles, however, the son of Xanthippus, it is said that he also derived ability from his education to charm his hearers by his persuasive eloquence, and was gifted with the power alike of knowing what measures should be taken and of enforcing them by word of mouth. In writing about him there is no impropriety in my using his own words. These things illustrate your magnificence, for God, our Creator, has given you natural capacity, and your education makes its brilliance the more conspicuous. Nothing then is wanting to the full complement of your high qualities save only knowledge of their Author; be but this added, and the tale of virtues which we shall have will be complete. Thus I write to you on receiving news of your arrival, beseeching the Giver of all good to grant a beam of light to your soul's eye, to show you the greatness of His boon, to kindle your love of that possession, and to grant the longed for favour to him that longs for it.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707073.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707073.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第七十三封书函",
+    "p0002": "\\Emph{致\\Person{阿波洛尼乌斯}。}",
+    "p0003": "那位令人赞叹的史家用赞美的笔触描述\\Person{尼奥克利斯}之子\\Person{特米斯托克利}，这位远近闻名的杰出将领，说他天生就具备卓越的德性。至于\\Person{桑提波斯}之子\\Person{伯里克利}，据说他同样从教育中获得了才能，能以雄辩的口才取悦听众，并且天赋异禀，既能知晓应采行之策，又能以言辞使之生效。我在论述他时，借用他自己的言辞并无不妥。这些事彰显了您的卓越，因为我们的造物主\\OriginalTerm{天主}{God}赐予您天赋，而您的教育又使这光芒更加璀璨。因此，您的高贵品质已无所欠缺，唯独缺少对赐予者本身的认识；只要加上这一点，我们所拥有的诸德就将臻于圆满。当我得知您到来的消息时，便写信给您，恳求一切美善的施与者赐予您灵魂之眼一道光明，使您看见祂恩赐的伟大，点燃您对那拥有的爱慕，并将那渴望已久的心愿赐予渴望者。"
+  }
+}

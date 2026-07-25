@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202163",
+    "title": "Letter 163",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 163",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 163",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Count Jovinus</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "One can see your soul in your letter, for in reality no painter can so exactly catch an outward likeness, as uttered thoughts can image the secrets of the soul. As I read your letter, your words exactly characterized your steadfastness, your real dignity, your unfailing sincerity; in all those things it comforted me greatly though I could not see you. Never fail, then, to seize every opportunity of writing to me, and to give me the pleasure of conversing with you at a distance; for to see you face to face I am now forbidden by the distressing state of my health. How serious this is you will learn from the God-beloved bishop Amphilochius, who is both able to report to you from his having been constantly with me, and fully competent to tell you what he has seen. But the only reason why I wish you to know of my sufferings is, that you will forgive me for the future, and acquit me of lack of energy, if I fail to come and see you, though in truth my loss does not so much need defence from me as comfort from you. Had it been possible for me to come to you, I should have very much preferred a sight of your excellency to all the ends that other men count worth an effort.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202163.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202163.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一六三封信",
+    "p0002": "\\Emph{凯撒勒雅的圣巴西略}",
+    "p0003": "\\Emph{致约维努斯伯爵}.",
+    "p0004": "从你的信中可以看出你的灵魂，因为实际上没有任何画家能如此精确地捕捉外在的相似，如同说出的话语能够映照灵魂的秘密。当我读你的信时，你的言辞准确地刻画了你的坚毅、你真正的尊严、你始终如一的真诚；尽管不能见到你，但在所有这些事情上，它极大地安慰了我。所以，要永远抓住每一个给我写信的机会，使我能享受与你远距离交谈的乐趣；因为我现在因自己健康状况的痛苦而不能与你当面相见。这有多严重，你将从天主所爱的主教\\Person{安菲洛基乌斯}那里得知，他因常与我在一起而能向你报告，并且完全有能力告诉你他所见到的。但我之所以希望你知道我的痛苦，唯一的原因就是你将来会原谅我，并免除我缺乏活力的责任，如果我没能来看你；虽然实际上，我的损失并不太需要我的辩护，而更需要你的安慰。如果我能到你那里去，我本会更愿意看到你的阁下，胜过别人认为值得努力的所有目标。"
+  }
+}

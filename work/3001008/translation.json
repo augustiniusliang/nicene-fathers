@@ -1,0 +1,63 @@
+{
+  "source": {
+    "source_id": "3001008",
+    "title": "Letter 8",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 8",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 8",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Niceas, Sub-Deacon of Aquileia</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "Niceas, the sub-deacon, had accompanied Jerome to the East but had now returned home. In after-years he became bishop of Aquileia in succession to Chromatius. The date of the letter is 374 A.D."
+          }
+        ]
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The comic poet Turpilius says of the exchange of letters that it alone makes the absent present. The remark, though occurring in a work of fiction, is not untrue. For what more real presence— if I may so speak— can there be between absent friends than speaking to those whom they love in letters, and in letters hearing their reply? Even those Italian savages, the Cascans of Ennius, who— as Cicero tells us in his books on rhetoric— hunted their food like beasts of prey, were wont, before paper and parchment came into use, to exchange letters written on tablets of wood roughly planed, or on strips of bark torn from the trees. For this reason men called letter-carriers tablet-bearers, and letter-writers bark-users, because they used the bark of trees. How much more then are we, who live in a civilized age, bound not to omit a social duty performed by men who lived in a state of gross savagery, and were in some respects entirely ignorant of the refinements of life. The saintly Chromatius, look you, and the reverend Eusebius, brothers as much by compatibility of disposition as by the ties of nature, have challenged me to diligence by the letters which they have showered upon me. You, however, who have but just left me, have not merely unknit our new-made friendship; you have torn it asunder— a process which Lælius, in Cicero's treatise, wisely forbids. Can it be that the East is so hateful to you that you dread the thought of even your letters coming hither? Wake up, wake up, arouse yourself from sleep, give to affection at least one sheet of paper. Amid the pleasures of life at home sometimes heave a sigh over the journeys which we have made together. If you love me, write in answer to my prayer. If you are angry with me, though angry still write. I find my longing soul much comforted when I receive a letter from a friend, even though that friend be out of temper with me.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001008.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001008.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第八封信",
+    "p0002": "\\Emph{致\\Place{阿奎莱亚}的副执事\\Person{尼塞阿斯}}",
+    "p0003": "\\EditorialNote{\\Person{尼塞阿斯}，副执事，曾陪同\\Person{热罗尼莫}前往东方，但现已返回家乡。后来他继\\Person{克罗马提乌斯}之后成为\\Place{阿奎莱亚}的主教。此信写于公元374年。}",
+    "p0004": "喜剧诗人\\Person{图尔皮利乌斯}论书信往来时说，唯有它能使不在场者如在眼前。这句话虽出于虚构之作，却并非不真实。因为，对于分离的朋友而言，还有比在信中向所爱之人倾诉、并在信中倾听回复更为真实的在场吗？甚至那些意大利野人——即\\Person{恩尼乌斯}笔下的卡斯卡人（据\\Person{西塞罗}在其修辞学著作中所述，他们像野兽一样猎取食物）——在纸张和羊皮纸发明之前，也习惯于在粗刨的木板上或从树上撕下的树皮上写信。因此，人们称信使为\\Quote{板持者}，称写信者为\\Quote{用树皮者}，因为他们使用树皮。那么，我们这些生活在文明时代的人，岂不更应当践行一项即使处于极度野蛮状态且全然不知生活精妙之处的人们也曾履行的社交义务吗？你看，圣\\Person{克罗马提乌斯}与可敬的\\Person{欧塞比乌斯}，这两位既因性情相合又因天性相连的兄弟，通过他们寄给我的大量书信激励我勤勉尽责。然而你，才刚离开我，不仅未能维系我们新结的友谊，反而将它彻底撕裂——\\Person{莱利乌斯}在\\Person{西塞罗}的论文中明智地禁止这一做法。难道东方对你就如此可憎，以至于你连让书信来到这里都感到恐惧？醒来吧，醒来，从沉睡中振作，至少拿出一页纸给友爱。在家庭生活的欢乐中，有时也请为我们曾一同走过的旅程叹息。如果你爱我，就回复我的请求。如果你生我的气，即使生气也请回信。我发现，当我收到朋友的来信时，即使那朋友正对我生气，我渴望的灵魂也会得到极大的安慰。"
+  }
+}

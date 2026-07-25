@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "1102269",
+    "title": "Letter 269",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 269",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 269",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Nobilius, My Most Blessed and Venerable Brother and Partner in the Priestly Office, Augustine Sends Greeting.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "So important is the solemnity at which your brotherly affection invites me to be present, that my heart's desire would carry my poor body to you, were it not that infirmity renders this impossible. I might have come if it had not been winter; I might have braved the winter if I had been young: for in the latter case the warmth of youth would have borne uncomplainingly the cold of the season; in the former case the warmth of summer would have met with gentleness the chill languor of old age. For the present, my lord most blessed, my holy and venerable partner in the priestly office, I cannot undertake in winter so long a journey, carrying with me as I must the frigid feebleness of very many years. I reciprocate the salutation due to your worth, on behalf of my own welfare I ask an interest in your prayers, and I myself beseech the Lord God to grant that the prosperity of peace may follow the dedication of so great an edifice to His sacred service.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102269.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102269.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "信函269",
+    "p0002": "\\Emph{致\\Person{诺比利乌斯}，我最蒙福且可敬的兄弟、司铎职务中的伙伴，\\Person{奥古斯丁}致以问候。}",
+    "p0003": "您兄弟般的盛情邀请我参加的庆典如此重要，以致若非体弱使我无法成行，我内心的渴望定会带我这可怜的身体到您那里去。若此时非冬日，我本可成行；若我尚年少，我本可无畏寒冬：因为若是年少，青春的温暖会毫无怨言地承受季节的寒冷；若是夏日，夏季的温暖会温和地面对老年的寒气与倦怠。目前，我最蒙福的阁下，我圣善而可敬的司铎职务伙伴，我无法在冬日进行如此漫长的旅程，因为我必须带着因极多年岁而来的冰冷虚弱之躯。我以您应得的问候回敬，为自身的福祉，我请求您在祈祷中纪念我，我自己也恳求主天主，使如此宏伟的圣堂为敬礼祂而举行的奉献礼带来和平的繁荣。"
+  }
+}

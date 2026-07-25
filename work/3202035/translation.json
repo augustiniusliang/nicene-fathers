@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202035",
+    "title": "Letter 35",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 35",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 35",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Without address</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have written to you about many people as belonging to myself; now I mean to write about more. The poor can never fail, and I can never say, no. There is no one more intimately associated with me, nor better able to do me kindnesses wherever he has the ability, than the reverend brother Leontius. So treat his house as if you had found me, not in that poverty in which now by God's help I am living, but endowed with wealth and landed property. There is no doubt that you would not have made me poor, but would have taken care of what I had, or even added to my possessions. This is the way I ask you to behave in the house of Leontius. You will get your accustomed reward from me; my prayers to the holy God for the trouble you are taking in showing yourself a good man and true, and in anticipating the supplication of the needy.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202035.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202035.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第三十五封",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{无收件人地址。}",
+    "p0004": "我曾写信给你提到许多如同我自己一样的人；现在我要提及更多。穷人永不会断绝，我也永不会说\\Quote{不}。没有任何人比我更亲密，更能在他力所能及的地方为我施恩，除了尊敬的弟兄\\Person{莱昂提乌斯}。所以，请如此对待他的家，如同你发现我并非处于现今因天主助佑我所过的贫穷之中，而是拥有财富和地产。毫无疑问，你不会使我贫穷，反而会看顾我所拥有的，甚至增加我的产业。这就是我请求你在\\Person{莱昂提乌斯}的家中行事的方式。你将从我这里得到你惯常的奖赏；因你劳苦所显出的善良和真诚，以及提前回应穷人的恳求，我向圣洁的天主献上祈祷。"
+  }
+}

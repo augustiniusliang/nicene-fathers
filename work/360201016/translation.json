@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201016",
+    "title": "Book I, Letter 16",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 16",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 16",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Severus, Bishop of Aquileia</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Severus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "As, when one who walks through devious ways takes anew the right path, the Lord embraces him with all eagerness, so afterwards, when one deserts the way of truth, He is more saddened with grief for him than He rejoiced over him with joy when he turned from error; since it is a less degree of sin not to know the truth than not to abide in it when known: and what is committed in error is one thing, but what is perpetrated knowingly is another. And we, from having formerly rejoiced in your being incorporated in the unity of the Church, are now the more abundantly distressed for your dissociation from the Catholic society. Accordingly we desire you, at the instance of the bearer of these presents, according to the command of the most Christian and most serene Emperor, to come with your adherents to the threshold of the blessed Apostle Peter, that, a synod being assembled by the will of God, judgment may be passed concerning the doubt that is entertained among you.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201016.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201016.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷一，第十六封信",
+    "p0002": "\\Emph{致\\Place{阿奎莱亚}主教\\Person{塞味禄}}",
+    "p0003": "\\Person{额我略}致\\Person{塞味禄}等",
+    "p0004": "当一个人行于歧途又重新走上正路时，主以全心拥抱他；那么后来，当这同一人离弃真理之路时，主为他忧伤，比当初他转离错谬时主因他而欢喜更为深切；因为不认识真理，其罪小于认识后不持守真理；出于错误的作为是一回事，明知故犯又是另一回事。我们以前曾因你融入了教会的合一而欢喜，现在更因你脱离了公教会团体而深感悲痛。因此，我们希望你，在持信者的敦促下，遵照最虔诚、最安详的皇帝之命，与你的追随者一同来到蒙福的宗徒\\Person{伯多禄}的座前，以便藉天主的旨意召集一次主教会议，对你们中间存在的疑问作出判断。"
+  }
+}

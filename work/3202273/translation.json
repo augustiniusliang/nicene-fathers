@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202273",
+    "title": "Letter 273",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 273",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 273",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Without address. Concerning Hera.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am sure that your excellency loves me well enough to regard all that concerns me as concerning you. Therefore I commend to your great kindness and high consideration my very reverend brother Hera, whom I do not merely call brother by any conventional phrase, but because of his boundless affection. I beseech you to regard him as though he were nearly connected with yourself, and, so far as you can, to give him your protection in the matters in which he requires your generous and thoughtful aid. I shall then have this one more kindness to reckon in addition to the many which I have already received at your hands.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202273.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202273.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二七三封信",
+    "p0002": "\\Person{凯撒勒雅的圣巴西略}",
+    "p0003": "无收信人。关于赫拉。",
+    "p0004": "我确信阁下如此爱我，以致凡关乎我的事，皆视为关乎您自己。因此，我将我可敬的兄弟\\Person{赫拉}——我不仅以惯用语称他为兄弟，更因他无限的情谊——推荐予您的极大仁厚与高度重视。我恳求您视他如同与您关系密切一般，并在您可能的情况下，在他需要您慷慨且周详援助的事上给予保护。如此，我将在您已赐予我的众多恩惠之外，再增添这一项恩惠。"
+  }
+}

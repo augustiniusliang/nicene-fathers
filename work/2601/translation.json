@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "2601",
+    "title": "Church History",
+    "breadcrumbs": "Home > Fathers of the Church > Church History (Socrates Scholasticus)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Church History",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Book I\nBook II\nBook III\nBook IV\nBook V\nBook VI\nBook VII",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by A.C. Zenos. From Nicene and Post-Nicene Fathers, Second Series, Vol. 2. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1890.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2601.htm>.",
+    "metadata": {
+      "srctrans": "Translated by A.C. Zenos.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 2.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1890.",
+      "srcurl": "<http://www.newadvent.org/fathers/2601.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "教会历史",
+    "p0002": "第一卷\\newline{}第二卷\\newline{}第三卷\\newline{}第四卷\\newline{}第五卷\\newline{}第六卷\\newline{}第七卷"
+  }
+}

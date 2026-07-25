@@ -1,0 +1,82 @@
+{
+  "source": {
+    "source_id": "230100",
+    "title": "Homily on Ephesians",
+    "breadcrumbs": "Home > Fathers of the Church > Homilies on Ephesians (Chrysostom) > Homily",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Homily on Ephesians",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Ephesus is the metropolis of Asia. It was dedicated to Diana, whom especially they worshipped there as their great goddess. Indeed so great was the superstition of her worshippers, that when her temple was burnt, they would not so much as divulge the name of the man who burnt it.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "The blessed John the Evangelist spent the chief part of his time there: he was there when he was banished, and there he died. It was there too that Paul left Timothy, as he says in writing to him, <quote>As I exhorted you to tarry at Ephesus.</quote> {{BIBLE:1ti 1:3}}",
+        "scripture": [
+          "1ti 1:3"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Most of the philosophers also, those more particularly who flourished in Asia, were there; and even Pythagoras himself is said to have come from thence; perhaps because Samos, whence he really came, is an island of Ionia. It was the resort also of the disciples of Parmenides, and Zeno, and Democritus, and you may see a number of philosophers there even to the present day.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "These facts I mention, not merely as such, but with a view of showing that Paul would needs take great pains and trouble in writing to these Ephesians. He is said indeed to have entrusted them, as being persons already well-instructed, with his profoundest conceptions; and the Epistle itself is full of sublime thoughts and doctrines.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "He wrote the Epistle from Rome, and, as he himself informs us, in bonds. <quote>Pray for me, that utterance may be given unto me, in opening my mouth to make known with boldness the mystery of the Gospel, for which I am an ambassador in chains.</quote> {{BIBLE:eph 6:19}} It abounds with sentiments of overwhelming loftiness and grandeur. Thoughts which he scarcely so much as utters any where else, he here plainly declares; as when he says, <quote>To the intent that now unto the principalities and the powers in the heavenly places might be made known through the Church the manifold wisdom of God.</quote> {{BIBLE:eph 3:10}} And again; <quote>He raised us up with him, and made us to sit with him in heavenly places.</quote> {{BIBLE:eph 2:6}} And again; <quote>Which in other generations was not made known unto the sons of men, as it has now been revealed unto His holy apostles and prophets in the Spirit, that the Gentiles are fellow-heirs, and fellow-partakers of the promise in Christ.</quote> {{BIBLE:eph 3:5}}",
+        "scripture": [
+          "eph 6:19",
+          "eph 3:10",
+          "eph 2:6",
+          "eph 3:5"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Gross Alexander. From Nicene and Post-Nicene Fathers, First Series, Vol. 13. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1889.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/230100.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Gross Alexander.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1889.",
+      "srcurl": "<http://www.newadvent.org/fathers/230100.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "致厄弗所人书讲道",
+    "p0002": "厄弗所是亚细亚的首府。此城奉献给狄安娜，那里的人特别崇拜她，视之为伟大的女神。崇拜者的迷信确实如此之深，以至当她的神庙被焚毁时，他们连纵火者的名字都不肯透露。",
+    "p0003": "蒙福的圣史若望一生大部分时间在那里度过：他被放逐时在那里，死在那里。保禄也曾将弟茂德留在那里，正如他在致弟茂德书中所说：\\BibleQuote{我曾劝你留在厄弗所。}\\BibleRef{弟前 1:3}",
+    "p0004": "大多数哲学家，尤其是那些在亚细亚活跃的，也曾在厄弗所；据说连毕达哥拉斯本人也来自那里；也许是因为他真正的故乡\\Place{萨摩斯}是\\Place{爱奥尼亚}的一个岛。那里也是\\Person{巴门尼德}、\\Person{芝诺}和\\Person{德谟克利特}的弟子们聚集之处，甚至到今天你还可以在那里看到许多哲学家。",
+    "p0005": "我提及这些事实，并非仅仅为了陈述，而是要显示保禄在给这些厄弗所人写信时，必须付出极大的辛劳和努力。据说他确实将最深奥的思想托付给了他们，因为他们已经是受过良好教导的人；而这篇书信本身也充满了崇高的思想和教义。",
+    "p0006": "他自罗马写信，并且如他自己告诉我们的，是在锁链中写的。\\BibleQuote{也为祈求，使我能开口宣讲，大胆地传扬福音的奥秘，为这福音我作了带锁链的使者。}\\BibleRef{弗 6:19}这封信充满了无比崇高和伟大的情感。那些他在别处几乎不曾提及的思想，在此却明确宣告；例如他说：\\BibleQuote{为使天上的率领者与掌权者，藉着教会，得知天主各样的智慧。}\\BibleRef{弗 3:10}又说：\\BibleQuote{祂使我们与基督一同复活，使我们一同坐在天上。}\\BibleRef{弗 2:6}又说：\\BibleQuote{这奥秘在以前的世代没有告知人类，如今却藉着圣神启示给祂的圣宗徒和先知，就是外邦人同为承继者，同为恩许的分享者，在基督耶稣内。}\\BibleRef{弗 3:5}"
+  }
+}

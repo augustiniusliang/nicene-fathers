@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202255",
+    "title": "Letter 255",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 255",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 255",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Vitus, bishop of Charræ.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Would that it were possible for me to write to your reverence every day! For ever since I have had experience of your affection I have had great desire to converse with you, or, if this be impossible, at least to communicate with you by letter, that I may tell you my own news and learn in what state you are. Yet we have not what we wish but what the Lord gives, and this we ought to receive with gratitude. I have therefore thanked the holy God for giving me an opportunity for writing to your reverence on the arrival of our very well beloved and reverend brother Sanctissimus, the presbyter. He has had considerable trouble in accomplishing his journey, and will tell you with accuracy all that he has learned in the West. For all these things we ought to thank the Lord and to beseech Him to give us too the same peace and that we may freely receive one another. Receive all the brethren in Christ in my name.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202255.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202255.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第二五五封书信",
+    "p0002": "\\Emph{该撒利亚的圣巴西略}",
+    "p0003": "\\Emph{致\\Place{卡雷}主教\\Person{维图斯}。}",
+    "p0004": "但愿我能每天都给您写信！因为自从我体验到您的情谊以来，我就非常渴望与您交谈，若不能如此，至少也借书信与您往来，好向您告知我的近况，并了解您的状况。然而，我们所得的不是我们所愿的，而是主所赐予的，我们应当怀着感恩之心领受。因此，当我们的至爱且可敬的弟兄、司铎\\Person{桑克蒂西穆斯}到达时，我感谢了圣洁的天主，因祂赐我机会给您写信。他在旅途中经历了相当多的辛劳，将会准确地向您讲述他在\\Place{西方}所获悉的一切。为这一切，我们应当感谢主，并恳求祂也赐予我们同样的平安，使我们能自由地彼此接待。请以我的名义接待所有在主内的弟兄。"
+  }
+}

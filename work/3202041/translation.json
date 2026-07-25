@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202041",
+    "title": "Letter 41",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 41",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 41",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Basil to Julian</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "1. The heroic deeds of your present splendour are small, and your grand attack against me, or rather against yourself, is paltry. When I think of you robed in purple, a crown on your dishonoured head, which, so long as true religion is absent, rather disgraces than graces your empire, I tremble. And you yourself who have risen to be so high and great, now that vile and honour-hating demons have brought you to this pass, have begun not only to exalt yourself above all human nature, but even to uplift yourself against God, and insult His Church, mother and nurse of all, by sending to me, most insignificant of men, orders to forward you a thousand pounds of gold. I am not so much astonished at the weight of the gold, although it is very serious; but it has made me shed bitter tears over your so rapid ruin. I bethink me how you and I have learned together the lessons of the best and holiest books. Each of us went through the sacred and God-inspired Scriptures. Then nothing was hid from you. Nowadays you have become lost to proper feeling, beleaguered as you are with pride. Your serene Highness did not find out for the first time yesterday that I do not live in the midst of superabundant wealth. Today you have demanded a thousand pounds of gold of me. I hope your serenity will deign to spare me. My property amounts to so much, that I really shall not have enough to eat as much as I shall like today. Under my roof the art of cookery is dead. My servants' knife never touches blood. The most important viands, in which lies our abundance, are leaves of herbs with very coarse bread and sour wine, so that our senses are not dulled by gluttony, and do not indulge in excess.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Your excellent tribune Lausus, trusty minister of your orders, has also reported to me that a certain woman came as a suppliant to your serenity on the occasion of the death of her son by poison; that it has been judged by you that poisoners are not allowed to exist; if any there be, that they are to be destroyed, or, only those are reserved, who are to fight with beasts. And, this rightly decided by you, seems strange to me, for your efforts to cure the pain of great wounds by petty remedies are to the last degree ridiculous. After insulting God, it is useless for you to give heed to widows and orphans. The former is mad and dangerous; the latter the part of a merciful and kindly man. It is a serious thing for a private individual like myself to speak to an emperor; it will be more serious for you to speak to God. No one will appear to mediate between God and man. What you read you did not understand. If you had understood, you would not have condemned.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202041.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202041.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四十一书",
+    "p0002": "\\Person{圣巴西略} \\Place{凯撒勒雅}",
+    "p0003": "\\Emph{巴西略致尤利安书}。",
+    "p0004": "一、尊驾目前的壮举微不足道，您对我的猛烈攻击，或不如说是对您自己的攻击，也微不足道。当我想到您身披紫袍，戴着冠冕在您那蒙羞的头上——由于真宗教的缺席，这王冠与其说荣耀您的帝国，不如说使其蒙羞——我便颤抖不已。而您本人，虽已变得如此崇高伟大，但如今卑鄙且憎恨荣誉的恶魔将您引至此境，您不仅开始超乎一切人性之上，甚至起来反对天主，侮辱祂的教会——万有的母亲与养育者——竟派遣最微不足道的我，命令我向您进献一千磅黄金。我并非因黄金的重量而如此震惊，尽管它确实沉重；但它使我为您如此迅速的堕落流下苦泪。我想到您我一同学习最优良、最神圣之书的功课。我们各自通过了神圣而受天主启示的圣经。那时，于您一无所隐。如今，您已迷失了正当情感，被傲慢围困。您的殿下并非昨日才初次发现我并不活在极度富足之中。今日您却向我索要一千磅黄金。但愿殿下屈尊宽免我。我的财产之微，实在连今日想吃个够也不够。在我屋檐下，厨艺已绝迹。我仆人的刀从不沾血。最重要的菜肴——我们丰盛之所在——是野菜叶搭配极粗的面包和酸酒，这样我们的感官不致因贪食而迟钝，也不至于纵情过度。",
+    "p0005": "二、您出色的护民官劳苏斯，您命令的忠实执行者，也向我报告说，有一妇人因儿子被毒杀而向殿下求诉；您断定毒杀者不得容留；若有，则当处死，或只留下那些与野兽搏斗的人。您如此判断正确，但在我看来却奇怪，因为您试图用微小的补救治疗大创伤的痛苦，这荒谬至极。在侮辱天主之后，您再关心寡妇孤儿也无用。前者是疯狂危险的；后者是仁慈善良之人的作为。像我这样一个平民对皇帝说话是件严重的事；您对天主说话将更为严重。没有人在天主与人之间做中介。您所读的，您并不明白。若您明白了，就不会定罪。"
+  }
+}

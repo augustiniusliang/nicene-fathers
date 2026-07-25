@@ -1,0 +1,54 @@
+{
+  "source": {
+    "source_id": "3001106",
+    "title": "Letter 106",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Jerome > Letter 106",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 106",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>To Sunnias and Fretela</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "{{NOTE:note1}}",
+        "scripture": [],
+        "style": "",
+        "notes": [
+          {
+            "id": "note1",
+            "kind": "editorial",
+            "text": "A long letter in which Jerome answers a number of questions put to him by two sojourners in Getica, Sunnias and Fretela. Diligent students of scripture, these men were at a loss to understand the frequent differences between Jerome's Latin psalter of 383 A.D. (the so-called Roman psalter) and the LXX, and accordingly sent him a long list of passages with a request for explanation. Jerome in his reply deals fully with all these and points out to his correspondents that they have been misled by their edition of the LXX. (the common edition) which differs widely from the critical text of Origen as given in the Hexapla and used by himself. He also expresses his joy to find that even among the Getæ the scriptures are now diligently studied. The date of the letter is about 403 A.D."
+          }
+        ]
+      }
+    ],
+    "source_note": "Source. Translated by W.H. Fremantle, G. Lewis and W.G. Martley. From Nicene and Post-Nicene Fathers, Second Series, Vol. 6. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1893.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3001106.htm>.",
+    "metadata": {
+      "srctrans": "Translated by W.H. Fremantle, G. Lewis and W.G. Martley.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1893.",
+      "srcurl": "<http://www.newadvent.org/fathers/3001106.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第一〇六封书信}",
+    "p0002": "\\Emph{致\\Person{Sunnias}与\\Person{Fretela}}",
+    "p0003": "\\EditorialNote{一封长信，热罗尼莫在其中回答两位侨居格提卡的\\Person{Sunnias}与\\Person{Fretela}向他提出的若干问题。此二人勤研圣经，却对热罗尼莫公元三八三年所译拉丁圣咏集（即所谓罗马圣咏集）与《七十贤士译本》间的常见差异感到困惑，遂寄予他一份长长的问题清单，请求解释。热罗尼莫在回信中详尽处理了所有这些问题，并向他的通信者指出，他们被其所用的《七十贤士译本》（普通版本）误导了，该译本与奥力振在《六栏圣经》中所提供的校勘本（即他自己所用的版本）差异甚大。他还表达了喜悦，发现即使在格提卡人中，圣经如今也被殷勤研读。此信日期约为公元四〇三年。}"
+  }
+}

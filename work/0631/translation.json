@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "0631",
+    "title": "Against the Heathen",
+    "breadcrumbs": "Home > Fathers of the Church > Against the Heathen (Arnobius)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Against the Heathen",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong>Book 1</strong>\n<strong>Book 2</strong>\n<strong>Book 3</strong>\n<strong>Book 4</strong>\n<strong>Book 5</strong>\n<strong>Book 6</strong>\n<strong>Book 7</strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Hamilton Bryce and Hugh Campbell. From Ante-Nicene Fathers, Vol. 6. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1886.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/0631.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Hamilton Bryce and Hugh Campbell.",
+      "srcwork": "Ante-Nicene Fathers",
+      "srcvolume": "Vol. 6.",
+      "srced": "Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1886.",
+      "srcurl": "<http://www.newadvent.org/fathers/0631.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "驳异教徒",
+    "p0002": "\\Emph{第一卷}\\newline{}\\Emph{第二卷}\\newline{}\\Emph{第三卷}\\newline{}\\Emph{第四卷}\\newline{}\\Emph{第五卷}\\newline{}\\Emph{第六卷}\\newline{}\\Emph{第七卷}"
+  }
+}

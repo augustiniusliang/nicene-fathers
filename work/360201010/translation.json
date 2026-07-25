@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360201010",
+    "title": "Book I, Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book I, Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book I, Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Bacauda and Agnellus, Bishops.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Bacauda, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The Hebrews dwelling in Terracina have petitioned us for licence to hold, under our authority, the site of their synagogue which they have held hitherto. But, inasmuch as we have been informed that the same site is so near to the church that even the sound of their psalmody reaches it, we have written to our brother and fellow bishop Peter that, if it is the case that the voices from the said place are heard in the church, the Jews must cease to worship there. Therefore let your Fraternity, with our above-named brother and fellow bishop, diligently inspect this place, and if you find that there has been any annoyance to the church, provide another place within the fortress, where the aforesaid Hebrews may assemble, so that they may be able to celebrate their ceremonies without impediment. But let your Fraternity provide such a place, in case of their being deprived of this one, that there be no cause of complaint in future. But we forbid the aforesaid Hebrews to be oppressed or vexed unreasonably; but, as they are permitted, in accordance with justice, to live under the protection of the Roman laws, let them keep their observances as they have learned them, no one hindering them: yet let it not be allowed them to have Christian slaves.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360201010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360201010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一卷，第十封",
+    "p0002": "\\Emph{致\\Person{巴高达}与\\Person{阿格内鲁斯}主教}",
+    "p0003": "\\Signature{格里高利致\\Person{巴高达}等}",
+    "p0004": "住在\\Place{泰拉奇纳}的希伯来人向我们请求许可，得以在我们的权下，持有他们迄今为止所拥有的会堂场地。但是，因为我们已获悉，同样的场地离教堂如此之近，以至于他们圣咏的声音都能传到教堂，我们已写信给我们同为主教的弟兄\\Person{伯多禄}，告知他：如果情况是，从该处传来的声音在教堂中被听到，那么犹太人就必须停止在那里敬拜。因此，请阁下与上述我们的弟兄及同为主教者一起仔细视察该处，如果发现有任何对教堂的干扰，请在堡垒内提供另一个场所，使前述希伯来人可以聚集，以便他们能够无阻碍地举行他们的礼仪。但请阁下提供这样一个场所，以防他们被剥夺这一个，以致将来没有抱怨的理由。但我们禁止前述希伯来人受无理压迫或困扰；既然根据公义，他们获准在罗马法律的保护下生活，就让他们遵守他们所学的规诫，无人阻碍他们；然而不得允许他们拥有基督徒奴隶。"
+  }
+}

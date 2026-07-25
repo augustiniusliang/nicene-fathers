@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202253",
+    "title": "Letter 253",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 253",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 253",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To the presbyters of Antioch.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The anxious care which you have for the Churches of God will to some extent be assuaged by our very dear and very reverend brother Sanctissimus the presbyter, when he has told you of the love and kindness felt for us by all the West. But, on the other hand, it will be roused afresh and made yet keener, when he has told you in person what zeal is demanded by the present position of affairs. All other authorities have told us, as it were, by halves, the minds of men in the West, and the condition of things there. He is very competent to understand men's minds, and to make exact enquiry into the condition of affairs, and he will tell you everything and will guide your good will through the whole business. You have matter before you appropriate to the excellent will which you have always shown in your anxiety on behalf of the Churches of God.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202253.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202253.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信第253号}",
+    "p0002": "\\Emph{圣巴西略·凯撒勒雅}",
+    "p0003": "\\Emph{致安提约基雅的长老们。}",
+    "p0004": "你们对天主的教会所怀的焦虑关切，将因我们极为敬爱的弟兄、司铎\\Person{桑克提西穆斯}告诉你们整个西方对我们所怀的慈爱和善意，而得到一定程度的舒缓。但另一方面，当他亲自告诉你们当前的局势要求何等热忱时，这份关切又将被重新激起，变得更加敏锐。其他权威人士在向我们讲述西方人的心意和那里的状况时，几乎都只说了一半。他极善于理解人的心意，并精确地探询事态的真相；他将告诉你们一切，并引导你们的善意贯穿整个事务。摆在你们面前的材料，正适合你们在为天主的教会焦虑中所一贯表现出的卓越善意。"
+  }
+}

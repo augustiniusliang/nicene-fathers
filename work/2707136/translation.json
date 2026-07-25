@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "2707136",
+    "title": "Letter 136",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 136",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 136",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Cyrus Magistrianus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "I was very much distressed to hear of the trouble which had befallen you. How indeed could I fail to suffer, making as I do your interest mine, and remembering the apostolic law which bids us not only <quote>rejoice with them that do rejoice, but also weep with them that weep</quote>? Suffering itself is able to draw even those that are at enmity with one another into sympathy.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "What is so grievous as to lose a wife; one who bore blamelessly the yoke of wedlock, one who made her husband's life pleasant, one who shared the care of the family; one who managed the household and shared in the direction of everything; one who was ready to suggest whatever might be likely to be of service, and to comply with the wishes of her husband? But what sorrow could surpass the committal to the tomb of the mother at the same moment as the son whom she bore; a son who had been carefully trained and had received a learned education; one who, you hoped, would be the stay of your old age; buried in the very spring of his manhood, when the down was just beginning to grow upon his cheeks? Did we only look at the character of the calamity, it admits of no consolation. But when we bethink us how our race is doomed to die; that against that race the divine fiat has gone forth; that suffering is common, for life is full of such woes; we shall bravely bear what has happened, shall repel the assaults of despair, and shall raise that wonderful song of praise <quote>The Lord gave and the Lord has taken away; the Lord has done what seemed to him good; blessed be the name of the Lord.</quote> But we have many more reasons for consolation. We have been distinctly taught the hopes of the resurrection, and we look for the time when the dead shall live again. We know how the Lord many times called death sleep. If we trust, as in truth we do, the Saviour's words, we are bound not to mourn those that have fallen asleep, even though their sleep lasts somewhat longer than it is wont. We must await the resurrection. We must remember that the Ruler of the world in His wisdom, and clearly knowing as He does not the present only but the future also, guides events for our good. A wise man who knew all this full well reasons about deaths of this kind and says, <quote>Yea; speedily was he taken away, lest that wickedness should alter his understanding.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Let us submit I beg you to the wise Ruler of all; let us submit to His decrees. Whether they be pleasant or whether they be grievous, they are good and profitable, they make men wise; for them that endure they ordain crowns.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707136.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707136.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一三六书",
+    "p0002": "寄\\Person{济利禄}．\\OriginalTerm{侍从官}{Magistrianus}书",
+    "p0003": "闻君所遭之患，我心甚忧。我岂能不忧？因我以君之利为己利，且记宗徒之律，命我侪不仅\\BibleQuote{与喜乐者同乐，亦与哭泣者同哭}。苦难本身能使仇敌亦生同情。",
+    "p0004": "何者如丧妻之痛？彼妇无可指摘地负起婚姻之轭，使夫生活愉快，共理家务，主持内事，参决诸务；常能进善言，顺夫意。然而，又有何哀能胜于同时殡葬母亲与其所生之子？此子受精心培育，习得博学教育，君望其成为晚年之依靠；却在英年之际，面颊初生细毛时即被埋葬。若仅视灾祸之性质，实无慰藉可言。然念及吾族注定必死，天命已降于斯族；苦难为常事，因生命充满此类哀伤；如此，吾人当勇敢承当所遇之事，击退绝望之攻击，且高唱那奇妙颂歌：\\BibleQuote{主赐予，主亦收回；主行其所视为善者；愿主之名受赞美。}吾人尚有更多安慰之理：吾人明确受教于复活的希望，期待死者复生之时。吾知主屡次称死亡为睡眠。若吾人信靠救主之言——诚然如此——则不当为已眠者哀悼，纵其睡眠稍长于常。吾人当等候复活。当记念宇宙之主以其智慧，既知现在亦知未来，导引万事为吾人获益。一智者深知此事，论及此类死亡时曰：\\BibleQuote{诚然，他迅速被接去，免得邪恶改变他的悟性。}",
+    "p0005": "我恳求君，让我们服从那智慧的万有治理者，服从祂的法令。无论它们令人愉悦或令人忧伤，都是美好而有益的，使人明智；为忍耐者预备冠冕。"
+  }
+}

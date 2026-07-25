@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "360203010",
+    "title": "Book III, Letter 10",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book III, Letter 10",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book III, Letter 10",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Savinus, Subdeacon</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Savinus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Bad men have gone forth and disturbed your minds, understanding neither what they say nor whereof they affirm, pretending that in the times of Justinian of pious memory something was detracted from the faith of the holy synod of Chalcedon, which with all faith and all devotion we venerate. And in like manner all the four synods of the holy universal Church we receive as we do the four books of the holy Gospel. But concerning the persons with respect to whom something had been done after the close of the synod, there was something ventilated in the times of Justinian of pious memory: yet so that neither was the faith in any respect violated, nor anything else done with regard to these same persons but what had been determined at the same holy synod of Chalcedon. Moreover, we anathematize any one who presumes to detract anything from the definition of the faith which was promulgated in the said synod, or, as though by amending it, to change its meaning: but, as it was there promulged, so in all respects we guard it. You, therefore, most dear son, it becomes to return to the unity of Holy Church, that you may end your days in peace; lest the malignant spirit, who cannot prevail against you through your other works, may from this cause find a way at the day of your departure of barring your entrance into the heavenly Kingdom.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360203010.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360203010.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "卷三，第十封信",
+    "p0002": "\\Emph{致副执事萨维努斯}。",
+    "p0003": "\\Person{额我略}致\\Person{萨维努斯}等。",
+    "p0004": "恶人已出去扰乱了你们的心，不明白他们所说的话，也不知道他们所坚持的是什么，假装在虔诚纪念的\\Person{犹斯提尼安}时代，从\\Place{加采东}神圣大公会议的信德中有所减损，而我们以全备的信德和全部的虔诚敬拜那次大公会议。同样，我们接受圣而公教会所有四次大公会议，如同我们接受四卷\\WorkTitle{神圣福音}一样。但是，关于那些在大公会议结束后有所行动的人，在虔诚纪念的\\Person{犹斯提尼安}时代曾有一些讨论；然而，信德在任何方面都没有被违反，而且关于这些人的任何事，也没有超出同一\\Place{加采东}神圣大公会议所决定的。此外，我们诅咒任何胆敢从那次大公会议所颁布的信德定义中减损，或如同修订一般改变其含义的人；但正如它在那里被颁布，我们在各方面都持守它。因此，最亲爱的儿子，你应当回归到圣教会的合一中，以便你能在平安中度过你的日子；免得那恶神，虽然不能通过你的其他行为胜过你，却在你离世之日，因这事找到阻止你进入天上之国的途径。"
+  }
+}

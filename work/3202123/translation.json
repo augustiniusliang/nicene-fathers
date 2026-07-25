@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202123",
+    "title": "Letter 123",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 123",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 123",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Urbicius, the monk</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "You were to have come to see me (and the blessing was drawing near) to cool me, aflame in my temptations, with the tip of your finger. What then? My sins stood in the way and hindered your start, so that I am sick without a remedy. Just as when the waves are round us, one sinks and another rises, and another looms black and dreadful, so of my troubles: some have ceased, some are with me, some are before me. As is generally the case, the one remedy for these troubles is to yield to the crisis and withdraw from my persecutors. Yet come to me, to console, to advise, or even to travel with me; in any case you will make me better for the mere sight of you. Above all, pray, and pray again, that my reason be not whelmed by the waves of my troubles; pray that all through I may keep a heart pleasing to God, that I be not numbered with the wicked servants, who thank a master when he gives them good, and refuse to submit when he chastises them by adversity; but let me reap benefit from my very trials, trusting most in God when I need Him most.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202123.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202123.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第一二三封信",
+    "p0002": "\\Emph{\\Person{圣巴西略（凯撒勒雅）}}",
+    "p0003": "\\Emph{致隐修士\\Person{乌尔比奇乌斯}}。",
+    "p0004": "你本应来见我（祝福已经临近），以你的指尖凉爽我，因我在诱惑中如火焚。但后来如何？我的罪从中作梗，阻碍了你的启程，以致我身患无药可医之疾。正如波浪在我们周围，一个沉下，另一个涌起，又有一个阴森可怖地显现，我的烦恼也是如此：有些已经平息，有些正与我同在，有些还在前方。通常来说，这些烦恼的唯一良药便是向危机让步，远离迫害我的人。然而，请来我这里，安慰我，劝诫我，甚至与我同行；无论如何，单是见到你，就会使我好转。最重要的是，祈祷，再祈祷，愿我的理智不被烦恼的波浪所淹没；愿我自始至终持守一颗悦乐天主的心，不与被列为邪恶的仆人，他们只在主人赐予好处时感恩，却在主人以逆境责罚他们时拒绝顺服；但愿我从试炼中获益，在我最需要天主时，最信赖祂。"
+  }
+}

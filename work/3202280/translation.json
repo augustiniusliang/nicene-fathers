@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202280",
+    "title": "Letter 280",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 280",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 280",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "To Modestus the Prefect.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I feel my boldness in pressing my suit by letter upon a man in your position; still the honour that you have paid me in the past has banished all my scruples. Accordingly I write with confidence.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "My plea is for a relative of mine, a man worthy of respect for his integrity. He is the bearer of this letter, and he stands to me in the place of a son. Your favour is all that he requires for the fulfilment of his wishes. Deign therefore to receive, at the hands of the aforesaid bearer, my letter in furtherance of his plea. I pray you to give him an opportunity of explaining his affairs at an interview with those in a position to help him. So by your direction shall he quickly obtain his desires; while I shall have occasion for boasting that by God's favour I have found a champion who regards the entreaties of my friends as personal claims to his protection.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202280.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202280.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 280",
+    "p0002": "\\Emph{\\Place{凯撒勒雅}的\\Person{圣巴西略}}",
+    "p0003": "致长官\\Person{莫德斯图}。",
+    "p0004": "我深知，以书信向阁下这般地位的人恳求实属冒昧；然而您过去赐予我的尊荣已打消我的一切顾虑。因此我满怀信心地写信。",
+    "p0005": "我恳求的对象是我的一位亲戚，他为人正直，值得尊敬。他是这封信的送信人，于我而言犹如儿子一般。他实现愿望只需您的恩惠。因此，伏请屈尊通过上述送信人接受我这封助其恳求的信。我恳求您给他机会，与能助他一臂之力的人面谈，以便他陈述自己的事务。如此，在您的指示下，他将迅速得偿所愿；而我则将有机会夸耀，因天主的恩宠，我找到了一位保护者，他将我友人的恳求视作自己理应庇护之事。"
+  }
+}

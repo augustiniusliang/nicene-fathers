@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2806017",
+    "title": "Letter 17",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Athanasius) > Letter 17",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 17",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>(For 345.) Coss. Amantius, Albinus; Præf. Nestorius of Gaza; Indict. iii; Easter-day, vii Id. Apr., xii Pharmuthi; Moon 19; Æra Dioclet. 61.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Athanasius to the Presbyters and Deacons of Alexandria, and to the beloved brethren, greeting in Christ.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "According to custom, I give you notice respecting Easter, my beloved, that you also may notify the same to the districts of those who are at a distance, as is usual. Therefore, after this present festival , I mean this which is on the twentieth of the month Pharmuthi, the Easter-day following will be on the vii Id. April, or according to the Alexandrians on the twelfth of Pharmuthi. Give notice therefore in all those districts, that Easter-day will be on the vii Id. April, or according to the Alexandrian reckoning on the twelfth of Pharmuthi. That you may be in health in Christ, I pray, my beloved brethren.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by R. Payne-Smith. From Nicene and Post-Nicene Fathers, Second Series, Vol. 4. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2806017.htm>.",
+    "metadata": {
+      "srctrans": "Translated by R. Payne-Smith.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2806017.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十七封信",
+    "p0002": "\\Emph{（为345年。）执政官\\Person{亚曼提乌斯}、\\Person{阿尔比努斯}；\\Place{加沙}长官\\Person{聂斯托利}；税收周期三；复活节日，4月7日，法尔穆提月12日；月龄十九；戴克里先纪元61年。}",
+    "p0003": "\\Person{亚大纳修}致\\Place{亚历山大里亚}的司铎与执事，并亲爱的弟兄们，在基督内致候。",
+    "p0004": "依照惯例，亲爱的诸位，我将复活节的通知送达你们，以便你们也可照常将同样的事通知给远方各区的弟兄们。因此，在本节日——我指的是法尔穆提月二十日的这个节日——之后，随后的复活节将在4月7日，或依\\Place{亚历山大里亚}人的算法，在法尔穆提月十二日。所以你们要在所有那些地区通知，复活节将在4月7日，或依\\Place{亚历山大里亚}的算法，在法尔穆提月十二日。愿你们在基督内平安，我祈求，亲爱的弟兄们。"
+  }
+}

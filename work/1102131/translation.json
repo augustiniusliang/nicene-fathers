@@ -1,0 +1,61 @@
+{
+  "source": {
+    "source_id": "1102131",
+    "title": "Letter 131 (A.D. 412)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 131",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 131 (A.D. 412)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To His Most Excellent Daughter, the Noble and Deservedly Illustrious Lady Proba, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "You speak the truth when you say that the soul, having its abode in a corruptible body, is restrained by this measure of contact with the earth, and is somehow so bent and crushed by this burden that its desires and thoughts go more easily downwards to many things than upwards to one. For Holy Scripture says the same: <quote>The corruptible body presses down the soul, and the earthly tabernacle weighs down the mind that muses upon many things.</quote> {{BIBLE:wis 9:15}} But our Saviour, who by His healing word raised up the woman in the gospel that had been eighteen years bowed down {{BIBLE:luk 13:11}} (whose case was, perchance, a figure of spiritual infirmity), came for this purpose, that Christians might not hear in vain the call, <quote>Lift up your hearts,</quote> and might truly reply, <quote>We lift them up to the Lord.</quote> Looking to this, you do well to regard the evils of this world as easy to bear because of the hope of the world to come. For thus, by being rightly used, these evils become a blessing, because, while they do not increase our desires for this world, they exercise our patience; as to which the apostle says, <quote>We know that all things work together for good to them that love God:</quote> {{BIBLE:rom 8:28}} <em>all</em> things, he says— not only, therefore, those which are desired because pleasant, but also those which are shunned because painful; since we receive the former without being carried away by them, and bear the latter without being crushed by them, and in all give thanks, according to the divine command, to Him of whom we say, <quote>I will bless the Lord at all times; His praise shall continually be in my mouth,</quote> and, <quote>It is good for me that You have humbled me, that I might learn Your statutes.</quote> The truth is, most noble lady, that if the calm of this treacherous prosperity were always smiling upon us, the soul of man would never make for the haven of true and certain safety. Wherefore, in returning the respectful salutation due to your Excellency, and expressing my gratitude for your most pious care for my welfare, I ask of the Lord that He may grant to you the rewards of the life to come, and consolation in the present life; and I commend myself to the love and prayers of all of you in whose hearts Christ dwells by faith.",
+        "scripture": [
+          "wis 9:15",
+          "luk 13:11",
+          "rom 8:28"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "(<em>In another hand</em>.) May the true and faithful God truly comfort your heart and preserve your health, my most excellent daughter and noble lady, deservedly illustrious.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102131.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102131.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第131封信（公元412年）",
+    "p0002": "\\Emph{致他最杰出的女儿、高贵而理应显赫的\\Person{普罗巴}女士，\\Person{奥斯定}在主内致以问候。}",
+    "p0003": "你说得对，灵魂寓居于可朽坏的身体内，因与尘世接触的程度而受牵制，且不知何故被这重担压弯压碎，以致其欲望和思想更容易向下奔向繁多事物，而非向上归向那一位。因为圣经也这样说：\\BibleQuote{这必朽坏的肉身，重压着灵魂；这属土的帐幕，使多虑的心神滞重。}\\BibleRef{智 9:15} 但我们的救主，曾以他医治的圣言使福音中那个被病魔缠身十八年的女人直起身来\\BibleRef{路 13:11}（她的情况或许正是灵性疾病的一个预像），他正是为此而来，为使基督徒不致徒然听到\\Quote{请举心向上}的呼唤，而能真实地回答：\\Quote{我们举心向主}。有鉴于此，你做得很好：因着对来世的盼望，便视此世的邪恶为易于忍受。因为如此，这些邪恶若善加利用，便成为祝福，因为它们不激起我们对今世的贪恋，反而锻炼我们的忍耐；关于这点，宗徒说：\\BibleQuote{我们晓得万事都互相效力，叫爱天主的人得益处。}\\BibleRef{罗 8:28}他说\\Emph{一切}——因此，不仅包括那些因愉悦而渴望的，也包括那些因痛苦而躲避的；因为我们对前者既加以接受而不被其冲昏头脑，对后者则加以承受而不被其压垮，且在一切事上，按着天主的命令，向那一位感恩，我们曾对他说：\\BibleQuote{我必要时时赞美主，对他的赞颂常在我口；}以及\\BibleQuote{为叫我能学习你的法度，受苦遭难于我确有好处。} 事实上，最高贵的女士，倘若这不可靠的顺境之平静总是向我们微笑，人的灵魂便永远不会驶向那真正安全的港湾。因此，在向阁下致上应有的敬意问候，并对你如此虔敬地关心我的福祉表示感谢之际，我恳求主，愿他赐予你来世的赏报，并在此生中给予安慰；我也将自己托付于你们所有人心中的爱和祈祷，因着信德，基督寓居在你们心中。",
+    "p0004": "（\\EditorialNote{另一个手笔}）愿真实而信实的天主真正安慰你的心灵并保守你的健康，我最杰出的女儿、高贵的女士，理应显赫。"
+  }
+}

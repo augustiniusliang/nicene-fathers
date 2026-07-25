@@ -1,0 +1,69 @@
+{
+  "source": {
+    "source_id": "360213040",
+    "title": "Book XIII, Letter 40",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 40",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 40",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Cyriacus, Patriarch of Constantinople.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Cyriacus, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Observing diligently, most dear brother, how great is the virtue of peace from the Lord's voice, which says, <em>My peace I give unto you</em> {{BIBLE:joh 14:27}} , it becomes us so to abide in the love thereof as in no wise to give place to discord. But, since we cannot otherwise live in its root except by retaining in mind and in deed the humility which the very author of peace has taught, we entreat you with befitting charity, that, treading down with the foot of your heart the profane elation which is always hostile to souls, you make haste to remove from the midst of the Church the offense of a perverse and proud title, lest you should possibly be found divided from the society of our peace. But let there be in us one spirit, one mind, one charity, one bond in Christ, who has willed us to be his members. For let your Holiness consider how hard it is, how indecent, how cruel, how alien from the aim of a priest, not to have that peace which you preach to others, and so abstain from offending your brethren out of pride. But study this rather, how you may prostrate with the sword of humility the author of vain and profitless elation, to the end that in such a victory the grace of the Holy Spirit may claim you as a habitation for Himself, so that what is written may be plainly fulfilled in you; <em>the temple of God is holy, which temple you are</em> {{BIBLE:2co 6:17}}",
+        "scripture": [
+          "joh 14:27",
+          "2co 6:17"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "We commend to you in all things the bearer of these presents, our most beloved common son, the deacon Boniface, that in whatsoever may be needful he may find, as is becoming, the succour of your Holiness.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213040.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213040.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷 第四十书",
+    "p0002": "\\Emph{致\\Person{齐里亚库斯}，\\Place{君士坦丁堡}宗主教}",
+    "p0003": "\\Person{格列高利}致\\Person{齐里亚库斯}等。",
+    "p0004": "最亲爱的弟兄，你当勤谨地观察，主的声音说：\\BibleQuote{我把我的平安赐给你们}（见：\\BibleRef{若 14:27}），和平之德何其伟大！因此我们应当如此持守和平之爱，绝不给纷争留地步。然而，我们若不能在心中和行为上持守和平之根的谦卑——这谦卑正是和平的创始者所教导的——便无法活在和平之中。因此，我们以相称的爱德恳求你，用你心灵之足踏碎那常与灵魂为敌的世俗傲慢，赶紧从教会中除去那乖谬傲慢之称号的绊脚石，免得你或许被发现与我们的和平团体分离。但愿我们同有一个心神，一个意念，一个爱德，一个在\\Person{基督}内的联系，他愿意我们成为他的肢体。因为愿你的圣德思量，没有你所向他人宣讲的和平，且因此出于骄傲而不去冒犯你的弟兄，这是多么艰难，多么不体面，多么残忍，多么与司铎的目标相悖！反而要致力于这件事：你如何以谦卑之剑击倒那虚荣无益的傲慢的创始者，好使在此胜利中，圣神的恩宠能认你为他自己的居所，从而使经文在你身上清楚地应验：\\BibleQuote{天主的宫殿是圣的，你们就是这宫殿}（见：\\BibleRef{格后 6:17}）。",
+    "p0005": "我们全力将这封信的呈递者、我们最心爱的共同儿子、执事\\Person{博尼法斯}推荐给你，使他在一切需要之事上，能恰当地找到你圣德的援助。"
+  }
+}

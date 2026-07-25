@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360207012",
+    "title": "Book VII, Letter 12",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book VII, Letter 12",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book VII, Letter 12",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Respecta, Abbess.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Respecta, Abbess of Massilia (<em>Marseilles</em>) in Gaul.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "The demand of a pious wish ought to be accomplished by a consequent result, that so the benefit demanded may be validly attained, and sincerity of devotion may laudably shine forth. Accordingly to the monastery consecrated to the honour of Saint Cassian wherein you are selected to preside— in accordance with the petition of our children Dynamius and Aureliana, who are shown, in their religious devotion, to have united it to the house in their possession by connecting the buildings— we have seen fit to allow these privileges:— We appoint that on the death of the abbess of the aforesaid monastery, not a stranger, but one whom the congregation may choose for itself from among its own members, shall be ordained; whom (provided however that she be judged worthy of this ministry) the bishops of the same place shall ordain. Further, with regard to the property and management of the same monastery, we decree that neither bishop nor any ecclesiastic shall have any power; but appoint that these things shall in all respects pertain to the charge of your Solicitude, or of her who may be abbess in the same place after you. If on the day of the Saint's anniversary, or of the dedication, of the aforesaid monastery the bishop should resort there for celebrating the sacred solemnities of mass, still his office must be so executed that his chair be not placed there, except on the aforesaid days while he is celebrating there the solemnities of mass. And when he departs, let his chair be at the same time removed from the same oratory. But on all other days let the offices of mass be performed by the presbyter whom the same bishop may appoint",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, with regard to the life and deeds of the handmaidens of God, or of the abbess who may be constituted in the above-written monastery, we enjoin on the bishop, in the fear of God, to devote careful attention to them; so that, if any of those who dwell there, her fault demanding it, ought to be subjected to punishment, he may himself visit the offense according to the vigour of the sacred canons. These things, then, being by us ordained and granted, do thou, in the ordering of your congregation, study to show yourself so earnestly attentive in all respects that the malice of the malignant foe may find nothing there that can be contaminated. All these things, therefore, embraced in this paper of injunctions, we ordain to be observed, under Christ's protection, in all respects and by all persons for ever in your monastery, to the end that the benefits of the privileges allowed may always continue firm and inviolate. The month of November, Indict. 15.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360207012.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360207012.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\\\WorkTitle{第七卷，第十二封书信}",
+    "p0002": "\\\\Emph{致女院长雷斯佩克塔}",
+    "p0003": "\\\\Person{额我略}致\\\\Place{高卢}的\\\\Place{马西利亚}（\\\\Place{马赛}）的女院长\\\\Person{雷斯佩克塔}。",
+    "p0004": "虔诚愿望的要求应当由相应的结果来实现，以便所求的恩惠能有效地获得，并且真诚的热忱能值得赞扬地彰显出来。因此，根据我们的子女\\\\Person{狄纳纽斯}和\\\\Person{奥勒利亚娜}的请求——他们在宗教热忱中显示，已通过连接建筑物将\\\\WorkTitle{圣加西亚诺}隐修院与他们在其住处合并——我们已批准允许以下特权：我们规定，在上述隐修院的女院长去世时，不得由外人，而应由修会从自身成员中自行选立一人；此人（只要被认为配得上这一职务）应由同一地方的主教祝圣。此外，关于同一隐修院的财产和管理，我们规定主教或任何圣职人员均不得有任何权力；但下令这些事应完全归属你的关怀，或在你之后同一地方的院长之责。如果在上述隐修院的圣人周年纪念日或奉献日，主教前往那里举行弥撒的神圣礼仪，他的职务仍应如此执行：除非在上述日子他在那里举行弥撒礼仪时，不得放置他的座位。当他离开时，他的座位应同时从同一祈祷所移走。但在所有其他日子，弥撒礼仪应由同一主教所指定的司铎进行。",
+    "p0005": "此外，关于天主婢女们的生活和行为，或关于在上述隐修院中被立为女院长者，我们责成主教在敬畏天主中给予密切关注；以便如果其中任何居住者因其过错而应受惩罚，他本人可根据神圣教会法规的力度惩罚该过犯。这些事既由我们下令和批准，你在管理你的修会时，应努力在所有方面如此热切地专注，以致恶毒敌人的恶意在那里找不到任何可污染之处。因此，所有包含在这份训令文件中的这些事，我们命令在基督的保护下，在你的隐修院中永远由所有人和在所有方面遵守，以便所允许的特权的恩惠始终坚定且不可侵犯。十一月，小纪第十五。"
+  }
+}

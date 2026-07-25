@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "3202032",
+    "title": "Letter 32",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 32",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 32",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Sophronius the Master</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Our God— beloved brother, Gregory the bishop, shares the troubles of the times, for he too, like everybody else, is distressed at successive outrages, and resembles a man buffeted by unexpected blows. For men who have no fear of God, possibly forced by the greatness of their troubles, are reviling him, on the ground that they have lent Cæsarius money. It is not indeed the question of any loss which is serious, for he has long learned to despise riches. The matter rather is that those who have so freely distributed all the effects of Cæsarius that were worth anything, after really getting very little, because his property was in the hands of slaves, and of men of no better character than slaves, did not leave much for the executors. This little they supposed to be pledged to no one, and straightway spent it on the poor, not only from their own preference, but because of the injunctions of the dead. For on his death bed Cæsarius is declared to have said <quote>I wish my goods to belong to the poor.</quote> In obedience then to the wishes of Cæsarius they made a proper distribution of them. Now, with the poverty of a Christian, Gregory is immersed in the bustle of a chafferer. So I bethought me of reporting the matter to your excellency, in order that you may state what you think proper about Gregory to the Comes Thesaurorum, and so may honour a man whom you have known for many years, glorify the Lord who takes as done to Himself what is done to His servants, and honour me who am specially bound to you. You will, I hope, of your great sagacity devise a means of relief from these outrageous people and intolerable annoyances.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. No one is so ignorant of Gregory as to have any unworthy suspicion of his giving an inexact account of the circumstances because he is fond of money. We have not to go far to find a proof of his liberality. What is left of the property of Cæsarius he gladly abandons to the Treasury, so that the property may be kept there, and the Treasurer may give answer to those who attack it and demand their proofs; for we are not adapted for such business. Your excellency may be informed that, so long as it was possible, no one went away without getting what he wanted, and each one carried off what he demanded without any difficulty. The consequence indeed was that a good many were sorry that they had not asked for more at first; and this made still more objectors, for with the example of the earlier successful applicants before them, one false claimant starts up after another. I do then entreat your excellency to make a stand against all this and to come in, like some intervening stream, and solve the continuity of these troubles. You know how best you will help matters, and need not wait to be instructed by me. I am inexperienced in the affairs of this life, and cannot see my way out of our difficulties. Of your great wisdom discover some means of help. Be our counsellor. Be our champion.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202032.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202032.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书函三十二}",
+    "p0002": "\\Signature{圣巴西略（凯撒勒雅的）}",
+    "p0003": "\\Emph{致\\Person{索弗若纽}督军。}",
+    "p0004": "我们的天主——亲爱的弟兄、主教\\Person{额我略}，分担了这个时代的患难，因为他也像其他人一样，被接二连三的暴行所困扰，如同一个遭受意外打击的人。因为那些不敬畏天主的人，可能是被巨大的苦难所逼迫，正在辱骂他，理由是他们曾借钱给\\Person{凯撒里乌斯}。确实，任何损失的问题并不严重，因为他早已学会轻视财富。问题在于，那些如此慷慨地分发了\\Person{凯撒里乌斯}所有值钱财产的人，实际上得到的很少，因为他的财产掌握在奴隶和比奴隶好不了多少的人手中，并没有给执行人留下多少。这一点点财产他们以为没有抵押给任何人，就立刻花在了穷人身上，这不仅出于他们自己的偏好，也出于死者的嘱咐。因为\\Person{凯撒里乌斯}临终时据说曾说：\\Quote{我希望我的财产归于穷人。}于是他们遵从\\Person{凯撒里乌斯}的意愿，适当地分配了这些财产。如今，\\Person{额我略}身为基督徒，却贫穷，却陷入了商贾的喧闹之中。因此我想到将此事禀报阁下，以便您就\\Person{额我略}之事向\\OriginalTerm{财政大臣}{Comes Thesaurorum}表明您的意见，从而尊荣您多年所认识的人，荣耀主，祂视对祂仆人所作的就是对祂自己作的，也尊荣我，我特别与您相连。我希望，以您的大智，能想出办法使这些无法无天的人和难以忍受的烦扰得到解脱。",
+    "p0005": "2. 没有人会如此不了解\\Person{额我略}，以至于对他因贪财而提供不准确情况的说法有任何可耻的怀疑。证明他慷慨的证据并不难找。\\Person{凯撒里乌斯}所剩的财产，他乐意地放弃给国库，以便财产可以保存在那里，国库官员可以回答那些攻击它并要求证据的人；因为我们不擅长此类事务。阁下可以知道，只要可能，没有人得不到他想要的东西就离开，每个人都毫无困难地得到了他所要求的。结果当然是很多人后悔起初没有要求更多；这又产生了更多的反对者，因为有了先前成功申请者的例子，一个虚假的索赔人接踵而至。我恳请阁下反对这一切，像一道介入的溪流一样，打断这些烦恼的连续性。您最知道如何帮助解决问题，无需等待我指教。我对此生的事务没有经验，无法看出摆脱困境的出路。以您的大智慧，发现一些帮助的方法。做我们的顾问。做我们的捍卫者。"
+  }
+}

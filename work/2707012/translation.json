@@ -1,0 +1,48 @@
+{
+  "source": {
+    "source_id": "2707012",
+    "title": "Letter 12",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 12",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 12",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To the Bishop Irenæus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Job, that famous tower of adamant and noble champion of goodness, was not shaken even by blows of continuous troubles of every sort and kind, but stood impregnable and firm. At the end however of all his trials the righteous Law-giver explained the reason of them in the words, <quote>Do you think that I answered you for any other reason than that you might appear just?</quote> I think that these words are known to your piety which is able to support the many and various attacks of troubles and anxieties, and so far from shrinking from them, exhibits the strength and stability of your administration. So the bountiful Lord, seeing the bravery and holiness of your soul, has refused to keep a worthy champion in concealment, and has brought him forth to the contest to adorn your venerable head with a crown of victory, and give your struggles as a high example of good service to the rest. So, my dear friend, conquer in this battle too, and bear bravely the death of your son-in-law, my own dear friend. Conquer in your wisdom the claims of kinsmanship and the memory of a noble and generous character, a memory which must always recall something beyond painter's art or rhetorician's skill. Repel the assault of sorrow by the thought of Him who wisely administers all the affairs of men, with perfect knowledge of the future and right guidance of it for our good. Let us join in the joy of him who has been delivered from this life's storms. Let us rather give thanks because, wafted by kindly winds, he has cast anchor in the windless haven and has escaped the grievous shipwrecks whereof this life is full. But need I say all this to one who is a tried gladiator of goodness? Need I, as it were, anoint for endurance one who is a trainer of other athletes? Still I write. It is a comfort to myself to write as I do. I am really and truly grieved when I remember an intimacy that I esteemed so highly. Once more I praise the great Guide of all, Who both knows what would be good for us and guides our life accordingly. I have dictated this after writing my former communication, on one of my friends in Antioch telling me that the end had come.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707012.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707012.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{第十二封书信}",
+    "p0002": "\\Emph{致\\Person{依勒内}主教。}",
+    "p0003": "\\Person{约伯}，那座著名的金刚石之塔和美善的高贵斗士，甚至没有被各样各类连续苦难的打击所动摇，而是屹立不摇，坚固不移。然而，在他所有考验的末了，正义的立法者用这些话解释了它们的原因：\\Quote{你认为我回答你是出于别的理由，而不是为了使你显得正义吗？} 我认为这些话为你的虔诚是众所周知的，你的虔诚能够承受众多各样麻烦和焦虑的攻击，并且非但没有退缩，反而显示出你管理的坚毅与稳固。因此，慷慨的主，看到你灵魂的英勇与圣善，不愿将一位可敬的斗士隐藏起来，而是将他带到战斗面前，用胜利之冠装饰你可敬的头，并将你的奋斗作为优良服务的崇高榜样赐予众人。所以，我亲爱的朋友，也在这场战斗中得胜，勇敢承受你女婿——我亲爱的朋友——的去世。以智慧战胜亲情的索取，以及对高贵慷慨品格的记忆，这份记忆总会回想起超越画家技艺或修辞家才能的东西。以那以智慧管理人类一切事务者的思想来击退悲伤的冲击，祂完全知晓未来，并正确地引导一切为我们获益。让我们与被解救脱离今生风暴的人一同喜乐。我们更应感恩，因为被和风护送，他已抛锚在无风之港，逃离了此生充斥的悲惨船难。但我何必对一位久经考验的美善角斗士说这一切？何必为坚忍而傅油一位其他运动员的教练？我仍然写信。写信对我自己是一种安慰。当我记起我如此珍视的情谊时，我实在由衷悲伤。我再次赞美万有的伟大向导，祂既知道什么对我们有益，也相应地引导我们的人生。我在写完前一封信后口述了这封信，当时我在\\Place{安提约基雅}的一位朋友告诉我结局已经到来。"
+  }
+}

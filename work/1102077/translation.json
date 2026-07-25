@@ -1,0 +1,70 @@
+{
+  "source": {
+    "source_id": "1102077",
+    "title": "Letter 77 (A.D. 404)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 77",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 77 (A.D. 404)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Felix and Hilarinus, My Lords most Beloved, and Brethren Worthy of All Honour, Augustine Sends Greeting in the Lord.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. I do not wonder to see the minds of believers disturbed by Satan, whom resist, continuing in the hope which rests on the promises of God, who cannot lie, who has not only condescended to promise in eternity rewards to us who believe and hope in Him, and who persevere in love unto the end, but has also foretold that in time offenses by which our faith must be tried and proved shall not be wanting; for He said, <quote>Because iniquity shall abound, the love of many shall wax cold;</quote> but He added immediately, <quote>and he that shall endure to the end, the same shall be saved.</quote> {{BIBLE:mat 24:12}} Why, therefore, should it seem strange that men bring calumnies against the servants of God, and being unable to turn them aside from an upright life, endeavour to blacken their reputation, seeing that they do not cease uttering blasphemies daily against God, the Lord of these servants, if they are displeased by anything in which the execution of His righteous and secret counsel is contrary to their desire? Wherefore I appeal to your wisdom, my lords most beloved, and brethren worthy of all honour, and exhort you to exercise your minds in the way which best becomes Christians, setting over against the empty calumnies and groundless suspicions of men the written word of God, which has foretold that these things should come, and has warned us to meet them with fortitude.",
+        "scripture": [
+          "mat 24:12"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "2. Let me therefore say in a few words to your Charity, that the presbyter Boniface has not been discovered by me to be guilty of any crime, and that I have never believed, and do not yet believe, any charge brought against him. How, then, could I order his name to be deleted from the roll of presbyters, when filled with alarm by that word of our Lord in the gospel: <quote>With what judgment ye judge you shall be judged</quote>? {{BIBLE:mat 7:2}} For, seeing that the dispute which has arisen between him and Spes has by their consent been submitted to divine arbitration in a way which, if you desire it, can be made known to you, who am I, that I should presume to anticipate the divine award by deleting or passing over his name? As a bishop, I ought not rashly to suspect him; and as being only a man, I cannot decide infallibly concerning things which are hidden from me. Even in secular matters, when an appeal has been made to a higher authority, all procedure is sisted while the case awaits the decision from which there is no appeal; because if anything were changed while the matter is depending on his arbitration, this would be an insult to the higher tribunal. And how great the distance between even the highest human authority and the divine!",
+        "scripture": [
+          "mat 7:2"
+        ],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "May the mercy of the Lord our God never forsake you, my lords most beloved, and brethren worthy of all honour.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102077.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102077.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信七十七（公元404年）",
+    "p0002": "\\Emph{致\\Person{斐理斯}和\\Person{希拉里努斯}，我最亲爱的尊主，及堪受所有尊敬的弟兄们，\\Person{奥思定}在主内致候。}",
+    "p0003": "我毫不惊奇看到信徒的心灵被\\OriginalTerm{撒殚}{Satan}扰乱；你们要抵抗他，持续坚持那寄托于天主许诺的\\OriginalTerm{望德}{hope}，天主是绝不会撒谎的。祂不仅屈尊许诺，将永远的赏赐赐予我们这些相信祂、寄望于祂、并在\\OriginalTerm{爱德}{love}中坚持到底的人，而且还预言，在时间中，那些试探和考验我们\\OriginalTerm{信德}{faith}的恶表必不缺乏；因为祂说过：\\BibleQuote{由于罪恶增多，许多人的爱德必要冷淡；}但祂立刻又加上说：\\BibleQuote{唯独坚持到底的，才可得救。} \\BibleRef{玛 24:12}。那么，为什么人会感到奇怪，有人诽谤天主的仆人，既然无法使他们偏离正直的生活，就竭力玷污他们的名声？要知道，这些人如果对天主——这些仆人的主——任何公义而奥妙的计划的执行感到不满，而此执行与他们的愿望相违，他们便天天不停地亵渎天主。因此，我最亲爱的尊主和堪受尊敬的弟兄们，我呼吁你们的智慧，并劝勉你们以最合宜基督徒的方式锻炼你们的心志，用圣经来对抗人们空洞的诽谤和无根据的猜疑；圣经早已预言这些事必会发生，并告诫我们要勇敢面对。",
+    "p0004": "因此，我简短地对你们的爱德说几句：\\OriginalTerm{司铎}{presbyter}\\Person{鲍尼法斯}并未被我查出犯有任何罪行，我从未相信，至今也不相信任何针对他的指控。那么，我怎能因我们主在福音中的这句话而充满畏惧，就命令从司铎名册上删除他的名字呢？那话说：\\BibleQuote{你们用什么尺度量给人，也要用什么尺度量给你们。} \\BibleRef{玛 7:2}。因为，他与\\Person{斯佩}之间的争执，经双方同意，已呈交天主的仲裁；其方式，如果你们愿意，可以告知你们。那么，我是谁，竟敢擅自抢先天主的裁决，删除或略去他的名字？作为\\OriginalTerm{主教}{bishop}，我不应草率地怀疑他；而作为一个人，我无法无误地判决那隐藏于我的事。即使在世俗事务中，当案件上诉至更高权威后，在等待那不允再上诉的裁决期间，一切程序都暂停；因为如果在案件尚待仲裁时有所更改，那将是对更高法庭的侮辱。那么，甚至最高的人间权威与天主的权威之间，又有着何等巨大的差距！",
+    "p0005": "愿我们主天主的仁慈永不离开你们，我最亲爱的尊主，及堪受所有尊敬的弟兄们。"
+  }
+}

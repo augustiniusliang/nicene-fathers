@@ -1,0 +1,75 @@
+{
+  "source": {
+    "source_id": "360213008",
+    "title": "Book XIII, Letter 8",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book XIII, Letter 8",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book XIII, Letter 8",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Senator, Abbot.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Senator, presbyter and abbot of a hospital (or guest-house, <em>xenodochii</em>).",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "When the hearts of Catholic Kings, etc.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "[See the epistle following (Epistle 9), with which this agrees throughout, as does also Epistle X. to Lupo, except for the different designations of the persons addressed and places referred to, and the addition in epistles VIII. and IX., after the words <quote>or absolve her (<em>him</em>) as innocent,</quote> of the following paragraph.]",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "By a similar definition, according to the desire of the founders, we decree that none of those who may in future have been ordained as abbot or presbyter to the same guest-house and monastery shall dare by any secret scheming whatever to take the office of the Episcopate, unless he has been first deprived of the office of abbot, and another has been substituted in his place; lest, by consuming the property of the guest-house or monastery in unfair expenditure, he should cause most serious pressure of want to the poor and strangers, or to others who live from its resources. Moreover, we forbid that the bishop have licence, without the consent of the abbot and presbyter, to remove from the same place any monk for promotion to an ecclesiastical order, or for any cause whatever, lest usurpation in this regard should be carried to such an extent that places which have to be built up by the acquisition of men be destroyed by their removal.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 13. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1898.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360213008.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 13.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1898.",
+      "srcurl": "<http://www.newadvent.org/fathers/360213008.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第十三卷·第八封信",
+    "p0002": "致院长\\Person{塞纳托尔}",
+    "p0003": "\\Person{格列高利}致\\Person{塞纳托尔}，医院（或客舍，\\OriginalTerm{客舍}{xenodochii}）的司铎兼院长。",
+    "p0004": "当天主教君王的心，等等。",
+    "p0005": "\\EditorialNote{参见下一封信（第九封信），此信与之完全一致，第十封致\\Person{卢波}的信亦同，只是在所涉及的人名和地名上称谓不同，且在第八和第九封信中，在\\Quote{或宣判她（\\Emph{他}）无罪}一句之后，增加了以下段落。}",
+    "p0006": "按同样的规定，根据创立者的意愿，我们明令：日后被任命为同一客舍及隐修院的院长或司铎者，不得以任何秘密谋划胆敢接受主教职位，除非他首先被解除院长职务，另由他人接替；以避免他因不公正的开支耗费客舍或隐修院的财产，给穷人、旅客或其他仰赖其资源生活者造成严重匮乏。此外，我们禁止主教在没有院长和司铎同意的情况下，有权从该处调离任何隐修士以擢升教会职务，或因任何原因调离，以免这方面的擅权发展到如此程度，以致本应通过吸纳人员来建立的场所反而因人员调离而遭毁坏。"
+  }
+}

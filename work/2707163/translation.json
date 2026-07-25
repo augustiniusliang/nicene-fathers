@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "2707163",
+    "title": "Letter 163",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (Theodoret) > Letter 163",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 163",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>First Letter of the Commissioners of the East, sent to Chalcedon, among whom was Theodoretus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "On our arrival at Chalcedon, for neither we ourselves nor our opponents were permitted to enter Constantinople, on account of the seditions of the excellent monks, we heard that eight days before we had appeared (behold the glory of the most pious prince) the lord Nestorius was dismissed from Ephesus, free to go where he would; whereat we are much distressed, since verily deeds done illegally and informally now seem to have some force. Let your holiness however be assured that we shall eagerly join the battle for the Faith, and are willing to fight even unto death. Today, the 11th of the month Gorpiæum, we are expecting our very pious Emperor to cross over to the Rufinianum, and there to hear the trial.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "We therefore beg your holiness to pray the Lord Christ to help us to be able to confirm the faith of the holy Fathers, and to pluck up by the roots these Chapters which have sprouted to the damage of the Church. We implore your holiness to think and act with us, and to abide in your ready devotion to the orthodox faith. When this letter was written the lord Himerius had not yet met us, being perhaps hindered on the road. But do not let this trouble you. Only let your piety strenuously support us, and we trust that gloom will disappear, and the truth shine forth.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 3. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1892.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/2707163.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 3.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1892.",
+      "srcurl": "<http://www.newadvent.org/fathers/2707163.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{书信163}",
+    "p0002": "\\Emph{东方专员的第一封信，寄往加采东，其中包含\\Person{德奥多勒}。}",
+    "p0003": "我们抵达加采东时（因为我们自己和我们的对手都未获准进入君士坦丁堡，由于卓越的隐修士们的骚乱），我们听说，在我们出现之前八天（看哪，至虔敬君王的荣耀！），\\Person{聂斯多略}阁下已被从厄弗所解职，自由地去往他愿意去的地方；对此我们深感忧虑，因为非法且非正式的行为如今似乎有了某种效力。然而，请尊驾确信，我们将热切地为信德而战，并愿意战斗至死。今天，果尔比亚月十一日，我们期待我们至虔敬的皇帝前往鲁菲尼亚努姆，在那里审理案件。",
+    "p0004": "因此我们恳求尊驾向主基督祈祷，帮助我们能够确认圣教父们的信德，并将这些损害教会的章节连根拔除。我们恳求尊驾与我们同心同德，并持守你对正统信德随时准备的热忱。写此信时，\\Person{希梅里乌斯}阁下尚未与我们见面，或许在路上受阻。但不要因此烦恼。唯愿你的虔敬大力支持我们，我们相信阴霾将消散，真理将照耀。"
+  }
+}

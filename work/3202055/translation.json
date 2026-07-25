@@ -1,0 +1,59 @@
+{
+  "source": {
+    "source_id": "3202055",
+    "title": "Letter 55",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 55",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 55",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>To Paregorius, the presbyter</em>.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I have given patient attention to your letter, and I am astonished that when you are perfectly well able to furnish me with a short and easy defence by taking action at once, you should choose to persist in what is my ground of complaint, and endeavour to cure the incurable by writing a long story about it. I am not the first, Paregorius, nor the only man, to lay down the law that women are not to live with men. Read the canon put forth by our holy Fathers at the Council of Nicæa, which distinctly forbids subintroducts. Unmarried life is honourably distinguished by its being cut off from all female society. If, then, any one, who is known by the outward profession, in reality follows the example of those who live with wives, it is obvious that he only affects the distinction of virginity in name, and does not hold aloof from unbecoming indulgence. You ought to have been all the more ready to submit yourself without difficulty to my demands, in that you allege that you are free from all bodily appetite. I do not suppose that a man of three score years and ten lives with a woman from any such feelings, and I have not decided, as I have decided, on the ground of any crime having been committed. But we have learned from the Apostle, not to put a stumbling block or an occasion to fall in a brother's way; {{BIBLE:rom 14:13}} and I know that what is done very properly by some, naturally becomes to others an occasion for sin. I have therefore given my order, in obedience to the injunction of the holy Fathers, that you are to separate from the woman. Why then, do you find fault with the Chorepiscopus? What is the good of mentioning ancient ill-will? Why do you blame me for lending an easy ear to slander? Why do you not rather lay the blame on yourself, for not consenting to break off your connection with the woman? Expel her from your house, and establish her in a monastery. Let her live with virgins, and do you be served by men, that the name of God be not blasphemed in you. Till you have so done, the innumerable arguments, which you use in your letters, will not do you the slightest service. You will die useless, and you will have to give an account to God for your uselessness. If you persist in clinging to your clerical position without correcting your ways, you will be accursed before all the people, and all, who receive you, will be excommunicate throughout the Church.",
+        "scripture": [
+          "rom 14:13"
+        ],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202055.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202055.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第五十五封书信",
+    "p0002": "\\Emph{\\Person{圣巴西略}（\\Place{恺撒勒雅}）}",
+    "p0003": "\\Emph{致\\Person{帕雷哥里乌斯}司铎}",
+    "p0004": "我已耐心细读你的信函，令我惊讶的是，你明明能立即采取行动，向我提供简短而容易的辩解，却偏要坚持我抱怨之事，并试图通过长篇大论来医治那不可医治的。我不是第一个，帕雷哥里乌斯，也不是唯一一个定下此规条的人，即女人不可与男子同住。请读一读我们圣教父们在尼西亚会议所颁布的教规，它明确禁止有暗中同住的女人。独身生活之所以可敬，正在于它断绝与所有女性的交往。因此，如果有人外表上声称独身，实际上却效仿那些娶妻的人，那他显然只是在名义上追求童贞的名声，并未远离不当的放纵。你本应更乐意顺从我的要求，因为你自己声称已摆脱一切肉体欲望。我并不认为一个七十岁的老人与女人同住是出于这种欲望，我也并非因任何罪行已犯而作出决定。但我们从宗徒那里学到：\\BibleQuote{不可将绊脚石或障碍物放在弟兄的路上}；\\BibleRef{罗 14:13} 而且我知道，某些人做得非常妥当的事，自然而然地会成为别人犯罪的诱因。因此，我遵照圣教父们的训令，下令你必须与那女人分开。那么，你为何要责备乡村主教呢？重提旧怨有何益处？你为何怪我轻信诽谤？为何不归咎于你自己，不肯断绝与那女人的关系？把她从你家中赶出去，安置在一所隐修院里。让她与贞女同住，而你自己由男人伺候，免得天主的名因你而受到亵渎。在你做完这些之前，你在信中使用的无数论据对你毫无用处。你将徒然死去，并需向天主交账你的无用。如果你坚持不改正自己的行径而紧握圣职地位，你将在全体人民面前受诅咒，而所有接待你的人，也将在整个教会中受绝罚。"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source": {
+    "source_id": "1102016",
+    "title": "Letter 16 (A.D. 390)",
+    "breadcrumbs": "Home > Fathers of the Church > Letters of St. Augustine > Letter 16",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 16 (A.D. 390)",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>From Maximus of Madaura to Augustine.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "1. Desiring to be frequently made glad by communications from you, and by the stimulus of your reasoning with which in a most pleasant way, and without violation of good feeling, you recently attacked me, I have not forborne from replying to you in the same spirit, lest you should call my silence an acknowledgment of being in the wrong. But I beg you to give these sentences an indulgent kindly hearing, if you judge them to give evidence of the feebleness of old age.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "Grecian mythology tells us, but without sufficient warrant for our believing the statement, that Mount Olympus is the dwelling-place of the gods. But we actually see the market-place of our town occupied by a crowd of beneficient deities; and we approve of this. Who could ever be so frantic and infatuated as to deny that there is one supreme God, without beginning, without natural offspring, who is, as it were, the great and mighty Father of all? The powers of this Deity, diffused throughout the universe which He has made, we worship under many names, as we are all ignorant of His true name, the name God being common to all kinds of religious belief. Thus it comes, that while in diverse supplications we approach separately, as it were, certain parts of the Divine Being, we are seen in reality to be the worshippers of Him in whom all these parts are one.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "2. Such is the greatness of your delusion in another matter, that I cannot conceal the impatience with which I regard it. For who can bear to find Mygdo honoured above that Jupiter who hurls the thunderbolt; or Sanæ above Juno, Minerva, Venus, and Vesta; or the arch-martyr Namphanio (oh horror!) above all the immortal gods together? Among the immortals, Lucitas also is looked up to with no less religious reverence, and others in an endless list (having names abhorred both by gods and by men), who, when they met the ignominious end which their character and conduct had deserved, put the crowning act upon their criminal career by affecting to die nobly in a good cause, though conscious of the infamous deeds for which they were condemned. The tombs of these men (it is a folly almost beneath our notice) are visited by crowds of simpletons, who forsake our temples and despise the memory of their ancestors, so that the prediction of the indignant bard is notably fulfilled: <quote>Rome shall, in the temples of the gods, swear by the shades of men.</quote> To me it almost seems at this time as if a second campaign of Actium had begun, in which Egyptian monsters, doomed soon to perish, dare to brandish their weapons against the gods of the Romans.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0006",
+        "kind": "p",
+        "text": "3. But, O man of great wisdom, I beseech you, lay aside and reject for a little while the vigour of your eloquence, which has made you everywhere renowned; lay down also the arguments of Chrysippus, which you are accustomed to use in debate; leave for a brief season your logic, which aims in the forthputting of its energies to leave nothing certain to any one; and show me plainly and actually who is that God whom you Christians claim as belonging specially to you, and pretend to see present among you in secret places. For it is in open day, before the eyes and ears of all men, that we worship our gods with pious supplications, and propitiate them by acceptable sacrifices; and we take pains that these things be seen and approved by all.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0007",
+        "kind": "p",
+        "text": "4. Being, however, infirm and old, I withdraw myself from further prosecution of this contest, and willingly consent to the opinion of the rhetorician of Mantua, <quote>Each one is drawn by that which pleases himself best.</quote>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0008",
+        "kind": "p",
+        "text": "After this, O excellent man, who hast turned aside from my faith, I have no doubt that this letter will be stolen by some thief, and destroyed by fire or otherwise. Should this happen, the paper will be lost, but not my letter, of which I will always retain a copy, accessible to all religious persons. May you be preserved by the gods, through whom we all, who are mortals on the surface of this earth, with apparent discord but real harmony, revere and worship Him who is the common Father of the gods and of all mortals.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1102016.htm>.",
+    "metadata": {
+      "srctrans": "Translated by J.G. Cunningham.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 1.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1102016.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信 16（公元390年）",
+    "p0002": "\\Emph{来自\\Person{马道拉的马克西穆斯}致\\Person{奥古斯丁}。}",
+    "p0003": "1. 我渴望时常因你的来信而欢欣，也因你最近以极为愉快且不伤和气的方式对我提出的辩驳之激励而欢欣；我不禁以同样的精神回复你，免得你将我的沉默视为认错的表示。但若你认为这些话显出了老年的衰弱，我恳请你宽容慈祥地聆听。",
+    "p0004": "希腊神话告诉我们——虽然没有充分的凭据让我们相信这种说法——\\Place{奥林波斯山}是诸神的居所。但我们实际看到，我们城镇的广场上挤满了仁慈的神祇；我们对此表示赞同。谁会如此疯狂和愚昧，竟至否认有一位无始无终、无自然所生的至高天主，祂可说是万有的伟大而全能之父？这位天主的大能，弥漫于祂所造的宇宙中，我们以许多名号加以敬拜，因为我们都不知道祂的真名，\\OriginalTerm{天主}{God}这个名称通用于各种宗教信仰。由此，当我们在不同的祈求中，仿佛个别地亲近这神性的某些部分时，实际上，我们被视为敬拜那位所有部分合而为一的天主。",
+    "p0005": "2. 在另一件事上，你的迷惑如此之大，使我无法掩饰对此感到的不耐烦。因为谁能忍受将\\Person{米格多}尊崇于掷雷电的\\Person{朱庇特}之上；或将\\Person{萨奈}尊崇于\\Person{朱诺}、\\Person{密涅瓦}、\\Person{维纳斯}和\\Person{维斯塔}之上；或将那位\\OriginalTerm{首席殉道者}{arch-martyr} \\Person{南法尼奥}（哦，真可怕！）尊崇于所有不朽神祇之上？在不朽者中，\\Person{卢西塔斯}也同样受到不亚于此的宗教敬畏，还有其他数不清的人（其名字为神人所共憎），当他们遭受到了其品行与行为所该当的耻辱结局时，他们竟仍伪称是在为良善事业而高贵地死去，以此为其罪恶生涯加上最后的一笔，却明知自己因所犯的丑事而受判刑。这些人的坟墓（这愚行几乎不值一提）被成群愚昧的人所参拜，他们离弃我们的神庙，蔑视祖先的纪念，以致那位忿怒的吟游诗人的预言显著地应验了：\\Quote{\\Place{罗马}将在诸神的殿中，指着人的阴魂发誓。} 在我看来，此时仿佛第二次\\Place{阿克提姆}战役已经开始，其中那些注定即将灭亡的埃及怪物，竟敢向\\Place{罗马}诸神挥舞武器。",
+    "p0006": "3. 但是，大智之人啊，我恳求你，暂且放下并丢弃那使你在各处享有盛名的辩才之锋；也请放下你惯于在辩论中使用的\\Person{克吕西波}的那些论证；暂时搁置你的逻辑，那逻辑在施其能时，旨在不留任何确定之事予人；请明明切切地指示我，那位你基督徒们声称特别属于你们、并佯称在隐密处与你们同在的天主，究竟是谁？因为我们是在光天化日之下，当着众人的耳目，以虔诚的祈求敬拜我们的神祇，并用悦纳的祭祀取悦他们；我们还竭力使这些事为人所见、为人所认可。",
+    "p0007": "4. 然而，我既已衰老年迈，便不再继续这场争辩，并乐意赞同那位\\Place{曼图亚}的修辞学家的见解：\\Quote{各人被自己所最喜爱的事物所吸引。}",
+    "p0008": "此后，卓越的人啊，你已背离了我的信仰，我毫不怀疑这封信将被某个窃贼偷去，并被火或其他方式销毁。若此事发生，纸张会丢失，但我的信不会，我将永远保留一份副本，可供所有虔敬之人取阅。愿你蒙诸神护佑，我们所有生活在地面上的凡夫俗子，正是借着他们，虽表面纷争却真实和谐地，敬畏并敬拜那位诸神与凡人的共同之父。"
+  }
+}

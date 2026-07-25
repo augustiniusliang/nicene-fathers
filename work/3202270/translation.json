@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "3202270",
+    "title": "Letter 270",
+    "breadcrumbs": "Home > Fathers of the Church > Letters (St. Basil of Caesarea) > Letter 270",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Letter 270",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<strong> <em>ST. BASIL OF CAESAREA</em></strong>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "<em>Without Address. Concerning Raptus.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "I am distressed to find that you are by no means indignant at the sins forbidden, and that you seem incapable of understanding, how this <em>raptus</em>, which has been committed, is an act of unlawfulness and tyranny against society and human nature, and an outrage on free men. I am sure that if you had all been of one mind in this matter, there would have been nothing to prevent this bad custom from being long ago driven out of your country. Do thou at the present time show the zeal of a Christian man, and be moved as the wrong deserves. Wherever you find the girl, insist on taking her away, and restore her to her parents, shut out the man from the prayers, and make him excommunicate. His accomplices, according to the canon which I have already put forth, cut off, with all their household, from the prayers. The village which received the girl after the abduction, and kept her, or even fought against her restitution, shut out with all its inhabitants from the prayers; to the end that all may know that we regard the ravisher as a common foe, like a snake or any other wild beast, and so hunt him out, and help those whom he has wronged.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Blomfield Jackson. From Nicene and Post-Nicene Fathers, Second Series, Vol. 8. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/3202270.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Blomfield Jackson.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 8.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/3202270.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "书信二七〇",
+    "p0002": "\\Signature{凯撒勒雅的圣巴西略}",
+    "p0003": "\\Emph{无地址。论掠婚。}",
+    "p0004": "我感到痛心，发现你们对那些被禁止的罪毫无义愤，似乎不能明白，这种已经发生的\\OriginalTerm{掠婚}{raptus}行为是对社会和人性的非法与暴虐，是对自由人的凌辱。我相信，如果你们在这件事上同心一致，这种恶习早就可以从你们的地方驱除。现在，你要彰显基督徒的热忱，按罪行当受的惩罚而行动。无论你在哪里找到那女子，务必把她带走，归还她的父母；将那男子逐出祈祷，并使他受绝罚。按照我已经颁布的教规，他的同伙，连同其全家，都断绝共祷。那在掠婚之后收留女子并藏匿她，甚至抗拒交还的村庄，连同其全体居民，都不得参与祈祷；为的是使众人知道，我们将那掠婚者视为公敌，如同毒蛇或任何野兽一般，要追捕他，并帮助那些被他伤害的人。"
+  }
+}

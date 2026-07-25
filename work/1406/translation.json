@@ -1,0 +1,39 @@
+{
+  "source": {
+    "source_id": "1406",
+    "title": "Contra Faustum",
+    "breadcrumbs": "Home > Fathers of the Church > Contra Faustum (Augustine)",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Contra Faustum",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "Book 1\nBook 2\nBook 3\nBook 4\nBook 5\nBook 6\nBook 7\nBook 8\nBook 9\nBook 10\nBook 11\nBook 12\nBook 13\nBook 14\nBook 15\nBook 16\nBook 17\nBook 18\nBook 19\nBook 20\nBook 21\nBook 22\nBook 23\nBook 24\nBook 25\nBook 26\nBook 27\nBook 28\nBook 29\nBook 30\nBook 31\nBook 32\nBook 33",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4. Edited by Philip Schaff. (Buffalo, NY: Christian Literature Publishing Co., 1887.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/1406.htm>.",
+    "metadata": {
+      "srctrans": "Translated by Richard Stothert.",
+      "srcwork": "Nicene and Post-Nicene Fathers, First Series",
+      "srcvolume": "Vol. 4.",
+      "srced": "Edited by Philip Schaff.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1887.",
+      "srcurl": "<http://www.newadvent.org/fathers/1406.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "\\WorkTitle{Contra Faustum}",
+    "p0002": "第一卷\\newline{}第二卷\\newline{}第三卷\\newline{}第四卷\\newline{}第五卷\\newline{}第六卷\\newline{}第七卷\\newline{}第八卷\\newline{}第九卷\\newline{}第十卷\\newline{}第十一卷\\newline{}第十二卷\\newline{}第十三卷\\newline{}第十四卷\\newline{}第十五卷\\newline{}第十六卷\\newline{}第十七卷\\newline{}第十八卷\\newline{}第十九卷\\newline{}第二十卷\\newline{}第二十一卷\\newline{}第二十二卷\\newline{}第二十三卷\\newline{}第二十四卷\\newline{}第二十五卷\\newline{}第二十六卷\\newline{}第二十七卷\\newline{}第二十八卷\\newline{}第二十九卷\\newline{}第三十卷\\newline{}第三十一卷\\newline{}第三十二卷\\newline{}第三十三卷"
+  }
+}

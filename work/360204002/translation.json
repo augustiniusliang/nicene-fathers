@@ -1,0 +1,66 @@
+{
+  "source": {
+    "source_id": "360204002",
+    "title": "Book IV, Letter 2",
+    "breadcrumbs": "Home > Fathers of the Church > Registrum Epistolarum (Gregory the Great) > Book IV, Letter 2",
+    "paragraphs": [
+      {
+        "id": "p0001",
+        "kind": "h1",
+        "text": "Book IV, Letter 2",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0002",
+        "kind": "p",
+        "text": "<em>To Constantius, Bishop.</em>",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0003",
+        "kind": "p",
+        "text": "Gregory to Constantius, Bishop of Mediolanum.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0004",
+        "kind": "p",
+        "text": "My most beloved son, the deacon Boniface, has conveyed to me certain private information through your Fraternity's letter; namely that three bishops, having sought out rather than found an occasion, have separated themselves from the pious communion of your Fraternity, saying that you have assented to the condemnation of the Three Chapters , and have given a security. And, indeed, whether there has been any mention made of the Three Chapters in any word or writing whatever your Fraternity remembers well; although your Fraternity's predecessor, Laurentius, did send forth a most strict security to the Apostolic See, to which most noble men in legitimate number subscribed; among whom I also, at that time holding the prætorship of the city, likewise subscribed; since after such a schism had taken place about nothing, it was right that the Apostolic See should take heed, with the view of guarding in all respects the unity of the Universal Church in the minds of priests. But as to its being said that our daughter, Queen Theodelinda, after hearing this news, has withdrawn herself from your communion, it is for all reasons evident that, though she has been seduced to some little extent by the words of bad men, yet, on the arrival of Hippolytus the notary, and John the abbot, she will seek in all ways the communion of your Fraternity. To her also I have addressed a letter , which I beg your Fraternity to transmit to her without delay. Further, with regard to the bishops who appear to have separated themselves, I have written another letter, which when you have caused to be shown to them, I doubt not that they will repent of the superstition of their pride before your Fraternity.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      },
+      {
+        "id": "p0005",
+        "kind": "p",
+        "text": "Furthermore, you have accurately and briefly informed me of what has been done, whether by King Ago or by the Kings of the Franks. I beg your Fraternity to make known to me in all ways what you have so far ascertained. But, if you should see that Ago, King of the Lombards, is doing nothing with the Patrician , promise him on our part that I am prepared to give attention to his case, if he should be willing to arrange anything with the republic advantageously.",
+        "scripture": [],
+        "style": "",
+        "notes": []
+      }
+    ],
+    "source_note": "Source. Translated by James Barmby. From Nicene and Post-Nicene Fathers, Second Series, Vol. 12. Edited by Philip Schaff and Henry Wace. (Buffalo, NY: Christian Literature Publishing Co., 1895.) Revised and edited for New Advent by Kevin Knight. <http://www.newadvent.org/fathers/360204002.htm>.",
+    "metadata": {
+      "srctrans": "Translated by James Barmby.",
+      "srcwork": "Nicene and Post-Nicene Fathers, Second Series",
+      "srcvolume": "Vol. 12.",
+      "srced": "Edited by Philip Schaff and Henry Wace.",
+      "srcpublisher": "Buffalo, NY: Christian Literature Publishing Co.,",
+      "srcyear": "1895.",
+      "srcurl": "<http://www.newadvent.org/fathers/360204002.htm>."
+    }
+  },
+  "latex": {
+    "p0001": "第四卷 第二封信",
+    "p0002": "\\Emph{致君士坦提乌斯主教。}",
+    "p0003": "\\Person{格列高利}致\\Place{米兰}主教\\Person{君士坦提乌斯}。",
+    "p0004": "执事\\Person{波尼法爵}，我最亲爱的儿子，通过您的信向我传达了一些私下消息：即三位主教，不是找到了机会而是寻隙，从您虔诚的共融中分离出来，声称您已同意谴责\\OriginalTerm{三章}{Three Chapters}，并给出了一份担保书。此外，您的兄弟之爱清楚记得，是否在任何言语或文字中提到过\\OriginalTerm{三章}{Three Chapters}；虽然您的兄弟之爱的前任\\Person{劳伦提乌斯}曾向\\OriginalTerm{宗座}{Apostolic See}送交了一份极其严格的担保书，有合法数量的最高贵人士在上面签字；其中我也在当时担任罗马城行政长官时同样签了字；因为既然这场分裂并非因任何事由而起，\\OriginalTerm{宗座}{Apostolic See}理应审慎，旨在从各个方面维护司铎心中\\OriginalTerm{普世教会}{Universal Church}的合一。但至于据说我们的女儿，王后\\Person{泰奥德琳达}，在听到这个消息后，已退出与您的共融，这无论如何都是显而易见的：尽管她被坏人的言语稍稍诱惑，但等公证人\\Person{希波利特斯}和院长\\Person{若望}到达后，她必将千方百计寻求与您的兄弟之爱的共融。我也给她写了一封信，恳请您的兄弟之爱尽快转交给她。此外，关于那些似乎已分离的主教，我写了另一封信，当您让他们看过后，我相信他们必会在您的兄弟之爱面前悔改其骄傲的迷信。",
+    "p0005": "此外，您准确而简要地告知了我所发生的事，不管是由\\Person{阿戈}王还是由法兰克诸王所为。恳请您的兄弟之爱务必让我知道您迄今所查明的一切。但是，如果您看到伦巴第人的王\\Person{阿戈}与\\OriginalTerm{贵族}{Patrician}没有采取任何行动，请以我们的名义向他承诺，我准备关注他的事，如果他愿意与共和国有利地达成任何协议。"
+  }
+}
