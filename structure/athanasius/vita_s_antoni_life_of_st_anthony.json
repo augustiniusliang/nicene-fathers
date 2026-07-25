@@ -1,0 +1,291 @@
+{
+  "author": "Athanasius",
+  "author_zh": "圣亚大纳削",
+  "work_id": "2811",
+  "title": "Vita S. Antoni (Life of St. Anthony)",
+  "pages": [
+    {
+      "source_id": "2811",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0025": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0028": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0057": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0059": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0061": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0063": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0065": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0067": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0070": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0074": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0076": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0079": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0081": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0083": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0085": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0087": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0090": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0093": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0095": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0097": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0099": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0101": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0103": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0106": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0115": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0117": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0119": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0121": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0124": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0126": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0128": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0130": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0132": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0135": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0137": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0139": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0141": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

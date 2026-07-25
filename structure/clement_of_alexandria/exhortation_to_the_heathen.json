@@ -1,0 +1,249 @@
+{
+  "author": "Clement of Alexandria",
+  "author_zh": "亚历山大里亚的克莱孟",
+  "work_id": "0208",
+  "title": "Exhortation to the Heathen",
+  "pages": [
+    {
+      "source_id": "0208",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    },
+    {
+      "source_id": "020801",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020802",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020803",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020804",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020805",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020806",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020807",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020808",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020809",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020810",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020811",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "020812",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

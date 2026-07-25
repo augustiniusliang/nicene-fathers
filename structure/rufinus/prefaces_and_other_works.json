@@ -1,0 +1,105 @@
+{
+  "author": "Rufinus",
+  "author_zh": "鲁菲诺",
+  "work_id": "2712",
+  "title": "Prefaces and Other Works",
+  "pages": [
+    {
+      "source_id": "2712",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0018": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0023": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0043": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0047": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0052": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0060": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0064": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0071": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0074": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0077": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0081": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0084": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

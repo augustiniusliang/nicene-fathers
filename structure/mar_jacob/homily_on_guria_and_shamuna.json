@@ -1,0 +1,21 @@
+{
+  "author": "Mar Jacob",
+  "author_zh": "玛尔·雅各伯",
+  "work_id": "0861",
+  "title": "Homily on Guria and Shamuna",
+  "pages": [
+    {
+      "source_id": "0861",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

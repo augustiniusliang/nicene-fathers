@@ -1,0 +1,3248 @@
+{
+  "author": "Augustine of Hippo",
+  "author_zh": "希波的圣奥思定",
+  "work_id": "1102",
+  "title": "Letters",
+  "pages": [
+    {
+      "source_id": "1102",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102001",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102002",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102003",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102004",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102005",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102006",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102007",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102008",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102009",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102010",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102011",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102013",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102014",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102015",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102016",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102017",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102018",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102019",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102020",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102021",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102022",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102023",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102025",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102026",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102027",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102028",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102029",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102030",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102031",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102033",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102034",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102035",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102036",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0023": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0026": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102037",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102038",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102039",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102040",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102041",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102042",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102043",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0018": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0024": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0027": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0030": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0035": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102044",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102046",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102047",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102048",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102050",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102051",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102053",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102054",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0004": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0013": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102055",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0013": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0025": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0028": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0031": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0034": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0036": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0038": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0044": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0046": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0049": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0052": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0055": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0057": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0060": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102058",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102059",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102060",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102061",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102062",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102063",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102064",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102065",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102066",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102067",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102068",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102069",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102071",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102072",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102073",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102074",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102075",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0004": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0021": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0029": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0031": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0037": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102076",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102077",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102078",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102079",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102081",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102082",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0004": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0028": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0036": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0041": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102083",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102084",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102085",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102086",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102087",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102088",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102089",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102090",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102091",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102092",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102093",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0013": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0017": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0027": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0030": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0033": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0038": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0046": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0058": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0063": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0065": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102095",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102096",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102097",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102098",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102099",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102100",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102101",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102102",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102103",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102104",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0017": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102111",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102115",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102116",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102117",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102118",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0017": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0028": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0038": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102122",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102123",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102124",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102125",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102126",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102130",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0011": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0025": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0029": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0031": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0034": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0036": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0039": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0041": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0045": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0047": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102131",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102132",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102133",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102135",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102136",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102137",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0025": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102138",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0025": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102139",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102143",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102144",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102145",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102146",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102148",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0018": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0026": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102150",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102151",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102158",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102159",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102163",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102164",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0010": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0015": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0024": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0027": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102165",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102166",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0020": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0026": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0030": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0035": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0041": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102167",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102169",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0008": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0014": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0017": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102172",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102173",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102180",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102185",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0005": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0021": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0024": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0031": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0039": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0043": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0052": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0058": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102188",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        },
+        "p0003": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0007": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0013": {
+          "source_kind": "h2",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    },
+    {
+      "source_id": "1102189",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102191",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102192",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102195",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102201",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102202",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102203",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102208",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102209",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102210",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102211",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102212",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102213",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102214",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102215",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102218",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102219",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102220",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102227",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102228",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102229",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102231",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102232",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102245",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102246",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102250",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102254",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102263",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "1102269",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    }
+  ]
+}

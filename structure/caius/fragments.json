@@ -1,0 +1,75 @@
+{
+  "author": "Caius",
+  "author_zh": "加约",
+  "work_id": "0510",
+  "title": "Fragments",
+  "pages": [
+    {
+      "source_id": "0510",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0003": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0006": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0009": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0012": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0013": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0016": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0019": {
+          "source_kind": "h3",
+          "target": "subsection",
+          "level": 3,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0022": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

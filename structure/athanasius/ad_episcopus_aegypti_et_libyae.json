@@ -1,0 +1,33 @@
+{
+  "author": "Athanasius",
+  "author_zh": "圣亚大纳削",
+  "work_id": "2812",
+  "title": "Ad Episcopus Aegypti et Libyae",
+  "pages": [
+    {
+      "source_id": "2812",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0023": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

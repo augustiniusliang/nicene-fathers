@@ -1,0 +1,47 @@
+{
+  "author": "Augustine of Hippo",
+  "author_zh": "希波的圣奥思定",
+  "work_id": "1703",
+  "title": "Soliloquies",
+  "pages": [
+    {
+      "source_id": "1703",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    },
+    {
+      "source_id": "170301",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "170302",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    }
+  ]
+}

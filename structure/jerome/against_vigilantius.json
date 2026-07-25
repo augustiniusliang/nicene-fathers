@@ -1,0 +1,21 @@
+{
+  "author": "Jerome",
+  "author_zh": "圣热罗尼莫",
+  "work_id": "3010",
+  "title": "Against Vigilantius",
+  "pages": [
+    {
+      "source_id": "3010",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

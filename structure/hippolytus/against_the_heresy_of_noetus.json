@@ -1,0 +1,21 @@
+{
+  "author": "Hippolytus",
+  "author_zh": "圣希玻里",
+  "work_id": "0521",
+  "title": "Against the Heresy of Noetus",
+  "pages": [
+    {
+      "source_id": "0521",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

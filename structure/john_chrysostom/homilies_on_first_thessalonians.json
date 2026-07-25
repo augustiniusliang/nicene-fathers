@@ -1,0 +1,164 @@
+{
+  "author": "John Chrysostom",
+  "author_zh": "圣若望·金口",
+  "work_id": "2304",
+  "title": "Homilies on First Thessalonians",
+  "pages": [
+    {
+      "source_id": "2304",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    },
+    {
+      "source_id": "230401",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230402",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230403",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230404",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230405",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230406",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230407",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230408",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230409",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230410",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "230411",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    }
+  ]
+}

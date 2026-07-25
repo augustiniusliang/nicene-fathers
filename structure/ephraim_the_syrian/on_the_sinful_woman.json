@@ -1,0 +1,21 @@
+{
+  "author": "Ephraim the Syrian",
+  "author_zh": "叙利亚的圣厄弗冷",
+  "work_id": "3708",
+  "title": "On the Sinful Woman",
+  "pages": [
+    {
+      "source_id": "3708",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

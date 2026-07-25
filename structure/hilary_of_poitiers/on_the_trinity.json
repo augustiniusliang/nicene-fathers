@@ -1,0 +1,177 @@
+{
+  "author": "Hilary of Poitiers",
+  "author_zh": "普瓦捷的圣依拉略",
+  "work_id": "3302",
+  "title": "On the Trinity",
+  "pages": [
+    {
+      "source_id": "3302",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    },
+    {
+      "source_id": "330201",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330202",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330203",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330204",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330205",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330206",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330207",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330208",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330209",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330210",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330211",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "330212",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    }
+  ]
+}

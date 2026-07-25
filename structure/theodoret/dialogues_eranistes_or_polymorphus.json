@@ -1,0 +1,73 @@
+{
+  "author": "Theodoret",
+  "author_zh": "狄奥多勒",
+  "work_id": "2703",
+  "title": "Dialogues (\"Eranistes\" or \"Polymorphus\")",
+  "pages": [
+    {
+      "source_id": "2703",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    },
+    {
+      "source_id": "27030",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "27031",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "27032",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    },
+    {
+      "source_id": "27033",
+      "page_depth": 2,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": "section",
+          "level": 2,
+          "reason": "page-title"
+        }
+      }
+    }
+  ]
+}

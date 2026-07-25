@@ -1,0 +1,27 @@
+{
+  "author": "Hilary of Poitiers",
+  "author_zh": "普瓦捷的圣依拉略",
+  "work_id": "3301",
+  "title": "On the Councils, or the Faith of the Easterns",
+  "pages": [
+    {
+      "source_id": "3301",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0002": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

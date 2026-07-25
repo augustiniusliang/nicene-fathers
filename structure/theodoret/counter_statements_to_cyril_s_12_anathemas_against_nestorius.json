@@ -1,0 +1,27 @@
+{
+  "author": "Theodoret",
+  "author_zh": "狄奥多勒",
+  "work_id": "2701",
+  "title": "Counter-Statements to Cyril's 12 Anathemas against Nestorius",
+  "pages": [
+    {
+      "source_id": "2701",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0015": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "author": "Gregory of Nyssa",
+  "author_zh": "尼撒的圣额我略",
+  "work_id": "2906",
+  "title": "On the Faith (To Simplicius)",
+  "pages": [
+    {
+      "source_id": "2906",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

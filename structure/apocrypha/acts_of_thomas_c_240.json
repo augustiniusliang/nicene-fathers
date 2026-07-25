@@ -1,0 +1,45 @@
+{
+  "author": "Apocrypha",
+  "author_zh": "伪经文献",
+  "work_id": "0823",
+  "title": "Acts of Thomas (c. 240)",
+  "pages": [
+    {
+      "source_id": "0823",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0019": {
+          "source_kind": "h2",
+          "target": null,
+          "level": null,
+          "reason": "duplicate-page-title"
+        },
+        "p0036": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0046": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        },
+        "p0053": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

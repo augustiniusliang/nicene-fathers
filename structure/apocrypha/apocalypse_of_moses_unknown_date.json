@@ -1,0 +1,21 @@
+{
+  "author": "Apocrypha",
+  "author_zh": "伪经文献",
+  "work_id": "0828",
+  "title": "Apocalypse of Moses (unknown date)",
+  "pages": [
+    {
+      "source_id": "0828",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

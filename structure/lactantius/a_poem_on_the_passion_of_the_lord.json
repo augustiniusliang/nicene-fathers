@@ -1,0 +1,21 @@
+{
+  "author": "Lactantius",
+  "author_zh": "拉克坦提乌",
+  "work_id": "0708",
+  "title": "A Poem on the Passion of the Lord",
+  "pages": [
+    {
+      "source_id": "0708",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "author": "Gregory Thaumaturgus",
+  "author_zh": "显灵者圣额我略",
+  "work_id": "0611",
+  "title": "On Matthew 6:22-23",
+  "pages": [
+    {
+      "source_id": "0611",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{church-fathers}[2026/07/23 Church Fathers private study edition]
+
+\RequirePackage[
+  paperwidth=170mm,paperheight=240mm,
+  inner=24mm,outer=18mm,top=22mm,bottom=24mm,
+  headheight=14pt,headsep=7mm,footskip=10mm,bindingoffset=3mm
+]{geometry}
+\RequirePackage{fontspec}
+\RequirePackage{xeCJK}
+\RequirePackage{xeCJKfntef}
+\RequirePackage{microtype}
+\RequirePackage{fancyhdr}
+\RequirePackage{xcolor}
+\RequirePackage[hang,flushmargin,multiple]{footmisc}
+\RequirePackage[hidelinks,unicode]{hyperref}
+\RequirePackage{bookmark}
+
+\IfFontExistsTF{Noto Serif CJK SC}{
+  % Linux 服务器：覆盖现代简体、繁体、神学代词及常见异体字。
+  \setCJKmainfont{Noto Serif CJK SC}[
+    BoldFont=Noto Serif CJK SC Bold
+  ]
+  \setCJKsansfont{Noto Sans CJK SC}[
+    BoldFont=Noto Sans CJK SC Bold
+  ]
+  \setCJKmonofont{Noto Sans Mono CJK SC}
+  \setCJKfamilyfont{cfkai}{Noto Serif CJK SC}
+}{
+  \IfFontExistsTF{SimSun}{
+    % Windows 本地校样。
+    \setCJKmainfont{SimSun}[BoldFont=SimHei,ItalicFont=KaiTi]
+    \setCJKsansfont{Microsoft YaHei}[AutoFakeBold=2]
+    \setCJKmonofont{FangSong}
+    \setCJKfamilyfont{cfkai}{KaiTi}
+  }{
+    % TeX Live 最小安装的最后回退；正式服务器应安装 Noto CJK。
+    \setCJKmainfont{FandolSong-Regular.otf}[
+      BoldFont=FandolSong-Bold.otf,
+      ItalicFont=FandolKai-Regular.otf
+    ]
+    \setCJKsansfont{FandolHei-Regular.otf}[BoldFont=FandolHei-Bold.otf]
+    \setCJKmonofont{FandolFang-Regular.otf}
+    \setCJKfamilyfont{cfkai}{FandolKai-Regular.otf}
+  }
+}
+\newcommand{\cfkaishu}{\CJKfamily{cfkai}}
+\newfontfamily\originalfont{GFS Didot}
+
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\linespread{1.22}
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{2}
+\ctexset{
+  part={
+    format=\centering\bfseries\zihao{1},
+    name={},number={},
+    beforeskip=0.16\textheight,afterskip=34pt
+  },
+  chapter={
+    format=\centering\bfseries\zihao{2},
+    name={},number={},
+    beforeskip=20pt,afterskip=30pt
+  },
+  section={
+    format=\raggedright\bfseries\zihao{3},
+    beforeskip=2.2ex plus .5ex,afterskip=1.2ex
+  },
+  subsection={
+    format=\raggedright\bfseries\zihao{4},
+    beforeskip=1.8ex plus .4ex,afterskip=.9ex
+  },
+  subsubsection={
+    format=\raggedright\cfkaishu\zihao{-4},
+    beforeskip=1.4ex,afterskip=.7ex
+  }
+}
+
+\DeclareRobustCommand{\Person}[1]{\CJKunderline{#1}}
+\DeclareRobustCommand{\Place}[1]{\CJKunderline{#1}}
+\DeclareRobustCommand{\WorkTitle}[1]{\CJKunderwave{#1}}
+\DeclareRobustCommand{\Emph}[1]{\emph{#1}}
+\DeclareRobustCommand{\Quote}[1]{「#1」}
+\DeclareRobustCommand{\InnerQuote}[1]{『#1』}
+\DeclareRobustCommand{\BibleQuote}[1]{「#1」}
+\DeclareRobustCommand{\BibleBook}[2]{\CJKunderline{#1}\CJKunderwave{#2}}
+\DeclareRobustCommand{\BibleRef}[1]{\unskip{\zihao{-5}（见：#1）}}
+\DeclareRobustCommand{\EditorialNote}[1]{\footnote{#1}}
+\DeclareRobustCommand{\OriginalTerm}[2]{#1（{\originalfont #2}）}
+\DeclareRobustCommand{\GreekText}[1]{{\originalfont #1}}
+\DeclareRobustCommand{\Signature}[1]{%
+  \par\nobreak\vspace{.6\baselineskip}%
+  \begin{flushright}\cfkaishu #1\end{flushright}%
+}
+% 模型按协议输出 \newline{}；在署名等已经结束段落的宏之后也要安全。
+\renewcommand{\newline}{%
+  \ifhmode\unskip\hfil\break\else\leavevmode\hfil\break\fi
+}
+\newcommand{\SourceRecord}[1]{%
+  \par\smallskip\noindent{\zihao{-5}\color{gray}原文资料：#1}\par
+}
+\newcommand{\WorkPart}[1]{%
+  \part{#1}\thispagestyle{empty}\markboth{#1}{#1}%
+}
+\newcommand{\AuthorPart}[1]{%
+  \part{#1}\thispagestyle{empty}\markboth{#1}{#1}%
+}
+
+\hypersetup{
+  pdftitle={\CollectionVolumeTitle},
+  pdfauthor={教父著作集翻译工程}
+}
+\pdfstringdefDisableCommands{%
+  \def\Person#1{#1}\def\Place#1{#1}\def\WorkTitle#1{#1}%
+  \def\Emph#1{#1}\def\Quote#1{#1}\def\InnerQuote#1{#1}%
+  \def\BibleQuote#1{#1}\def\BibleBook#1#2{#1#2}%
+  \def\BibleRef#1{见：#1}\def\EditorialNote#1{}%
+  \def\OriginalTerm#1#2{#1（#2）}\def\GreekText#1{#1}%
+  \def\Signature#1{#1}%
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\CollectionVolumeTitle}
+\fancyhead[RO]{\small\nouppercase{\leftmark}}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyhead[LE]{\small\CollectionVolumeTitle}
+  \fancyhead[RO]{\small\nouppercase{\leftmark}}
+  \fancyfoot[LE,RO]{\thepage}
+  \renewcommand{\headrulewidth}{0.4pt}
+}

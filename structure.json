@@ -1,0 +1,1684 @@
+{
+  "works": [
+    {
+      "work_id": "0622",
+      "file": "alexander_of_alexandria/epistles_on_the_arian_heresy_and_the_deposition_of_arius.json"
+    },
+    {
+      "work_id": "0618",
+      "file": "alexander_of_lycopolis/of_the_manicheans.json"
+    },
+    {
+      "work_id": "3404",
+      "file": "ambrose/on_the_christian_faith_de_fide.json"
+    },
+    {
+      "work_id": "3402",
+      "file": "ambrose/on_the_holy_spirit.json"
+    },
+    {
+      "work_id": "3405",
+      "file": "ambrose/on_the_mysteries.json"
+    },
+    {
+      "work_id": "3406",
+      "file": "ambrose/on_repentance.json"
+    },
+    {
+      "work_id": "3401",
+      "file": "ambrose/on_the_duties_of_the_clergy.json"
+    },
+    {
+      "work_id": "3407",
+      "file": "ambrose/concerning_virgins.json"
+    },
+    {
+      "work_id": "3408",
+      "file": "ambrose/concerning_widows.json"
+    },
+    {
+      "work_id": "3403",
+      "file": "ambrose/on_the_death_of_satyrus.json"
+    },
+    {
+      "work_id": "3410",
+      "file": "ambrose/memorial_of_symmachus.json"
+    },
+    {
+      "work_id": "3411",
+      "file": "ambrose/sermon_against_auxentius.json"
+    },
+    {
+      "work_id": "3409",
+      "file": "ambrose/letters.json"
+    },
+    {
+      "work_id": "3701",
+      "file": "aphrahat_aphraates_c_280_367/demonstrations.json"
+    },
+    {
+      "work_id": "0616",
+      "file": "archelaus/acts_of_the_disputation_with_the_heresiarch_manes.json"
+    },
+    {
+      "work_id": "1012",
+      "file": "aristides_the_philosopher/the_apology.json"
+    },
+    {
+      "work_id": "0631",
+      "file": "arnobius/against_the_heathen.json"
+    },
+    {
+      "work_id": "2801",
+      "file": "athanasius/against_the_heathen.json"
+    },
+    {
+      "work_id": "2802",
+      "file": "athanasius/on_the_incarnation_of_the_word.json"
+    },
+    {
+      "work_id": "2803",
+      "file": "athanasius/deposition_of_arius.json"
+    },
+    {
+      "work_id": "2821",
+      "file": "athanasius/statement_of_faith.json"
+    },
+    {
+      "work_id": "2805",
+      "file": "athanasius/on_luke_10_22_matthew_11_27.json"
+    },
+    {
+      "work_id": "2807",
+      "file": "athanasius/circular_letter.json"
+    },
+    {
+      "work_id": "2808",
+      "file": "athanasius/apologia_contra_arianos.json"
+    },
+    {
+      "work_id": "2809",
+      "file": "athanasius/de_decretis.json"
+    },
+    {
+      "work_id": "2810",
+      "file": "athanasius/de_sententia_dionysii.json"
+    },
+    {
+      "work_id": "2811",
+      "file": "athanasius/vita_s_antoni_life_of_st_anthony.json"
+    },
+    {
+      "work_id": "2812",
+      "file": "athanasius/ad_episcopus_aegypti_et_libyae.json"
+    },
+    {
+      "work_id": "2813",
+      "file": "athanasius/apologia_ad_constantium.json"
+    },
+    {
+      "work_id": "2814",
+      "file": "athanasius/apologia_de_fuga.json"
+    },
+    {
+      "work_id": "2815",
+      "file": "athanasius/historia_arianorum.json"
+    },
+    {
+      "work_id": "2816",
+      "file": "athanasius/four_discourses_against_the_arians.json"
+    },
+    {
+      "work_id": "2817",
+      "file": "athanasius/de_synodis.json"
+    },
+    {
+      "work_id": "2818",
+      "file": "athanasius/tomus_ad_antiochenos.json"
+    },
+    {
+      "work_id": "2819",
+      "file": "athanasius/ad_afros_epistola_synodica.json"
+    },
+    {
+      "work_id": "2820",
+      "file": "athanasius/historia_acephala.json"
+    },
+    {
+      "work_id": "2806",
+      "file": "athanasius/letters.json"
+    },
+    {
+      "work_id": "0205",
+      "file": "athenagoras/a_plea_for_the_christians.json"
+    },
+    {
+      "work_id": "0206",
+      "file": "athenagoras/the_resurrection_of_the_dead.json"
+    },
+    {
+      "work_id": "1101",
+      "file": "augustine_of_hippo/confessions.json"
+    },
+    {
+      "work_id": "1102",
+      "file": "augustine_of_hippo/letters.json"
+    },
+    {
+      "work_id": "1201",
+      "file": "augustine_of_hippo/city_of_god.json"
+    },
+    {
+      "work_id": "1202",
+      "file": "augustine_of_hippo/christian_doctrine.json"
+    },
+    {
+      "work_id": "1301",
+      "file": "augustine_of_hippo/on_the_holy_trinity.json"
+    },
+    {
+      "work_id": "1302",
+      "file": "augustine_of_hippo/the_enchiridion.json"
+    },
+    {
+      "work_id": "1303",
+      "file": "augustine_of_hippo/on_the_catechising_of_the_uninstructed.json"
+    },
+    {
+      "work_id": "1304",
+      "file": "augustine_of_hippo/on_faith_and_the_creed.json"
+    },
+    {
+      "work_id": "1305",
+      "file": "augustine_of_hippo/concerning_faith_of_things_not_seen.json"
+    },
+    {
+      "work_id": "1306",
+      "file": "augustine_of_hippo/on_the_profit_of_believing.json"
+    },
+    {
+      "work_id": "1307",
+      "file": "augustine_of_hippo/on_the_creed_a_sermon_to_catechumens.json"
+    },
+    {
+      "work_id": "1308",
+      "file": "augustine_of_hippo/on_continence.json"
+    },
+    {
+      "work_id": "1309",
+      "file": "augustine_of_hippo/on_the_good_of_marriage.json"
+    },
+    {
+      "work_id": "1310",
+      "file": "augustine_of_hippo/on_holy_virginity.json"
+    },
+    {
+      "work_id": "1311",
+      "file": "augustine_of_hippo/on_the_good_of_widowhood.json"
+    },
+    {
+      "work_id": "1312",
+      "file": "augustine_of_hippo/on_lying.json"
+    },
+    {
+      "work_id": "1313",
+      "file": "augustine_of_hippo/to_consentius_against_lying.json"
+    },
+    {
+      "work_id": "1314",
+      "file": "augustine_of_hippo/on_the_work_of_monks.json"
+    },
+    {
+      "work_id": "1315",
+      "file": "augustine_of_hippo/on_patience.json"
+    },
+    {
+      "work_id": "1316",
+      "file": "augustine_of_hippo/on_care_to_be_had_for_the_dead.json"
+    },
+    {
+      "work_id": "1401",
+      "file": "augustine_of_hippo/on_the_morals_of_the_catholic_church.json"
+    },
+    {
+      "work_id": "1402",
+      "file": "augustine_of_hippo/on_the_morals_of_the_manichaeans.json"
+    },
+    {
+      "work_id": "1403",
+      "file": "augustine_of_hippo/on_two_souls_against_the_manichaeans.json"
+    },
+    {
+      "work_id": "1404",
+      "file": "augustine_of_hippo/acts_or_disputation_against_fortunatus_the_manichaean.json"
+    },
+    {
+      "work_id": "1405",
+      "file": "augustine_of_hippo/against_the_epistle_of_manichaeus_called_fundamental.json"
+    },
+    {
+      "work_id": "1406",
+      "file": "augustine_of_hippo/reply_to_faustus_the_manichaean.json"
+    },
+    {
+      "work_id": "1407",
+      "file": "augustine_of_hippo/concerning_the_nature_of_good_against_the_manichaeans.json"
+    },
+    {
+      "work_id": "1408",
+      "file": "augustine_of_hippo/on_baptism_against_the_donatists.json"
+    },
+    {
+      "work_id": "1409",
+      "file": "augustine_of_hippo/answer_to_letters_of_petilian_bishop_of_cirta.json"
+    },
+    {
+      "work_id": "1501",
+      "file": "augustine_of_hippo/merits_and_remission_of_sin_and_infant_baptism.json"
+    },
+    {
+      "work_id": "1502",
+      "file": "augustine_of_hippo/on_the_spirit_and_the_letter.json"
+    },
+    {
+      "work_id": "1503",
+      "file": "augustine_of_hippo/on_nature_and_grace.json"
+    },
+    {
+      "work_id": "1504",
+      "file": "augustine_of_hippo/on_man_s_perfection_in_righteousness.json"
+    },
+    {
+      "work_id": "1505",
+      "file": "augustine_of_hippo/on_the_proceedings_of_pelagius.json"
+    },
+    {
+      "work_id": "1506",
+      "file": "augustine_of_hippo/on_the_grace_of_christ_and_on_original_sin.json"
+    },
+    {
+      "work_id": "1507",
+      "file": "augustine_of_hippo/on_marriage_and_concupiscence.json"
+    },
+    {
+      "work_id": "1508",
+      "file": "augustine_of_hippo/on_the_soul_and_its_origin.json"
+    },
+    {
+      "work_id": "1509",
+      "file": "augustine_of_hippo/against_two_letters_of_the_pelagians.json"
+    },
+    {
+      "work_id": "1510",
+      "file": "augustine_of_hippo/on_grace_and_free_will.json"
+    },
+    {
+      "work_id": "1513",
+      "file": "augustine_of_hippo/on_rebuke_and_grace.json"
+    },
+    {
+      "work_id": "1512",
+      "file": "augustine_of_hippo/the_predestination_of_the_saints_gift_of_perseverance.json"
+    },
+    {
+      "work_id": "1601",
+      "file": "augustine_of_hippo/our_lord_s_sermon_on_the_mount.json"
+    },
+    {
+      "work_id": "1602",
+      "file": "augustine_of_hippo/the_harmony_of_the_gospels.json"
+    },
+    {
+      "work_id": "1603",
+      "file": "augustine_of_hippo/sermons_on_selected_lessons_of_the_new_testament.json"
+    },
+    {
+      "work_id": "1701",
+      "file": "augustine_of_hippo/tractates_on_the_gospel_of_john.json"
+    },
+    {
+      "work_id": "1702",
+      "file": "augustine_of_hippo/homilies_on_the_first_epistle_of_john.json"
+    },
+    {
+      "work_id": "1703",
+      "file": "augustine_of_hippo/soliloquies.json"
+    },
+    {
+      "work_id": "1801",
+      "file": "augustine_of_hippo/the_enarrations_or_expositions_on_the_psalms.json"
+    },
+    {
+      "work_id": "0862",
+      "file": "bardesanes/the_book_of_the_laws_of_various_countries.json"
+    },
+    {
+      "work_id": "0124",
+      "file": "barnabas/epistle_of_barnabas.json"
+    },
+    {
+      "work_id": "3203",
+      "file": "basil_the_great/de_spiritu_sancto.json"
+    },
+    {
+      "work_id": "3201",
+      "file": "basil_the_great/nine_homilies_of_hexaemeron.json"
+    },
+    {
+      "work_id": "3202",
+      "file": "basil_the_great/letters.json"
+    },
+    {
+      "work_id": "0510",
+      "file": "caius/fragments.json"
+    },
+    {
+      "work_id": "0207",
+      "file": "clement_of_alexandria/who_is_the_rich_man_that_shall_be_saved.json"
+    },
+    {
+      "work_id": "0208",
+      "file": "clement_of_alexandria/exhortation_to_the_heathen.json"
+    },
+    {
+      "work_id": "0209",
+      "file": "clement_of_alexandria/the_instructor.json"
+    },
+    {
+      "work_id": "0210",
+      "file": "clement_of_alexandria/the_stromata_or_miscellanies.json"
+    },
+    {
+      "work_id": "0211",
+      "file": "clement_of_alexandria/fragments.json"
+    },
+    {
+      "work_id": "1010",
+      "file": "clement_of_rome/first_epistle.json"
+    },
+    {
+      "work_id": "1011",
+      "file": "clement_of_rome/second_epistle.json"
+    },
+    {
+      "work_id": "0803",
+      "file": "clement_of_rome/two_epistles_concerning_virginity.json"
+    },
+    {
+      "work_id": "0804",
+      "file": "clement_of_rome/recognitions.json"
+    },
+    {
+      "work_id": "0808",
+      "file": "clement_of_rome/clementine_homilies.json"
+    },
+    {
+      "work_id": "0411",
+      "file": "commodianus/writings.json"
+    },
+    {
+      "work_id": "0505",
+      "file": "cyprian_of_carthage/the_life_and_passion_of_cyprian.json"
+    },
+    {
+      "work_id": "0506",
+      "file": "cyprian_of_carthage/the_epistles_of_cyprian.json"
+    },
+    {
+      "work_id": "0507",
+      "file": "cyprian_of_carthage/the_treatises_of_cyprian.json"
+    },
+    {
+      "work_id": "0508",
+      "file": "cyprian_of_carthage/the_seventh_council_of_carthage.json"
+    },
+    {
+      "work_id": "3101",
+      "file": "cyril_of_jerusalem/catechetical_lectures.json"
+    },
+    {
+      "work_id": "0713",
+      "file": "dionysius_of_rome/against_the_sabellians.json"
+    },
+    {
+      "work_id": "0632",
+      "file": "dionysius_the_great/epistles_and_epistolary_fragments.json"
+    },
+    {
+      "work_id": "0613",
+      "file": "dionysius_the_great/exegetical_fragments.json"
+    },
+    {
+      "work_id": "0612",
+      "file": "dionysius_the_great/miscellaneous_fragments.json"
+    },
+    {
+      "work_id": "3702",
+      "file": "ephraim_the_syrian/nisibene_hymns.json"
+    },
+    {
+      "work_id": "3703",
+      "file": "ephraim_the_syrian/on_the_nativity_of_christ_in_the_flesh.json"
+    },
+    {
+      "work_id": "3704",
+      "file": "ephraim_the_syrian/for_the_feast_of_the_epiphany.json"
+    },
+    {
+      "work_id": "3705",
+      "file": "ephraim_the_syrian/on_the_faith_the_pearl.json"
+    },
+    {
+      "work_id": "3706",
+      "file": "ephraim_the_syrian/on_our_lord.json"
+    },
+    {
+      "work_id": "3707",
+      "file": "ephraim_the_syrian/on_admonition_and_repentance.json"
+    },
+    {
+      "work_id": "3708",
+      "file": "ephraim_the_syrian/on_the_sinful_woman.json"
+    },
+    {
+      "work_id": "2501",
+      "file": "eusebius_of_caesarea_c_265_c_340/church_history.json"
+    },
+    {
+      "work_id": "2502",
+      "file": "eusebius_of_caesarea_c_265_c_340/life_of_constantine.json"
+    },
+    {
+      "work_id": "2503",
+      "file": "eusebius_of_caesarea_c_265_c_340/oration_of_constantine_to_the_assembly_of_the_saints.json"
+    },
+    {
+      "work_id": "2504",
+      "file": "eusebius_of_caesarea_c_265_c_340/oration_in_praise_of_constantine.json"
+    },
+    {
+      "work_id": "2804",
+      "file": "eusebius_of_caesarea_c_265_c_340/letter_on_the_council_of_nicaea.json"
+    },
+    {
+      "work_id": "2719",
+      "file": "gennadius_of_marseilles/illustrious_men_supplement_to_jerome.json"
+    },
+    {
+      "work_id": "3601",
+      "file": "gregory_the_great_pope_c_540_604/pastoral_rule.json"
+    },
+    {
+      "work_id": "3602",
+      "file": "gregory_the_great_pope_c_540_604/register_of_letters.json"
+    },
+    {
+      "work_id": "3102",
+      "file": "gregory_nazianzen/orations.json"
+    },
+    {
+      "work_id": "3103",
+      "file": "gregory_nazianzen/letters.json"
+    },
+    {
+      "work_id": "2901",
+      "file": "gregory_of_nyssa/against_eunomius.json"
+    },
+    {
+      "work_id": "2902",
+      "file": "gregory_of_nyssa/answer_to_eunomius_second_book.json"
+    },
+    {
+      "work_id": "2903",
+      "file": "gregory_of_nyssa/on_the_holy_spirit_against_the_followers_of_macedonius.json"
+    },
+    {
+      "work_id": "2904",
+      "file": "gregory_of_nyssa/on_the_holy_trinity_and_of_the_godhead_of_the_holy_spirit_to_eustathius.json"
+    },
+    {
+      "work_id": "2905",
+      "file": "gregory_of_nyssa/on_not_three_gods_to_ablabius.json"
+    },
+    {
+      "work_id": "2906",
+      "file": "gregory_of_nyssa/on_the_faith_to_simplicius.json"
+    },
+    {
+      "work_id": "2907",
+      "file": "gregory_of_nyssa/on_virginity.json"
+    },
+    {
+      "work_id": "2912",
+      "file": "gregory_of_nyssa/on_infants_early_deaths.json"
+    },
+    {
+      "work_id": "2913",
+      "file": "gregory_of_nyssa/on_pilgrimages.json"
+    },
+    {
+      "work_id": "2914",
+      "file": "gregory_of_nyssa/on_the_making_of_man.json"
+    },
+    {
+      "work_id": "2915",
+      "file": "gregory_of_nyssa/on_the_soul_and_the_resurrection.json"
+    },
+    {
+      "work_id": "2908",
+      "file": "gregory_of_nyssa/the_great_catechism.json"
+    },
+    {
+      "work_id": "2909",
+      "file": "gregory_of_nyssa/funeral_oration_on_meletius.json"
+    },
+    {
+      "work_id": "2910",
+      "file": "gregory_of_nyssa/on_the_baptism_of_christ_sermon_for_the_day_of_lights.json"
+    },
+    {
+      "work_id": "2911",
+      "file": "gregory_of_nyssa/letters.json"
+    },
+    {
+      "work_id": "0601",
+      "file": "gregory_thaumaturgus/a_declaration_of_faith.json"
+    },
+    {
+      "work_id": "0602",
+      "file": "gregory_thaumaturgus/a_metaphrase_of_the_book_of_ecclesiastes.json"
+    },
+    {
+      "work_id": "0603",
+      "file": "gregory_thaumaturgus/canonical_epistle.json"
+    },
+    {
+      "work_id": "0604",
+      "file": "gregory_thaumaturgus/the_oration_and_panegyric_addressed_to_origen.json"
+    },
+    {
+      "work_id": "0605",
+      "file": "gregory_thaumaturgus/a_sectional_confession_of_faith.json"
+    },
+    {
+      "work_id": "0606",
+      "file": "gregory_thaumaturgus/on_the_trinity.json"
+    },
+    {
+      "work_id": "0607",
+      "file": "gregory_thaumaturgus/twelve_topics_on_the_faith.json"
+    },
+    {
+      "work_id": "0608",
+      "file": "gregory_thaumaturgus/on_the_subject_of_the_soul.json"
+    },
+    {
+      "work_id": "0609",
+      "file": "gregory_thaumaturgus/four_homilies.json"
+    },
+    {
+      "work_id": "0610",
+      "file": "gregory_thaumaturgus/on_all_the_saints.json"
+    },
+    {
+      "work_id": "0611",
+      "file": "gregory_thaumaturgus/on_matthew_6_22_23.json"
+    },
+    {
+      "work_id": "0201",
+      "file": "hermas/the_pastor_or_the_shepherd.json"
+    },
+    {
+      "work_id": "3301",
+      "file": "hilary_of_poitiers/on_the_councils_or_the_faith_of_the_easterns.json"
+    },
+    {
+      "work_id": "3302",
+      "file": "hilary_of_poitiers/on_the_trinity.json"
+    },
+    {
+      "work_id": "3303",
+      "file": "hilary_of_poitiers/homilies_on_the_psalms.json"
+    },
+    {
+      "work_id": "0501",
+      "file": "hippolytus/the_refutation_of_all_heresies.json"
+    },
+    {
+      "work_id": "0502",
+      "file": "hippolytus/some_exegetical_fragments_of_hippolytus.json"
+    },
+    {
+      "work_id": "0503",
+      "file": "hippolytus/expository_treatise_against_the_jews.json"
+    },
+    {
+      "work_id": "0520",
+      "file": "hippolytus/against_plato_on_the_cause_of_the_universe.json"
+    },
+    {
+      "work_id": "0521",
+      "file": "hippolytus/against_the_heresy_of_noetus.json"
+    },
+    {
+      "work_id": "0523",
+      "file": "hippolytus/discourse_on_the_holy_theophany.json"
+    },
+    {
+      "work_id": "0516",
+      "file": "hippolytus/the_antichrist.json"
+    },
+    {
+      "work_id": "0504",
+      "file": "hippolytus/the_end_of_the_world_pseudonymous.json"
+    },
+    {
+      "work_id": "0524",
+      "file": "hippolytus/the_apostles_and_the_disciples_pseudonymous.json"
+    },
+    {
+      "work_id": "0104",
+      "file": "ignatius_of_antioch/epistle_to_the_ephesians.json"
+    },
+    {
+      "work_id": "0105",
+      "file": "ignatius_of_antioch/epistle_to_the_magnesians.json"
+    },
+    {
+      "work_id": "0106",
+      "file": "ignatius_of_antioch/epistle_to_the_trallians.json"
+    },
+    {
+      "work_id": "0107",
+      "file": "ignatius_of_antioch/epistle_to_the_romans.json"
+    },
+    {
+      "work_id": "0108",
+      "file": "ignatius_of_antioch/epistle_to_the_philadelphians.json"
+    },
+    {
+      "work_id": "0109",
+      "file": "ignatius_of_antioch/epistle_to_the_smyrnans.json"
+    },
+    {
+      "work_id": "0110",
+      "file": "ignatius_of_antioch/epistle_to_polycarp.json"
+    },
+    {
+      "work_id": "0123",
+      "file": "ignatius_of_antioch/the_martyrdom_of_ignatius.json"
+    },
+    {
+      "work_id": "0114",
+      "file": "ignatius_of_antioch/the_spurious_epistles.json"
+    },
+    {
+      "work_id": "0103",
+      "file": "irenaeus_of_lyons/adversus_haereses.json"
+    },
+    {
+      "work_id": "0134",
+      "file": "irenaeus_of_lyons/fragments_from_the_lost_writings_of_irenaeus.json"
+    },
+    {
+      "work_id": "3001",
+      "file": "jerome/letters.json"
+    },
+    {
+      "work_id": "3007",
+      "file": "jerome/the_perpetual_virginity_of_blessed_mary.json"
+    },
+    {
+      "work_id": "3004",
+      "file": "jerome/to_pammachius_against_john_of_jerusalem.json"
+    },
+    {
+      "work_id": "3005",
+      "file": "jerome/the_dialogue_against_the_luciferians.json"
+    },
+    {
+      "work_id": "3006",
+      "file": "jerome/the_life_of_malchus_the_captive_monk.json"
+    },
+    {
+      "work_id": "3003",
+      "file": "jerome/the_life_of_s_hilarion.json"
+    },
+    {
+      "work_id": "3008",
+      "file": "jerome/the_life_of_paulus_the_first_hermit.json"
+    },
+    {
+      "work_id": "3009",
+      "file": "jerome/against_jovinianus.json"
+    },
+    {
+      "work_id": "3010",
+      "file": "jerome/against_vigilantius.json"
+    },
+    {
+      "work_id": "3011",
+      "file": "jerome/against_the_pelagians.json"
+    },
+    {
+      "work_id": "3002",
+      "file": "jerome/prefaces.json"
+    },
+    {
+      "work_id": "2708",
+      "file": "jerome/de_viris_illustribus_illustrious_men.json"
+    },
+    {
+      "work_id": "2710",
+      "file": "jerome/apology_for_himself_against_the_books_of_rufinus.json"
+    },
+    {
+      "work_id": "3304",
+      "file": "john_of_damascus/exposition_of_the_faith.json"
+    },
+    {
+      "work_id": "3507",
+      "file": "john_cassian_c_360_c_435/institutes.json"
+    },
+    {
+      "work_id": "3508",
+      "file": "john_cassian_c_360_c_435/conferences.json"
+    },
+    {
+      "work_id": "3509",
+      "file": "john_cassian_c_360_c_435/on_the_incarnation_of_the_lord_against_nestorius.json"
+    },
+    {
+      "work_id": "2001",
+      "file": "john_chrysostom/homilies_on_the_gospel_of_st_matthew.json"
+    },
+    {
+      "work_id": "2101",
+      "file": "john_chrysostom/homilies_on_acts.json"
+    },
+    {
+      "work_id": "2102",
+      "file": "john_chrysostom/homilies_on_romans.json"
+    },
+    {
+      "work_id": "2201",
+      "file": "john_chrysostom/homilies_on_first_corinthians.json"
+    },
+    {
+      "work_id": "2202",
+      "file": "john_chrysostom/homilies_on_second_corinthians.json"
+    },
+    {
+      "work_id": "2301",
+      "file": "john_chrysostom/homilies_on_ephesians.json"
+    },
+    {
+      "work_id": "2302",
+      "file": "john_chrysostom/homilies_on_philippians.json"
+    },
+    {
+      "work_id": "2303",
+      "file": "john_chrysostom/homilies_on_colossians.json"
+    },
+    {
+      "work_id": "2304",
+      "file": "john_chrysostom/homilies_on_first_thessalonians.json"
+    },
+    {
+      "work_id": "2305",
+      "file": "john_chrysostom/homilies_on_second_thessalonians.json"
+    },
+    {
+      "work_id": "2306",
+      "file": "john_chrysostom/homilies_on_first_timothy.json"
+    },
+    {
+      "work_id": "2307",
+      "file": "john_chrysostom/homilies_on_second_timothy.json"
+    },
+    {
+      "work_id": "2308",
+      "file": "john_chrysostom/homilies_on_titus.json"
+    },
+    {
+      "work_id": "2309",
+      "file": "john_chrysostom/homilies_on_philemon.json"
+    },
+    {
+      "work_id": "2310",
+      "file": "john_chrysostom/commentary_on_galatians.json"
+    },
+    {
+      "work_id": "2401",
+      "file": "john_chrysostom/homilies_on_the_gospel_of_john.json"
+    },
+    {
+      "work_id": "2402",
+      "file": "john_chrysostom/homilies_on_the_epistle_to_the_hebrews.json"
+    },
+    {
+      "work_id": "1901",
+      "file": "john_chrysostom/homilies_on_the_statues.json"
+    },
+    {
+      "work_id": "1902",
+      "file": "john_chrysostom/no_one_can_harm_the_man_who_does_not_injure_himself.json"
+    },
+    {
+      "work_id": "1903",
+      "file": "john_chrysostom/two_letters_to_theodore_after_his_fall.json"
+    },
+    {
+      "work_id": "1904",
+      "file": "john_chrysostom/letter_to_a_young_widow.json"
+    },
+    {
+      "work_id": "1905",
+      "file": "john_chrysostom/homily_on_st_ignatius.json"
+    },
+    {
+      "work_id": "1906",
+      "file": "john_chrysostom/homily_on_st_babylas.json"
+    },
+    {
+      "work_id": "1907",
+      "file": "john_chrysostom/homily_concerning_lowliness_of_mind.json"
+    },
+    {
+      "work_id": "1908",
+      "file": "john_chrysostom/instructions_to_catechumens.json"
+    },
+    {
+      "work_id": "1919",
+      "file": "john_chrysostom/three_homilies_on_the_power_of_satan.json"
+    },
+    {
+      "work_id": "1910",
+      "file": "john_chrysostom/homily_on_the_passage_father_if_it_be_possible.json"
+    },
+    {
+      "work_id": "1911",
+      "file": "john_chrysostom/homily_on_the_paralytic_lowered_through_the_roof.json"
+    },
+    {
+      "work_id": "1912",
+      "file": "john_chrysostom/homily_on_the_passage_if_your_enemy_hunger_feed_him.json"
+    },
+    {
+      "work_id": "1913",
+      "file": "john_chrysostom/homily_against_publishing_the_errors_of_the_brethren.json"
+    },
+    {
+      "work_id": "1914",
+      "file": "john_chrysostom/first_homily_on_eutropius.json"
+    },
+    {
+      "work_id": "1915",
+      "file": "john_chrysostom/second_homily_on_eutropius_after_his_captivity.json"
+    },
+    {
+      "work_id": "1916",
+      "file": "john_chrysostom/four_letters_to_olympias.json"
+    },
+    {
+      "work_id": "1917",
+      "file": "john_chrysostom/letter_to_some_priests_of_antioch.json"
+    },
+    {
+      "work_id": "1918",
+      "file": "john_chrysostom/correspondence_with_pope_innocent_i.json"
+    },
+    {
+      "work_id": "1922",
+      "file": "john_chrysostom/on_the_priesthood.json"
+    },
+    {
+      "work_id": "0614",
+      "file": "julius_africanus/extant_writings.json"
+    },
+    {
+      "work_id": "0126",
+      "file": "justin_martyr/first_apology.json"
+    },
+    {
+      "work_id": "0127",
+      "file": "justin_martyr/second_apology.json"
+    },
+    {
+      "work_id": "0128",
+      "file": "justin_martyr/dialogue_with_trypho.json"
+    },
+    {
+      "work_id": "0129",
+      "file": "justin_martyr/hortatory_address_to_the_greeks.json"
+    },
+    {
+      "work_id": "0130",
+      "file": "justin_martyr/on_the_sole_government_of_god.json"
+    },
+    {
+      "work_id": "0131",
+      "file": "justin_martyr/fragments_of_the_lost_work_on_the_resurrection.json"
+    },
+    {
+      "work_id": "0132",
+      "file": "justin_martyr/miscellaneous_fragments_from_lost_writings.json"
+    },
+    {
+      "work_id": "0133",
+      "file": "justin_martyr/martyrdom_of_justin_chariton_and_other_roman_martyrs.json"
+    },
+    {
+      "work_id": "0135",
+      "file": "justin_martyr/discourse_to_the_greeks.json"
+    },
+    {
+      "work_id": "0701",
+      "file": "lactantius/the_divine_institutes.json"
+    },
+    {
+      "work_id": "0702",
+      "file": "lactantius/the_epitome_of_the_divine_institutes.json"
+    },
+    {
+      "work_id": "0703",
+      "file": "lactantius/on_the_anger_of_god.json"
+    },
+    {
+      "work_id": "0704",
+      "file": "lactantius/on_the_workmanship_of_god.json"
+    },
+    {
+      "work_id": "0705",
+      "file": "lactantius/of_the_manner_in_which_the_persecutors_died.json"
+    },
+    {
+      "work_id": "0706",
+      "file": "lactantius/fragments_of_lactantius.json"
+    },
+    {
+      "work_id": "0707",
+      "file": "lactantius/the_phoenix.json"
+    },
+    {
+      "work_id": "0708",
+      "file": "lactantius/a_poem_on_the_passion_of_the_lord.json"
+    },
+    {
+      "work_id": "3603",
+      "file": "leo_the_great_pope_c_395_461/sermons.json"
+    },
+    {
+      "work_id": "3604",
+      "file": "leo_the_great_pope_c_395_461/letters.json"
+    },
+    {
+      "work_id": "0617",
+      "file": "malchion/epistle.json"
+    },
+    {
+      "work_id": "0851",
+      "file": "mar_jacob/canticle_on_edessa.json"
+    },
+    {
+      "work_id": "0860",
+      "file": "mar_jacob/homily_on_habib_the_martyr.json"
+    },
+    {
+      "work_id": "0861",
+      "file": "mar_jacob/homily_on_guria_and_shamuna.json"
+    },
+    {
+      "work_id": "0101",
+      "file": "mathetes/epistle_to_diognetus.json"
+    },
+    {
+      "work_id": "0623",
+      "file": "methodius/the_banquet_of_the_ten_virgins.json"
+    },
+    {
+      "work_id": "0624",
+      "file": "methodius/concerning_free_will.json"
+    },
+    {
+      "work_id": "0625",
+      "file": "methodius/from_the_discourse_on_the_resurrection.json"
+    },
+    {
+      "work_id": "0626",
+      "file": "methodius/fragments.json"
+    },
+    {
+      "work_id": "0627",
+      "file": "methodius/oration_concerning_simeon_and_anna.json"
+    },
+    {
+      "work_id": "0628",
+      "file": "methodius/oration_on_the_psalms.json"
+    },
+    {
+      "work_id": "0629",
+      "file": "methodius/three_fragments_from_the_homily_on_the_cross_and_passion_of_christ.json"
+    },
+    {
+      "work_id": "0410",
+      "file": "minucius_felix/octavius.json"
+    },
+    {
+      "work_id": "0859",
+      "file": "moses_of_chorene_c_400_c_490/history_of_armenia.json"
+    },
+    {
+      "work_id": "0511",
+      "file": "novatian/treatise_concerning_the_trinity.json"
+    },
+    {
+      "work_id": "0512",
+      "file": "novatian/on_the_jewish_meats.json"
+    },
+    {
+      "work_id": "0412",
+      "file": "origen/de_principiis.json"
+    },
+    {
+      "work_id": "0413",
+      "file": "origen/africanus_to_origen.json"
+    },
+    {
+      "work_id": "0414",
+      "file": "origen/origen_to_africanus.json"
+    },
+    {
+      "work_id": "0415",
+      "file": "origen/origen_to_gregory.json"
+    },
+    {
+      "work_id": "0416",
+      "file": "origen/against_celsus.json"
+    },
+    {
+      "work_id": "1014",
+      "file": "origen/letter_of_origen_to_gregory.json"
+    },
+    {
+      "work_id": "1015",
+      "file": "origen/commentary_on_the_gospel_of_john.json"
+    },
+    {
+      "work_id": "1016",
+      "file": "origen/commentary_on_the_gospel_of_matthew.json"
+    },
+    {
+      "work_id": "0615",
+      "file": "pamphilus/exposition_on_the_acts_of_the_apostles.json"
+    },
+    {
+      "work_id": "0125",
+      "file": "papias/fragments.json"
+    },
+    {
+      "work_id": "0619",
+      "file": "peter_of_alexandria/the_genuine_acts.json"
+    },
+    {
+      "work_id": "0620",
+      "file": "peter_of_alexandria/the_canonical_epistle.json"
+    },
+    {
+      "work_id": "0621",
+      "file": "peter_of_alexandria/fragments.json"
+    },
+    {
+      "work_id": "0136",
+      "file": "polycarp/epistle_to_the_philippians.json"
+    },
+    {
+      "work_id": "0102",
+      "file": "polycarp/the_martyrdom_of_polycarp.json"
+    },
+    {
+      "work_id": "2709",
+      "file": "rufinus/apology.json"
+    },
+    {
+      "work_id": "2711",
+      "file": "rufinus/commentary_on_the_apostles_creed.json"
+    },
+    {
+      "work_id": "2712",
+      "file": "rufinus/prefaces_and_other_works.json"
+    },
+    {
+      "work_id": "2601",
+      "file": "socrates_scholasticus_c_379_c_450/ecclesiastical_history.json"
+    },
+    {
+      "work_id": "2602",
+      "file": "sozomen_c_375_c_447/ecclesiastical_history.json"
+    },
+    {
+      "work_id": "3501",
+      "file": "sulpitius_severus_c_363_c_420/on_the_life_of_st_martin.json"
+    },
+    {
+      "work_id": "3502",
+      "file": "sulpitius_severus_c_363_c_420/genuine.json"
+    },
+    {
+      "work_id": "3504",
+      "file": "sulpitius_severus_c_363_c_420/dubious.json"
+    },
+    {
+      "work_id": "3503",
+      "file": "sulpitius_severus_c_363_c_420/dialogues.json"
+    },
+    {
+      "work_id": "3505",
+      "file": "sulpitius_severus_c_363_c_420/sacred_history.json"
+    },
+    {
+      "work_id": "0202",
+      "file": "tatian/address_to_the_greeks.json"
+    },
+    {
+      "work_id": "0203",
+      "file": "tatian/fragments.json"
+    },
+    {
+      "work_id": "1002",
+      "file": "tatian/the_diatessaron.json"
+    },
+    {
+      "work_id": "0301",
+      "file": "tertullian/the_apology.json"
+    },
+    {
+      "work_id": "0302",
+      "file": "tertullian/on_idolatry.json"
+    },
+    {
+      "work_id": "0303",
+      "file": "tertullian/de_spectaculis_the_shows.json"
+    },
+    {
+      "work_id": "0304",
+      "file": "tertullian/de_corona_the_chaplet.json"
+    },
+    {
+      "work_id": "0305",
+      "file": "tertullian/to_scapula.json"
+    },
+    {
+      "work_id": "0306",
+      "file": "tertullian/ad_nationes.json"
+    },
+    {
+      "work_id": "0308",
+      "file": "tertullian/an_answer_to_the_jews.json"
+    },
+    {
+      "work_id": "0309",
+      "file": "tertullian/the_soul_s_testimony.json"
+    },
+    {
+      "work_id": "0310",
+      "file": "tertullian/a_treatise_on_the_soul.json"
+    },
+    {
+      "work_id": "0311",
+      "file": "tertullian/the_prescription_against_heretics.json"
+    },
+    {
+      "work_id": "0312",
+      "file": "tertullian/against_marcion.json"
+    },
+    {
+      "work_id": "0313",
+      "file": "tertullian/against_hermogenes.json"
+    },
+    {
+      "work_id": "0314",
+      "file": "tertullian/against_the_valentinians.json"
+    },
+    {
+      "work_id": "0315",
+      "file": "tertullian/on_the_flesh_of_christ.json"
+    },
+    {
+      "work_id": "0316",
+      "file": "tertullian/on_the_resurrection_of_the_flesh.json"
+    },
+    {
+      "work_id": "0317",
+      "file": "tertullian/against_praxeas.json"
+    },
+    {
+      "work_id": "0318",
+      "file": "tertullian/scorpiace.json"
+    },
+    {
+      "work_id": "0319",
+      "file": "tertullian/appendix_against_all_heresies.json"
+    },
+    {
+      "work_id": "0320",
+      "file": "tertullian/on_repentance.json"
+    },
+    {
+      "work_id": "0321",
+      "file": "tertullian/on_baptism.json"
+    },
+    {
+      "work_id": "0322",
+      "file": "tertullian/on_prayer.json"
+    },
+    {
+      "work_id": "0323",
+      "file": "tertullian/ad_martyras.json"
+    },
+    {
+      "work_id": "0324",
+      "file": "tertullian/the_martyrdom_of_perpetua_and_felicity.json"
+    },
+    {
+      "work_id": "0325",
+      "file": "tertullian/of_patience.json"
+    },
+    {
+      "work_id": "0401",
+      "file": "tertullian/on_the_pallium.json"
+    },
+    {
+      "work_id": "0402",
+      "file": "tertullian/on_the_apparel_of_women.json"
+    },
+    {
+      "work_id": "0403",
+      "file": "tertullian/on_the_veiling_of_virgins.json"
+    },
+    {
+      "work_id": "0404",
+      "file": "tertullian/to_his_wife.json"
+    },
+    {
+      "work_id": "0405",
+      "file": "tertullian/on_exhortation_to_chastity.json"
+    },
+    {
+      "work_id": "0406",
+      "file": "tertullian/on_monogamy.json"
+    },
+    {
+      "work_id": "0407",
+      "file": "tertullian/on_modesty.json"
+    },
+    {
+      "work_id": "0408",
+      "file": "tertullian/on_fasting.json"
+    },
+    {
+      "work_id": "0409",
+      "file": "tertullian/de_fuga_in_persecutione.json"
+    },
+    {
+      "work_id": "2701",
+      "file": "theodoret/counter_statements_to_cyril_s_12_anathemas_against_nestorius.json"
+    },
+    {
+      "work_id": "2702",
+      "file": "theodoret/ecclesiastical_history.json"
+    },
+    {
+      "work_id": "2703",
+      "file": "theodoret/dialogues_eranistes_or_polymorphus.json"
+    },
+    {
+      "work_id": "2704",
+      "file": "theodoret/demonstrations_by_syllogism.json"
+    },
+    {
+      "work_id": "2707",
+      "file": "theodoret/letters.json"
+    },
+    {
+      "work_id": "0802",
+      "file": "theodotus/excerpts.json"
+    },
+    {
+      "work_id": "0204",
+      "file": "theophilus/theophilus_to_autolycus.json"
+    },
+    {
+      "work_id": "0709",
+      "file": "venantius/poem_on_easter.json"
+    },
+    {
+      "work_id": "0711",
+      "file": "victorinus/on_the_creation_of_the_world.json"
+    },
+    {
+      "work_id": "0712",
+      "file": "victorinus/commentary_on_the_apocalypse_of_the_blessed_john.json"
+    },
+    {
+      "work_id": "3506",
+      "file": "vincent_of_lerins_d_c_450/commonitory_for_the_antiquity_and_universality_of_the_catholic_faith.json"
+    },
+    {
+      "work_id": "0717",
+      "file": "liturgies/the_liturgy_of_james.json"
+    },
+    {
+      "work_id": "0718",
+      "file": "liturgies/the_liturgy_of_mark.json"
+    },
+    {
+      "work_id": "0719",
+      "file": "liturgies/the_liturgy_of_the_blessed_apostles.json"
+    },
+    {
+      "work_id": "3818",
+      "file": "councils/carthage_under_cyprian_257.json"
+    },
+    {
+      "work_id": "3802",
+      "file": "councils/ancyra_314.json"
+    },
+    {
+      "work_id": "3803",
+      "file": "councils/neocaesarea_315.json"
+    },
+    {
+      "work_id": "3801",
+      "file": "councils/nicaea_i_325.json"
+    },
+    {
+      "work_id": "3805",
+      "file": "councils/antioch_in_encaeniis_341.json"
+    },
+    {
+      "work_id": "3804",
+      "file": "councils/gangra_343.json"
+    },
+    {
+      "work_id": "3815",
+      "file": "councils/sardica_344.json"
+    },
+    {
+      "work_id": "3808",
+      "file": "councils/constantinople_i_381.json"
+    },
+    {
+      "work_id": "3809",
+      "file": "councils/constantinople_382.json"
+    },
+    {
+      "work_id": "3806",
+      "file": "councils/laodicea_390.json"
+    },
+    {
+      "work_id": "3817",
+      "file": "councils/constantinople_under_nectarius_394.json"
+    },
+    {
+      "work_id": "3816",
+      "file": "councils/carthage_419.json"
+    },
+    {
+      "work_id": "3810",
+      "file": "councils/ephesus_431.json"
+    },
+    {
+      "work_id": "3811",
+      "file": "councils/chalcedon_451.json"
+    },
+    {
+      "work_id": "3812",
+      "file": "councils/constantinople_ii_553.json"
+    },
+    {
+      "work_id": "3813",
+      "file": "councils/constantinople_iii_680.json"
+    },
+    {
+      "work_id": "3814",
+      "file": "councils/constantinople_trullo_quinisext_692.json"
+    },
+    {
+      "work_id": "3819",
+      "file": "councils/nicaea_ii_787.json"
+    },
+    {
+      "work_id": "1003",
+      "file": "apocrypha/apocalypse_of_peter_c_130.json"
+    },
+    {
+      "work_id": "0847",
+      "file": "apocrypha/protoevangelium_of_james_c_150.json"
+    },
+    {
+      "work_id": "0816",
+      "file": "apocrypha/acts_of_paul_and_thecla_c_180.json"
+    },
+    {
+      "work_id": "1001",
+      "file": "apocrypha/gospel_of_peter_c_190.json"
+    },
+    {
+      "work_id": "0801",
+      "file": "apocrypha/the_testaments_of_the_twelve_patriarchs_c_192.json"
+    },
+    {
+      "work_id": "0815",
+      "file": "apocrypha/acts_of_peter_and_paul_c_200.json"
+    },
+    {
+      "work_id": "0846",
+      "file": "apocrypha/gospel_of_thomas_c_200.json"
+    },
+    {
+      "work_id": "0823",
+      "file": "apocrypha/acts_of_thomas_c_240.json"
+    },
+    {
+      "work_id": "0826",
+      "file": "apocrypha/acts_of_thaddaeus_c_250.json"
+    },
+    {
+      "work_id": "0819",
+      "file": "apocrypha/acts_of_andrew_c_260.json"
+    },
+    {
+      "work_id": "1008",
+      "file": "apocrypha/acts_of_xanthippe_and_polyxena_c_270.json"
+    },
+    {
+      "work_id": "0827",
+      "file": "apocrypha/acts_of_john.json"
+    },
+    {
+      "work_id": "0818",
+      "file": "apocrypha/acts_of_philip_c_350.json"
+    },
+    {
+      "work_id": "1017",
+      "file": "apocrypha/apocalypse_of_paul_c_380.json"
+    },
+    {
+      "work_id": "0807",
+      "file": "apocrypha/gospel_of_nicodemus.json"
+    },
+    {
+      "work_id": "0853",
+      "file": "apocrypha/the_doctrine_of_addai_c_400.json"
+    },
+    {
+      "work_id": "0832",
+      "file": "apocrypha/assumption_of_mary_c_400.json"
+    },
+    {
+      "work_id": "0805",
+      "file": "apocrypha/history_of_joseph_the_carpenter_c_400.json"
+    },
+    {
+      "work_id": "0848",
+      "file": "apocrypha/gospel_of_pseudo_matthew_c_400.json"
+    },
+    {
+      "work_id": "0817",
+      "file": "apocrypha/acts_of_barnabas_c_500.json"
+    },
+    {
+      "work_id": "0825",
+      "file": "apocrypha/acts_of_bartholomew_c_500.json"
+    },
+    {
+      "work_id": "0822",
+      "file": "apocrypha/acts_and_martyrdom_of_st_matthew_the_apostle_c_550.json"
+    },
+    {
+      "work_id": "0806",
+      "file": "apocrypha/arabic_gospel_of_the_infancy_of_the_saviour_c_600.json"
+    },
+    {
+      "work_id": "0814",
+      "file": "apocrypha/avenging_of_the_saviour_c_700.json"
+    },
+    {
+      "work_id": "0831",
+      "file": "apocrypha/apocalypse_of_john_unknown_date_late.json"
+    },
+    {
+      "work_id": "0828",
+      "file": "apocrypha/apocalypse_of_moses_unknown_date.json"
+    },
+    {
+      "work_id": "0829",
+      "file": "apocrypha/apocalypse_of_esdras_unknown_date.json"
+    },
+    {
+      "work_id": "1007",
+      "file": "apocrypha/testament_of_abraham_unknown_date.json"
+    },
+    {
+      "work_id": "1009",
+      "file": "apocrypha/narrative_of_zosimus_unknown_date.json"
+    },
+    {
+      "work_id": "0849",
+      "file": "apocrypha/gospel_of_the_nativity_of_mary_unknown_date_late.json"
+    },
+    {
+      "work_id": "0813",
+      "file": "apocrypha/narrative_of_joseph_of_arimathea_unknown_date_late.json"
+    },
+    {
+      "work_id": "0809",
+      "file": "apocrypha/report_of_pontius_pilate_unknown_date_late.json"
+    },
+    {
+      "work_id": "0810",
+      "file": "apocrypha/letter_of_pontius_pilate_unknown_date_late.json"
+    },
+    {
+      "work_id": "0811",
+      "file": "apocrypha/giving_up_of_pontius_pilate_unknown_date_late.json"
+    },
+    {
+      "work_id": "0812",
+      "file": "apocrypha/death_of_pilate_unknown_date_late.json"
+    },
+    {
+      "work_id": "1005",
+      "file": "apocrypha/apocalypse_of_the_virgin_unknown_date_very_late.json"
+    },
+    {
+      "work_id": "1006",
+      "file": "apocrypha/apocalypse_of_sedrach_unknown_date_very_late.json"
+    },
+    {
+      "work_id": "0820",
+      "file": "apocrypha/acts_of_andrew_and_matthias.json"
+    },
+    {
+      "work_id": "0821",
+      "file": "apocrypha/acts_of_peter_and_andrew.json"
+    },
+    {
+      "work_id": "0824",
+      "file": "apocrypha/consummation_of_thomas_the_apostle.json"
+    },
+    {
+      "work_id": "0714",
+      "file": "miscellaneous/the_didache_c_100.json"
+    },
+    {
+      "work_id": "0715",
+      "file": "miscellaneous/apostolic_constitutions_c_400.json"
+    },
+    {
+      "work_id": "1004",
+      "file": "miscellaneous/the_legend_of_barlaam_and_josaphat.json"
+    },
+    {
+      "work_id": "1013",
+      "file": "miscellaneous/the_passion_of_the_scillitan_martyrs_c_180.json"
+    },
+    {
+      "work_id": "0514",
+      "file": "miscellaneous/a_treatise_against_the_heretic_novatian_c_255.json"
+    },
+    {
+      "work_id": "0515",
+      "file": "miscellaneous/a_treatise_on_re_baptism_c_255.json"
+    },
+    {
+      "work_id": "0850",
+      "file": "miscellaneous/remains_of_the_second_and_third_centuries_various_dates.json"
+    },
+    {
+      "work_id": "07158",
+      "file": "miscellaneous/apostolic_constitutions_book_viii_chapter_47.json"
+    },
+    {
+      "work_id": "0856",
+      "file": "miscellaneous/acts_of_sharbil_unknown_date.json"
+    },
+    {
+      "work_id": "0865",
+      "file": "miscellaneous/the_martyrdom_of_barsamya_unknown_date.json"
+    },
+    {
+      "work_id": "0852",
+      "file": "miscellaneous/extracts_from_various_books_concerning_abgar_the_king_and_addaeus_the_apostle_unknown_date.json"
+    },
+    {
+      "work_id": "0854",
+      "file": "miscellaneous/the_teaching_of_the_apostles_unknown_date.json"
+    },
+    {
+      "work_id": "0855",
+      "file": "miscellaneous/the_teaching_of_simon_cephas_in_the_city_of_rome_unknown_date.json"
+    },
+    {
+      "work_id": "0857",
+      "file": "miscellaneous/martyrdom_of_habib_the_deacon_unknown_date.json"
+    },
+    {
+      "work_id": "0858",
+      "file": "miscellaneous/martyrdom_of_the_holy_confessors_shamuna_guria_and_habib_unknown_date.json"
+    },
+    {
+      "work_id": "0863",
+      "file": "miscellaneous/a_letter_of_mara_son_of_serapion_unknown_date.json"
+    },
+    {
+      "work_id": "0864",
+      "file": "miscellaneous/ambrose_unknown_date.json"
+    },
+    {
+      "work_id": "0835",
+      "file": "miscellaneous/the_false_decretals_c_850.json"
+    }
+  ]
+}

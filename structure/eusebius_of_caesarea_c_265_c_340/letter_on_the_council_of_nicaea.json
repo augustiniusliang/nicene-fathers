@@ -1,0 +1,21 @@
+{
+  "author": "Eusebius of Caesarea (c. 265-c. 340)",
+  "author_zh": "凯撒勒雅的欧瑟伯",
+  "work_id": "2804",
+  "title": "Letter on the Council of Nicaea",
+  "pages": [
+    {
+      "source_id": "2804",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

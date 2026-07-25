@@ -1,0 +1,21 @@
+{
+  "author": "Origen",
+  "author_zh": "奥利振",
+  "work_id": "0415",
+  "title": "Origen to Gregory",
+  "pages": [
+    {
+      "source_id": "0415",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

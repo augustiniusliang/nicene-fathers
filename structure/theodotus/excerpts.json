@@ -1,0 +1,21 @@
+{
+  "author": "Theodotus",
+  "author_zh": "狄奥多托",
+  "work_id": "0802",
+  "title": "Excerpts",
+  "pages": [
+    {
+      "source_id": "0802",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "author": "Pamphilus",
+  "author_zh": "圣庞斐罗",
+  "work_id": "0615",
+  "title": "Exposition on the Acts of the Apostles",
+  "pages": [
+    {
+      "source_id": "0615",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

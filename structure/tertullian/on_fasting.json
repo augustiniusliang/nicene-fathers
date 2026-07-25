@@ -1,0 +1,123 @@
+{
+  "author": "Tertullian",
+  "author_zh": "特土良",
+  "work_id": "0408",
+  "title": "On Fasting",
+  "pages": [
+    {
+      "source_id": "0408",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0003": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0006": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0009": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0012": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0014": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0016": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0019": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0025": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0029": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0032": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0038": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0041": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0044": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0047": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0049": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0052": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        },
+        "p0055": {
+          "source_kind": "h3",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h3"
+        }
+      }
+    }
+  ]
+}

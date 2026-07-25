@@ -1,0 +1,21 @@
+{
+  "author": "Victorinus",
+  "author_zh": "维克托里诺",
+  "work_id": "0711",
+  "title": "On the Creation of the World",
+  "pages": [
+    {
+      "source_id": "0711",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

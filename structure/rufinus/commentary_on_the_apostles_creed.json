@@ -1,0 +1,27 @@
+{
+  "author": "Rufinus",
+  "author_zh": "鲁菲诺",
+  "work_id": "2711",
+  "title": "Commentary on the Apostles' Creed",
+  "pages": [
+    {
+      "source_id": "2711",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0006": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

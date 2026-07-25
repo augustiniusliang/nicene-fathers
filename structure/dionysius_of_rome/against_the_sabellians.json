@@ -1,0 +1,21 @@
+{
+  "author": "Dionysius of Rome",
+  "author_zh": "罗马的圣狄约尼削",
+  "work_id": "0713",
+  "title": "Against the Sabellians",
+  "pages": [
+    {
+      "source_id": "0713",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

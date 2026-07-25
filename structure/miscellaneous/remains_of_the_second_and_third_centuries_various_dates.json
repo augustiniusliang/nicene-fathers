@@ -1,0 +1,21 @@
+{
+  "author": "Miscellaneous",
+  "author_zh": "其他文献",
+  "work_id": "0850",
+  "title": "Remains of the Second and Third Centuries (various dates)",
+  "pages": [
+    {
+      "source_id": "0850",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}

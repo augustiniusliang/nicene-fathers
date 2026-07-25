@@ -1,0 +1,27 @@
+{
+  "author": "Peter of Alexandria",
+  "author_zh": "亚历山大里亚的圣伯多禄",
+  "work_id": "0620",
+  "title": "The Canonical Epistle",
+  "pages": [
+    {
+      "source_id": "0620",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        },
+        "p0004": {
+          "source_kind": "h2",
+          "target": "section",
+          "level": 2,
+          "reason": "relative-heading-rank; base=h2"
+        }
+      }
+    }
+  ]
+}

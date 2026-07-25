@@ -1,0 +1,21 @@
+{
+  "author": "Cyprian of Carthage",
+  "author_zh": "迦太基的圣西彼廉",
+  "work_id": "0505",
+  "title": "The Life and Passion of Cyprian",
+  "pages": [
+    {
+      "source_id": "0505",
+      "page_depth": 1,
+      "excluded": false,
+      "decisions": {
+        "p0001": {
+          "source_kind": "h1",
+          "target": null,
+          "level": null,
+          "reason": "page-title-already-rendered-by-parent"
+        }
+      }
+    }
+  ]
+}
