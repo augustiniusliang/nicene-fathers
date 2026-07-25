@@ -1,0 +1,123 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.synctex*
+*.synctex.gz
+*.synctex.gz(busy)
+
+# Bibliography files (BibTeX)
+*.bcf
+*.run.xml
+
+# Index files
+*.idx
+*.ilg
+*.ind
+
+# Glossaries
+*.glo
+*.gls
+*.glg
+
+# Package-specific files
+*.alg
+*.acr
+*.acn
+*.ist
+*.mw
+*.brf
+
+# Output files (comment out if you want to track PDFs)
+*.dvi
+*.ps
+
+# !important.pdf  # Example: Keep specific PDF if needed
+
+# Temporary files
+*~
+*.backup
+*.bak
+*.swp
+*.swo
+
+# LaTeXmk
+*.auxlock
+
+# minted package (syntax highlighting)
+_minted*/
+
+# pgfplots cache
+*.dpth
+*.md5
+*.auxlock
+
+# PythonTeX
+*.pytxcode
+pythontex-files-*/
+
+# TikZ externalization
+*.dpth
+*.md5
+
+# Editors and IDEs
+## VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+## TeXShop
+*.texlipse
+
+## Texmaker
+*.texmaker
+
+## Sublime Text
+*.sublime-*
+
+## Vim
+*.swp
+*.swo
+*.un~
+
+## Emacs
+*.#*
+*.#*
+.#*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Project-specific exceptions (add your own below)
+# !important.tex  # Example: Keep specific file if needed
+# !bibliography.bib  # Usually you want to track .bib files
+main.log
+main.log
+main.log
+main.log
+main.fls
+main.toc
+main.synctex.gz
+chapters/*.aux
+*.xdv
+*.fls

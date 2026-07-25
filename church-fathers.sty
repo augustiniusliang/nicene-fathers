@@ -86,8 +86,8 @@
 \DeclareRobustCommand{\InnerQuote}[1]{『#1』}
 \DeclareRobustCommand{\BibleQuote}[1]{「#1」}
 \DeclareRobustCommand{\BibleBook}[2]{\CJKunderline{#1}\CJKunderwave{#2}}
-\DeclareRobustCommand{\BibleRef}[1]{\unskip{\zihao{-5}（见：#1）}}
-\DeclareRobustCommand{\EditorialNote}[1]{\footnote{#1}}
+\DeclareRobustCommand{\BibleRef}[1]{{\zihao{-5}（见：#1）}}
+\DeclareRobustCommand{\EditorialNote}[1]{{\kaishu [原编者注] \quad #1}}
 \DeclareRobustCommand{\OriginalTerm}[2]{#1（{\originalfont #2}）}
 \DeclareRobustCommand{\GreekText}[1]{{\originalfont #1}}
 \DeclareRobustCommand{\Signature}[1]{%
